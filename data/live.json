@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-06 06:39 KST",
- "roundsDone": 13,
+ "updated": "2026-09-06 07:01 KST",
+ "roundsDone": 12,
  "drivers": [
   {
    "id": "antonelli",
@@ -13,7 +13,7 @@
    "pos": 1,
    "pts": 242,
    "wins": 6,
-   "podiums": 5,
+   "podiums": 10,
    "best": 1,
    "ko": "안드레아 키미 안토넬리",
    "nat": "이탈리아",
@@ -31,7 +31,7 @@
    "pos": 2,
    "pts": 183,
    "wins": 2,
-   "podiums": 2,
+   "podiums": 6,
    "best": 1,
    "ko": "조지 러셀",
    "nat": "영국",
@@ -49,8 +49,8 @@
    "pos": 3,
    "pts": 183,
    "wins": 1,
-   "podiums": 2,
-   "best": 2,
+   "podiums": 5,
+   "best": 1,
    "ko": "루이스 해밀턴",
    "nat": "영국",
    "flag": "gb",
@@ -67,8 +67,8 @@
    "pos": 4,
    "pts": 159,
    "wins": 2,
-   "podiums": 1,
-   "best": 2,
+   "podiums": 4,
+   "best": 1,
    "ko": "랜도 노리스",
    "nat": "영국",
    "flag": "gb",
@@ -85,8 +85,8 @@
    "pos": 5,
    "pts": 155,
    "wins": 1,
-   "podiums": 2,
-   "best": 3,
+   "podiums": 4,
+   "best": 1,
    "ko": "샤를 르클레르",
    "nat": "모나코",
    "flag": "mc",
@@ -103,8 +103,8 @@
    "pos": 6,
    "pts": 112,
    "wins": 0,
-   "podiums": 1,
-   "best": 3,
+   "podiums": 4,
+   "best": 2,
    "ko": "막스 페르스타펜",
    "nat": "네덜란드",
    "flag": "nl",
@@ -140,7 +140,7 @@
    "pts": 68,
    "wins": 0,
    "podiums": 0,
-   "best": 5,
+   "best": 4,
    "ko": "이삭 하자르",
    "nat": "프랑스",
    "flag": "fr",
@@ -158,7 +158,7 @@
    "pts": 49,
    "wins": 0,
    "podiums": 0,
-   "best": 7,
+   "best": 6,
    "ko": "리암 로슨",
    "nat": "뉴질랜드",
    "flag": "nz",
@@ -175,8 +175,8 @@
    "pos": 10,
    "pts": 44,
    "wins": 0,
-   "podiums": 0,
-   "best": 6,
+   "podiums": 1,
+   "best": 3,
    "ko": "피에르 가슬리",
    "nat": "프랑스",
    "flag": "fr",
@@ -194,7 +194,7 @@
    "pts": 23,
    "wins": 0,
    "podiums": 0,
-   "best": 8,
+   "best": 7,
    "ko": "아르비드 린드블라드",
    "nat": "영국",
    "flag": "gb",
@@ -248,7 +248,7 @@
    "pts": 10,
    "wins": 0,
    "podiums": 0,
-   "best": 9,
+   "best": 8,
    "ko": "가브리엘 보르톨레토",
    "nat": "브라질",
    "flag": "br",
@@ -266,7 +266,7 @@
    "pts": 6,
    "wins": 0,
    "podiums": 0,
-   "best": 11,
+   "best": 8,
    "ko": "니코 휠켄베르크",
    "nat": "독일",
    "flag": "de",
@@ -302,7 +302,7 @@
    "pts": 5,
    "wins": 0,
    "podiums": 0,
-   "best": 10,
+   "best": 8,
    "ko": "알렉산더 알본",
    "nat": "태국",
    "flag": "th",
@@ -320,7 +320,7 @@
    "pts": 3,
    "wins": 0,
    "podiums": 0,
-   "best": 10,
+   "best": 9,
    "ko": "에스테반 오콘",
    "nat": "프랑스",
    "flag": "fr",
@@ -338,7 +338,7 @@
    "pts": 3,
    "wins": 0,
    "podiums": 0,
-   "best": 15,
+   "best": 9,
    "ko": "페르난도 알론소",
    "nat": "스페인",
    "flag": "es",
@@ -356,7 +356,7 @@
    "pts": 0,
    "wins": 0,
    "podiums": 0,
-   "best": 0,
+   "best": 11,
    "ko": "츠노다 유키",
    "nat": "일본",
    "flag": "jp",
@@ -374,7 +374,7 @@
    "pts": 0,
    "wins": 0,
    "podiums": 0,
-   "best": 17,
+   "best": 13,
    "ko": "랜스 스트롤",
    "nat": "캐나다",
    "flag": "ca",
@@ -410,7 +410,7 @@
    "pts": 0,
    "wins": 0,
    "podiums": 0,
-   "best": 15,
+   "best": 14,
    "ko": "세르히오 페레스",
    "nat": "멕시코",
    "flag": "mx",
@@ -490,7 +490,14 @@
   "2": "antonelli",
   "3": "antonelli",
   "4": "antonelli",
-  "5": "antonelli"
+  "5": "antonelli",
+  "6": "antonelli",
+  "7": "hamilton",
+  "8": "russell",
+  "9": "leclerc",
+  "10": "antonelli",
+  "11": "norris",
+  "12": "norris"
  },
  "podium": {
   "12": [
@@ -509,12 +516,6 @@
   {
    "en": "What are the tyre strategy options for the Italian Grand Prix?",
    "url": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-tactical-options-for-the-italian-gp.6q7OuYk9GRlwaCsohFjLge",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Italian GP Bet Builder after Gasly's 250/1 pole",
-   "url": "https://www.formula1.com/en/latest/article/our-italian-grand-prix-bet-builder-picks-after-pierre-gasly-seals-stunning-250-1-pole.1eTHDpPPzSzMzy8u2x0rtt",
    "src": "Formula1.com",
    "date": ""
   },
@@ -583,6 +584,86 @@
    "url": "https://www.autosport.com/f1/news/f1-italian-gp-qualifying-report/10852579/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
    "date": "2026-09-05"
+  },
+  {
+   "en": "F1 Italian GP: Russell fastest from Hamilton and Verstappen in final practice",
+   "url": "https://www.autosport.com/f1/news/f1-italian-gp-russell-fastest-from-hamilton-and-verstappen-in-final-practice/10852510/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-09-05"
+  }
+ ],
+ "newsKo": [
+  {
+   "ko": "‘F1 라스베이거스 그랑프리 2023’에 삼성 스마트 LED 사이니지 공급",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41YzdURG5tdXpGeW5XQXQ2bENNZ0tyeVl1SlRLR2dfTGh3THFFVjJMbkZxY0htOHh3SnpralR6WTgzd0JBaW90dk0xVU1Pa1ZKVEFBSE1lZUtOV0xfSTNDZU9jYi15UDM3MWJmTEZpVkJLekdwaUk5eQ?oc=5",
+   "src": "news.samsung.com",
+   "date": "2026-09-05"
+  },
+  {
+   "ko": "[2026 F1 13R 팀 리뷰] 아우디, 금요일 연습 주행서 테이터 분석 통해 개선점 모색",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41MGczODNsaWdvcWtrbzNwY0o4N3dhQVVodUhaeXZ6alBCOUR6QnpIUEd2QkRGTUt2cXR6Z2NWV0ZPMG1feVRZLWdpRlFOLWNOMXYtNDl4ekxZT2I3VU81OVhPSV83WnBsekpvdw?oc=5",
+   "src": "고카넷",
+   "date": "2026-09-05"
+  },
+  {
+   "ko": "[2026 F1 13R] 러셀, 해밀턴·베르스타펜 제치고 이탈리아 GP 파이널 연습 세션 1위",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QQmltUkwwTlBRV3Z0UmExc1ZjNU4tdC1jbVFFd18yWWUxSXc2OTdETHAxZDRRaFhqYVo0WmluMFNLVzRKaXcyTkNxRjE2VHJIanFwaU9WYlB3cVBhank1R1FVcU1vSk5IX3Mtag?oc=5",
+   "src": "고카넷",
+   "date": "2026-09-05"
+  },
+  {
+   "ko": "[2026 F1 13R 팀 리뷰] 알핀, 금요일 연습 세션 완수… “데이터 분석 및 셋업 개선 집중”",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PTVJWZkdnRWpHTnBIRW1jWWFCUFFlTDdKYV9fMEhOMGN0aFowR3NkaGZ1WTZzM3d0SlkwUlpxemRfT1MxODR3eVByV1hSNEFqY09Pd2dROUZ4TFJ3VkRrbWw4TnBUVEE0Ty1SYQ?oc=5",
+   "src": "고카넷",
+   "date": "2026-09-05"
+  },
+  {
+   "ko": "[2026 F1 13R 팀 리뷰] 애스턴마틴, 몬자 첫 날 고온 속 패키지 이해와 성장에 집중",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsM1Fuek9FMW8xdmpUZUlTdERmWkh6RzBIV1BLRlpvNEx3WVFtMHFPdjRjMU01RzNlQW5WY2Z4NDVQT0lwdVpSd0J5QmJjWGNENjNxSWpDeGhuU0ViMzV3NnJ3QWpyTTZub1VfUw?oc=5",
+   "src": "고카넷",
+   "date": "2026-09-05"
+  },
+  {
+   "ko": "\"남은 3개 라운드서 꼭 포디엄 서겠다\"...'F1 꿈나무' 이규호, 영국 도닝턴서 재시동",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yXzdZOUZ0T2w2UGRmMkdHeFp2NUNUZ0VaaGcxNWNtYlJaWDhJV0UxZE1xR0NoaTRjZ2hBdzd6Q3dPbzN6S0xvaUc2d2FKWnRIUGpGcV9RY0FLb3hWekJnTkhQazJJcnRzYlJz?oc=5",
+   "src": "비즈월드",
+   "date": "2026-09-05"
+  },
+  {
+   "ko": "싱가포르뉴스 F1 싱가포르 그랑프리 기간 대중교통 연장 운행 안내",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xTkJ3NTBBY3E0cmhRdF9UVExWYmVPU2FhNjNuQWdoRk1LNkdhSXQ1aDR5blMybXhHbTlyckJkUVZMdXc0WEZHRUltZ0pqN0FCRU5PVkxpSGplQQ?oc=5",
+   "src": "뉴스케이",
+   "date": "2026-09-04"
+  },
+  {
+   "ko": "‘카’ 주인공 뜬 포뮬러1",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aZ2liRzhDVDN2MGxNNE5WX2lyU1RTem44YWhUTjIxUVo0bUZpT0dxUWZmWFpyclFzRVp5cXBQVzBRZWV2WG5UODA5WXFST0ta?oc=5",
+   "src": "문화일보",
+   "date": "2026-09-04"
+  },
+  {
+   "ko": "모저앤씨, 밀라노 새 부티크 오픈… BMW 알핀 F1과 협업",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43SWtPeFRmYUl1akhTRFZWVk1MUW1URmZ6a3lNVGN3X0FHQVhORno1Tm43Ym9UVUtZNTlRN0hTTnRkcVByQVNyLVgxNWxZQktHZ1JBMWxMX3BMNE04c2pjY0xXMlIxTE4zUHc?oc=5",
+   "src": "wwdkorea.com",
+   "date": "2026-09-04"
+  },
+  {
+   "ko": "전 F1 드라이버 로건 사전트, 포드와 홈 레이스 COTA서 포디엄 정조준",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GaG1kYjZsV3JtMWRvX1l1S05FcGN2SWlxcHlMM2lEQTNCcF9wN3pxaTBzbXNtU0V3bkswMll0WlVJclRucHhTU19PMXVPM01pUUxjZVRlcHBxM2dPWEhyQm5ZSEhTVmVZZkhzVDcwUQ?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-09-04"
+  },
+  {
+   "ko": "'한국인 최초 F1 도전' 이규호, 한 달 재정비 마치고 GB3 후반기 돌입",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWSFBSRkdobThjOFFyN2NWLUt5NnI1VWgyaHNJMXJIVmF4T1R2VnN4dGwzR0pjbk9COFg4ckM5bGJHU1gyT3d2V2RRTUQ3VnZlX0IzNGc4SVc2eVkwbi1kRjY1QkRBZlNMTlNF?oc=5",
+   "src": "파이낸셜신문",
+   "date": "2026-09-04"
+  },
+  {
+   "ko": "“목표는 포디엄 진입”..한국인 최초 F1 도전하는 이규호, GB3 6라운드 출격",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YSG1KWVlYS2w5bHVwSl9XZGFyUTBlSmt5NjdKejJicXRrRXN3VllNaGZnV19lZ2F6TFlJckc4Ty1JWWtrZGd3NjN3QUlpOHZQODY3OHJzOENKczRhV2VVTHB3MHBuLU9uOXV6R25XdWNDVzQyNGc?oc=5",
+   "src": "dailycar.co.kr",
+   "date": "2026-09-04"
   }
  ]
 }
