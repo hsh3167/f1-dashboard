@@ -31,11 +31,22 @@ NEWS_FEEDS = [
 ]
 # 한국어 뉴스: 구글 뉴스 RSS 검색 (언어 ko, 지역 KR)
 GNEWS = 'https://news.google.com/rss/search?q={}&hl=ko&gl=KR&ceid=KR:ko'
-NEWS_KO_QUERIES = ['F1 그랑프리', '포뮬러1', 'F1 머신 OR 드라이버 when:14d']
+NEWS_KO_QUERIES = [
+    '"F1" (그랑프리 OR 예선 OR 결승 OR 드라이버) when:10d',
+    '포뮬러1 OR 포뮬러원 when:10d',
+    'F1 (레드불 OR 페라리 OR 메르세데스 OR 맥라렌) when:10d',
+]
 
 # 뉴스에서 제외할 제목 패턴 (베팅/광고성)
 NEWS_SKIP = re.compile(r'\b(betting|bet builder|odds|bet365|promo|sweepstake|giveaway)\b', re.I)
-NEWS_KO_SKIP = re.compile(r'(베팅|배당|프로모션|이벤트 응모|쿠폰)')
+# 베팅/광고 + 레이스와 무관한 협찬·상품·마케팅 기사
+NEWS_KO_SKIP = re.compile(
+    r'(베팅|배당|프로모션|이벤트 응모|쿠폰|할인'
+    r'|사이니지|공급|납품|부티크|컬렉션|에디션 출시|한정판'
+    r'|스폰서십 체결|후원 계약|MOU|업무협약'
+    r'|시계|향수|주류|카지노|호텔 패키지)')
+# 제목에 F1/모터스포츠 맥락이 반드시 있어야 한다
+NEWS_KO_KEEP = re.compile(r'(F1|에프원|포뮬러|그랑프리|\bGP\b|퀄리파잉|예선|결승|포디엄|드라이버|팀 리뷰)', re.I)
 
 
 def get(url, tries=3):
@@ -232,7 +243,7 @@ def fetch_news_ko(limit=12):
             link = text(it.find('link'))
             if not title or not link.startswith('http'):
                 continue
-            if NEWS_KO_SKIP.search(title):
+            if NEWS_KO_SKIP.search(title) or not NEWS_KO_KEEP.search(title):
                 continue
             src = text(it.find('source'))
             # '제목 - 언론사' 에서 뒤쪽 언론사를 떼어낸다

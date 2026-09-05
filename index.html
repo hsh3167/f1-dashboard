@@ -379,7 +379,8 @@ async function liveRefresh(DATA){
     c.pos = +s.position; c.pts = +s.points; c.wins = +s.wins;
   });
   DATA.constructors.sort((a,b)=>a.pos-b.pos);
-  DATA.roundsDone = round;
+  // 순위 API 의 round 는 '다음 라운드'라서 종료 라운드로 쓰면 안 된다.
+  // 종료 라운드는 data/live.json 의 roundsDone(실제 결과가 있는 마지막 라운드)을 그대로 둔다.
   DATA.updated = new Date().toLocaleString('ko-KR',{timeZone:'Asia/Seoul'}) + ' (브라우저 실시간)';
   const active = document.querySelector('.tab[aria-selected="true"]');
   const keep = active ? active.dataset.t : 'overview';
