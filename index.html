@@ -438,7 +438,8 @@ function trackDetail(c){
 /* ---- tabs ---- */
 const TABS=[
  ['overview','개요'],['drivers','드라이버 순위'],['teams','컨스트럭터'],
- ['sched','일정 · 서킷'],['profiles','드라이버 프로필'],['cars','머신 · 기술'],['news','뉴스']
+ ['sched','일정 · 서킷'],['profiles','드라이버 프로필'],['cars','머신 · 기술'],
+ ['news','뉴스'],['newsko','한글 뉴스']
 ];
 const tabsEl=document.getElementById('tabs'), mainEl=document.getElementById('main');
 TABS.forEach(([id,label],i)=>{
@@ -612,6 +613,19 @@ panel('news',`
    <div><div class="hl">${esc(n.ko||n.en)}</div>${n.ko?`<div class="en">${esc(n.en)}</div>`:''}
     <div class="foot"><span class="src">${esc(n.src)}</span>${n.tag?`<span class="tag">${esc(n.tag)}</span>`:''}<span>원문 보기 ↗</span></div></div>
   </a>`).join('')}</div>
+`);
+
+/* news — 한국어 */
+const NKO = DATA.newsKo || [];
+panel('newsko',`
+ <div class="sechead"><h2>한글 뉴스</h2><span class="hint">구글 뉴스(한국어) 검색에서 매일 자동 수집 · 제목을 누르면 원문으로 이동합니다</span></div>
+ ${NKO.length ? `<div class="nlist">${NKO.map(n=>`
+  <a class="nitem" href="${n.url}" target="_blank" rel="noopener">
+   <div class="when">${n.date||''}</div>
+   <div><div class="hl">${esc(n.ko)}</div>
+    <div class="foot"><span class="src">${esc(n.src)}</span><span>원문 보기 ↗</span></div></div>
+  </a>`).join('')}</div>`
+ : `<div class="notice">아직 수집된 한글 기사가 없습니다. 다음 자동 갱신 때 채워집니다.</div>`}
 `);
 
 [...mainEl.children].forEach((p,i)=>p.hidden=i!==0);
