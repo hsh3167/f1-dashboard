@@ -1,0 +1,687 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>F1 2026 패독</title>
+<meta name="description" content="2026 F1 시즌 드라이버·컨스트럭터 순위, 남은 일정과 실제 서킷 도면, 드라이버 프로필, 팀별 머신 기술 정보, 최신 뉴스를 한 곳에 모은 대시보드.">
+<meta property="og:title" content="F1 2026 패독">
+<meta property="og:description" content="2026 F1 순위 · 일정 · 서킷 · 머신 · 뉴스 대시보드">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>&#127937;</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Noto+Sans+KR:wght@400;500;700&family=Saira+Condensed:wght@500;600;700&display=swap">
+<style>
+:root{
+  --bg:#EEEDEF; --surface:#FFFFFF; --surface2:#F6F5F7; --ink:#15161A; --ink2:#4A4D55;
+  --muted:#7A7E88; --line:#DCDBE0; --line2:#C9C8CF;
+  --accent:#D50032; --accent-ink:#FFFFFF; --good:#0E8A5F; --warn:#B26A00;
+  --shadow:0 1px 2px rgba(20,20,30,.06),0 8px 24px rgba(20,20,30,.05);
+  --radius:10px;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#131215; --surface:#1B1A1F; --surface2:#232228; --ink:#EFEEF1; --ink2:#C2C0C8;
+    --muted:#8E8C97; --line:#2C2A31; --line2:#3A3841;
+    --accent:#FF3355; --accent-ink:#150004; --good:#2ED18F; --warn:#E9A13B;
+    --shadow:0 1px 2px rgba(0,0,0,.5),0 10px 28px rgba(0,0,0,.35);
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#131215; --surface:#1B1A1F; --surface2:#232228; --ink:#EFEEF1; --ink2:#C2C0C8;
+  --muted:#8E8C97; --line:#2C2A31; --line2:#3A3841;
+  --accent:#FF3355; --accent-ink:#150004; --good:#2ED18F; --warn:#E9A13B;
+  --shadow:0 1px 2px rgba(0,0,0,.5),0 10px 28px rgba(0,0,0,.35);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font-family:"Noto Sans KR",system-ui,-apple-system,"Segoe UI",sans-serif;
+  font-size:15px;line-height:1.6;-webkit-font-smoothing:antialiased}
+h1,h2,h3,h4{font-family:"Saira Condensed","Noto Sans KR",system-ui,sans-serif;
+  font-weight:700;letter-spacing:.01em;margin:0;text-wrap:balance;line-height:1.15}
+.mono{font-family:"IBM Plex Mono",ui-monospace,Menlo,monospace;font-variant-numeric:tabular-nums}
+a{color:inherit}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:4px}
+
+.wrap{max-width:1140px;margin:0 auto;padding:0 20px}
+
+/* ---------- header ---------- */
+header.top{position:sticky;top:0;z-index:40;background:var(--bg);border-bottom:1px solid var(--line)}
+.brandrow{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;padding:18px 0 12px;flex-wrap:wrap}
+.brand{display:flex;align-items:center;gap:12px}
+.brand .mark{width:6px;height:34px;background:var(--accent);border-radius:1px;flex:none}
+.brand h1{font-size:26px;letter-spacing:.02em}
+.brand .sub{font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);
+  font-family:"Saira Condensed",sans-serif;font-weight:600}
+.stamp{font-size:11.5px;color:var(--muted);text-align:right;line-height:1.45}
+.stamp b{color:var(--ink2);font-weight:600}
+.tabs{display:flex;gap:2px;overflow-x:auto;scrollbar-width:none;margin-bottom:-1px}
+.tabs::-webkit-scrollbar{display:none}
+.tab{flex:none;background:none;border:0;padding:11px 14px;cursor:pointer;color:var(--muted);
+  font-family:"Saira Condensed",sans-serif;font-weight:600;font-size:15.5px;letter-spacing:.02em;
+  border-bottom:2px solid transparent;white-space:nowrap}
+.tab:hover{color:var(--ink2)}
+.tab[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--accent)}
+.tab .n{font-family:"IBM Plex Mono",monospace;font-size:10.5px;color:var(--muted);margin-left:5px}
+
+main{padding:26px 0 60px}
+.panel[hidden]{display:none}
+.sechead{display:flex;align-items:baseline;gap:10px;margin:0 0 14px}
+.sechead h2{font-size:19px}
+.sechead .hint{font-size:12px;color:var(--muted)}
+.eyebrow{font-family:"Saira Condensed",sans-serif;font-weight:600;font-size:11px;
+  letter-spacing:.18em;text-transform:uppercase;color:var(--muted)}
+
+/* ---------- generic surfaces ---------- */
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius)}
+.grid{display:grid;gap:14px}
+
+/* ---------- overview ---------- */
+.hero{display:grid;grid-template-columns:1.25fr .95fr;gap:14px;margin-bottom:14px}
+@media(max-width:860px){.hero{grid-template-columns:1fr}}
+.next{padding:20px;position:relative;overflow:hidden;background:var(--surface);
+  border:1px solid var(--line);border-radius:var(--radius)}
+.next .trackbg{position:absolute;right:-18px;top:50%;transform:translateY(-50%);
+  width:230px;height:200px;opacity:.09;pointer-events:none}
+.next .trackbg path{fill:none;stroke:var(--ink);stroke-width:30;stroke-linejoin:round;stroke-linecap:round}
+.next .lbl{display:flex;align-items:center;gap:8px;margin-bottom:6px}
+.dot{width:7px;height:7px;border-radius:50%;background:var(--accent);flex:none}
+.next h3{font-size:30px;margin:2px 0 2px}
+.next .venue{font-size:13px;color:var(--ink2);margin-bottom:16px}
+.cd{display:flex;gap:16px;flex-wrap:wrap}
+.cd div{min-width:56px}
+.cd .v{font-family:"IBM Plex Mono",monospace;font-size:27px;font-weight:600;line-height:1}
+.cd .k{font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-top:5px}
+.nextmeta{margin-top:16px;padding-top:14px;border-top:1px solid var(--line);
+  display:flex;gap:20px;flex-wrap:wrap;font-size:12.5px;color:var(--ink2)}
+.nextmeta b{font-family:"IBM Plex Mono",monospace;font-weight:600;color:var(--ink)}
+
+.leaders{display:grid;gap:14px;grid-template-rows:1fr 1fr}
+.lead{padding:15px 17px;display:flex;align-items:center;gap:14px;background:var(--surface);
+  border:1px solid var(--line);border-radius:var(--radius);border-left:4px solid var(--tc,var(--accent))}
+.lead .who{flex:1;min-width:0}
+.lead .k{font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.lead .nm{font-family:"Saira Condensed",sans-serif;font-weight:700;font-size:21px;line-height:1.2}
+.lead .tm{font-size:12px;color:var(--ink2)}
+.lead .pts{text-align:right}
+.lead .pts .v{font-family:"IBM Plex Mono",monospace;font-size:25px;font-weight:600;line-height:1}
+.lead .pts .g{font-size:11px;color:var(--muted);margin-top:3px}
+
+.statrow{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+@media(max-width:700px){.statrow{grid-template-columns:repeat(2,1fr)}}
+.stat{padding:14px 16px;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius)}
+.stat .k{font-size:10.5px;letter-spacing:.13em;text-transform:uppercase;color:var(--muted)}
+.stat .v{font-family:"IBM Plex Mono",monospace;font-size:23px;font-weight:600;margin-top:4px}
+.stat .s{font-size:11.5px;color:var(--ink2);margin-top:2px}
+
+.podium{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+@media(max-width:620px){.podium{grid-template-columns:1fr}}
+.pod{padding:13px 15px;background:var(--surface2);border:1px solid var(--line);border-radius:8px;
+  border-top:3px solid var(--tc)}
+.pod .p{font-family:"Saira Condensed",sans-serif;font-weight:700;font-size:12px;color:var(--muted);letter-spacing:.1em}
+.pod .n{font-family:"Saira Condensed",sans-serif;font-weight:700;font-size:18px;margin-top:2px}
+.pod .t{font-size:11.5px;color:var(--ink2)}
+
+/* ---------- tables ---------- */
+.tablewrap{overflow-x:auto;border:1px solid var(--line);border-radius:var(--radius);background:var(--surface)}
+table{border-collapse:collapse;width:100%;min-width:620px}
+th{font-family:"Saira Condensed",sans-serif;font-weight:600;font-size:11px;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--muted);text-align:left;padding:11px 12px;
+  border-bottom:1px solid var(--line);white-space:nowrap;background:var(--surface)}
+td{padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:middle}
+tbody tr:last-child td{border-bottom:0}
+tbody tr:hover{background:var(--surface2)}
+td.num,th.num{text-align:right;font-family:"IBM Plex Mono",monospace;font-variant-numeric:tabular-nums}
+.posbox{font-family:"IBM Plex Mono",monospace;font-weight:600;font-size:14px;width:26px;
+  display:inline-block;text-align:right;color:var(--ink2)}
+.pos1{color:var(--accent)}
+.dname{display:flex;align-items:center;gap:9px;min-width:0}
+.flag{width:20px;height:15px;border-radius:2px;overflow:hidden;flex:none;
+  box-shadow:0 0 0 1px var(--line2) inset;display:block}
+.flag svg{width:100%;height:100%;display:block}
+.dn{font-weight:500;white-space:nowrap}
+.dn .fam{font-weight:700}
+.dcode{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--muted);letter-spacing:.05em}
+.teamcell{display:flex;align-items:center;gap:8px;font-size:12.5px;color:var(--ink2);white-space:nowrap}
+.tbar{width:3px;height:16px;border-radius:2px;flex:none;background:var(--tc)}
+.ptsbar{position:relative;height:6px;border-radius:3px;background:var(--surface2);
+  border:1px solid var(--line);min-width:70px;overflow:hidden}
+.ptsbar i{position:absolute;inset:0 auto 0 0;background:var(--tc);border-radius:3px}
+.bigpts{font-family:"IBM Plex Mono",monospace;font-weight:600;font-size:15px}
+.tag{display:inline-block;font-size:10.5px;padding:1px 6px;border-radius:99px;
+  border:1px solid var(--line2);color:var(--muted);white-space:nowrap}
+.tag.hurt{border-color:var(--warn);color:var(--warn)}
+.tag.sub{border-color:var(--accent);color:var(--accent)}
+
+/* ---------- constructors ---------- */
+.clist{display:flex;flex-direction:column;gap:8px}
+.crow{display:grid;grid-template-columns:34px 1fr 132px 92px;gap:14px;align-items:center;
+  padding:13px 16px;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius)}
+@media(max-width:700px){.crow{grid-template-columns:28px 1fr 84px;}
+  .crow .cbarwrap{display:none}}
+.crow .cp{font-family:"IBM Plex Mono",monospace;font-weight:600;font-size:17px;color:var(--muted)}
+.crow .cn{font-family:"Saira Condensed",sans-serif;font-weight:700;font-size:19px;
+  display:flex;align-items:center;gap:10px}
+.crow .cn small{font-family:"Noto Sans KR",sans-serif;font-weight:400;font-size:11.5px;color:var(--muted)}
+.crow .cpts{text-align:right;font-family:"IBM Plex Mono",monospace;font-weight:600;font-size:19px}
+.crow .cpts em{display:block;font-style:normal;font-size:10.5px;color:var(--muted);
+  font-family:"Noto Sans KR",sans-serif;font-weight:400}
+.cbar{height:8px;border-radius:4px;background:var(--surface2);border:1px solid var(--line);overflow:hidden;position:relative}
+.cbar i{position:absolute;inset:0 auto 0 0;background:var(--tc)}
+.cdr{font-size:11.5px;color:var(--muted);margin-top:2px}
+
+/* ---------- schedule ---------- */
+.round{display:grid;grid-template-columns:46px 74px 1fr auto;gap:14px;align-items:center;
+  width:100%;text-align:left;padding:12px 16px;background:var(--surface);border:1px solid var(--line);
+  border-radius:var(--radius);cursor:pointer;transition:border-color .15s,transform .15s}
+.round:hover{border-color:var(--line2);transform:translateX(2px)}
+.round.done{opacity:.72}
+.round.nextup{border-color:var(--accent);box-shadow:0 0 0 1px var(--accent) inset}
+.round .rd{font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--muted)}
+.round .thumb{height:46px;display:block}
+.round .thumb path{fill:none;stroke:var(--ink2);stroke-width:34;stroke-linejoin:round;stroke-linecap:round}
+.round.nextup .thumb path{stroke:var(--accent)}
+.round .nm{font-family:"Saira Condensed",sans-serif;font-weight:700;font-size:17.5px;
+  display:flex;align-items:center;gap:9px;flex-wrap:wrap}
+.round .cc{font-size:11.5px;color:var(--muted)}
+.round .rt{text-align:right;font-size:12px;color:var(--ink2);white-space:nowrap}
+.round .rt .d{font-family:"IBM Plex Mono",monospace;font-weight:600;font-size:13.5px;color:var(--ink)}
+.round .win{font-size:11.5px;color:var(--muted)}
+.chip{font-family:"Saira Condensed",sans-serif;font-weight:600;font-size:10.5px;letter-spacing:.1em;
+  text-transform:uppercase;padding:1px 7px;border-radius:3px;border:1px solid var(--line2);color:var(--muted)}
+.chip.sp{border-color:var(--accent);color:var(--accent)}
+.notice{padding:13px 16px;border:1px dashed var(--line2);border-radius:var(--radius);
+  font-size:12.5px;color:var(--ink2);background:var(--surface2);margin-bottom:14px}
+.notice a{color:var(--accent)}
+
+/* ---------- modal ---------- */
+.modal{position:fixed;inset:0;z-index:80;display:flex;align-items:center;justify-content:center;padding:20px}
+.modal[hidden]{display:none}
+.scrim{position:absolute;inset:0;background:rgba(10,10,14,.6);backdrop-filter:blur(3px)}
+.sheet{position:relative;background:var(--surface);border:1px solid var(--line2);border-radius:14px;
+  max-width:880px;width:100%;max-height:88vh;overflow:auto;box-shadow:var(--shadow)}
+.sheet .x{position:absolute;top:12px;right:12px;background:var(--surface2);border:1px solid var(--line);
+  width:32px;height:32px;border-radius:50%;cursor:pointer;font-size:16px;line-height:1}
+.sheetbody{display:grid;grid-template-columns:1.05fr .95fr;gap:22px;padding:24px}
+@media(max-width:760px){.sheetbody{grid-template-columns:1fr;padding:20px}}
+.mapbox{background:var(--surface2);border:1px solid var(--line);border-radius:10px;padding:14px;
+  display:flex;align-items:center;justify-content:center;min-height:250px}
+.mapbox svg{width:100%;height:auto;max-height:340px;overflow:visible}
+.mapbox .tr{fill:none;stroke:var(--line2);stroke-width:46;stroke-linejoin:round;stroke-linecap:round}
+.mapbox .tr2{fill:none;stroke:var(--ink);stroke-width:20;stroke-linejoin:round;stroke-linecap:round}
+.mapbox .sf{stroke:var(--accent);stroke-width:44;stroke-linecap:butt}
+.sheet h3{font-size:25px;margin-bottom:2px}
+.sheet .loc{font-size:12.5px;color:var(--muted);margin-bottom:14px}
+.dl{display:grid;grid-template-columns:auto 1fr;gap:7px 16px;font-size:13px;margin:0 0 16px}
+.dl dt{color:var(--muted);font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;
+  font-family:"Saira Condensed",sans-serif;font-weight:600;padding-top:2px}
+.dl dd{margin:0;font-family:"IBM Plex Mono",monospace;font-size:13px}
+.sheet p.note{font-size:13px;color:var(--ink2);margin:0 0 14px;line-height:1.65}
+
+/* ---------- drivers ---------- */
+.dgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(232px,1fr));gap:14px}
+.dcard{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+  overflow:hidden;display:flex;flex-direction:column}
+.dtop{position:relative;padding:16px 16px 12px;display:flex;align-items:center;gap:14px;
+  background:linear-gradient(180deg,color-mix(in srgb,var(--tc) 13%,transparent),transparent)}
+.helm{width:74px;height:74px;flex:none}
+.dtop .id{min-width:0;flex:1}
+.dtop .no{font-family:"IBM Plex Mono",monospace;font-weight:600;font-size:12px;color:var(--tc)}
+.dtop .fn{font-size:12px;color:var(--muted);line-height:1.3}
+.dtop .ln{font-family:"Saira Condensed",sans-serif;font-weight:700;font-size:21px;line-height:1.12}
+.dtop .ko{font-size:11.5px;color:var(--ink2)}
+.dmeta{padding:0 16px 12px;display:flex;align-items:center;gap:8px;font-size:12px;color:var(--ink2);flex-wrap:wrap}
+.dstats{margin-top:auto;border-top:1px solid var(--line);display:grid;grid-template-columns:repeat(4,1fr)}
+.dstats div{padding:9px 6px;text-align:center;border-right:1px solid var(--line)}
+.dstats div:last-child{border-right:0}
+.dstats .v{font-family:"IBM Plex Mono",monospace;font-weight:600;font-size:16px;line-height:1.1}
+.dstats .k{font-size:9.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-top:3px}
+.dnote{padding:9px 16px;font-size:11.5px;color:var(--warn);border-top:1px solid var(--line);
+  background:color-mix(in srgb,var(--warn) 8%,transparent)}
+
+/* ---------- cars ---------- */
+.regs{display:grid;grid-template-columns:repeat(auto-fill,minmax(255px,1fr));gap:1px;
+  background:var(--line);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;margin-bottom:18px}
+.reg{background:var(--surface);padding:13px 15px}
+.reg .k{font-family:"Saira Condensed",sans-serif;font-weight:700;font-size:12.5px;
+  letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+.reg .v{font-size:12.5px;color:var(--ink2);margin-top:3px;line-height:1.55}
+.carlist{display:flex;flex-direction:column;gap:12px}
+.car{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+  border-left:4px solid var(--tc);padding:16px 18px}
+.carhead{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;margin-bottom:3px}
+.carhead h3{font-size:21px}
+.carhead .chassis{font-family:"IBM Plex Mono",monospace;font-size:13px;font-weight:600;color:var(--tc)}
+.carhead .full{font-size:11.5px;color:var(--muted)}
+.puline{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:10px 0 12px}
+.pill{font-size:11.5px;padding:3px 9px;border-radius:99px;border:1px solid var(--line2);color:var(--ink2)}
+.pill b{font-family:"IBM Plex Mono",monospace;font-weight:600;color:var(--ink)}
+.pill.rank1{border-color:var(--good);color:var(--good)}
+.car ul{margin:0 0 10px;padding-left:18px;font-size:13px;color:var(--ink2);line-height:1.7}
+.car ul li{margin-bottom:3px}
+.car ul li b{color:var(--ink);font-weight:600}
+.car .cnote{font-size:12.5px;color:var(--ink2);padding-top:10px;border-top:1px solid var(--line);line-height:1.65}
+.car .cnote b{color:var(--ink)}
+
+/* ---------- news ---------- */
+.nlist{display:flex;flex-direction:column;gap:9px}
+.nitem{display:grid;grid-template-columns:82px 1fr;gap:16px;padding:14px 16px;background:var(--surface);
+  border:1px solid var(--line);border-radius:var(--radius);text-decoration:none;transition:border-color .15s}
+.nitem:hover{border-color:var(--accent)}
+@media(max-width:600px){.nitem{grid-template-columns:1fr;gap:6px}}
+.nitem .when{font-family:"IBM Plex Mono",monospace;font-size:11.5px;color:var(--muted);padding-top:2px}
+.nitem .hl{font-weight:500;font-size:14.5px;line-height:1.45}
+.nitem .en{font-size:11.5px;color:var(--muted);margin-top:3px;line-height:1.4}
+.nitem .foot{display:flex;gap:8px;align-items:center;margin-top:7px;font-size:11px;color:var(--muted)}
+.src{font-family:"Saira Condensed",sans-serif;font-weight:600;letter-spacing:.06em;
+  text-transform:uppercase;color:var(--ink2)}
+
+footer{border-top:1px solid var(--line);padding:22px 0 40px;margin-top:34px;font-size:12px;color:var(--muted)}
+footer h4{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink2);margin-bottom:8px}
+footer ul{margin:0;padding-left:16px;line-height:1.9}
+footer a{color:var(--ink2)}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+<style>img{max-width:100%}[hidden]{display:none!important}</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <div class="brandrow">
+      <div class="brand">
+        <div class="mark"></div>
+        <div>
+          <div class="sub">Formula 1 · 2026 Season</div>
+          <h1>F1 2026 패독</h1>
+        </div>
+      </div>
+      <div class="stamp">
+        데이터 갱신 <b id="upd">—</b><br>
+        <span id="progress">—</span>
+      </div>
+    </div>
+    <div class="tabs" role="tablist" id="tabs"></div>
+  </div>
+</header>
+
+<main class="wrap" id="main"></main>
+
+<div class="modal" id="modal" hidden>
+  <div class="scrim" data-close></div>
+  <div class="sheet" role="dialog" aria-modal="true" aria-labelledby="mtitle">
+    <button class="x" data-close aria-label="닫기">✕</button>
+    <div class="sheetbody" id="sheetbody"></div>
+  </div>
+</div>
+
+<footer>
+  <div class="wrap">
+    <h4>출처 / Sources</h4>
+    <ul id="srclist"></ul>
+    <p style="margin-top:14px;line-height:1.7">
+      순위·일정·결과는 Jolpica-F1(Ergast 호환) API와 Formula1.com 공식 자료를 대조해 구성했습니다.
+      서킷 도면은 OpenStreetMap 기반 GeoJSON 트랙 좌표를 직접 투영해 그린 실제 형상입니다.
+      드라이버 이미지는 저작권이 있는 공식 사진 대신 팀 컬러를 적용한 <b>헬멧 일러스트</b>로 표현했습니다.
+    </p>
+  </div>
+</footer>
+<script>
+/* ------------------------------------------------------------------
+   데이터 로딩
+   1) 같은 서버의 data/static.json + data/live.json 을 읽는다 (항상 동작)
+   2) 그 다음 F1 공개 API를 브라우저에서 직접 호출해 순위를 최신화한다
+      (CORS가 허용될 때만. 실패해도 페이지는 그대로 동작)
+------------------------------------------------------------------- */
+const API = 'https://api.jolpi.ca/ergast/f1/2026';
+const V = Date.now();
+
+async function boot(){
+  let st, lv;
+  try{
+    [st, lv] = await Promise.all([
+      fetch('data/static.json?v='+V).then(r=>r.json()),
+      fetch('data/live.json?v='+V).then(r=>r.json())
+    ]);
+  }catch(e){
+    document.getElementById('main').innerHTML =
+      '<div class="notice">데이터 파일을 불러오지 못했습니다. data/static.json 과 data/live.json 이 같은 폴더에 있는지 확인해 주세요.</div>';
+    return;
+  }
+  const DATA = Object.assign({}, st, lv);
+  DATA.calendar = DATA.calendar.map(r => Object.assign({}, r, {winner: DATA.winners[String(r.rd)] || null}));
+  render(DATA);
+  liveRefresh(DATA).catch(()=>{});
+}
+
+/* 브라우저에서 직접 API를 호출해 순위만 덧씌운다 */
+async function liveRefresh(DATA){
+  const j = async u => (await fetch(u,{cache:'no-store'})).json();
+  const [ds, cs] = await Promise.all([
+    j(API+'/driverstandings.json'),
+    j(API+'/constructorstandings.json')
+  ]);
+  const dl = ds.MRData.StandingsTable.StandingsLists[0];
+  const cl = cs.MRData.StandingsTable.StandingsLists[0];
+  if(!dl || !cl) return;
+  const round = +dl.round;
+  if(round <= DATA.roundsDone) return;          // 이미 최신이면 아무것도 하지 않음
+  const map = Object.fromEntries(DATA.drivers.map(d=>[d.id,d]));
+  dl.DriverStandings.forEach(s=>{
+    const id = s.Driver.driverId.replace('max_verstappen','verstappen').replace('arvid_lindblad','lindblad');
+    const d = map[id]; if(!d) return;
+    d.pos = +s.position; d.pts = +s.points; d.wins = +s.wins;
+  });
+  DATA.drivers.sort((a,b)=>a.pos-b.pos);
+  const cmap = Object.fromEntries(DATA.constructors.map(c=>[c.id,c]));
+  cl.ConstructorStandings.forEach(s=>{
+    const c = cmap[s.Constructor.constructorId]; if(!c) return;
+    c.pos = +s.position; c.pts = +s.points; c.wins = +s.wins;
+  });
+  DATA.constructors.sort((a,b)=>a.pos-b.pos);
+  DATA.roundsDone = round;
+  DATA.updated = new Date().toLocaleString('ko-KR',{timeZone:'Asia/Seoul'}) + ' (브라우저 실시간)';
+  const active = document.querySelector('.tab[aria-selected="true"]');
+  const keep = active ? active.dataset.t : 'overview';
+  document.getElementById('main').innerHTML = '';
+  document.getElementById('tabs').innerHTML = '';
+  render(DATA);
+  document.querySelector(`.tab[data-t="${keep}"]`)?.click();
+}
+
+function render(DATA){
+const T = DATA.teams, DR = DATA.drivers, FL = DATA.flags;
+const byId = Object.fromEntries(DR.map(d=>[d.id,d]));
+const esc = s => String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const flag = c => `<span class="flag" aria-hidden="true">${FL[c]||''}</span>`;
+const KDATE = iso => new Date(iso).toLocaleString('ko-KR',{timeZone:'Asia/Seoul',month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'});
+const KDAY  = iso => new Date(iso).toLocaleDateString('ko-KR',{timeZone:'Asia/Seoul',month:'2-digit',day:'2-digit'});
+const age = dob => { const b=new Date(dob), n=new Date(); let a=n.getFullYear()-b.getFullYear();
+  const m=n.getMonth()-b.getMonth(); if(m<0||(m===0&&n.getDate()<b.getDate())) a--; return a; };
+
+/* ---- helmet illustration ---- */
+function helmet(d){
+  const t=T[d.team], c1=t.c, c2=t.c2, id='h'+d.num;
+  return `<svg class="helm" viewBox="0 0 120 120" role="img" aria-label="${esc(d.last)} 헬멧 일러스트">
+  <defs>
+    <linearGradient id="v${id}" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4a5058"/><stop offset="55%" stop-color="#14171b"/><stop offset="100%" stop-color="#2a2f36"/>
+    </linearGradient>
+    <clipPath id="c${id}"><path d="M60 8C87 8 103 27 103 56v20c0 17-11 28-27 30H44C28 104 17 93 17 76V56C17 27 33 8 60 8Z"/></clipPath>
+  </defs>
+  <path d="M60 8C87 8 103 27 103 56v20c0 17-11 28-27 30H44C28 104 17 93 17 76V56C17 27 33 8 60 8Z" fill="${c1}"/>
+  <g clip-path="url(#c${id})">
+    <path d="M-5 8h34l16 98H-5Z" fill="${c2}" opacity=".85"/>
+    <path d="M91 8h34v98H91l14-49Z" fill="${c2}" opacity=".55"/>
+    <rect x="0" y="86" width="120" height="34" fill="#000" opacity=".16"/>
+  </g>
+  <path d="M60 8C87 8 103 27 103 56v20c0 17-11 28-27 30H44C28 104 17 93 17 76V56C17 27 33 8 60 8Z" fill="none" stroke="rgba(0,0,0,.35)" stroke-width="2"/>
+  <path d="M29 52c11-11 51-11 62 0l2 15c0 7-6 12-14 12H41c-8 0-14-5-14-12Z" fill="url(#v${id})"/>
+  <path d="M33 54c10-8 44-8 54 0l1 6c-14-6-42-6-56 0Z" fill="#fff" opacity=".22"/>
+  <rect x="46" y="88" width="28" height="9" rx="3" fill="rgba(0,0,0,.45)"/>
+  <text x="60" y="34" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="17" font-weight="600" fill="rgba(255,255,255,.92)">${d.num}</text>
+</svg>`;
+}
+
+/* ---- track svg ---- */
+function trackSVG(c,cls,extra){
+  return `<svg viewBox="${c.vb}" class="${cls||''}" ${extra||''} aria-hidden="true"><path d="${c.d}"/></svg>`;
+}
+function trackDetail(c){
+  const [x,y]=c.start;
+  return `<svg viewBox="${c.vb}" role="img" aria-label="서킷 레이아웃">
+    <path class="tr" d="${c.d}"/><path class="tr2" d="${c.d}"/>
+    <line class="sf" x1="${x-26}" y1="${y-26}" x2="${x+26}" y2="${y+26}"/>
+  </svg>`;
+}
+
+/* ---- tabs ---- */
+const TABS=[
+ ['overview','개요'],['drivers','드라이버 순위'],['teams','컨스트럭터'],
+ ['sched','일정 · 서킷'],['profiles','드라이버 프로필'],['cars','머신 · 기술'],
+ ['news','뉴스'],['newsko','한글 뉴스']
+];
+const tabsEl=document.getElementById('tabs'), mainEl=document.getElementById('main');
+TABS.forEach(([id,label],i)=>{
+  const b=document.createElement('button');
+  b.className='tab'; b.setAttribute('role','tab'); b.dataset.t=id;
+  b.setAttribute('aria-selected', i===0?'true':'false');
+  b.innerHTML=esc(label)+`<span class="n">${String(i+1).padStart(2,'0')}</span>`;
+  b.onclick=()=>select(id);
+  tabsEl.appendChild(b);
+});
+function select(id){
+  [...tabsEl.children].forEach(b=>b.setAttribute('aria-selected', b.dataset.t===id?'true':'false'));
+  [...mainEl.children].forEach(p=>p.hidden = p.id!=='p-'+id);
+  window.scrollTo({top:0,behavior:'instant'});
+}
+
+/* ---- build panels ---- */
+const done = DATA.calendar.filter(r=>r.winner);
+const remaining = DATA.calendar.filter(r=>!r.winner);
+const nextR = remaining[0];
+const maxD = DR[0].pts, maxC = DATA.constructors[0].pts;
+
+function panel(id,html){ const s=document.createElement('section');
+  s.className='panel'; s.id='p-'+id; s.innerHTML=html; mainEl.appendChild(s); }
+
+/* overview */
+const lead=DR[0], second=DR[1], lc=DATA.constructors[0], sc=DATA.constructors[1];
+const lastR = done[done.length-1];
+const podiumMap={12:['norris','antonelli','russell']};
+panel('overview',`
+ <div class="hero">
+  <div class="next">
+   ${trackSVG(nextR.circuit,'trackbg')}
+   <div class="lbl"><span class="dot"></span><span class="eyebrow">다음 레이스 · Round ${nextR.rd}</span></div>
+   <h3>${esc(nextR.ko)}</h3>
+   <div class="venue">${flag(nextR.flag)} ${esc(nextR.circuit.name)} · ${esc(nextR.circuit.loc)}</div>
+   <div class="cd" id="cd"></div>
+   <div class="nextmeta">
+     <span>결승 <b>${KDATE(nextR.date)}</b> (KST)</span>
+     <span>예선 <b>${KDATE(nextR.quali)}</b></span>
+     <span>랩 길이 <b>${(nextR.circuit.length/1000).toFixed(3)} km</b></span>
+   </div>
+  </div>
+  <div class="leaders">
+   <div class="lead" style="--tc:${T[lead.team].c}">
+    <div class="who"><div class="k">드라이버 챔피언십 선두</div>
+      <div class="nm">${esc(lead.first)} ${esc(lead.last)}</div>
+      <div class="tm">${esc(T[lead.team].ko)} · ${lead.wins}승</div></div>
+    <div class="pts"><div class="v">${lead.pts}</div><div class="g">+${lead.pts-second.pts} vs ${esc(second.last)}</div></div>
+   </div>
+   <div class="lead" style="--tc:${T[lc.id].c}">
+    <div class="who"><div class="k">컨스트럭터 선두</div>
+      <div class="nm">${esc(T[lc.id].ko)}</div>
+      <div class="tm">${esc(T[lc.id].chassis)} · ${lc.wins}승</div></div>
+    <div class="pts"><div class="v">${lc.pts}</div><div class="g">+${lc.pts-sc.pts} vs ${esc(T[sc.id].ko)}</div></div>
+   </div>
+  </div>
+ </div>
+ <div class="statrow" style="margin-bottom:22px">
+  <div class="stat"><div class="k">진행</div><div class="v">${DATA.roundsDone} / ${DATA.totalRounds}</div><div class="s">남은 레이스 ${remaining.length}전</div></div>
+  <div class="stat"><div class="k">남은 최대 획득 점수</div><div class="v">${remaining.length*25 + remaining.filter(r=>r.sprint).length*8}</div><div class="s">스프린트 ${remaining.filter(r=>r.sprint).length}회 포함</div></div>
+  <div class="stat"><div class="k">우승 분포</div><div class="v">${new Set(done.map(r=>r.winner)).size}명</div><div class="s">${DATA.constructors.filter(c=>c.wins).length}개 팀</div></div>
+  <div class="stat"><div class="k">타이틀 경쟁</div><div class="v">${lead.pts-second.pts}점</div><div class="s">1위–2위 격차</div></div>
+ </div>
+ <div class="sechead"><h2>지난 레이스 — ${esc(lastR.ko)}</h2><span class="hint">Round ${lastR.rd} · ${KDAY(lastR.date)}</span></div>
+ <div class="podium">
+  ${(podiumMap[lastR.rd]||[lastR.winner]).map((id,i)=>{const d=byId[id];return `
+   <div class="pod" style="--tc:${T[d.team].c}">
+     <div class="p">P${i+1}</div><div class="n">${esc(d.first)} ${esc(d.last)}</div>
+     <div class="t">${esc(T[d.team].ko)}</div></div>`}).join('')}
+ </div>
+`);
+
+/* drivers standings */
+panel('drivers',`
+ <div class="sechead"><h2>드라이버 챔피언십</h2><span class="hint">${DATA.roundsDone}전 종료 기준 · Drivers' Championship</span></div>
+ <div class="tablewrap"><table>
+  <thead><tr><th>#</th><th>드라이버</th><th>팀</th><th class="num">승</th><th class="num">포디엄</th>
+   <th class="num">최고</th><th style="width:26%">격차</th><th class="num">점수</th></tr></thead>
+  <tbody>${DR.map(d=>`<tr>
+   <td><span class="posbox ${d.pos===1?'pos1':''}">${d.pos}</span></td>
+   <td><div class="dname">${flag(d.flag)}<div class="dn">${esc(d.first)} <span class="fam">${esc(d.last)}</span>
+     <span class="dcode">${d.code}</span>${d.note?` <span class="tag ${d.id==='hadjar'?'hurt':'sub'}">${d.id==='hadjar'?'결장':'대체 출전'}</span>`:''}</div></div></td>
+   <td><div class="teamcell"><span class="tbar" style="--tc:${T[d.team].c}"></span>${esc(T[d.team].ko)}</div></td>
+   <td class="num">${d.wins||'—'}</td><td class="num">${d.podiums||'—'}</td><td class="num">P${d.best}</td>
+   <td><div class="ptsbar" style="--tc:${T[d.team].c}"><i style="width:${(d.pts/maxD*100).toFixed(1)}%"></i></div></td>
+   <td class="num"><span class="bigpts">${d.pts}</span></td></tr>`).join('')}
+  </tbody></table></div>
+`);
+
+/* constructors */
+panel('teams',`
+ <div class="sechead"><h2>컨스트럭터 챔피언십</h2><span class="hint">${DATA.roundsDone}전 종료 기준 · Constructors' Championship</span></div>
+ <div class="clist">${DATA.constructors.map(c=>{const t=T[c.id];
+   const ds=DR.filter(d=>d.team===c.id).map(d=>d.last).join(' · ');
+   return `<div class="crow" style="--tc:${t.c}">
+    <div class="cp">${c.pos}</div>
+    <div><div class="cn"><span class="tbar" style="height:20px;--tc:${t.c}"></span>${esc(t.ko)}
+      <small>${esc(t.chassis)}</small></div><div class="cdr">${esc(ds)}</div></div>
+    <div class="cbarwrap"><div class="cbar" style="--tc:${t.c}"><i style="width:${(c.pts/maxC*100).toFixed(1)}%"></i></div></div>
+    <div class="cpts">${c.pts}<em>${c.wins?c.wins+'승':'우승 없음'}</em></div></div>`}).join('')}</div>
+`);
+
+/* schedule */
+panel('sched',`
+ <div class="sechead"><h2>2026 캘린더</h2><span class="hint">GP를 클릭하면 실제 서킷 도면과 상세 정보가 열립니다</span></div>
+ <div class="notice">${esc(DATA.cancelled.text)} <a href="${DATA.cancelled.url}" target="_blank" rel="noopener">자세히 ↗</a></div>
+ <div class="clist">${DATA.calendar.map(r=>{
+   const isNext = r.rd===nextR.rd, w = r.winner?byId[r.winner]:null;
+   return `<button class="round ${r.winner?'done':''} ${isNext?'nextup':''}" data-rd="${r.rd}">
+     <span class="rd">R${String(r.rd).padStart(2,'0')}</span>
+     ${trackSVG(r.circuit,'thumb')}
+     <span><span class="nm">${flag(r.flag)}${esc(r.ko)}
+       ${r.sprint?'<span class="chip sp">Sprint</span>':''}
+       ${isNext?'<span class="chip sp">Next</span>':''}</span>
+       <span class="cc">${esc(r.circuit.name)} · ${(r.circuit.length/1000).toFixed(3)} km</span></span>
+     <span class="rt"><span class="d">${KDAY(r.date)}</span><br>
+       <span class="win">${w?'🏁 '+esc(w.last):'예정'}</span></span>
+   </button>`}).join('')}</div>
+`);
+
+/* driver profiles */
+panel('profiles',`
+ <div class="sechead"><h2>드라이버 프로필</h2><span class="hint">나이는 오늘 날짜 기준으로 자동 계산됩니다</span></div>
+ <div class="dgrid">${DR.map(d=>{const t=T[d.team];return `
+  <article class="dcard" style="--tc:${t.c}">
+   <div class="dtop">${helmet(d)}
+    <div class="id"><div class="no">#${d.num} · ${d.code}</div>
+     <div class="fn">${esc(d.first)}</div><div class="ln">${esc(d.last)}</div>
+     <div class="ko">${esc(d.ko)}</div></div></div>
+   <div class="dmeta">${flag(d.flag)} ${esc(d.nat)} · 만 <b class="mono">${age(d.dob)}</b>세
+     <span class="tag">${d.dob}</span></div>
+   <div class="dmeta" style="padding-top:0"><span class="tbar" style="--tc:${t.c}"></span>
+     ${esc(t.ko)} <span style="color:var(--muted)">${esc(t.chassis)}</span></div>
+   <div class="dstats">
+    <div><div class="v">P${d.pos}</div><div class="k">순위</div></div>
+    <div><div class="v">${d.pts}</div><div class="k">점수</div></div>
+    <div><div class="v">${d.wins}</div><div class="k">우승</div></div>
+    <div><div class="v">${d.podiums}</div><div class="k">포디엄</div></div>
+   </div>
+   ${d.note?`<div class="dnote">${esc(d.note)}</div>`:''}
+  </article>`}).join('')}</div>
+`);
+
+/* cars */
+panel('cars',`
+ <div class="sechead"><h2>2026 기술 규정</h2><span class="hint">F1 역사상 가장 큰 폭의 파워유닛·공력 개편</span></div>
+ <div class="regs">${DATA.regs.map(([k,v])=>`<div class="reg"><div class="k">${esc(k)}</div><div class="v">${v}</div></div>`).join('')}</div>
+ <div class="sechead"><h2>팀별 머신</h2><span class="hint">FIA ADUO 평가 순위 · 파워트레인 · 공력 설계</span></div>
+ <div class="carlist">${DATA.constructors.map(c=>{const t=T[c.id], car=DATA.cars[c.id];
+  return `<article class="car" style="--tc:${t.c}">
+   <div class="carhead"><h3>${esc(t.ko)}</h3><span class="chassis">${esc(t.chassis)}</span>
+     <span class="full">${esc(t.full)}</span></div>
+   <div class="puline">
+     <span class="pill">파워유닛 <b>${esc(t.pu)}</b></span>
+     <span class="pill">${esc(t.puKo)}</span>
+     <span class="pill ${car.rank===1?'rank1':''}">FIA ICE 평가 <b>${car.rank}위</b> · ${esc(car.gap)}</span>
+     <span class="pill">업그레이드 <b>${esc(car.upg)}</b></span>
+   </div>
+   <ul>${car.aero.map(a=>`<li>${a}</li>`).join('')}</ul>
+   <div class="cnote">${car.note}</div>
+  </article>`}).join('')}</div>
+`);
+
+/* news */
+panel('news',`
+ <div class="sechead"><h2>F1 뉴스</h2><span class="hint">공식 RSS에서 매일 자동 수집 · 제목을 누르면 원문으로 이동합니다</span></div>
+ <div class="nlist">${DATA.news.map(n=>`
+  <a class="nitem" href="${n.url}" target="_blank" rel="noopener">
+   <div class="when">${n.date||''}</div>
+   <div><div class="hl">${esc(n.ko||n.en)}</div>${n.ko?`<div class="en">${esc(n.en)}</div>`:''}
+    <div class="foot"><span class="src">${esc(n.src)}</span>${n.tag?`<span class="tag">${esc(n.tag)}</span>`:''}<span>원문 보기 ↗</span></div></div>
+  </a>`).join('')}</div>
+`);
+
+/* news — 한국어 */
+const NKO = DATA.newsKo || [];
+panel('newsko',`
+ <div class="sechead"><h2>한글 뉴스</h2><span class="hint">구글 뉴스(한국어) 검색에서 매일 자동 수집 · 제목을 누르면 원문으로 이동합니다</span></div>
+ ${NKO.length ? `<div class="nlist">${NKO.map(n=>`
+  <a class="nitem" href="${n.url}" target="_blank" rel="noopener">
+   <div class="when">${n.date||''}</div>
+   <div><div class="hl">${esc(n.ko)}</div>
+    <div class="foot"><span class="src">${esc(n.src)}</span><span>원문 보기 ↗</span></div></div>
+  </a>`).join('')}</div>`
+ : `<div class="notice">아직 수집된 한글 기사가 없습니다. 다음 자동 갱신 때 채워집니다.</div>`}
+`);
+
+[...mainEl.children].forEach((p,i)=>p.hidden=i!==0);
+
+/* stamp + sources */
+document.getElementById('upd').textContent = DATA.updated;
+document.getElementById('progress').textContent = `${DATA.season} 시즌 · ${DATA.roundsDone}/${DATA.totalRounds} 라운드 종료`;
+document.getElementById('srclist').innerHTML = DATA.sources.map(([n,u])=>
+  `<li><a href="${u}" target="_blank" rel="noopener">${esc(n)}</a></li>`).join('');
+
+/* countdown */
+const cdEl=document.getElementById('cd');
+function tick(){
+  const t=new Date(nextR.date)-new Date();
+  if(t<=0){cdEl.innerHTML='<div><div class="v">LIVE</div><div class="k">Race day</div></div>';return}
+  const d=Math.floor(t/864e5),h=Math.floor(t/36e5)%24,m=Math.floor(t/6e4)%60,s=Math.floor(t/1e3)%60;
+  cdEl.innerHTML=[[d,'Days'],[h,'Hours'],[m,'Min'],[s,'Sec']].map(([v,k])=>
+    `<div><div class="v">${String(v).padStart(2,'0')}</div><div class="k">${k}</div></div>`).join('');
+}
+tick(); setInterval(tick,1000);
+
+/* modal */
+const modal=document.getElementById('modal'), sb=document.getElementById('sheetbody');
+document.addEventListener('click',e=>{
+  const btn=e.target.closest('.round');
+  if(btn){ openRound(+btn.dataset.rd); return }
+  if(e.target.closest('[data-close]')) close();
+});
+document.addEventListener('keydown',e=>{if(e.key==='Escape')close()});
+function close(){modal.hidden=true;document.body.style.overflow=''}
+function openRound(rd){
+  const r=DATA.calendar.find(x=>x.rd===rd), c=r.circuit, w=r.winner?byId[r.winner]:null;
+  sb.innerHTML=`
+   <div class="mapbox">${trackDetail(c)}</div>
+   <div>
+     <div class="eyebrow">Round ${r.rd} · ${r.winner?'종료':'예정'}</div>
+     <h3 id="mtitle">${flag(r.flag)} ${esc(r.ko)}</h3>
+     <div class="loc">${esc(r.en)} — ${esc(c.name)}, ${esc(c.loc)}</div>
+     <dl class="dl">
+       <dt>결승</dt><dd>${KDATE(r.date)} <span style="color:var(--muted)">KST</span></dd>
+       <dt>예선</dt><dd>${KDATE(r.quali)} <span style="color:var(--muted)">KST</span></dd>
+       <dt>랩 길이</dt><dd>${(c.length/1000).toFixed(3)} km</dd>
+       <dt>고도</dt><dd>${c.alt} m</dd>
+       <dt>개장</dt><dd>${c.opened}년 · F1 첫 개최 ${c.firstgp}년</dd>
+       <dt>포맷</dt><dd>${r.sprint?'스프린트 주말':'표준 주말'}</dd>
+       ${w?`<dt>우승</dt><dd>${esc(w.first)} ${esc(w.last)} · ${esc(T[w.team].ko)}</dd>`:''}
+     </dl>
+     ${c.note?`<p class="note">${esc(c.note)}</p>`:''}
+     <p class="note" style="color:var(--muted);font-size:11.5px">
+       도면은 OpenStreetMap 기반 트랙 좌표(f1-circuits GeoJSON)를 메르카토르 투영해 그린 실제 형상입니다.
+       붉은 선은 스타트/피니시 라인 위치입니다.</p>
+   </div>`;
+  modal.hidden=false; document.body.style.overflow='hidden';
+}
+}
+boot();
+</script>
+</body>
+</html>
