@@ -1,1 +1,40 @@
+name: F1 데이터 자동 갱신
+
+on:
+  schedule:
+    # 매일 UTC 00:17 = 한국시간 09:17. 필요하면 시간을 바꾸세요.
+    - cron: '17 0 * * *'
+  workflow_dispatch:        # 저장소 Actions 탭에서 수동 실행 가능
+
+permissions:
+  contents: write
+
+concurrency:
+  group: f1-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 데이터 갱신
+        run: python3 scripts/update.py
+
+      - name: 변경분 커밋
+        run: |
+          if [ -n "$(git status --porcelain data/)" ]; then
+            git config user.name  "f1-bot"
+            git config user.email "actions@github.com"
+            git add data/
+            git commit -m "chore: F1 데이터 자동 갱신 ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+            git push
+          else
+            echo "변경 없음"
+          fi
 
