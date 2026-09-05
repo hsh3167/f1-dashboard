@@ -264,6 +264,48 @@ td.num,th.num{text-align:right;font-family:"IBM Plex Mono",monospace;font-varian
 .car .cnote{font-size:12.5px;color:var(--ink2);padding-top:10px;border-top:1px solid var(--line);line-height:1.65}
 .car .cnote b{color:var(--ink)}
 
+/* ---------- driver photo ---------- */
+.dpic{position:relative;width:74px;height:74px;flex:none}
+.dpic .helm{position:absolute;inset:0;width:74px;height:74px}
+/* 로드 완료 전/실패 시에는 헬멧 일러스트가 그대로 보이도록 숨겨둔다 */
+.dphoto{position:absolute;inset:0;width:74px;height:74px;object-fit:cover;object-position:50% 22%;
+  border-radius:50%;background:var(--surface2);border:2px solid var(--tc);display:block;
+  opacity:0;transition:opacity .25s}
+.dphoto.on{opacity:1}
+.credit{padding:0 16px 12px;font-size:10.5px;color:var(--muted);line-height:1.5}
+.credit a{color:var(--muted);text-decoration:underline;text-underline-offset:2px}
+
+/* ---------- points chart ---------- */
+.chartwrap{border:1px solid var(--line);border-radius:var(--radius);background:var(--surface);
+  padding:14px 6px 6px;overflow-x:auto}
+.chart{display:block;min-width:640px;width:100%;height:auto}
+.chart .grid{stroke:var(--line);stroke-width:1}
+.chart .ax{fill:var(--muted);font-size:10px;font-family:"IBM Plex Mono",monospace}
+.chart .ln{fill:none;stroke-width:2.2;stroke-linejoin:round;stroke-linecap:round}
+.chart .lb{font-size:11px;font-weight:600;font-family:"Saira Condensed",sans-serif}
+.chart .dot{stroke:var(--surface);stroke-width:1.5}
+
+/* ---------- race result table ---------- */
+.rtable{width:100%;min-width:0;border-collapse:collapse;margin-top:6px;font-size:12px}
+.rtable th{position:sticky;top:0;background:var(--surface2);color:var(--muted);font-weight:600;
+  font-size:10.5px;letter-spacing:.04em;text-transform:uppercase;padding:6px 8px;text-align:left}
+.rtable td{padding:6px 8px;border-top:1px solid var(--line);white-space:nowrap}
+.rtable td small{color:var(--muted);font-size:10.5px;margin-left:5px}
+.rtable td.p{font-family:"IBM Plex Mono",monospace;font-weight:600;width:32px}
+.rtable tr.pod td.p{color:var(--accent)}
+.rtable td.g,.rtable td.pt{font-family:"IBM Plex Mono",monospace;text-align:right;white-space:nowrap}
+.rtable td.t{color:var(--muted);font-family:"IBM Plex Mono",monospace;font-size:11px;white-space:nowrap}
+.rtable .tb{display:inline-block;width:3px;height:11px;border-radius:2px;margin-right:6px;
+  vertical-align:-1px;background:var(--tc)}
+.rbox{max-height:340px;overflow:auto;border:1px solid var(--line);border-radius:var(--radius)}
+
+/* ---------- sessions ---------- */
+.sess{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.sess span{font-size:11px;padding:3px 8px;border-radius:999px;border:1px solid var(--line);
+  background:var(--surface2);color:var(--ink2);white-space:nowrap}
+.sess span b{font-family:"IBM Plex Mono",monospace;font-weight:600;color:var(--ink);margin-left:4px}
+.sess span.hi{border-color:var(--accent);color:var(--ink)}
+
 /* ---------- news ---------- */
 .nlist{display:flex;flex-direction:column;gap:9px}
 .nitem{display:grid;grid-template-columns:82px 1fr;gap:16px;padding:14px 16px;background:var(--surface);
@@ -437,6 +479,95 @@ function trackDetail(c){
 }
 
 /* ---- tabs ---- */
+/* ---- 라운드별 결과 (data/live.json 의 results) ---- */
+const RES = DATA.results || {};
+const RD_DONE = Object.keys(RES).map(Number).sort((a,b)=>a-b);
+
+/* 누적 포인트 시계열. keyFn: 드라이버 id → 계열 키(드라이버 id 또는 팀 id) */
+function cumSeries(keyFn){
+  const keys = new Set();
+  RD_DONE.forEach(rd => (RES[rd]||[]).forEach(r=>{ const k=keyFn(r.d); if(k) keys.add(k); }));
+  const acc = {}, series = {};
+  keys.forEach(k=>{ acc[k]=0; series[k]=[]; });
+  RD_DONE.forEach(rd => {
+    (RES[rd]||[]).forEach(r=>{ const k=keyFn(r.d); if(k) acc[k] += (+r.pts||0); });
+    keys.forEach(k => series[k].push(acc[k]));
+  });
+  return series;
+}
+
+/* 인라인 SVG 꺾은선. items: [{label, color, vals:[]}] */
+function lineChart(items, title){
+  if(RD_DONE.length < 2 || !items.length) return '';
+  const W=780, H=300, PL=38, PR=110, PT=16, PB=30;
+  const maxY = Math.max(10, ...items.map(i=>i.vals[i.vals.length-1]||0));
+  const step = maxY>300?100:maxY>150?50:maxY>60?25:10;
+  const X = i => PL + (W-PL-PR) * (i/(RD_DONE.length-1));
+  const Y = v => PT + (H-PT-PB) * (1 - v/maxY);
+  let g='';
+  for(let v=0; v<=maxY; v+=step){
+    g += `<line class="grid" x1="${PL}" y1="${Y(v).toFixed(1)}" x2="${W-PR}" y2="${Y(v).toFixed(1)}"/>`
+      +  `<text class="ax" x="${PL-6}" y="${(Y(v)+3.5).toFixed(1)}" text-anchor="end">${v}</text>`;
+  }
+  RD_DONE.forEach((rd,i)=>{
+    if(RD_DONE.length>10 && i%2 && i!==RD_DONE.length-1) return;
+    g += `<text class="ax" x="${X(i).toFixed(1)}" y="${H-10}" text-anchor="middle">R${rd}</text>`;
+  });
+  // 라벨이 같은 높이에 겹치지 않도록 위에서부터 최소 간격을 확보한다
+  const lab = items.map((it,i)=>({ i, v: it.vals[it.vals.length-1], y: Y(it.vals[it.vals.length-1]) }))
+                   .sort((a,b)=>a.y-b.y);
+  const GAP = 14, TOP = PT+5, BOT = H-PB-4;
+  lab.forEach((l,k)=>{ l.y = Math.max(l.y, TOP, k ? lab[k-1].y + GAP : TOP); });
+  for(let k=lab.length-1; k>=0; k--){
+    lab[k].y = Math.min(lab[k].y, BOT, k<lab.length-1 ? lab[k+1].y - GAP : BOT);
+  }
+  const labY = {}; lab.forEach(l=>{ labY[l.i] = l.y; });
+
+  const lines = items.map((it,idx)=>{
+    const d = it.vals.map((v,i)=>`${i?'L':'M'}${X(i).toFixed(1)} ${Y(v).toFixed(1)}`).join(' ');
+    const last = it.vals[it.vals.length-1];
+    const px = X(it.vals.length-1), py = Y(last), ly = labY[idx];
+    // 라벨이 밀렸으면 점과 라벨을 잇는 가는 선을 그린다
+    const lead = Math.abs(ly-py) > 2
+      ? `<path class="grid" d="M${px.toFixed(1)} ${py.toFixed(1)} L${(W-PR+4).toFixed(1)} ${ly.toFixed(1)}" stroke="${it.color}" opacity=".45"/>` : '';
+    return `<path class="ln" d="${d}" stroke="${it.color}"/>${lead}`
+      + `<circle class="dot" cx="${px.toFixed(1)}" cy="${py.toFixed(1)}" r="3.5" fill="${it.color}"/>`
+      + `<text class="lb" x="${W-PR+8}" y="${(ly+4).toFixed(1)}" fill="${it.color}">${esc(it.label)} ${last}</text>`;
+  }).join('');
+  return `<div class="chartwrap"><svg class="chart" viewBox="0 0 ${W} ${H}" role="img"
+    aria-label="${esc(title)}">${g}${lines}</svg></div>`;
+}
+
+/* 라운드 순위표 */
+function resultTable(rd){
+  const rows = RES[rd];
+  if(!rows || !rows.length) return '';
+  return `<div class="rbox"><table class="rtable">
+   <thead><tr><th>P</th><th>드라이버</th><th style="text-align:right">그리드</th>
+     <th>기록 · 상태</th><th style="text-align:right">점수</th></tr></thead>
+   <tbody>${rows.map(r=>{
+     const d=byId[r.d], t=d?T[d.team]:null;
+     return `<tr class="${r.p<=3?'pod':''}">
+      <td class="p">${r.p}</td>
+      <td style="--tc:${t?t.c:'#888'}"><span class="tb"></span>${esc(d?d.ko:r.d)}<small>${t?esc(t.ko):''}</small></td>
+      <td class="g">${r.g||'—'}</td>
+      <td class="t">${esc(r.t||'')}</td>
+      <td class="pt">${r.pts||''}</td></tr>`}).join('')}</tbody></table></div>`;
+}
+
+/* 세션 칩 (FP1/FP2/FP3/스프린트 예선/스프린트/예선/결승) */
+const SESSION_LABEL = {FirstPractice:'FP1', SecondPractice:'FP2', ThirdPractice:'FP3',
+  SprintQualifying:'스프린트 예선', Sprint:'스프린트', Qualifying:'예선', Race:'결승'};
+const SESSION_ORDER = ['FirstPractice','SecondPractice','ThirdPractice','SprintQualifying','Sprint','Qualifying','Race'];
+function sessionChips(rd, only){
+  const s = (DATA.sessions||{})[rd];
+  if(!s) return '';
+  const keys = SESSION_ORDER.filter(k => s[k] && (!only || only.includes(k)));
+  if(!keys.length) return '';
+  return `<div class="sess">${keys.map(k=>
+    `<span class="${k==='Sprint'||k==='Race'?'hi':''}">${SESSION_LABEL[k]}<b>${KDATE(s[k])}</b></span>`).join('')}</div>`;
+}
+
 const TABS=[
  ['overview','개요'],['drivers','드라이버 순위'],['teams','컨스트럭터'],
  ['sched','일정 · 서킷'],['profiles','드라이버 프로필'],['cars','머신 · 기술'],
@@ -469,7 +600,11 @@ function panel(id,html){ const s=document.createElement('section');
 /* overview */
 const lead=DR[0], second=DR[1], lc=DATA.constructors[0], sc=DATA.constructors[1];
 const lastR = done[done.length-1];
-const podiumMap={12:['norris','antonelli','russell']};
+/* 포디엄은 결과 데이터에서 직접 뽑는다. 없으면 live.json 의 podium, 그것도 없으면 우승자만. */
+const podiumMap = Object.fromEntries(RD_DONE.map(rd =>
+  [rd, (RES[rd]||[]).filter(r=>r.p<=3).sort((a,b)=>a.p-b.p).map(r=>r.d)]
+).filter(([,v])=>v.length));
+Object.entries(DATA.podium||{}).forEach(([rd,v])=>{ if(!podiumMap[rd]) podiumMap[rd]=v; });
 panel('overview',`
  <div class="hero">
   <div class="next">
@@ -515,8 +650,15 @@ panel('overview',`
 `);
 
 /* drivers standings */
+/* 상위 6명의 누적 포인트 추이 */
+const dSeries = cumSeries(id=>id);
+const dChart = lineChart(DR.slice(0,6).filter(d=>dSeries[d.id]).map(d=>({
+  label: d.code, color: T[d.team].c, vals: dSeries[d.id]
+})), '드라이버 누적 포인트 추이');
+
 panel('drivers',`
  <div class="sechead"><h2>드라이버 챔피언십</h2><span class="hint">${DATA.roundsDone}전 종료 기준 · Drivers' Championship</span></div>
+ ${dChart?`<div class="sechead" style="margin-top:0"><h2 style="font-size:15px">누적 포인트 추이</h2><span class="hint">상위 6명 · 라운드별 누적</span></div>${dChart}`:''}
  <div class="tablewrap"><table>
   <thead><tr><th>#</th><th>드라이버</th><th>팀</th><th class="num">승</th><th class="num">포디엄</th>
    <th class="num">최고</th><th style="width:26%">격차</th><th class="num">점수</th></tr></thead>
@@ -532,8 +674,15 @@ panel('drivers',`
 `);
 
 /* constructors */
+/* 상위 5팀의 누적 포인트 추이 */
+const cSeries = cumSeries(id => byId[id] && byId[id].team);
+const cChart = lineChart(DATA.constructors.slice(0,5).filter(c=>cSeries[c.id]).map(c=>({
+  label: T[c.id].ko, color: T[c.id].c, vals: cSeries[c.id]
+})), '컨스트럭터 누적 포인트 추이');
+
 panel('teams',`
  <div class="sechead"><h2>컨스트럭터 챔피언십</h2><span class="hint">${DATA.roundsDone}전 종료 기준 · Constructors' Championship</span></div>
+ ${cChart?`<div class="sechead" style="margin-top:0"><h2 style="font-size:15px">누적 포인트 추이</h2><span class="hint">상위 5팀 · 라운드별 누적</span></div>${cChart}`:''}
  <div class="clist">${DATA.constructors.map(c=>{const t=T[c.id];
    const ds=DR.filter(d=>d.team===c.id).map(d=>d.last).join(' · ');
    return `<div class="crow" style="--tc:${t.c}">
@@ -559,15 +708,19 @@ panel('sched',`
        <span class="cc">${esc(r.circuit.name)} · ${(r.circuit.length/1000).toFixed(3)} km</span></span>
      <span class="rt"><span class="d">${KDAY(r.date)}</span><br>
        <span class="win">${w?'🏁 '+esc(w.last):'예정'}</span></span>
-   </button>`}).join('')}</div>
+   </button>
+   ${isNext?sessionChips(r.rd):''}`}).join('')}</div>
 `);
 
 /* driver profiles */
 panel('profiles',`
  <div class="sechead"><h2>드라이버 프로필</h2><span class="hint">나이는 오늘 날짜 기준으로 자동 계산됩니다</span></div>
- <div class="dgrid">${DR.map(d=>{const t=T[d.team];return `
+ <div class="dgrid">${DR.map(d=>{const t=T[d.team]; const ph=(DATA.photos||{})[d.id];return `
   <article class="dcard" style="--tc:${t.c}">
-   <div class="dtop">${helmet(d)}
+   <div class="dtop"><div class="dpic">${helmet(d)}${ph?
+     `<img class="dphoto" src="${ph.url}" alt="${esc(d.last)}" loading="lazy" decoding="async"
+        onload="this.classList.add('on')"
+        onerror="const c=this.closest('.dcard');this.remove();const k=c&&c.querySelector('.credit');if(k)k.remove()">`:''}</div>
     <div class="id"><div class="no">#${d.num} · ${d.code}</div>
      <div class="fn">${esc(d.first)}</div><div class="ln">${esc(d.last)}</div>
      <div class="ko">${esc(d.ko)}</div></div></div>
@@ -582,6 +735,7 @@ panel('profiles',`
     <div><div class="v">${d.podiums}</div><div class="k">포디엄</div></div>
    </div>
    ${d.note?`<div class="dnote">${esc(d.note)}</div>`:''}
+   ${ph?`<div class="credit">사진 ⓒ ${esc(ph.by)} · <a href="${ph.page}" target="_blank" rel="noopener">${esc(ph.lic)}</a></div>`:''}
   </article>`}).join('')}</div>
 `);
 
@@ -665,15 +819,16 @@ function openRound(rd){
      <div class="eyebrow">Round ${r.rd} · ${r.winner?'종료':'예정'}</div>
      <h3 id="mtitle">${flag(r.flag)} ${esc(r.ko)}</h3>
      <div class="loc">${esc(r.en)} — ${esc(c.name)}, ${esc(c.loc)}</div>
+     <div class="eyebrow" style="margin-top:10px">세션 시간표 (KST)</div>
+     ${sessionChips(r.rd) || `<div class="sess"><span>결승<b>${KDATE(r.date)}</b></span><span>예선<b>${KDATE(r.quali)}</b></span></div>`}
      <dl class="dl">
-       <dt>결승</dt><dd>${KDATE(r.date)} <span style="color:var(--muted)">KST</span></dd>
-       <dt>예선</dt><dd>${KDATE(r.quali)} <span style="color:var(--muted)">KST</span></dd>
        <dt>랩 길이</dt><dd>${(c.length/1000).toFixed(3)} km</dd>
        <dt>고도</dt><dd>${c.alt} m</dd>
        <dt>개장</dt><dd>${c.opened}년 · F1 첫 개최 ${c.firstgp}년</dd>
        <dt>포맷</dt><dd>${r.sprint?'스프린트 주말':'표준 주말'}</dd>
        ${w?`<dt>우승</dt><dd>${esc(w.first)} ${esc(w.last)} · ${esc(T[w.team].ko)}</dd>`:''}
      </dl>
+     ${RES[r.rd]?`<div class="eyebrow" style="margin-top:14px">레이스 결과</div>${resultTable(r.rd)}`:''}
      ${c.note?`<p class="note">${esc(c.note)}</p>`:''}
      <p class="note" style="color:var(--muted);font-size:11.5px">
        도면은 OpenStreetMap 기반 트랙 좌표(f1-circuits GeoJSON)를 메르카토르 투영해 그린 실제 형상입니다.

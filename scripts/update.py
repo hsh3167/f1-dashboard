@@ -99,6 +99,40 @@ def fetch_results():
     return races
 
 
+# 세션 키 → 화면 표기. 순서가 곧 주말 진행 순서다.
+SESSION_KEYS = [
+    ('FirstPractice', 'FP1'),
+    ('SecondPractice', 'FP2'),
+    ('ThirdPractice', 'FP3'),
+    ('SprintQualifying', '스프린트 예선'),
+    ('Sprint', '스프린트'),
+    ('Qualifying', '예선'),
+]
+
+
+def fetch_schedule():
+    """라운드별 세션 시각(UTC ISO). {'13': {'FirstPractice': '2026-09-04T10:30:00Z', ...}}
+
+    스프린트 주말은 FP2/FP3 대신 SprintQualifying·Sprint 가 들어온다.
+    """
+    j = getjson(f'{API}.json?limit=30')
+    out = {}
+    if not j:
+        print('  ! 세션 시간표를 가져오지 못했습니다', file=sys.stderr)
+        return out
+    for race in j['MRData']['RaceTable']['Races']:
+        s = {}
+        for key, _ in SESSION_KEYS:
+            v = race.get(key) or {}
+            if v.get('date'):
+                s[key] = v['date'] + 'T' + v.get('time', '00:00:00Z')
+        if race.get('date'):
+            s['Race'] = race['date'] + 'T' + race.get('time', '00:00:00Z')
+        out[str(int(race['round']))] = s
+    print(f'  · 세션 시간표 {len(out)}개 라운드')
+    return out
+
+
 def fetch_season():
     ds = getjson(f'{API}/driverstandings.json')
     cs = getjson(f'{API}/constructorstandings.json')
@@ -120,8 +154,9 @@ def fetch_season():
 
     # 레이스 결과에서 포디엄/최고순위/라운드 우승자 계산
     podiums, best, winners, last_podium = {}, {}, {}, {}
+    race_results = {}          # 라운드별 전체 순위표
     for rd in sorted(races_by_rd):
-        top = {}
+        top, rows = {}, []
         for res in races_by_rd[rd]:
             did = norm(res['Driver']['driverId'])
             pos = int(res['position'])
@@ -131,6 +166,16 @@ def fetch_season():
                 top[pos] = did
             if pos == 1:
                 winners[str(rd)] = did
+            pts = float(res.get('points', 0) or 0)
+            rows.append(dict(
+                p=pos,
+                d=did,
+                g=int(res.get('grid', 0) or 0),
+                pts=int(pts) if pts.is_integer() else pts,
+                # 완주자는 기록, 리타이어는 사유
+                t=(res.get('Time') or {}).get('time') or res.get('status', ''),
+            ))
+        race_results[str(rd)] = sorted(rows, key=lambda x: x['p'])
         if rd == rounds_done:
             last_podium = {str(rd): [top.get(1), top.get(2), top.get(3)]}
 
@@ -162,7 +207,7 @@ def fetch_season():
         wins=int(s['wins']),
     ) for s in cl['ConstructorStandings']]
 
-    return rounds_done, drivers, constructors, winners, last_podium
+    return rounds_done, drivers, constructors, winners, last_podium, race_results
 
 
 # ---------------------------------------------------------------- 뉴스
@@ -284,7 +329,10 @@ def main():
     prev_news = {n['url']: n for n in prev.get('news', [])}
 
     print('· 순위/결과 수집')
-    rounds_done, drivers, constructors, winners, last_podium = fetch_season()
+    rounds_done, drivers, constructors, winners, last_podium, race_results = fetch_season()
+
+    print('· 세션 시간표 수집')
+    sessions = fetch_schedule() or prev.get('sessions', {})
 
     # 한글 이름·국적·메모를 static.json 에서 붙인다
     ko_name, ko_nat, nat_flag = static['koName'], static['koNat'], static['natFlag']
@@ -322,6 +370,8 @@ def main():
         constructors=constructors,
         winners=winners,
         podium=last_podium or prev.get('podium', {}),
+        results=race_results,
+        sessions=sessions,
         news=news,
         newsKo=news_ko,
     )
@@ -336,7 +386,7 @@ def main():
     with open(LIVE, 'w', encoding='utf-8') as f:
         json.dump(live, f, ensure_ascii=False, indent=1)
     print(f'갱신 완료: {rounds_done}라운드 종료 · 드라이버 {len(drivers)}명 · '
-          f'뉴스 {len(news)}건 · 한글 뉴스 {len(news_ko)}건')
+          f'결과 {len(race_results)}개 라운드 · 뉴스 {len(news)}건 · 한글 뉴스 {len(news_ko)}건')
     return 0
 
 
