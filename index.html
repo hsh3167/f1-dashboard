@@ -481,16 +481,19 @@ function trackDetail(c){
 /* ---- tabs ---- */
 /* ---- 라운드별 결과 (data/live.json 의 results) ---- */
 const RES = DATA.results || {};
+const SPR = DATA.sprints || {};          // 스프린트는 별도 경기 — 포인트가 따로 붙는다
 const RD_DONE = Object.keys(RES).map(Number).sort((a,b)=>a-b);
 
-/* 누적 포인트 시계열. keyFn: 드라이버 id → 계열 키(드라이버 id 또는 팀 id) */
+/* 누적 포인트 시계열. keyFn: 드라이버 id → 계열 키(드라이버 id 또는 팀 id)
+   결승 + 스프린트를 모두 더해야 챔피언십 점수와 일치한다. */
 function cumSeries(keyFn){
+  const rows = rd => (RES[rd]||[]).concat(SPR[rd]||[]);
   const keys = new Set();
-  RD_DONE.forEach(rd => (RES[rd]||[]).forEach(r=>{ const k=keyFn(r.d); if(k) keys.add(k); }));
+  RD_DONE.forEach(rd => rows(rd).forEach(r=>{ const k=keyFn(r.d); if(k) keys.add(k); }));
   const acc = {}, series = {};
   keys.forEach(k=>{ acc[k]=0; series[k]=[]; });
   RD_DONE.forEach(rd => {
-    (RES[rd]||[]).forEach(r=>{ const k=keyFn(r.d); if(k) acc[k] += (+r.pts||0); });
+    rows(rd).forEach(r=>{ const k=keyFn(r.d); if(k) acc[k] += (+r.pts||0); });
     keys.forEach(k => series[k].push(acc[k]));
   });
   return series;
@@ -538,9 +541,9 @@ function lineChart(items, title){
     aria-label="${esc(title)}">${g}${lines}</svg></div>`;
 }
 
-/* 라운드 순위표 */
-function resultTable(rd){
-  const rows = RES[rd];
+/* 라운드 순위표 (src 를 넘기면 스프린트 표) */
+function resultTable(rd, src){
+  const rows = (src || RES)[rd];
   if(!rows || !rows.length) return '';
   return `<div class="rbox"><table class="rtable">
    <thead><tr><th>P</th><th>드라이버</th><th style="text-align:right">그리드</th>
@@ -828,7 +831,8 @@ function openRound(rd){
        <dt>포맷</dt><dd>${r.sprint?'스프린트 주말':'표준 주말'}</dd>
        ${w?`<dt>우승</dt><dd>${esc(w.first)} ${esc(w.last)} · ${esc(T[w.team].ko)}</dd>`:''}
      </dl>
-     ${RES[r.rd]?`<div class="eyebrow" style="margin-top:14px">레이스 결과</div>${resultTable(r.rd)}`:''}
+     ${SPR[r.rd]?`<div class="eyebrow" style="margin-top:14px">스프린트 결과</div>${resultTable(r.rd, SPR)}`:''}
+     ${RES[r.rd]?`<div class="eyebrow" style="margin-top:14px">결승 결과</div>${resultTable(r.rd)}`:''}
      ${c.note?`<p class="note">${esc(c.note)}</p>`:''}
      <p class="note" style="color:var(--muted);font-size:11.5px">
        도면은 OpenStreetMap 기반 트랙 좌표(f1-circuits GeoJSON)를 메르카토르 투영해 그린 실제 형상입니다.

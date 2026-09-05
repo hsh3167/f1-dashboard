@@ -75,28 +75,37 @@ def norm(did):
 PAGE = 100          # jolpica 는 limit 을 100 으로 잘라낸다. 반드시 나눠 받아야 한다.
 
 
-def fetch_results():
-    """시즌 전체 레이스 결과를 라운드별로 모은다. {라운드: [결과, ...]}
+def fetch_paged(path, key, label):
+    """결과 계열 엔드포인트를 페이지 단위로 모아 라운드별로 합친다. {라운드: [결과, ...]}
 
     jolpica/Ergast 는 limit 최대치가 100 이라 limit=1000 을 보내도 100건만 온다.
     한 레이스의 결과가 페이지 경계에 걸쳐 쪼개지므로 라운드별로 이어붙인다.
     """
     races, offset, total = {}, 0, None
     while True:
-        rs = getjson(f'{API}/results.json?limit={PAGE}&offset={offset}')
+        rs = getjson(f'{API}/{path}?limit={PAGE}&offset={offset}')
         if not rs:
             break
         md = rs['MRData']
         total = int(md['total'])
         for race in md['RaceTable']['Races']:
-            races.setdefault(int(race['round']), []).extend(race['Results'])
+            races.setdefault(int(race['round']), []).extend(race.get(key, []))
         offset += PAGE
         if offset >= total:
             break
     if total is not None:
         got = sum(len(v) for v in races.values())
-        print(f'  · 결과 {got}/{total}건 · {len(races)}개 라운드')
+        print(f'  · {label} {got}/{total}건 · {len(races)}개 라운드')
     return races
+
+
+def fetch_results():
+    return fetch_paged('results.json', 'Results', '결승 결과')
+
+
+def fetch_sprints():
+    """스프린트 결과. 결승과 별도 엔드포인트라 이걸 빼면 누적 포인트가 어긋난다."""
+    return fetch_paged('sprint.json', 'SprintResults', '스프린트 결과')
 
 
 # 세션 키 → 화면 표기. 순서가 곧 주말 진행 순서다.
@@ -179,6 +188,21 @@ def fetch_season():
         if rd == rounds_done:
             last_podium = {str(rd): [top.get(1), top.get(2), top.get(3)]}
 
+    # 스프린트 결과 (포인트가 붙는 별도 경기)
+    sprint_results = {}
+    for rd, res_list in fetch_sprints().items():
+        rows = []
+        for res in res_list:
+            pts = float(res.get('points', 0) or 0)
+            rows.append(dict(
+                p=int(res['position']),
+                d=norm(res['Driver']['driverId']),
+                g=int(res.get('grid', 0) or 0),
+                pts=int(pts) if pts.is_integer() else pts,
+                t=(res.get('Time') or {}).get('time') or res.get('status', ''),
+            ))
+        sprint_results[str(rd)] = sorted(rows, key=lambda x: x['p'])
+
     drivers = []
     for s in dl['DriverStandings']:
         d = s['Driver']
@@ -207,7 +231,7 @@ def fetch_season():
         wins=int(s['wins']),
     ) for s in cl['ConstructorStandings']]
 
-    return rounds_done, drivers, constructors, winners, last_podium, race_results
+    return rounds_done, drivers, constructors, winners, last_podium, race_results, sprint_results
 
 
 # ---------------------------------------------------------------- 뉴스
@@ -329,7 +353,7 @@ def main():
     prev_news = {n['url']: n for n in prev.get('news', [])}
 
     print('· 순위/결과 수집')
-    rounds_done, drivers, constructors, winners, last_podium, race_results = fetch_season()
+    rounds_done, drivers, constructors, winners, last_podium, race_results, sprint_results = fetch_season()
 
     print('· 세션 시간표 수집')
     sessions = fetch_schedule() or prev.get('sessions', {})
@@ -371,6 +395,7 @@ def main():
         winners=winners,
         podium=last_podium or prev.get('podium', {}),
         results=race_results,
+        sprints=sprint_results,
         sessions=sessions,
         news=news,
         newsKo=news_ko,
@@ -386,7 +411,7 @@ def main():
     with open(LIVE, 'w', encoding='utf-8') as f:
         json.dump(live, f, ensure_ascii=False, indent=1)
     print(f'갱신 완료: {rounds_done}라운드 종료 · 드라이버 {len(drivers)}명 · '
-          f'결과 {len(race_results)}개 라운드 · 뉴스 {len(news)}건 · 한글 뉴스 {len(news_ko)}건')
+          f'결과 {len(race_results)}R · 스프린트 {len(sprint_results)}R · 뉴스 {len(news)}건 · 한글 {len(news_ko)}건')
     return 0
 
 
