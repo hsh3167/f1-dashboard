@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-10 01:40 KST",
+ "updated": "2026-09-10 05:57 KST",
  "roundsDone": 13,
  "drivers": [
   {
@@ -3570,21 +3570,27 @@
  ],
  "newsKo": [
   {
+   "ko": "[F1] 하자르 복귀 또 미뤄졌다… '日 레이서' 츠노다 ‘3경기 연속 출전’",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JYkdpeXVFdld3MG9VeFZpcnZ4blgxTDFidXlvWHZQODZOcDk0eXA0RDhLOWxhVzZlaWdpR2hRZGZOSndoNUFEZnBTWFF6Q0tNUW13SnJjSFJMaXFhQ2NwTXI5VzEySExjVTdr?oc=5",
+   "src": "standingout.kr",
+   "date": "2026-09-09"
+  },
+  {
    "ko": "제프리스, 마진 확대 전망에 리버티 포뮬러 원 주식 매수 투자의견 개시",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXVnJQbm15a0xhRXNFOVd2LU5SSlVsYUR2Z2dvRkc0RE5kMUJmajExck02M291WXY0ZVp4dzMxbV84dDFPVXdDc1ZmY0hNYXpOajFpQVIzalNVQkZJY0pDSnZNc1A5UjQ3WU0yUFZvN202c3lD?oc=5",
-   "src": "Investing.com 한국어",
+   "src": "kr.investing.com",
+   "date": "2026-09-09"
+  },
+  {
+   "ko": "리버티미디어포뮬러원, 제프리스 호평에 상승",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZbTdmZDM4UE5qbUpMNU45ZzVtLVIzUXFnNmEtWmNrMmZDTDBHX2FuTGtuQVBBb01KTzVVaHlmczNnY3l4N1NZZl9jMzh6bGpSekRxMV9aZkhlRm51LWkzUC1IeElfaW5YWkwzMzY3R08xOVU?oc=5",
+   "src": "마켓인",
    "date": "2026-09-09"
   },
   {
    "ko": "Xlence, 싱가포르 F1 그랑프리 연계 트레이딩 대회 개최",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1RN1NyMUhHWnVFNVpoLXFWejRwa0xlZmVsWTY2WTVpX2RNSHJ4c2ZCZGhFdkJvNm9DWEstRDBkdEFpMC1hWU45dnRIUjYxQjZIU1hiRUtUUmQ5U283UlVybVUxaGM3Z9IBaEFVX3lxTFBwb1hsSFNOdGRSeG1DX25zNXRIOGtXT1lkZWtTSlNkb3IyTWhOYURfTHRwQ3hXbmdEX09ndzl5WGh6bF9oTHl4NnlEMDJJLWI4RHFiTG83akx0VlJlQjF4blJZdE8zbGhf?oc=5",
    "src": "글로벌 비즈 뉴스",
-   "date": "2026-09-08"
-  },
-  {
-   "ko": "영화로 `F1` 입문했다면…다큐부터 베르스타펜의 `100명 추월` 도전까지",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MSE9HVnVVeGJSb25qWDZYaWpQcXpweTc4QjRSTnhNTXRfVEdDbTRIb2pkTkVOZ0ZWU1JTanRqQUNxVWZwdTRYN1FsWkpQd1dRbjNib3pwZi1EWkdaZThsSl9n?oc=5",
-   "src": "매일신문",
    "date": "2026-09-08"
   },
   {
@@ -3613,7 +3619,7 @@
   },
   {
    "ko": "메르세데스 F1, 이탈리아 그랑프리서 원투 피니시",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1lZEJJVk1TWFdLTkQwa0Y5QnRwM3VCVUd3YnVSdU85UjUtenBBYUhBNGI0RHZhWDRMN1g1XzVINWszRFcydGc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQNVFqMnROdk5FYW0tTFF1UEFfOXd6bHpTZ1hkWVc2Z0FreVlybGhwZ2o5akNvV1UzRW5hTUhSYk1fZC1tUWJoU0J6cw?oc=5",
    "src": "v.daum.net",
    "date": "2026-09-07"
   },
@@ -3633,12 +3639,6 @@
    "ko": "메르세데스-AMG F1, 2026 F1 13라운드 이탈리아 GP 원투 피니시… 키미 안토넬리 우승",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EdTE4RmhPVnRMZVFrSjhKR2wyVnpxcXBUdEFnaHQ2UkFYM3NoQ1VzaWFwZnBkUFl5a2RrSWNCZ3I2Z0s5YWNFZjZZYmFGbXdZbWxrQ0ZsR2M2TlI1UXpWUHhjSGs1VHFBaGp6bk9OclhWTjEteFJKYnFhYmRXeVk?oc=5",
    "src": "다나와 자동차",
-   "date": "2026-09-07"
-  },
-  {
-   "ko": "F1 신성 안토넬리, 19번째로 출발해 모두 제쳤다",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42S0RCZjJ6YVpZUEY0dHB4ajZkR0lveGNGTWQ2RlppOGR4ZVN0N29WQld1aGdlYzZMTnJCbWVoazlWVmlfOVlqYUZzcw?oc=5",
-   "src": "v.daum.net",
    "date": "2026-09-07"
   }
  ]
