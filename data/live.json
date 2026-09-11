@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-11 13:43 KST",
+ "updated": "2026-09-11 20:24 KST",
  "roundsDone": 13,
  "drivers": [
   {
@@ -3484,6 +3484,12 @@
  },
  "news": [
   {
+   "en": "LIVE COVERAGE: First Practice for the Spanish Grand Prix",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-first-practice-in-spain-2026.zDUa1TwrBl4R1mJoU7siA",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "Norris assesses title chances compared to Mercedes duo",
    "url": "https://www.formula1.com/en/latest/article/norris-assesses-title-chances-compared-to-mercedes-duo-ahead-of-spanish-grand-prix.5UiEzyidzsQc04nBgqSTnW",
    "src": "Formula1.com",
@@ -3538,34 +3544,28 @@
    "date": ""
   },
   {
-   "en": "Formula 1's Spanish football connections",
-   "url": "https://www.formula1.com/en/latest/article/from-real-madrid-to-the-world-champions-f1s-spanish-football-connections.3QPKa3FXpae2ToobQP1SHt",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "What's behind Alonso's cryptic comments about his F1 future?",
+   "url": "https://www.autosport.com/f1/news/whats-behind-fernando-alonsos-cryptic-comments-about-his-f1-future/10854444/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-09-11"
   },
   {
-   "en": "Hamilton: I don’t want preferential treatment from Ferrari",
-   "url": "https://www.autosport.com/f1/news/lewis-hamilton-i-dont-want-preferential-treatment-from-ferrari/10854275/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "en": "Russell set to take F1 engine penalty after Mercedes introduces power unit upgrade",
+   "url": "https://www.autosport.com/f1/news/george-russell-reveals-when-hell-take-his-own-f1-engine-penalty/10854419/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
-   "date": "2026-09-10"
+   "date": "2026-09-11"
   },
   {
-   "en": "What the drivers think of the \"crazy\" Madrid F1 circuit",
-   "url": "https://www.autosport.com/f1/news/what-the-drivers-think-of-the-crazy-madrid-f1-circuit/10854239/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-09-10"
+   "en": "Insider reveals how Red Bull’s billion-dollar Porsche deal collapsed",
+   "url": "https://www.motorsport.com/f1/news/insider-reveals-why-the-red-bulls-billion-dollar-porsche-deal-collapsed/10854467/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-09-11"
   },
   {
-   "en": "Leclerc accepts blame for Italian GP clash with Hamilton: \"I went too far\"",
-   "url": "https://www.autosport.com/f1/news/i-went-too-far-charles-leclerc-accepts-blame-for-second-corner-monza-clash-with-lewis-hamilton/10854230/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-09-10"
-  },
-  {
-   "en": "Vasseur rejects Ferrari internal crisis claims as he defends team",
-   "url": "https://www.autosport.com/f1/news/vasseur-rejects-ferrari-internal-crisis-claims-as-he-defends-team/10854216/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-09-10"
+   "en": "What's behind Fernando Alonso's cryptic comments about his F1 future?",
+   "url": "https://www.motorsport.com/f1/news/whats-behind-fernando-alonsos-cryptic-comments-about-his-f1-future/10854427/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-09-11"
   }
  ],
  "newsKo": [
