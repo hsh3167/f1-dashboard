@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-14 01:19 KST",
- "roundsDone": 13,
+ "updated": "2026-09-14 05:51 KST",
+ "roundsDone": 14,
  "drivers": [
   {
    "id": "antonelli",
@@ -11,9 +11,9 @@
    "dob": "2006-08-25",
    "team": "mercedes",
    "pos": 1,
-   "pts": 267,
-   "wins": 7,
-   "podiums": 11,
+   "pts": 292,
+   "wins": 8,
+   "podiums": 12,
    "best": 1,
    "ko": "안드레아 키미 안토넬리",
    "nat": "이탈리아",
@@ -29,7 +29,7 @@
    "dob": "1998-02-15",
    "team": "mercedes",
    "pos": 2,
-   "pts": 201,
+   "pts": 211,
    "wins": 2,
    "podiums": 7,
    "best": 1,
@@ -65,9 +65,9 @@
    "dob": "1999-11-13",
    "team": "mclaren",
    "pos": 4,
-   "pts": 171,
+   "pts": 186,
    "wins": 2,
-   "podiums": 4,
+   "podiums": 5,
    "best": 1,
    "ko": "랜도 노리스",
    "nat": "영국",
@@ -83,7 +83,7 @@
    "dob": "1997-10-16",
    "team": "ferrari",
    "pos": 5,
-   "pts": 155,
+   "pts": 167,
    "wins": 1,
    "podiums": 4,
    "best": 1,
@@ -101,9 +101,9 @@
    "dob": "1997-09-30",
    "team": "red_bull",
    "pos": 6,
-   "pts": 127,
+   "pts": 145,
    "wins": 0,
-   "podiums": 5,
+   "podiums": 6,
    "best": 2,
    "ko": "막스 페르스타펜",
    "nat": "네덜란드",
@@ -119,7 +119,7 @@
    "dob": "2001-04-06",
    "team": "mclaren",
    "pos": 7,
-   "pts": 116,
+   "pts": 120,
    "wins": 0,
    "podiums": 2,
    "best": 2,
@@ -155,7 +155,7 @@
    "dob": "2002-02-11",
    "team": "red_bull",
    "pos": 9,
-   "pts": 51,
+   "pts": 59,
    "wins": 0,
    "podiums": 0,
    "best": 5,
@@ -191,7 +191,7 @@
    "dob": "2007-08-08",
    "team": "rb",
    "pos": 11,
-   "pts": 29,
+   "pts": 31,
    "wins": 0,
    "podiums": 0,
    "best": 6,
@@ -209,7 +209,7 @@
    "dob": "2003-05-27",
    "team": "alpine",
    "pos": 12,
-   "pts": 21,
+   "pts": 27,
    "wins": 0,
    "podiums": 0,
    "best": 6,
@@ -263,7 +263,7 @@
    "dob": "1987-08-19",
    "team": "audi",
    "pos": 15,
-   "pts": 6,
+   "pts": 7,
    "wins": 0,
    "podiums": 0,
    "best": 8,
@@ -421,37 +421,37 @@
   {
    "id": "mercedes",
    "pos": 1,
-   "pts": 468,
-   "wins": 9
+   "pts": 503,
+   "wins": 10
   },
   {
    "id": "ferrari",
    "pos": 2,
-   "pts": 346,
+   "pts": 358,
    "wins": 2
   },
   {
    "id": "mclaren",
    "pos": 3,
-   "pts": 287,
+   "pts": 306,
    "wins": 2
   },
   {
    "id": "red_bull",
    "pos": 4,
-   "pts": 204,
+   "pts": 230,
    "wins": 0
   },
   {
    "id": "rb",
    "pos": 5,
-   "pts": 75,
+   "pts": 77,
    "wins": 0
   },
   {
    "id": "alpine",
    "pos": 6,
-   "pts": 62,
+   "pts": 68,
    "wins": 0
   },
   {
@@ -463,7 +463,7 @@
   {
    "id": "audi",
    "pos": 8,
-   "pts": 16,
+   "pts": 17,
    "wins": 0
   },
   {
@@ -498,13 +498,14 @@
   "10": "antonelli",
   "11": "norris",
   "12": "norris",
-  "13": "antonelli"
+  "13": "antonelli",
+  "14": "antonelli"
  },
  "podium": {
-  "13": [
+  "14": [
    "antonelli",
-   "russell",
-   "verstappen"
+   "verstappen",
+   "norris"
   ]
  },
  "results": {
@@ -2535,6 +2536,162 @@
     "pts": 0,
     "t": "Retired"
    }
+  ],
+  "14": [
+   {
+    "p": 1,
+    "d": "antonelli",
+    "g": 2,
+    "pts": 25,
+    "t": "1:34:23.754"
+   },
+   {
+    "p": 2,
+    "d": "verstappen",
+    "g": 3,
+    "pts": 18,
+    "t": "+4.351"
+   },
+   {
+    "p": 3,
+    "d": "norris",
+    "g": 1,
+    "pts": 15,
+    "t": "+5.089"
+   },
+   {
+    "p": 4,
+    "d": "leclerc",
+    "g": 5,
+    "pts": 12,
+    "t": "+29.116"
+   },
+   {
+    "p": 5,
+    "d": "russell",
+    "g": 6,
+    "pts": 10,
+    "t": "+29.829"
+   },
+   {
+    "p": 6,
+    "d": "lawson",
+    "g": 8,
+    "pts": 8,
+    "t": "+1:26.746"
+   },
+   {
+    "p": 7,
+    "d": "colapinto",
+    "g": 9,
+    "pts": 6,
+    "t": "+1:34.281"
+   },
+   {
+    "p": 8,
+    "d": "piastri",
+    "g": 7,
+    "pts": 4,
+    "t": "+1:35.839"
+   },
+   {
+    "p": 9,
+    "d": "lindblad",
+    "g": 10,
+    "pts": 2,
+    "t": "+10.408"
+   },
+   {
+    "p": 10,
+    "d": "hulkenberg",
+    "g": 11,
+    "pts": 1,
+    "t": "+11.298"
+   },
+   {
+    "p": 11,
+    "d": "ocon",
+    "g": 13,
+    "pts": 0,
+    "t": "+15.143"
+   },
+   {
+    "p": 12,
+    "d": "gasly",
+    "g": 14,
+    "pts": 0,
+    "t": "+26.152"
+   },
+   {
+    "p": 13,
+    "d": "bortoleto",
+    "g": 12,
+    "pts": 0,
+    "t": "+28.389"
+   },
+   {
+    "p": 14,
+    "d": "tsunoda",
+    "g": 15,
+    "pts": 0,
+    "t": "+1:00.163"
+   },
+   {
+    "p": 15,
+    "d": "albon",
+    "g": 16,
+    "pts": 0,
+    "t": "+1:26.212"
+   },
+   {
+    "p": 16,
+    "d": "bearman",
+    "g": 22,
+    "pts": 0,
+    "t": "+1:29.963"
+   },
+   {
+    "p": 17,
+    "d": "alonso",
+    "g": 17,
+    "pts": 0,
+    "t": "+33.776"
+   },
+   {
+    "p": 18,
+    "d": "bottas",
+    "g": 19,
+    "pts": 0,
+    "t": "+49.246"
+   },
+   {
+    "p": 19,
+    "d": "sainz",
+    "g": 20,
+    "pts": 0,
+    "t": "Retired"
+   },
+   {
+    "p": 20,
+    "d": "perez",
+    "g": 18,
+    "pts": 0,
+    "t": "Retired"
+   },
+   {
+    "p": 21,
+    "d": "stroll",
+    "g": 21,
+    "pts": 0,
+    "t": "Retired"
+   },
+   {
+    "p": 22,
+    "d": "hamilton",
+    "g": 4,
+    "pts": 0,
+    "t": "Retired"
+   }
   ]
  },
  "sprints": {
@@ -3484,6 +3641,54 @@
  },
  "news": [
   {
+   "en": "All the key moments from the 2026 Spanish Grand Prix",
+   "url": "https://www.formula1.com/en/latest/article/spain-lowdown-all-the-key-moments-as-antonelli-wins-again-after-norris-denied-by-vsc.6SviC74tjh4ndbhnkBmKAR",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "What the teams said – Race day in Spain",
+   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-race-day-in-spain-2026.7IhNkhQqXuGU1ZEg9JBm1C",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Wolff explains decision on Russell's tyre strategy in Madrid",
+   "url": "https://www.formula1.com/en/latest/article/wolff-explains-decision-on-russells-tyre-strategy-in-spanish-grand-prix.5OzZDcQ3mOReAy80BqHiU1",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Stella outlines the logic behind Norris’ ‘unlucky’ stop",
+   "url": "https://www.formula1.com/en/latest/article/there-was-no-option-to-retain-the-lead-stella-outlines-the-logic-behind-norris-unlucky-stop-in-madrid.NSjRkSmAcXBtfeGbOukmI",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Leclerc reflects on Ferrari's Spanish GP strategy",
+   "url": "https://www.formula1.com/en/latest/article/we-did-the-right-thing-leclerc-reflects-on-ferraris-strategy-in-spanish-grand-prix.5j2upQDTZCFn8vAD3oj2Hh",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Verstappen explains Hamilton clash in Spanish GP",
+   "url": "https://www.formula1.com/en/latest/article/its-just-the-nature-of-the-track-verstappen-explains-hamilton-clash-in-spanish-grand-prix.2vYkg2cHh94KvLnFsPgD1S",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "'I’m not in the fight for the drivers’ title' – Russell",
+   "url": "https://www.formula1.com/en/latest/article/im-not-in-the-fight-for-the-drivers-russell-concedes-doubts-over-title-challenge-after-antonellis-madrid-win.7KEnyGkZGdpac7a5RD8sx9",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Norris 'believes I deserved' Spanish GP victory",
+   "url": "https://www.formula1.com/en/latest/article/believe-i-deserved-it-today-norris-reflects-on-losing-spanish-gp-victory-after-ill-timed-vsc.3xLTCM9C1ADjwOFOZi1ccq",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "Antonelli insists Norris ‘deserved to win’ Spanish GP",
    "url": "https://www.formula1.com/en/latest/article/antonelli-insists-spanish-grand-prix-victory-doesnt-feel-as-good-because-norris-deserved-to-win.3xzbDrPVlNml5vNEy24fMo",
    "src": "Formula1.com",
@@ -3496,46 +3701,10 @@
    "date": ""
   },
   {
-   "en": "Hamilton explains brake issues that caused Spanish GP DNF",
-   "url": "https://www.formula1.com/en/latest/article/had-the-car-to-fight-for-a-win-hamilton-explains-brake-issues-that-caused-spanish-gp-retirement.3NzWcY1clsL8KQPyc9ONqm",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Antonelli clinches Spanish GP victory over Verstappen and Norris",
-   "url": "https://www.formula1.com/en/latest/article/antonelli-clinches-victory-over-verstappen-and-norris-in-spanish-gp.644ZZfPzRPEaUh2JBHcB9",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Beganovic dominates F2 Feature Race at the Madring",
-   "url": "https://www.formula1.com/en/latest/article/f2-beganovic-dominates-feature-race-at-the-madring.4njvvlmxvIktVUFHW0nN7f",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "OFFICIAL GRID: Who starts where for the Spanish GP",
-   "url": "https://www.formula1.com/en/latest/article/official-grid-whos-where-in-spain-as-bearman-starts-from-pit-lane.60kOIMQ1SjZXrrvW4qIHV7",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "LIVE COVERAGE: Antonelli wins Spanish GP in Madrid",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-tag-heuer-gran-premio-de-espagna-2026.1qVpB0HHVYWvyTmFEoe9Bs",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Ugochukwu is crowned champion as Taponen earns maiden F3 win",
-   "url": "https://www.formula1.com/en/latest/article/f3-ugochukwu-is-crowned-2026-champion-as-taponen-earns-maiden-win.7ksMVdTT8EyqtHDCSlLNXW",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Norris in title fight 'until it's not possible' – Brown",
-   "url": "https://www.formula1.com/en/latest/article/until-its-not-possible-its-possible-brown-claims-mclaren-still-in-title-fight-after-norris-spanish-gp-pole.NqUd0XQSAmwQcHsQUY69Z",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "F1 drivers push for Madring changes after \"very poor\" Spanish GP: \"I almost fell asleep\"",
+   "url": "https://www.autosport.com/f1/news/i-almost-fell-asleep-f1-drivers-push-for-madrid-track-changes-after-very-poor-spanish-gp/10855598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-09-13"
   },
   {
    "en": "Red Bull defends decision to force Verstappen to give back two positions",
@@ -3552,18 +3721,6 @@
   {
    "en": "Verstappen: Victory at Spanish GP to be \"tough\" with lack of overtaking opportunities",
    "url": "https://www.autosport.com/f1/news/verstappen-pessimistic-for-spanish-gp-win/10855330/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-09-13"
-  },
-  {
-   "en": "The impact Madrid's \"six kilometres long\" pitlane will have on Spanish GP strategy",
-   "url": "https://www.autosport.com/f1/news/spanish-gp-strategy-options-in-madrid/10855301/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-09-13"
-  },
-  {
-   "en": "Ugochukwu beats Slater to win F3 title",
-   "url": "https://www.autosport.com/fia-f3/news/ugochukwu-beats-slater-to-win-f3-title/10855297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
    "date": "2026-09-13"
   }
@@ -3586,12 +3743,6 @@
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyUU9UV3cyQWo5VzBSbFZ0Si1PZmFrakl1Nm15azRtS0FTRXVMUU9Ia1VrYmw5V0ZRZHk2REg5dU9MNk52RndETHNnWm9Deld5aEdWTGM4VFdJLXN3bGs3WVdmOFpQWjNrZEtB?oc=5",
    "src": "standingout.kr",
    "date": "2026-09-13"
-  },
-  {
-   "ko": "드디어 해치웠나! 2026년 08월의 F1 정리",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YVnU1YUNTU0NWTU1idjQ3Tlk5aWs4enBwZ09Ja0thNUx3NjA5bm1NZEh1NzBkcjg5OG1jekYxZFliZVlfbXVzLW50NWpCVXJ6VU1saVhSV3NHUWlJUFRKcEJPSjV0dGpKdHc?oc=5",
-   "src": "모터트렌드",
-   "date": "2026-09-12"
   },
   {
    "ko": "[2026 F1 제14전 스페인 GP 금요일 종합] 메르세데스, '마드링' 첫 기준 제시",
@@ -3639,6 +3790,12 @@
    "ko": "Formula 1, 새 마드리드 도심 서킷에서 첫 스페인 그랑프리 개최",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSjI2ZjZ3T3oyN1Y4VFR2TS1Ra2puZ0RKSG1hazJRaUI4a3I3OFZEQ0xyemNYQnZQc2xacGNFdzRvSElRaW9JSURVbGVxamszZlZWNW8yNkJkcVBCZ0lfR3BLeGdoV2h6OUF4RVBhakI5aE52UWt0Q0tqdmg2cElQUDlDeERFVXFlY2c?oc=5",
    "src": "Hypebeast.KR",
+   "date": "2026-09-10"
+  },
+  {
+   "ko": "[2026 F1 서킷 스토리⑭] 45년 만의 마드리드, 24% 뱅킹 품은 ‘마드링’",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00WHo1cGdmQ3lzWFA5eFg4X0pYR2dkMkREZFE5MV9mUXlNVHFTUlcwRzd2WG1yZzNPZXBmNW1mcFRJcnBpRUVzVm5lUm9DdzlDUkxkQlJuU0ZMaDhSamxmWEhmR1RrM29lczRtbnRlNA?oc=5",
+   "src": "오토레이싱",
    "date": "2026-09-10"
   }
  ]
