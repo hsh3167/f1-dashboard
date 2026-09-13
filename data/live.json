@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-14 05:51 KST",
+ "updated": "2026-09-14 08:11 KST",
  "roundsDone": 14,
  "drivers": [
   {
@@ -3695,12 +3695,6 @@
    "date": ""
   },
   {
-   "en": "Verstappen wins fan vote after P2 in Madrid",
-   "url": "https://www.formula1.com/en/latest/article/driver-of-the-day-verstappen-takes-fan-honours-after-p2-finish-in-madrid.2WsLTGb177ipjUTCxxusUr",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
    "en": "F1 drivers push for Madring changes after \"very poor\" Spanish GP: \"I almost fell asleep\"",
    "url": "https://www.autosport.com/f1/news/i-almost-fell-asleep-f1-drivers-push-for-madrid-track-changes-after-very-poor-spanish-gp/10855598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
@@ -3723,80 +3717,86 @@
    "url": "https://www.autosport.com/f1/news/verstappen-pessimistic-for-spanish-gp-win/10855330/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
    "date": "2026-09-13"
+  },
+  {
+   "en": "The impact Madrid's \"six kilometres long\" pitlane will have on Spanish GP strategy",
+   "url": "https://www.autosport.com/f1/news/spanish-gp-strategy-options-in-madrid/10855301/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-09-13"
   }
  ],
  "newsKo": [
   {
    "ko": "고카트 레이스에 막스의 등장이라.. 막스는 100명의 드라이버를 이길 수 있을까?",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TN1BEVnJ6bEVmX3N0dUxwWFVfZXV1V2FsNVBwc0hRazBucUw0UGNCaS1uenlUY1NfNjdWTDNJLTZmZFY2WVVXXzhGUVJ5NEp3UUxQM3pPUWxKYlNqdzUyWXlOUGsxTV8xN1hj?oc=5",
-   "src": "Red Bull",
-   "date": "2026-09-13"
-  },
-  {
-   "ko": "맥라렌 노리스, F1 스페인 GP 0.011초 차 폴포지션…안토넬리 2위",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ITTNRck9NZWI1Z2JOS1F0T0V0U0dFSm5tbG1XYkJJaGp2N242VXZRTHdoSlowckgwN3ZzTFJPQXo1UWNFMFE?oc=5",
-   "src": "v.daum.net",
-   "date": "2026-09-13"
-  },
-  {
-   "ko": "[F1] 마지막 한 바퀴에 뒤집었다… 노리스, 0.011초 차 ‘마드링 첫 폴’",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyUU9UV3cyQWo5VzBSbFZ0Si1PZmFrakl1Nm15azRtS0FTRXVMUU9Ia1VrYmw5V0ZRZHk2REg5dU9MNk52RndETHNnWm9Deld5aEdWTGM4VFdJLXN3bGs3WVdmOFpQWjNrZEtB?oc=5",
-   "src": "standingout.kr",
+   "src": "redbull.com",
    "date": "2026-09-13"
   },
   {
    "ko": "[2026 F1 제14전 스페인 GP 금요일 종합] 메르세데스, '마드링' 첫 기준 제시",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LZnU5M3FtdnZVeWZ5NW4zLUh4OTZIYmFZczEwUkZtWUJNRGlDSGJoV2EyeThWVmxLTWZKMnU4czRXem5obnRIODJablBpZjV6QWE5ZFZrUHI2aWJPbHhWLTZLYUgzclU2SWFic1Ntbw?oc=5",
-   "src": "오토레이싱",
+   "src": "autoracing.co.kr",
    "date": "2026-09-12"
   },
   {
    "ko": "[2026 F1 제14전 스페인 GP 예선 공식 기자회견] L. 노리스·A. 안토넬리·M. 페르스타펜",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHNjg5cm54Y05OYnhCZHc1NFNUd2NvU2RsWGdvbnhmWTI4LWZhTTIzMnFiNnhzaXNtQjJvby1seDJmYUxQTFhiSThXYVplV01HWVQtQW9SZWN0MkxNbHh2M1FSVFkyYzBnYXg0MnE1bw?oc=5",
-   "src": "오토레이싱",
+   "src": "autoracing.co.kr",
    "date": "2026-09-12"
   },
   {
    "ko": "[2026 FIA F1 제14전 스페인 GP QR] L. 노리스, A. 안토넬리 0.011초 제치고 폴",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FU0ZMejFpRGZMUHJJOWJ1MFYzT2c1emZ2T2ttVE16OGlOaVpZTW8wSmVCYU9QRWdsSVQ4VXB2VWJHM0FJanp5bTVxejMxWTdXYWZnSjBxLVp6MDFVSTVxR09JZ1VzSTBrOEUyYm9mcw?oc=5",
-   "src": "오토레이싱",
+   "src": "autoracing.co.kr",
    "date": "2026-09-12"
   },
   {
-   "ko": "[2026 F1 스페인 GP FP2] A. 안토넬리 1분33초662로 ‘톱’, 메르세데스 첫 날 두 세션 1위",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ndUo3SUtqT2JaV1JEb2VDbi1tbkFQcXZucmpwLTZ1eVE3VUpuMzNDWXRZOS1RNGpFVW9zOVc3SEVyNkI1ZzZ0Q3ItQkV2Y3lCTDZwcEdJVXoyeWdwVkFKRnFTcnVYRVY4Wnh2U0R5aw?oc=5",
-   "src": "오토레이싱",
+   "ko": "맥라렌 노리스, F1 스페인 GP 0.011초 차 폴포지션…안토넬리 2위",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ITTNRck9NZWI1Z2JOS1F0T0V0U0dFSm5tbG1XYkJJaGp2N242VXZRTHdoSlowckgwN3ZzTFJPQXo1UWNFMFE?oc=5",
+   "src": "v.daum.net",
    "date": "2026-09-12"
   },
   {
    "ko": "[2026 F1 제14전 스페인 GP FP1] G. 러셀, 마드링 첫 세션 1분34초077 1위",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPVzljdnVKLXFyREE0ZWVTMEFFdTdBamVWQldYN2hUSFZ3aGdOdEZmSjBTWHpZYXEtLWp5ZVkzbE9BWVpWVlcyVFJVOUhHMlhnSEljcHdkU2JHTWxnLUZpMGtHLU1aVEQ5OG1TXzVFdw?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-09-11"
-  },
-  {
-   "ko": "[2026 F1 14R] 안토넬리, 페라리 듀오 제치고 스페인 GP FP2 톱타임",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UTjY4SGFpUTd0cjRoX2dNakJURnp3dHhDa3hlOTJpUzE0dzUyR3paM0VXRVhGS3lfaXlHY09pWWwxOXQzNmdLejNkUU5rZDAtZTFGZEhMMnVKbVp4TWFCYjczQTkxZ3pyZkFEeA?oc=5",
-   "src": "고카넷",
-   "date": "2026-09-11"
-  },
-  {
-   "ko": "[F1 스페인 GP 프리뷰] 모두에게 낯선 마드리드… 안토넬리 독주에 제동 걸릴까",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsVUZUTkF5NnhpODNWc04yajU5SE1ISENYOFAxbzAwNEI5VG51N0c2RUUzeGxFclh6eEE1SkdBOWN0WExuV1pPTFJOQWItc3RqU2NXdTBNV05ZSUgyZGZKUnlmLWVwLVFKaktJ?oc=5",
-   "src": "standingout.kr",
+   "src": "autoracing.co.kr",
    "date": "2026-09-11"
   },
   {
    "ko": "Formula 1, 새 마드리드 도심 서킷에서 첫 스페인 그랑프리 개최",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSjI2ZjZ3T3oyN1Y4VFR2TS1Ra2puZ0RKSG1hazJRaUI4a3I3OFZEQ0xyemNYQnZQc2xacGNFdzRvSElRaW9JSURVbGVxamszZlZWNW8yNkJkcVBCZ0lfR3BLeGdoV2h6OUF4RVBhakI5aE52UWt0Q0tqdmg2cElQUDlDeERFVXFlY2c?oc=5",
-   "src": "Hypebeast.KR",
+   "src": "hypebeast.kr",
    "date": "2026-09-10"
   },
   {
    "ko": "[2026 F1 서킷 스토리⑭] 45년 만의 마드리드, 24% 뱅킹 품은 ‘마드링’",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00WHo1cGdmQ3lzWFA5eFg4X0pYR2dkMkREZFE5MV9mUXlNVHFTUlcwRzd2WG1yZzNPZXBmNW1mcFRJcnBpRUVzVm5lUm9DdzlDUkxkQlJuU0ZMaDhSamxmWEhmR1RrM29lczRtbnRlNA?oc=5",
-   "src": "오토레이싱",
+   "src": "autoracing.co.kr",
    "date": "2026-09-10"
+  },
+  {
+   "ko": "비스타 하우스, 포뮬러 1 싱가포르 그랑프리 열기 속 아시아 최초 독점 공개",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OZjFGTU9lNnNMdGk4SnJUZm9DMDZra2hNOWRFSTdLcTltYWZKQ1hkWF9QRm9ESU8wN0tjYl94anJtVFA0b1dtSVRObk11NnF2LWl6Z3VLNC13WUhkNXJ5Tkh3?oc=5",
+   "src": "krmobile.prnasia.com",
+   "date": "2026-09-10"
+  },
+  {
+   "ko": "2007 F1 월드챔피언 키미 라이코넨 아들 로빈, 레드불 주니어팀 합류",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JVE1id2lLQl9JbndKZV85QjRUVVpldWxJbldiRjcxb25ZSVFUQUJTdG40SHNsdFZFbWljcXMyOTV6cWhRdkRfMnZORXp6cDlnVkR3WkNUM1lucU1MQzZlRVAxdkpRc20tOHA2R2lNWQ?oc=5",
+   "src": "autoracing.co.kr",
+   "date": "2026-09-10"
+  },
+  {
+   "ko": "[F1] 하자르 복귀 또 미뤄졌다… '日 레이서' 츠노다 ‘3경기 연속 출전’",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JYkdpeXVFdld3MG9VeFZpcnZ4blgxTDFidXlvWHZQODZOcDk0eXA0RDhLOWxhVzZlaWdpR2hRZGZOSndoNUFEZnBTWFF6Q0tNUW13SnJjSFJMaXFhQ2NwTXI5VzEySExjVTdr?oc=5",
+   "src": "standingout.kr",
+   "date": "2026-09-09"
+  },
+  {
+   "ko": "제프리스, 마진 확대 전망에 리버티 포뮬러 원 주식 매수 투자의견 개시",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXVnJQbm15a0xhRXNFOVd2LU5SSlVsYUR2Z2dvRkc0RE5kMUJmajExck02M291WXY0ZVp4dzMxbV84dDFPVXdDc1ZmY0hNYXpOajFpQVIzalNVQkZJY0pDSnZNc1A5UjQ3WU0yUFZvN202c3lD?oc=5",
+   "src": "Investing.com 한국어",
+   "date": "2026-09-09"
   }
  ]
 }
