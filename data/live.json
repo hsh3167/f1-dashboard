@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16 02:01 KST",
+ "updated": "2026-09-16 06:22 KST",
  "roundsDone": 14,
  "drivers": [
   {
@@ -3641,6 +3641,18 @@
  },
  "news": [
   {
+   "en": "'McLaren’s call to pit Norris after the VSC made no sense'",
+   "url": "https://www.formula1.com/en/latest/article/jolyon-palmer-why-mclarens-call-to-pit-norris-after-the-vsc-made-no-sense.591nDyPP1oQBkgU8n738QD",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Victoria Farfus sets the pace in 2026 F1 ACADEMY Rookie Test",
+   "url": "https://www.formula1.com/en/latest/article/victoria-farfus-sets-the-pace-in-2026-f1-academy-rookie-test.6sNjU097nnpCHhFWTl9Lcu",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "Who impressed our Power Rankings judges in Madrid?",
    "url": "https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-at-the-spanish-grand-prix.1WDmXXNVzYQTsurO3RJpUe",
    "src": "Formula1.com",
@@ -3679,18 +3691,6 @@
   {
    "en": "Audi junior Freddie Slater to race in F2 in 2027",
    "url": "https://www.formula1.com/en/latest/article/audi-junior-and-f3-runner-up-freddie-slater-to-race-in-f2-in-2027.3OE1AvmCWpQuuHXW9GJs4O",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "5 Winners and 5 Losers from Madrid",
-   "url": "https://www.formula1.com/en/latest/article/5-winners-and-5-losers-from-madrid-2026-spanish-grand-prix.EHx7H0e24uJ5ZwVXZD90q",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "What we learned from F1's first visit to the Madring",
-   "url": "https://www.formula1.com/en/latest/article/what-we-learned-from-f1s-first-visit-to-the-madring.7gkOP8vYszgWmb9e2SyfgD",
    "src": "Formula1.com",
    "date": ""
   },
@@ -3783,7 +3783,7 @@
   {
    "ko": "메르세데스-AMG F1 팀, 2026 스페인 그랑프리 우승",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tY2dnNDVzY2FQQ3Btdk5aN2lweS1oNXRUd3NhUDA3WHJtb0k1dTIxQ2luSlBsX0prN0FVVThQQ0szQklnMFg5ZkdPR1R4X2xUdFpzbzBtWXUzVDJRdlBmS2hzejBDZGozc29qRmtiaDdYdw?oc=5",
-   "src": "auto.danawa.com",
+   "src": "다나와 자동차",
    "date": "2026-09-14"
   },
   {
@@ -3795,7 +3795,7 @@
   {
    "ko": "메르세데스-AMG 페트로나스 F1팀, 월드 챔피언십 스페인 그랑프리서 정상 달성",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzYzN6d2lPNnhRNDBSVE1BUHpSZ0Z4eEJUajY1dGh5ZUdvd2JNbUthQURsbndsNnRlYnB1V1JCekZIcEZmaTh1cG0za29wQ3lGN19VLW5ScnlKUQ?oc=5",
-   "src": "브릿지경제",
+   "src": "viva100.com",
    "date": "2026-09-14"
   }
  ]
