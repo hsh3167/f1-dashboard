@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18 02:00 KST",
+ "updated": "2026-09-18 06:24 KST",
  "roundsDone": 14,
  "drivers": [
   {
@@ -3757,18 +3757,6 @@
    "date": "2026-09-16"
   },
   {
-   "ko": "[F1] 노리스는 우승 경쟁하는데… 맥라렌이 설명한 피아스트리의 부진",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5INk83Mk4zWWIwbzJQUzlEVHZOakZhVXY1QWlfelFvSkM0bl9WdEU1MXVRSWVmb290NXVMVHRCZVk4WGRzemVPV0hLWmdNTXRMN0pBdXRublJZZWY4cUYyZ3l6Wkl2THl2SXNv?oc=5",
-   "src": "standingout.kr",
-   "date": "2026-09-16"
-  },
-  {
-   "ko": "“안토넬리, 마드링 첫 F1 우승자 등극… 시즌 8승·챔피언십 선두 질주”",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hLUtnQzMxZUowN1FvT2RHN2kzeDgwTG1TM3Y5bHA3cm5kbEN2bGs5Yi1TR2NXUnBhdXV4X1RwM01sRzFCQWVCTFhHbDVDQ011cVZKWW4wdzZPVWZtVU5IY2tyLVpCb3dDVW9qRw?oc=5",
-   "src": "데일리25",
-   "date": "2026-09-15"
-  },
-  {
    "ko": "킷캣, 포뮬러 1 F1® 공식 파트너십 기반 시즌 한정 에디션 국내 출시",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TdS13SGZnNFRyck5JdkhpU0NaUE03OEV4ZmRuV00yNHlyejZKN1hRNFdrOUFmUlowTDlYUnlSaFJFT0NoZDFJX01rT3p1MzItWlA2QmZNSVRuazdpWGlN?oc=5",
    "src": "뉴스와이어",
@@ -3787,6 +3775,12 @@
    "date": "2026-09-15"
   },
   {
+   "ko": "“안토넬리, 마드링 첫 F1 우승자 등극… 시즌 8승·챔피언십 선두 질주”",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hLUtnQzMxZUowN1FvT2RHN2kzeDgwTG1TM3Y5bHA3cm5kbEN2bGs5Yi1TR2NXUnBhdXV4X1RwM01sRzFCQWVCTFhHbDVDQ011cVZKWW4wdzZPVWZtVU5IY2tyLVpCb3dDVW9qRw?oc=5",
+   "src": "데일리25",
+   "date": "2026-09-15"
+  },
+  {
    "ko": "디월트, 맥라렌 F1팀과 손잡고 '스페셜 에디션' 전동공구 출시",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zTHZldXY5RDhtbU1uUGc0WUVVWVBrY0pnTnhzbVlVSlBGUllGaVNpQk1ZNTVlU0Y2eUxpZzl0VGtxNVZONXRvaTA2RGlCLWxhalUxaHdtYkJFNDQ5aUhiX3l0UXVGQQ?oc=5",
    "src": "건설이코노미뉴스",
@@ -3796,6 +3790,12 @@
    "ko": "호텔에서 즐기는 F1…레스케이프, 레드불 협업 패키지 출시",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lT0FBYW1QblJEaEtrSklmQlJxSlZYNFdPM2FPNXlMUHhvTkJjUHp1Ri1PZG5Ramg4X2ZoSDJEWVgxbzhOYXdLRmY0MGtUdFphdGh4eXhmN0UyLWdockFn0gFkQVVfeXFMUDJoUG1SM2lOaDY5SzUyY3c5UTFHcUlxbEFJYUwtMUhqU2JOQ2tubTQtVWVtZjdCd0JmZ092TjdLd05hNlZXYTlmY2x0V0FIVHpYOThZdExYb1BaZlNNR2d2cU9HWQ?oc=5",
    "src": "뉴스1",
+   "date": "2026-09-15"
+  },
+  {
+   "ko": "“F1 챔피언의 공구가 왔다”…디월트, 맥라렌 스페셜 에디션 국내 출시",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jVlNTeHhOYU1OTkR0SlNVT3pGTVBSVDY0NGE3SGVaSjBOWFdVQmRpb0xVR2tNMWRqenJlQ2RSMnVVRDh1b1B5ZzRYRmhOZkt5Sy1HNHpPVEl4X3dCSVQ5RGlKblVJbmNOU1VGRg?oc=5",
+   "src": "뉴스탭",
    "date": "2026-09-15"
   }
  ]
