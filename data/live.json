@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18 13:45 KST",
+ "updated": "2026-09-18 20:17 KST",
  "roundsDone": 14,
  "drivers": [
   {
@@ -3641,6 +3641,12 @@
  },
  "news": [
   {
+   "en": "Football legend José Mourinho on his love for F1",
+   "url": "https://www.formula1.com/en/latest/article/exclusive-jose-mourinho-on-his-love-for-f1-how-racing-compares-to-football-and-the-madrings-first-grand-prix.Wl3Y66ubo4tiVmrkmkLQZ",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "Mekies offers update on Hadjar's injury recovery",
    "url": "https://www.formula1.com/en/latest/article/nothing-wrong-with-isacks-recovery-mekies-on-when-hadjar-will-return.5VYeVNlvMTpwjhT0zPCwX8",
    "src": "Formula1.com",
@@ -3695,34 +3701,28 @@
    "date": ""
   },
   {
-   "en": "What's new with the F1 Sprint in 2027?",
-   "url": "https://www.formula1.com/en/latest/article/whats-new-with-the-f1-sprint-in-2027.6UiqFIVYRoMSgPvAA8yiiZ",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Former Mercedes F1 tech chief Elliott joins Alpine as CTO",
-   "url": "https://www.autosport.com/f1/news/mike-elliott-joins-alpine-f1/10856497/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "en": "How Antonelli's luxury problem is causing Wolff and Mercedes grey hairs",
+   "url": "https://www.autosport.com/f1/news/hes-causing-us-grey-hair-why-kimi-antonellis-speed-is-a-luxury-problem-for-mercedes/10856785/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
-   "date": "2026-09-17"
+   "date": "2026-09-18"
   },
   {
-   "en": "Tsunoda's in-depth look at why he failed to master Red Bull’s F1 car in 2025",
-   "url": "https://www.autosport.com/f1/news/tsunoda-on-poor-f1-2025/10856471/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-09-17"
-  },
-  {
-   "en": "Autosport magazine: Antonelli and a Can-Am celebration",
-   "url": "https://www.autosport.com/general/news/autosport-magazine-antonelli-and-a-can-am-celebration/10856457/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-09-17"
-  },
-  {
-   "en": "James Vowles backs Madrid to become 'one to watch' despite calls for changes",
-   "url": "https://www.motorsport.com/f1/news/james-vowles-backs-madrid-to-become-one-to-watch-despite-calls-for-changes/10856719/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "en": "Kimi Antonelli could get \"more and more panicked\" in F1 title fight, says Nico Rosberg",
+   "url": "https://www.motorsport.com/f1/news/kimi-antonelli-could-get-more-and-more-panicked-in-f1-title-fight-says-nico-rosberg/10856828/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
-   "date": "2026-09-17"
+   "date": "2026-09-18"
+  },
+  {
+   "en": "Cadillac F1 owners Mark Walter and TWG Global face class-action lawsuit",
+   "url": "https://www.motorsport.com/f1/news/cadillac-f1-under-scrutiny-after-lawsuit-against-mark-walter-and-twg-global/10856796/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-09-18"
+  },
+  {
+   "en": "How Kimi Antonelli's luxury problem is causing Toto Wolff and Mercedes grey hairs",
+   "url": "https://www.motorsport.com/f1/news/how-kimi-antonellis-luxury-problem-is-causing-toto-wolff-and-mercedes-grey-hairs/10856780/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-09-18"
   }
  ],
  "newsKo": [
@@ -3733,15 +3733,15 @@
    "date": "2026-09-17"
   },
   {
-   "ko": "Xlence, 싱가포르 F1 그랑프리 연계 ‘9월 트레이딩 대회’ 반환점… 신흥 참가자 선두 등극, 상금 15만달러 돌파",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oTGllQ3Q1cngyaUtxS1JzRjRNYmg0Z3BSd1pRQTJDV1A2NGF0N3dQMzBFbkY4VTFLRzZlUnNTVHZsLV9NdXdZdGJBVWxwTEEyQnJySVBmeWdOZ2hCY2dN?oc=5",
-   "src": "newswire.co.kr",
-   "date": "2026-09-17"
-  },
-  {
    "ko": "F1 챔피언이 카트 타면… 100명 추월하는 데 35분이면 충분했다",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVXRyTlA4TlZtdkRRZmxqRjNqd2MzVjd5SDdYWmR1WmViaXpfNXJRX2dDRTEwLTdhNTZIaDJRTXZ0eVVPdGZ6UUthU081aUNieGFISk1FS3RTRTNMU1ViWmtydVdzdDRSbU1HZVl2WVhSeVdqVDRoaVBZYXBwazNlaTlYY2VnbzZXRGlz?oc=5",
    "src": "조선일보",
+   "date": "2026-09-17"
+  },
+  {
+   "ko": "Xlence, 싱가포르 F1 그랑프리 연계 ‘9월 트레이딩 대회’ 반환점… 신흥 참가자 선두 등극, 상금 15만달러 돌파",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oTGllQ3Q1cngyaUtxS1JzRjRNYmg0Z3BSd1pRQTJDV1A2NGF0N3dQMzBFbkY4VTFLRzZlUnNTVHZsLV9NdXdZdGJBVWxwTEEyQnJySVBmeWdOZ2hCY2dN?oc=5",
+   "src": "뉴스와이어",
    "date": "2026-09-17"
   },
   {
@@ -3751,9 +3751,21 @@
    "date": "2026-09-17"
   },
   {
+   "ko": "여인택 피치스 대표 \"자동차로 시작해 음악·F1까지 … 다음은 오프라인 공간\"",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xMEFNc0Z6SXhfZ1hKU1ItWEJfRDdDSkZvbklzMFlFYVVQb2FVVmVEcEJXU0FTbnRSWHZlZW9WbTdSQ0o4OWFsb2FXTUVYRFZtTnFpYmg3aE9HcENKa2h5N1UxOHJhbTVweWJCSGZfOA?oc=5",
+   "src": "브랜드브리프",
+   "date": "2026-09-16"
+  },
+  {
+   "ko": "엔하이픈 제이, 스페인 F1 현장 참석",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fc1duVTA0M1ZXdFh3d3lnVXdIRl9qcDV4N3lEOXJjWkoyZXUzeVhBUjBhWVMtaWJlRFJyVlB2MXRiRHZhTTdTTXBYRHN4NlJpbXZESl9neGpkQ0JhRXlzMWtoZVc?oc=5",
+   "src": "bntnews.co.kr",
+   "date": "2026-09-15"
+  },
+  {
    "ko": "킷캣, 포뮬러 1 F1® 공식 파트너십 기반 시즌 한정 에디션 국내 출시",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TdS13SGZnNFRyck5JdkhpU0NaUE03OEV4ZmRuV00yNHlyejZKN1hRNFdrOUFmUlowTDlYUnlSaFJFT0NoZDFJX01rT3p1MzItWlA2QmZNSVRuazdpWGlN?oc=5",
-   "src": "newswire.co.kr",
+   "src": "뉴스와이어",
    "date": "2026-09-15"
   },
   {
@@ -3765,7 +3777,7 @@
   {
    "ko": "“안토넬리, 마드링 첫 F1 우승자 등극… 시즌 8승·챔피언십 선두 질주”",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hLUtnQzMxZUowN1FvT2RHN2kzeDgwTG1TM3Y5bHA3cm5kbEN2bGs5Yi1TR2NXUnBhdXV4X1RwM01sRzFCQWVCTFhHbDVDQ011cVZKWW4wdzZPVWZtVU5IY2tyLVpCb3dDVW9qRw?oc=5",
-   "src": "데일리25",
+   "src": "daily25news.com",
    "date": "2026-09-15"
   },
   {
@@ -3783,18 +3795,6 @@
   {
    "ko": "[2026 F1 제14전 스페인 GP Review-레드불] “할 수 있는 것을 최대한 끌어낸 결과”",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83akZLWjk5Z3o2empaZGhrSmNoRUx3eFBScHdpSXp5YjlhdllpX2FoV2R6TlpfbmVVNFJqbVFJRjBNbjMtMS04TWczZEJXdkwta3J3MGg3NWZFOFg1R1NaeFl4c051ODQzOG1qbi1WSQ?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-09-15"
-  },
-  {
-   "ko": "메르세데스-AMG 페트로나스 F1팀, 2026 월드 챔피언십 14라운드 스페인 그랑프리에서 키미 안토넬리 또다시 정상 올라",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zUkh1RG4zZW9famR1Qk9CVmJSTzhBV3JPV2t4amMtNVFXSHE0RWFiWk1ZZnBqX2h1bGtlbGMtNU5vTUZkaTI0MUMyUDJlRWo5b3Z2ZUFDQTRxVlYxV2hTU1lNcU1zWGpLOWc?oc=5",
-   "src": "모토야",
-   "date": "2026-09-15"
-  },
-  {
-   "ko": "[2026 F1 제14전 스페인 GP Review-페라리] “현실적으로 가능했던 최선의 결과”",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94STY3MTdxUDhIa2QwSnVRSHlBY01DekxwaWV4WGhvOWRsNjRwRFRveG04d0RZQ1ZGc0E4SVZhb3lndlRfRkk1alNUTmtTTlZJSm16ckk2eTlQS2FjeUVuVDhJQU1xMWFHOF9scV90cw?oc=5",
    "src": "오토레이싱",
    "date": "2026-09-15"
   }
