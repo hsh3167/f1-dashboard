@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18 20:17 KST",
+ "updated": "2026-09-19 01:25 KST",
  "roundsDone": 14,
  "drivers": [
   {
@@ -3641,6 +3641,18 @@
  },
  "news": [
   {
+   "en": "Why Williams' FW48 upgrade package in Baku is so crucial",
+   "url": "https://www.formula1.com/en/latest/article/why-the-fw48-upgrade-package-in-baku-is-so-crucial-for-williams.2vxRlXS2yDBqT7O5VMCn3s",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Inside the Italian dinner party staged on Monza's grid",
+   "url": "https://www.formula1.com/en/latest/article/la-tavolata-when-barilla-hosted-an-italian-dinner-party-on-the-monza-starting-grid.7EXnyQM7FhQiro3h9xDSrP",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "Football legend José Mourinho on his love for F1",
    "url": "https://www.formula1.com/en/latest/article/exclusive-jose-mourinho-on-his-love-for-f1-how-racing-compares-to-football-and-the-madrings-first-grand-prix.Wl3Y66ubo4tiVmrkmkLQZ",
    "src": "Formula1.com",
@@ -3689,16 +3701,10 @@
    "date": ""
   },
   {
-   "en": "How Verstappen won the ‘biggest race’ of his motorsport career",
-   "url": "https://www.formula1.com/en/latest/article/how-verstappen-won-the-biggest-race-of-his-motorsport-career.7mtHfExYDWL6bpKtCCkddg",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Vote for your favourite 2027 race to win Grand Prix tickets",
-   "url": "https://www.formula1.com/en/latest/article/Unlocked-2027-Calendar-competition.1C6hmNQLKIz9Ntzve5cSuC",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "Cadillac F1 owners Mark Walter and TWG Global face class-action lawsuit",
+   "url": "https://www.autosport.com/f1/news/cadillac-f1-owners-mark-walter-and-twg-global-face-class-action-lawsuit/10856873/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-09-18"
   },
   {
    "en": "How Antonelli's luxury problem is causing Wolff and Mercedes grey hairs",
@@ -3707,25 +3713,31 @@
    "date": "2026-09-18"
   },
   {
-   "en": "Kimi Antonelli could get \"more and more panicked\" in F1 title fight, says Nico Rosberg",
-   "url": "https://www.motorsport.com/f1/news/kimi-antonelli-could-get-more-and-more-panicked-in-f1-title-fight-says-nico-rosberg/10856828/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "en": "David Coulthard explains why Robin Raikkonen's rise resembles Max Verstappen's",
+   "url": "https://www.motorsport.com/f1/news/david-coulthard-explains-why-robin-raikkonens-rise-resembles-max-verstappens/10856933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
    "date": "2026-09-18"
   },
   {
-   "en": "Cadillac F1 owners Mark Walter and TWG Global face class-action lawsuit",
-   "url": "https://www.motorsport.com/f1/news/cadillac-f1-under-scrutiny-after-lawsuit-against-mark-walter-and-twg-global/10856796/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-09-18"
-  },
-  {
-   "en": "How Kimi Antonelli's luxury problem is causing Toto Wolff and Mercedes grey hairs",
-   "url": "https://www.motorsport.com/f1/news/how-kimi-antonellis-luxury-problem-is-causing-toto-wolff-and-mercedes-grey-hairs/10856780/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "en": "Guenther Steiner fires back at Mohammed Ben Sulayem over Fernando Alonso remarks",
+   "url": "https://www.motorsport.com/f1/news/guenther-steiner-fires-back-at-mohammed-ben-sulayem-over-fernando-alonso-remarks/10856898/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
    "date": "2026-09-18"
   }
  ],
  "newsKo": [
+  {
+   "ko": "벌금 80만원 내라고? ‘치마 입은’ F1 레전드 딸에…팬들은 “10점 만점에 10점”",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PeTBMUWF3dlQ5ZFdtY0VIXzVjaHQyQWJ6Z3FUc2ZTTS1LYXhWX1RtdFM4VnliYVpaQ2M5c3lvRm5aMTRBdzNtT0tiNWJ4QQ?oc=5",
+   "src": "전자신문",
+   "date": "2026-09-18"
+  },
+  {
+   "ko": "윌리엄즈 F1·지라드 페리고, FW48 모티브 ‘로레아토’ 공개",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PYWpMUXNlMmxORl9WaDhocFRFRDF2SFFUOXJqNzdwM24wY2liXzB5bnZfcVlMZjVZWkdyYmN3SzdJd3lIS1R0STVtNWdxbndpRXc2aTJHMzEzOElfTlJGMXFpUTZJVmJSTzNQY05rOA?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-09-18"
+  },
   {
    "ko": "[해외 크리에이티브] \"F1 드라이버가 ‘소리’를 온몸으로 느낀다면?\" 드비알레, 아이작 하자르와 새 글로벌 캠페인 론칭",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KM3VvNDNHbC1vWVJIVFpOS3Jxd3Yzdm1sZm9CRUpkSDZrSjlrZEpyUkJHSS10T2htMVZYR3RzR0NBaUxYUU9Tc200ZGhMdGlFMjNNQTNrQk9GMVAzcUw2VV96WDk4VjQyYmhZVA?oc=5",
@@ -3751,12 +3763,6 @@
    "date": "2026-09-17"
   },
   {
-   "ko": "여인택 피치스 대표 \"자동차로 시작해 음악·F1까지 … 다음은 오프라인 공간\"",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xMEFNc0Z6SXhfZ1hKU1ItWEJfRDdDSkZvbklzMFlFYVVQb2FVVmVEcEJXU0FTbnRSWHZlZW9WbTdSQ0o4OWFsb2FXTUVYRFZtTnFpYmg3aE9HcENKa2h5N1UxOHJhbTVweWJCSGZfOA?oc=5",
-   "src": "브랜드브리프",
-   "date": "2026-09-16"
-  },
-  {
    "ko": "엔하이픈 제이, 스페인 F1 현장 참석",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fc1duVTA0M1ZXdFh3d3lnVXdIRl9qcDV4N3lEOXJjWkoyZXUzeVhBUjBhWVMtaWJlRFJyVlB2MXRiRHZhTTdTTXBYRHN4NlJpbXZESl9neGpkQ0JhRXlzMWtoZVc?oc=5",
    "src": "bntnews.co.kr",
@@ -3777,7 +3783,7 @@
   {
    "ko": "“안토넬리, 마드링 첫 F1 우승자 등극… 시즌 8승·챔피언십 선두 질주”",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hLUtnQzMxZUowN1FvT2RHN2kzeDgwTG1TM3Y5bHA3cm5kbEN2bGs5Yi1TR2NXUnBhdXV4X1RwM01sRzFCQWVCTFhHbDVDQ011cVZKWW4wdzZPVWZtVU5IY2tyLVpCb3dDVW9qRw?oc=5",
-   "src": "daily25news.com",
+   "src": "데일리25",
    "date": "2026-09-15"
   },
   {
@@ -3790,12 +3796,6 @@
    "ko": "호텔에서 즐기는 F1…레스케이프, 레드불 협업 패키지 출시",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lT0FBYW1QblJEaEtrSklmQlJxSlZYNFdPM2FPNXlMUHhvTkJjUHp1Ri1PZG5Ramg4X2ZoSDJEWVgxbzhOYXdLRmY0MGtUdFphdGh4eXhmN0UyLWdockFn0gFkQVVfeXFMUDJoUG1SM2lOaDY5SzUyY3c5UTFHcUlxbEFJYUwtMUhqU2JOQ2tubTQtVWVtZjdCd0JmZ092TjdLd05hNlZXYTlmY2x0V0FIVHpYOThZdExYb1BaZlNNR2d2cU9HWQ?oc=5",
    "src": "뉴스1",
-   "date": "2026-09-15"
-  },
-  {
-   "ko": "[2026 F1 제14전 스페인 GP Review-레드불] “할 수 있는 것을 최대한 끌어낸 결과”",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83akZLWjk5Z3o2empaZGhrSmNoRUx3eFBScHdpSXp5YjlhdllpX2FoV2R6TlpfbmVVNFJqbVFJRjBNbjMtMS04TWczZEJXdkwta3J3MGg3NWZFOFg1R1NaeFl4c051ODQzOG1qbi1WSQ?oc=5",
-   "src": "오토레이싱",
    "date": "2026-09-15"
   }
  ]
