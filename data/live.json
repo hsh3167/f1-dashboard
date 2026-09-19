@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-19 13:39 KST",
+ "updated": "2026-09-19 20:01 KST",
  "roundsDone": 14,
  "drivers": [
   {
@@ -3641,6 +3641,24 @@
  },
  "news": [
   {
+   "en": "How Justin Rose and McLaren are pursuing marginal gains in golf",
+   "url": "https://www.formula1.com/en/latest/article/justin-rose-on-mclaren-golf-bringing-f1s-pursuit-of-perfection-to-the-fairway.3TJaNTEeF2kh7qSt1dKNDv",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Inside F1’s ‘brutal’ fuel development race",
+   "url": "https://www.formula1.com/en/latest/article/inside-f1s-brutal-fuel-development-race-and-how-it-could-benefit-the-wider-world.6In5yoMOgQGwYQpdfzFBUC",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "TREMAYNE: Why I’m delighted the Portuguese GP is back in 2027",
+   "url": "https://www.formula1.com/en/latest/article/why-im-delighted-the-portuguese-grand-prix-is-back-on-the-calendar.6SJAb71ghhAlCGcKRx5clZ",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "Constructors' title battle heating up for F1 bettors",
    "url": "https://www.formula1.com/en/latest/article/the-extra-gear-constructors-championship-title-battle-heating-up-for-f1-bettors.7JNLTSWlH3AFNUvOoJMW1T",
    "src": "Formula1.com",
@@ -3683,53 +3701,35 @@
    "date": ""
   },
   {
-   "en": "Tsunoda reveals his biggest mistake at Red Bull in 2025",
-   "url": "https://www.formula1.com/en/latest/article/tsunoda-on-his-biggest-mistake-in-2025-and-how-red-bull-struggles-made-him-a-better-driver.6ZtPZyQvEGoMCEhos8HcfY",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "The power unit manufacturers with the most wins in F1 history",
-   "url": "https://www.formula1.com/en/latest/article/the-10-power-unit-manufacturers-with-the-most-wins-in-f1-history.6Xvo6nQOtd57NRY674wJg2",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Alpine announce Mike Elliott as Chief Technical Officer",
-   "url": "https://www.formula1.com/en/latest/article/alpine-announce-mike-elliott-as-chief-technical-officer.1ZFQGVhmwtjyec9icP1YHr",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Cadillac F1 owners Mark Walter and TWG Global face class-action lawsuit",
-   "url": "https://www.autosport.com/f1/news/cadillac-f1-owners-mark-walter-and-twg-global-face-class-action-lawsuit/10856873/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "en": "Mercedes aims to end pole drought with upcoming Malaysia F1 upgrades",
+   "url": "https://www.autosport.com/f1/news/mercedes-aims-to-end-pole-drought-with-upcoming-malaysia-f1-upgrades/10857058/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
-   "date": "2026-09-18"
+   "date": "2026-09-19"
   },
   {
-   "en": "How Antonelli's luxury problem is causing Wolff and Mercedes grey hairs",
-   "url": "https://www.autosport.com/f1/news/hes-causing-us-grey-hair-why-kimi-antonellis-speed-is-a-luxury-problem-for-mercedes/10856785/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-09-18"
-  },
-  {
-   "en": "Williams shares behind-the-scenes look at Alex Albon’s life away from F1",
-   "url": "https://www.motorsport.com/f1/news/williams-shares-behind-the-scenes-look-at-alex-albons-life-away-from-f1/10856966/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "en": "Kimi Antonelli hailed as \"phenomenon\" as David Coulthard rejects luck claims",
+   "url": "https://www.motorsport.com/f1/news/kimi-antonelli-hailed-as-phenomenon-as-david-coulthard-rejects-luck-claims/10857078/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
-   "date": "2026-09-18"
+   "date": "2026-09-19"
   },
   {
-   "en": "David Coulthard explains why Robin Raikkonen's rise resembles Max Verstappen's",
-   "url": "https://www.motorsport.com/f1/news/david-coulthard-explains-why-robin-raikkonens-rise-resembles-max-verstappens/10856933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "en": "Williams accepts 2026 F1 development compromise as focus turns to 2027",
+   "url": "https://www.motorsport.com/f1/news/williams-accepts-2026-f1-development-compromise-as-focus-turns-to-2027/10857074/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
-   "date": "2026-09-18"
+   "date": "2026-09-19"
+  },
+  {
+   "en": "Mercedes aims to end pole drought with upcoming Malaysia F1 upgrades",
+   "url": "https://www.motorsport.com/f1/news/mercedes-aims-to-end-pole-draught-with-upcoming-malaysia-f1-upgrades/10856860/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-09-19"
   }
  ],
  "newsKo": [
   {
    "ko": "벌금 80만원 내라고? ‘치마 입은’ F1 레전드 딸에…팬들은 “10점 만점에 10점”",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PeTBMUWF3dlQ5ZFdtY0VIXzVjaHQyQWJ6Z3FUc2ZTTS1LYXhWX1RtdFM4VnliYVpaQ2M5c3lvRm5aMTRBdzNtT0tiNWJ4QQ?oc=5",
-   "src": "etnews.com",
+   "src": "전자신문",
    "date": "2026-09-18"
   },
   {
@@ -3753,7 +3753,7 @@
   {
    "ko": "F1 챔피언이 카트 타면… 100명 추월하는 데 35분이면 충분했다",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVXRyTlA4TlZtdkRRZmxqRjNqd2MzVjd5SDdYWmR1WmViaXpfNXJRX2dDRTEwLTdhNTZIaDJRTXZ0eVVPdGZ6UUthU081aUNieGFISk1FS3RTRTNMU1ViWmtydVdzdDRSbU1HZVl2WVhSeVdqVDRoaVBZYXBwazNlaTlYY2VnbzZXRGlz?oc=5",
-   "src": "chosun.com",
+   "src": "조선일보",
    "date": "2026-09-17"
   },
   {
@@ -3793,9 +3793,9 @@
    "date": "2026-09-15"
   },
   {
-   "ko": "엔하이픈 제이, 태그호이어와 스페인 그랑프리 레이스 데이 빛내",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qVUpDVlZOcTV3RTVxdXg2SXBzTWZfc0hiTWNVZTlmMkFVUm9SQnlTYnNsYlgxS3Ftd21jeXlneFk5NG81dVB1TmVEcDY1QjA?oc=5",
-   "src": "v.daum.net",
+   "ko": "“안토넬리, 마드링 첫 F1 우승자 등극… 시즌 8승·챔피언십 선두 질주”",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hLUtnQzMxZUowN1FvT2RHN2kzeDgwTG1TM3Y5bHA3cm5kbEN2bGs5Yi1TR2NXUnBhdXV4X1RwM01sRzFCQWVCTFhHbDVDQ011cVZKWW4wdzZPVWZtVU5IY2tyLVpCb3dDVW9qRw?oc=5",
+   "src": "daily25news.com",
    "date": "2026-09-15"
   }
  ]
