@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23 01:58 KST",
+ "updated": "2026-09-23 06:20 KST",
  "roundsDone": 14,
  "drivers": [
   {
@@ -3695,12 +3695,6 @@
    "date": ""
   },
   {
-   "en": "Hadjar to make racing return with Red Bull at Azerbaijan GP",
-   "url": "https://www.formula1.com/en/latest/article/hadjar-to-make-racing-return-with-red-bull-at-azerbaijan-gp.1ddPnUSDEze0V9MCiQ9d2U",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
    "en": "What were Leclerc's \"other opportunities\" before signing new Ferrari deal?",
    "url": "https://www.autosport.com/f1/news/what-were-leclercs-f1-options-before-ferrari-deal/10857989/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
@@ -3721,6 +3715,12 @@
   {
    "en": "What were Charles Leclerc's \"other opportunities\" before signing new Ferrari deal?",
    "url": "https://www.motorsport.com/f1/news/what-were-leclercs-other-opportunities-before-signing-new-ferrari-deal/10857955/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-09-22"
+  },
+  {
+   "en": "Five things to look out for at the F1 Azerbaijan GP",
+   "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-azerbaijan-gp/10857961/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
    "date": "2026-09-22"
   }
@@ -3765,13 +3765,19 @@
   {
    "ko": "벌금 80만원 내라고? ‘치마 입은’ F1 레전드 딸에…팬들은 “10점 만점에 10점”",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PeTBMUWF3dlQ5ZFdtY0VIXzVjaHQyQWJ6Z3FUc2ZTTS1LYXhWX1RtdFM4VnliYVpaQ2M5c3lvRm5aMTRBdzNtT0tiNWJ4QQ?oc=5",
-   "src": "etnews.com",
+   "src": "전자신문",
    "date": "2026-09-18"
   },
   {
    "ko": "맥라렌 레이싱, 샤크닌자와 F1·인디카·WEC 협업 확대",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03UGgzb21tbkpoQ3YtX1pYR2NJUGs2Tks0YTlRNlBSWHFVWnFXS3VsN0ZuNGJ6VGVNMlVqOXdGUFhSM21pU2IyR3VCWDZrWnV4OEZFdlBwMFNnOE9zM2Z6UWlGUXFRQ2JUUGM1Y3RTVQ?oc=5",
    "src": "오토레이싱",
+   "date": "2026-09-18"
+  },
+  {
+   "ko": "F1 페르스타펜, '카트 100대 추월쇼'…14랩 만에 끝냈다",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LQlZmclJVOHVsMF9nQ1h5WkI5NG1Bd1E3RzM2a0RCZms0NTJvN3ctMTdDLXRlQmdILWk0RGxfdEFpUGJ1Tm9hQzJHVXV5SjB5ei1rWW5faVBPdGE1MXg3ck15czU5LVh5QXfSAW5BVV95cUxNUzVSRmNIeWx6Qk5RdWZGVDBWLXJWeWF6MjdCc3Jsc1FYQWxPMTgwa1pYcC1fd3JWLVMxSVg4ZmVXQWJuSnM0MVdxdnpzbFBDdHdUOHVNaEFlSl9ONmlkNk5laHZZVHg4VnRDOXFVUQ?oc=5",
+   "src": "지피코리아",
    "date": "2026-09-18"
   },
   {
@@ -3791,12 +3797,6 @@
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OODlYOHlkcmFQZTFMbWw5THZic3ZRdndhc1NHV3UwUmhpdEoxVmF4WlNZWDZBcjNvYUdiLXVyMlJTZkk0NG84ckExaXZkU3R4ZER6OA?oc=5",
    "src": "v.daum.net",
    "date": "2026-09-17"
-  },
-  {
-   "ko": "2027 F1 24라운드 확정, 포르투갈·튀르키예 복귀·스프린트 10회",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zaWZzNzBLS0I5MnduelpGV1JqNVRTR1VfZTRsY0lMTWJBdWdfM3JiaGdzdk40ZTk4U0FvYUVadTI4OE04SGwydUlPUFpSSzNNZ1p6X1dNdVZNM20xQzYxc0FhTGQxekhxaEVVMWp1QQ?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-09-16"
   }
  ]
 }
