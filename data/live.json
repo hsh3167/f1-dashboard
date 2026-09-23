@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-23 06:20 KST",
+ "updated": "2026-09-23 13:47 KST",
  "roundsDone": 14,
  "drivers": [
   {
@@ -3727,9 +3727,21 @@
  ],
  "newsKo": [
   {
+   "ko": "2027 F1 결선, 새 PU 대응해 305→290km 단축",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1TzZoVEVwb0lQTzZuUzNnbWhEdEpoZVJyVEVJSEt0dDZzTExweThGVmxNV0dWRVBWTFMwZUZaQ1RENDdfSDBDUV9EV3hlaFROVjZhWFU2eWNpR3VTNHFONVFFMXhLdGdiMDhnQ0kwdw?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-09-23"
+  },
+  {
    "ko": "[F1] 내년부터 경기 거리 짧아지나?… 305㎞ → 290㎞ 축소안 합의",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54Z1A4MkxwREVEU1VJTlJUNkFnTjZxNnByVW4yWE9xWVhxd0lsOHhNdUFvbEcyU0d2d3M5V1AzQm1NQ1BGN3c0UG9xbW5FNXVtTXFSTHNfUVl2YjJsYlBmSmdTeVVXOHQ0UUEw?oc=5",
    "src": "standingout.kr",
+   "date": "2026-09-22"
+  },
+  {
+   "ko": "[2026 F1 서킷 스토리⑮] 2.2km 직선과 7.6m 골목, 바쿠의 두 얼굴",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzWFhKVWxLVDlXZ3VPZzR2X0dBVkhxU3VKR3VsY0hQWGlkVlF3eXZrckNnZWRHZG1yalZrVU1YREV1Y0h5UGM0Vll2Q21NWVI0SmNWM1YxR1FuaUxrRmxmdHV0OTM4WlRUcWQwLWJqZw?oc=5",
+   "src": "오토레이싱",
    "date": "2026-09-22"
   },
   {
@@ -3784,18 +3796,6 @@
    "ko": "F1 챔피언이 카트 타면… 100명 추월하는 데 35분이면 충분했다",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVXRyTlA4TlZtdkRRZmxqRjNqd2MzVjd5SDdYWmR1WmViaXpfNXJRX2dDRTEwLTdhNTZIaDJRTXZ0eVVPdGZ6UUthU081aUNieGFISk1FS3RTRTNMU1ViWmtydVdzdDRSbU1HZVl2WVhSeVdqVDRoaVBZYXBwazNlaTlYY2VnbzZXRGlz?oc=5",
    "src": "조선일보",
-   "date": "2026-09-17"
-  },
-  {
-   "ko": "태그호이어, 2027 F1 영국 그랑프리 타이틀 파트너 선정",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWN2QtWG1sWVUzWkJxZGtHQ1ZFT0JEMGRhd2hDUmZUMjFyQmVFZmdya2dtcE9IaGVhM0JkVV9iNE5RU2FFeTN1akNLQ1hlQkNqUGFGWUJWam14eTZUeGp1NW5UenBXMU5YVVE?oc=5",
-   "src": "wwdkorea.com",
-   "date": "2026-09-17"
-  },
-  {
-   "ko": "잭 다니엘스, 이태원서 ‘F1 맥라렌’ 협업 팝업스토어 운영",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OODlYOHlkcmFQZTFMbWw5THZic3ZRdndhc1NHV3UwUmhpdEoxVmF4WlNZWDZBcjNvYUdiLXVyMlJTZkk0NG84ckExaXZkU3R4ZER6OA?oc=5",
-   "src": "v.daum.net",
    "date": "2026-09-17"
   }
  ]
