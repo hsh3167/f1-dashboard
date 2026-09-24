@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24 06:31 KST",
+ "updated": "2026-09-24 13:54 KST",
  "roundsDone": 14,
  "drivers": [
   {
@@ -3739,6 +3739,18 @@
    "date": "2026-09-23"
   },
   {
+   "ko": "‘한국인 최초 F1 도전’ 이규호, GB3 브랜즈 해치서 포디엄 재도전",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0UDNCb3NUWVNpMTNPdTN1dW1TQXE2QjlUN093Q3RqUEdONkxva1I3V2FUNXhSdGFaR1pwQWMwOEdncktKQW5JSXIxMllod2tUU3FlU2VLRGdpcjNJZEtzTTEyeFM5MEtWZDlXNw?oc=5",
+   "src": "모터그래프",
+   "date": "2026-09-23"
+  },
+  {
+   "ko": "[2026 F1 15R 팀 프리뷰] 메르세데스, 아제르바이잔 GP서 챔피언십 입지 강화 나서",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94YjRuWGpqU09PcGpsdWhnRHpJSDN2SUhiWHFHX1M1akVfZVNjaWt2QUo3VjNzb0FHQmxnUXZEZ1Z4NjFtNDBjY0MxMk1BZGc2YVhuck5MOGZEQXl4cmxWcjdqSXJpNFZvbmRGcg?oc=5",
+   "src": "고카넷",
+   "date": "2026-09-23"
+  },
+  {
    "ko": "[F1] 내년부터 경기 거리 짧아지나?… 305㎞ → 290㎞ 축소안 합의",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54Z1A4MkxwREVEU1VJTlJUNkFnTjZxNnByVW4yWE9xWVhxd0lsOHhNdUFvbEcyU0d2d3M5V1AzQm1NQ1BGN3c0UG9xbW5FNXVtTXFSTHNfUVl2YjJsYlBmSmdTeVVXOHQ0UUEw?oc=5",
    "src": "standingout.kr",
@@ -3775,28 +3787,16 @@
    "date": "2026-09-20"
   },
   {
+   "ko": "F1 디펜딩 챔피언 L. 노리스, 포르티망서 MCL-HY 38랩 테스트",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OUFZ2N0FqRGNiLU1qQVljTms0Sms0WFdsSWVxcVlOaDNlakJ3SDFpdmdyRXllOHBYMUN3TXhZRGtBcmxqMXQ2NmcxcF9idk1zbUJlcmVObkdpaGgxU0s3WHd4VlFJVFNIY2J1X1V4cw?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-09-20"
+  },
+  {
    "ko": "\"도로가 F1 서킷 됐네요\"…'직관 여행' 싱가포르 도심 전체가 들썩 [신용현의 트래블랩]",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zUFlhd3RrOXhkeDhNbldYdFRMMnJxY2REY2VCRGFmdjdKLVpiNUJZQ0x0QVpta0RHaTAyMktjaGVtYkhncnRmYVJkZUw1N0FveThKUG0zWWp3Zw?oc=5",
    "src": "한국경제",
    "date": "2026-09-19"
-  },
-  {
-   "ko": "벌금 80만원 내라고? ‘치마 입은’ F1 레전드 딸에…팬들은 “10점 만점에 10점”",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PeTBMUWF3dlQ5ZFdtY0VIXzVjaHQyQWJ6Z3FUc2ZTTS1LYXhWX1RtdFM4VnliYVpaQ2M5c3lvRm5aMTRBdzNtT0tiNWJ4QQ?oc=5",
-   "src": "전자신문",
-   "date": "2026-09-18"
-  },
-  {
-   "ko": "맥라렌 레이싱, 샤크닌자와 F1·인디카·WEC 협업 확대",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03UGgzb21tbkpoQ3YtX1pYR2NJUGs2Tks0YTlRNlBSWHFVWnFXS3VsN0ZuNGJ6VGVNMlVqOXdGUFhSM21pU2IyR3VCWDZrWnV4OEZFdlBwMFNnOE9zM2Z6UWlGUXFRQ2JUUGM1Y3RTVQ?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-09-18"
-  },
-  {
-   "ko": "F1 페르스타펜, '카트 100대 추월쇼'…14랩 만에 끝냈다",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LQlZmclJVOHVsMF9nQ1h5WkI5NG1Bd1E3RzM2a0RCZms0NTJvN3ctMTdDLXRlQmdILWk0RGxfdEFpUGJ1Tm9hQzJHVXV5SjB5ei1rWW5faVBPdGE1MXg3ck15czU5LVh5QXfSAW5BVV95cUxNUzVSRmNIeWx6Qk5RdWZGVDBWLXJWeWF6MjdCc3Jsc1FYQWxPMTgwa1pYcC1fd3JWLVMxSVg4ZmVXQWJuSnM0MVdxdnpzbFBDdHdUOHVNaEFlSl9ONmlkNk5laHZZVHg4VnRDOXFVUQ?oc=5",
-   "src": "지피코리아",
-   "date": "2026-09-18"
   }
  ]
 }
