@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25 06:32 KST",
+ "updated": "2026-09-25 13:59 KST",
  "roundsDone": 14,
  "drivers": [
   {
@@ -3727,6 +3727,18 @@
  ],
  "newsKo": [
   {
+   "ko": "[2026 F1 아제르바이잔 GP FP2] G. 러셀 1위, 메르세데스 원투",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Cbk1sNHlyZlItTWE5VGRBemNIbUhMOTNVS1VNT3RRaWg1cUlNX2pfZ3hpY0YtTTFoME1XUmVuY3pwbDk3c3V1cE9OandxRlY4S2xqWkZIXy00eERFdlBzdVZzbnJ2LWJmcHc2Yl8tUQ?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-09-25"
+  },
+  {
+   "ko": "11년 만에 다시 나온 윌리엄스 여성 F1 드라이버…채드윅 32바퀴 질주",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zelVQaEdtYVNRcnh0R3hvQ2Z3cFdKbEVoNHR3RVU1bHNFQy0wQTFuV1VNX1Y3bk00aUgzdnRaNnVSLU9GMVgzeERvYTJWRmtXVFdzQVNZaGRQMVlZTlHSAWNBVV95cUxNYUVyYkVfeGJhNU9RUVVWYWtZb2ozNVlfV3U1aldvYTFZQjR5bmZua2pfWG02Y0lkbzNIbWRqdlhSdlBGaXNzNGx3WVktRVllQlRCWFBGSlhGR0E0QXk1cDN1MUU?oc=5",
+   "src": "스포츠경향",
+   "date": "2026-09-24"
+  },
+  {
    "ko": "메르세데스 F1, 바쿠서 통산 4승 도전",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qOC1yS0JQYVZ2YUJPMHVhUEUxcHRLNm51ZUVZYnJWS0FzYjFxR1ZILTU4LVFTVnI0a25ZRnRYQ3pYdm8xWmgzNFhPUDhaTjFQd0ZHZjBYem1xWnFSYlp0R25ycWZSUlZNcFVJLUtocw?oc=5",
    "src": "오토레이싱",
@@ -3739,15 +3751,21 @@
    "date": "2026-09-24"
   },
   {
-   "ko": "2027 F1 결선, 새 PU 대응해 305→290km 단축",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1TzZoVEVwb0lQTzZuUzNnbWhEdEpoZVJyVEVJSEt0dDZzTExweThGVmxNV0dWRVBWTFMwZUZaQ1RENDdfSDBDUV9EV3hlaFROVjZhWFU2eWNpR3VTNHFONVFFMXhLdGdiMDhnQ0kwdw?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-09-23"
+   "ko": "F1 레이스 참가 목표를 세운 여성 레이서",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkFiY0ZCUWg1U0x2eE5ZR2UtLWF6NnNpT3J1MTFtOE81WWdWcnNYTUhwaXp6WjQ5aVRRbllZbkRiTTN6bVlIOHVfUi1DNWlJbWY3eTdSaFViNHh2VmJBR2VCWmtLQ0d5S3FpR1Q5UlhvaDQzQ0Z0Q0pkMGtzYi1GdHlOdWRyV0pXa0E?oc=5",
+   "src": "Laodong.vn",
+   "date": "2026-09-24"
   },
   {
    "ko": "[F1 아제르바이잔 GP 프리뷰] 3연승 노리는 키미 안토넬리",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GOVlVaXhwSW1JbjdCSlNxYkdaMjViOTM5cVNSdkdIUXVrNWhqZ0tJZmF4SGZYZ2pucUpReVBWOXNoMGF4OC10RFdzV2tUaTVsZWpESURtd0dKTXNKOW0wTXFmVTFvbmV0Z01v?oc=5",
    "src": "standingout.kr",
+   "date": "2026-09-23"
+  },
+  {
+   "ko": "2027 F1 결선, 새 PU 대응해 305→290km 단축",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1TzZoVEVwb0lQTzZuUzNnbWhEdEpoZVJyVEVJSEt0dDZzTExweThGVmxNV0dWRVBWTFMwZUZaQ1RENDdfSDBDUV9EV3hlaFROVjZhWFU2eWNpR3VTNHFONVFFMXhLdGdiMDhnQ0kwdw?oc=5",
+   "src": "오토레이싱",
    "date": "2026-09-23"
   },
   {
@@ -3763,9 +3781,9 @@
    "date": "2026-09-23"
   },
   {
-   "ko": "[2026 F1 서킷 스토리⑮] 2.2km 직선과 7.6m 골목, 바쿠의 두 얼굴",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzWFhKVWxLVDlXZ3VPZzR2X0dBVkhxU3VKR3VsY0hQWGlkVlF3eXZrckNnZWRHZG1yalZrVU1YREV1Y0h5UGM0Vll2Q21NWVI0SmNWM1YxR1FuaUxrRmxmdHV0OTM4WlRUcWQwLWJqZw?oc=5",
-   "src": "오토레이싱",
+   "ko": "F1, 내년 주행거리 '305→290km' 단축 검토…\"연료 부담 줄인다\"",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2ZnMxYmxiTHo0cDNUTGF5XzFidzRWVEZmbTRCeXI3S3NDODM0TXRRYXdDbUp4V0gzajFpa3ZGS3BPZV9sSWc?oc=5",
+   "src": "v.daum.net",
    "date": "2026-09-22"
   },
   {
@@ -3775,28 +3793,10 @@
    "date": "2026-09-22"
   },
   {
-   "ko": "코르티스, 10월 9일 ‘포뮬러 원 싱가포르 그랑프리’ 출연",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JZFdUVXZybk5KcGh0Y1NoaGpNREU0TEVEdHpOcksyM0lYSjdIOXQzeEhWeGRLVDhhQkdkX0duaUIzU0xmVlJVU2V4TnE1SUhCV2w4dlJCY2ZVekZIekFHM3U2dkE?oc=5",
-   "src": "bntnews.co.kr",
-   "date": "2026-09-21"
-  },
-  {
-   "ko": "[F1] 붉은 페라리에 검은 슈트… 르끌레르의 싱가포르 특별 의상 공개",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TWEpweFU5MnVWOWtMMjlWYWFUZWJnM0VtU2RrV2thdkQ4SlJueWhmcjlZTHNEYS1helIxOUk2ZVdndWV1aVRUNV9BQUJrTGtSbVMzNmRUZXdWRG5KX0paaXNjYU91Q1haWTRF?oc=5",
-   "src": "standingout.kr",
-   "date": "2026-09-21"
-  },
-  {
-   "ko": "F1 르클레르, 싱가포르GP서 '올블랙' 변신…페라리 특별 수트·캡 공개",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFByU3QtZVVZbHpmQjJ3VkNhQkFJV0xnWVYxSXBaVzNidl9pT3pVOHNDNXNycHgzbDRyZDJhcThWbFFLYzhVTkE?oc=5",
-   "src": "v.daum.net",
-   "date": "2026-09-21"
-  },
-  {
-   "ko": "F1 로즈버그, \"안토넬리 카트 실력은 역사상 톱 3급이었다”",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SQWd2eUVHMC1wbG1FUW9zSE52Z3BJMk5mdEhLNU9pN1RmVmFtRFVpWUpBb3hmV2RMOE1INTRQTldjcFFnejZjQ1l0T3l2SkREUWhyRGhhXzN5eW9PRXl3WFdMR3piakVhRVE?oc=5",
-   "src": "지피코리아",
-   "date": "2026-09-21"
+   "ko": "[2026 F1 서킷 스토리⑮] 2.2km 직선과 7.6m 골목, 바쿠의 두 얼굴",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzWFhKVWxLVDlXZ3VPZzR2X0dBVkhxU3VKR3VsY0hQWGlkVlF3eXZrckNnZWRHZG1yalZrVU1YREV1Y0h5UGM0Vll2Q21NWVI0SmNWM1YxR1FuaUxrRmxmdHV0OTM4WlRUcWQwLWJqZw?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-09-22"
   }
  ]
 }
