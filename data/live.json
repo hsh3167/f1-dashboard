@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27 01:25 KST",
+ "updated": "2026-09-27 06:11 KST",
  "roundsDone": 15,
  "drivers": [
   {
@@ -2698,154 +2698,154 @@
    {
     "p": 1,
     "d": "russell",
-    "g": 0,
+    "g": 1,
     "pts": 25,
     "t": "1:38:02.143"
    },
    {
     "p": 2,
     "d": "verstappen",
-    "g": 0,
+    "g": 8,
     "pts": 18,
     "t": "+0.196"
    },
    {
     "p": 3,
     "d": "hadjar",
-    "g": 0,
+    "g": 4,
     "pts": 15,
     "t": "+10.704"
    },
    {
     "p": 4,
     "d": "leclerc",
-    "g": 0,
+    "g": 2,
     "pts": 12,
     "t": "+14.136"
    },
    {
     "p": 5,
     "d": "antonelli",
-    "g": 0,
+    "g": 16,
     "pts": 10,
     "t": "+14.512"
    },
    {
     "p": 6,
     "d": "hamilton",
-    "g": 0,
+    "g": 6,
     "pts": 8,
     "t": "+22.382"
    },
    {
     "p": 7,
     "d": "lindblad",
-    "g": 0,
+    "g": 15,
     "pts": 6,
     "t": "+31.159"
    },
    {
     "p": 8,
     "d": "ocon",
-    "g": 0,
+    "g": 13,
     "pts": 4,
     "t": "+31.189"
    },
    {
     "p": 9,
     "d": "bearman",
-    "g": 0,
+    "g": 10,
     "pts": 2,
     "t": "+31.929"
    },
    {
     "p": 10,
     "d": "sainz",
-    "g": 0,
+    "g": 14,
     "pts": 1,
     "t": "+32.416"
    },
    {
     "p": 11,
     "d": "hulkenberg",
-    "g": 0,
+    "g": 18,
     "pts": 0,
     "t": "+33.231"
    },
    {
     "p": 12,
     "d": "lawson",
-    "g": 0,
+    "g": 11,
     "pts": 0,
     "t": "+34.013"
    },
    {
     "p": 13,
-    "d": "bortoleto",
-    "g": 0,
-    "pts": 0,
-    "t": "+34.230"
-   },
-   {
-    "p": 14,
     "d": "piastri",
-    "g": 0,
+    "g": 3,
     "pts": 0,
     "t": "+36.401"
    },
    {
-    "p": 15,
+    "p": 14,
     "d": "perez",
-    "g": 0,
+    "g": 20,
     "pts": 0,
     "t": "+41.400"
    },
    {
+    "p": 15,
+    "d": "bortoleto",
+    "g": 17,
+    "pts": 0,
+    "t": "+44.230"
+   },
+   {
     "p": 16,
     "d": "bottas",
-    "g": 0,
+    "g": 19,
     "pts": 0,
     "t": "Retired"
    },
    {
     "p": 17,
     "d": "colapinto",
-    "g": 0,
+    "g": 9,
     "pts": 0,
     "t": "Retired"
    },
    {
     "p": 18,
     "d": "gasly",
-    "g": 0,
+    "g": 7,
     "pts": 0,
     "t": "Retired"
    },
    {
     "p": 19,
     "d": "norris",
-    "g": 0,
+    "g": 5,
     "pts": 0,
     "t": "Retired"
    },
    {
     "p": 20,
     "d": "albon",
-    "g": 0,
+    "g": 12,
     "pts": 0,
     "t": "Retired"
    },
    {
     "p": 21,
     "d": "alonso",
-    "g": 0,
+    "g": 21,
     "pts": 0,
     "t": "Retired"
    },
    {
     "p": 22,
     "d": "stroll",
-    "g": 0,
+    "g": 22,
     "pts": 0,
     "t": "Retired"
    }
@@ -3798,6 +3798,30 @@
  },
  "news": [
   {
+   "en": "All the key moments from the 2026 Azerbaijan Grand Prix",
+   "url": "https://www.formula1.com/en/latest/article/azerbaijan-lowdown-all-the-key-moments-as-russell-takes-victory-and-baku-puts-on-another-show.7l4pAjByompPX9hC6YkB8F",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Azerbaijan mistake 'certainly took me by surprise' – Piastri",
+   "url": "https://www.formula1.com/en/latest/article/certainly-took-me-by-surprise-piastri-reflects-on-azerbaijan-gp-result-after-mistake.6THrL3hQt1nTOMgRqVOfmf",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Bortoleto handed penalty after yellow flag infringement",
+   "url": "https://www.formula1.com/en/latest/article/bortoleto-handed-penalty-after-yellow-flag-infringement-in-azerbaijan-gp.4IRPm8CEnPZMAjmjCeBgGI",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "What the teams said – Race day in Azerbaijan",
+   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-race-day-in-azerbaijan-2026.7FI05LpHsKH1PaUiI8SyVF",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "Colapinto gets 5-place grid drop for Bahrain GP in Malaysia",
    "url": "https://www.formula1.com/en/latest/article/colapinto-hit-with-five-place-grid-penalty-for-bahrain-gp-in-malaysia-after-baku-collision.3gWVfzDMMr5hReiwTt1fPD",
    "src": "Formula1.com",
@@ -3828,37 +3852,13 @@
    "date": ""
   },
   {
-   "en": "‘Some drivers shouldn’t be in F1’ – Norris on Baku clash",
-   "url": "https://www.formula1.com/en/latest/article/some-drivers-shouldnt-be-in-f1-norris-reflects-on-baku-clash-that-led-to-dnf.76PWZBrhTQ5PMLrgvQFyPt",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "Colapinto handed Sepang penalty for causing Baku F1 pile-up",
+   "url": "https://www.autosport.com/f1/news/franco-colapinto-penalty-revealed-for-causing-baku-f1-pile-up/10859374/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-09-26"
   },
   {
-   "en": "Russell ‘feels like myself again’ after Baku victory",
-   "url": "https://www.formula1.com/en/latest/article/russell-feels-like-myself-again-after-incredible-pole-to-victory-drive-in-azerbaijan.67QSi4tYiFh9PYkG2KSgIY",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Colapinto apologises for Alpine team crash in Azerbaijan GP",
-   "url": "https://www.formula1.com/en/latest/article/sorry-to-all-of-them-colapinto-apologises-for-azerbaijan-gp-crash-with-alpine-team-mate-gasly.3fcbjHOa8zF2lQacETFaw8",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Verstappen wins fan vote after narrowly missing Baku victory",
-   "url": "https://www.formula1.com/en/latest/article/driver-of-the-day-verstappen-gets-your-vote-after-narrowly-missing-baku-win.3JLJUKiu1PR3eIKD3wRgfL",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Russell holds off Verstappen for victory in chaotic Azerbaijan GP",
-   "url": "https://www.formula1.com/en/latest/article/russell-narrowly-holds-off-verstappen-to-take-victory-over-the-line-in-chaotic-azerbaijan-gp.5J4lgNh82JDL2GM302irF0",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Why Max Verstappen says 0.196s Baku finish-line gap to George Russell is slightly misleading",
+   "en": "Why Verstappen says 0.196s Baku finish-line gap to Russell is slightly misleading",
    "url": "https://www.autosport.com/f1/news/why-max-verstappen-says-0196s-baku-finish-line-gap-to-george-russell-is-slightly-misleading/10859367/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
    "date": "2026-09-26"
@@ -3928,7 +3928,7 @@
   {
    "ko": "11년 만에 다시 나온 윌리엄스 여성 F1 드라이버…채드윅 32바퀴 질주",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zelVQaEdtYVNRcnh0R3hvQ2Z3cFdKbEVoNHR3RVU1bHNFQy0wQTFuV1VNX1Y3bk00aUgzdnRaNnVSLU9GMVgzeERvYTJWRmtXVFdzQVNZaGRQMVlZTlHSAWNBVV95cUxNYUVyYkVfeGJhNU9RUVVWYWtZb2ozNVlfV3U1aldvYTFZQjR5bmZua2pfWG02Y0lkbzNIbWRqdlhSdlBGaXNzNGx3WVktRVllQlRCWFBGSlhGR0E0QXk1cDN1MUU?oc=5",
-   "src": "sports.khan.co.kr",
+   "src": "스포츠경향",
    "date": "2026-09-24"
   },
   {
@@ -3944,14 +3944,14 @@
    "date": "2026-09-24"
   },
   {
-   "ko": "[2026 F1 15R] 압도적 페이스 선보인 러셀, 아제르바이잔 GP FP2 톱타임",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00eG03MVIyTWpHYVBKSkFpLUZYMGlyN3hzUDc2bk8xdjItZ3AtWmFNUFhndTFKbmpjbHFpSTdxTThHLXdURXVaZ2o5d2xkMG91TTlTd3FtN01mWFQtWHFCLUdhb2VfbG9aRnl3TA?oc=5",
+   "ko": "[2026 F1 15R] 러셀, 베르스타펜 제치고 아제르바이잔 GP 오프닝 연습 세션 톱타임",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WVVlGdmJ6cHFVanJzcnBybUF2MFRUdVFlUUJDekpNSDFjYzJZQVdSMnVfUzhTSTk2VnN2VmxqazV4OWczWjl1VXg0NkY0ZGpISHpTcVFibC0zbzBBeW5ZMFNjX0RBRENkZnZwcw?oc=5",
    "src": "고카넷",
    "date": "2026-09-24"
   },
   {
-   "ko": "[2026 F1 15R] 러셀, 베르스타펜 제치고 아제르바이잔 GP 오프닝 연습 세션 톱타임",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WVVlGdmJ6cHFVanJzcnBybUF2MFRUdVFlUUJDekpNSDFjYzJZQVdSMnVfUzhTSTk2VnN2VmxqazV4OWczWjl1VXg0NkY0ZGpISHpTcVFibC0zbzBBeW5ZMFNjX0RBRENkZnZwcw?oc=5",
+   "ko": "[2026 F1 15R] 압도적 페이스 선보인 러셀, 아제르바이잔 GP FP2 톱타임",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00eG03MVIyTWpHYVBKSkFpLUZYMGlyN3hzUDc2bk8xdjItZ3AtWmFNUFhndTFKbmpjbHFpSTdxTThHLXdURXVaZ2o5d2xkMG91TTlTd3FtN01mWFQtWHFCLUdhb2VfbG9aRnl3TA?oc=5",
    "src": "고카넷",
    "date": "2026-09-24"
   }
