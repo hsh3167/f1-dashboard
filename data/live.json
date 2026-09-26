@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-26 20:27 KST",
- "roundsDone": 14,
+ "updated": "2026-09-27 01:25 KST",
+ "roundsDone": 15,
  "drivers": [
   {
    "id": "antonelli",
@@ -11,7 +11,7 @@
    "dob": "2006-08-25",
    "team": "mercedes",
    "pos": 1,
-   "pts": 292,
+   "pts": 302,
    "wins": 8,
    "podiums": 12,
    "best": 1,
@@ -29,9 +29,9 @@
    "dob": "1998-02-15",
    "team": "mercedes",
    "pos": 2,
-   "pts": 211,
-   "wins": 2,
-   "podiums": 7,
+   "pts": 236,
+   "wins": 3,
+   "podiums": 8,
    "best": 1,
    "ko": "조지 러셀",
    "nat": "영국",
@@ -47,7 +47,7 @@
    "dob": "1985-01-07",
    "team": "ferrari",
    "pos": 3,
-   "pts": 191,
+   "pts": 199,
    "wins": 1,
    "podiums": 5,
    "best": 1,
@@ -83,7 +83,7 @@
    "dob": "1997-10-16",
    "team": "ferrari",
    "pos": 5,
-   "pts": 167,
+   "pts": 179,
    "wins": 1,
    "podiums": 4,
    "best": 1,
@@ -101,9 +101,9 @@
    "dob": "1997-09-30",
    "team": "red_bull",
    "pos": 6,
-   "pts": 145,
+   "pts": 163,
    "wins": 0,
-   "podiums": 6,
+   "podiums": 7,
    "best": 2,
    "ko": "막스 페르스타펜",
    "nat": "네덜란드",
@@ -137,9 +137,9 @@
    "dob": "2004-09-28",
    "team": "red_bull",
    "pos": 8,
-   "pts": 71,
+   "pts": 86,
    "wins": 0,
-   "podiums": 1,
+   "podiums": 2,
    "best": 3,
    "ko": "이삭 하자르",
    "nat": "프랑스",
@@ -191,7 +191,7 @@
    "dob": "2007-08-08",
    "team": "rb",
    "pos": 11,
-   "pts": 31,
+   "pts": 37,
    "wins": 0,
    "podiums": 0,
    "best": 6,
@@ -227,7 +227,7 @@
    "dob": "2005-05-08",
    "team": "haas",
    "pos": 13,
-   "pts": 18,
+   "pts": 20,
    "wins": 0,
    "podiums": 0,
    "best": 5,
@@ -273,6 +273,24 @@
    "note": ""
   },
   {
+   "id": "ocon",
+   "code": "OCO",
+   "num": 31,
+   "first": "Esteban",
+   "last": "Ocon",
+   "dob": "1996-09-17",
+   "team": "haas",
+   "pos": 16,
+   "pts": 7,
+   "wins": 0,
+   "podiums": 0,
+   "best": 8,
+   "ko": "에스테반 오콘",
+   "nat": "프랑스",
+   "flag": "fr",
+   "note": ""
+  },
+  {
    "id": "sainz",
    "code": "SAI",
    "num": 55,
@@ -280,8 +298,8 @@
    "last": "Sainz",
    "dob": "1994-09-01",
    "team": "williams",
-   "pos": 16,
-   "pts": 6,
+   "pos": 17,
+   "pts": 7,
    "wins": 0,
    "podiums": 0,
    "best": 9,
@@ -298,7 +316,7 @@
    "last": "Albon",
    "dob": "1996-03-23",
    "team": "williams",
-   "pos": 17,
+   "pos": 18,
    "pts": 5,
    "wins": 0,
    "podiums": 0,
@@ -306,24 +324,6 @@
    "ko": "알렉산더 알본",
    "nat": "태국",
    "flag": "th",
-   "note": ""
-  },
-  {
-   "id": "ocon",
-   "code": "OCO",
-   "num": 31,
-   "first": "Esteban",
-   "last": "Ocon",
-   "dob": "1996-09-17",
-   "team": "haas",
-   "pos": 18,
-   "pts": 3,
-   "wins": 0,
-   "podiums": 0,
-   "best": 9,
-   "ko": "에스테반 오콘",
-   "nat": "프랑스",
-   "flag": "fr",
    "note": ""
   },
   {
@@ -421,13 +421,13 @@
   {
    "id": "mercedes",
    "pos": 1,
-   "pts": 503,
-   "wins": 10
+   "pts": 538,
+   "wins": 11
   },
   {
    "id": "ferrari",
    "pos": 2,
-   "pts": 358,
+   "pts": 378,
    "wins": 2
   },
   {
@@ -439,13 +439,13 @@
   {
    "id": "red_bull",
    "pos": 4,
-   "pts": 230,
+   "pts": 263,
    "wins": 0
   },
   {
    "id": "rb",
    "pos": 5,
-   "pts": 77,
+   "pts": 83,
    "wins": 0
   },
   {
@@ -457,7 +457,7 @@
   {
    "id": "haas",
    "pos": 7,
-   "pts": 21,
+   "pts": 27,
    "wins": 0
   },
   {
@@ -469,7 +469,7 @@
   {
    "id": "williams",
    "pos": 9,
-   "pts": 11,
+   "pts": 12,
    "wins": 0
   },
   {
@@ -499,13 +499,14 @@
   "11": "norris",
   "12": "norris",
   "13": "antonelli",
-  "14": "antonelli"
+  "14": "antonelli",
+  "15": "russell"
  },
  "podium": {
-  "14": [
-   "antonelli",
+  "15": [
+   "russell",
    "verstappen",
-   "norris"
+   "hadjar"
   ]
  },
  "results": {
@@ -2692,6 +2693,162 @@
     "pts": 0,
     "t": "Retired"
    }
+  ],
+  "15": [
+   {
+    "p": 1,
+    "d": "russell",
+    "g": 0,
+    "pts": 25,
+    "t": "1:38:02.143"
+   },
+   {
+    "p": 2,
+    "d": "verstappen",
+    "g": 0,
+    "pts": 18,
+    "t": "+0.196"
+   },
+   {
+    "p": 3,
+    "d": "hadjar",
+    "g": 0,
+    "pts": 15,
+    "t": "+10.704"
+   },
+   {
+    "p": 4,
+    "d": "leclerc",
+    "g": 0,
+    "pts": 12,
+    "t": "+14.136"
+   },
+   {
+    "p": 5,
+    "d": "antonelli",
+    "g": 0,
+    "pts": 10,
+    "t": "+14.512"
+   },
+   {
+    "p": 6,
+    "d": "hamilton",
+    "g": 0,
+    "pts": 8,
+    "t": "+22.382"
+   },
+   {
+    "p": 7,
+    "d": "lindblad",
+    "g": 0,
+    "pts": 6,
+    "t": "+31.159"
+   },
+   {
+    "p": 8,
+    "d": "ocon",
+    "g": 0,
+    "pts": 4,
+    "t": "+31.189"
+   },
+   {
+    "p": 9,
+    "d": "bearman",
+    "g": 0,
+    "pts": 2,
+    "t": "+31.929"
+   },
+   {
+    "p": 10,
+    "d": "sainz",
+    "g": 0,
+    "pts": 1,
+    "t": "+32.416"
+   },
+   {
+    "p": 11,
+    "d": "hulkenberg",
+    "g": 0,
+    "pts": 0,
+    "t": "+33.231"
+   },
+   {
+    "p": 12,
+    "d": "lawson",
+    "g": 0,
+    "pts": 0,
+    "t": "+34.013"
+   },
+   {
+    "p": 13,
+    "d": "bortoleto",
+    "g": 0,
+    "pts": 0,
+    "t": "+34.230"
+   },
+   {
+    "p": 14,
+    "d": "piastri",
+    "g": 0,
+    "pts": 0,
+    "t": "+36.401"
+   },
+   {
+    "p": 15,
+    "d": "perez",
+    "g": 0,
+    "pts": 0,
+    "t": "+41.400"
+   },
+   {
+    "p": 16,
+    "d": "bottas",
+    "g": 0,
+    "pts": 0,
+    "t": "Retired"
+   },
+   {
+    "p": 17,
+    "d": "colapinto",
+    "g": 0,
+    "pts": 0,
+    "t": "Retired"
+   },
+   {
+    "p": 18,
+    "d": "gasly",
+    "g": 0,
+    "pts": 0,
+    "t": "Retired"
+   },
+   {
+    "p": 19,
+    "d": "norris",
+    "g": 0,
+    "pts": 0,
+    "t": "Retired"
+   },
+   {
+    "p": 20,
+    "d": "albon",
+    "g": 0,
+    "pts": 0,
+    "t": "Retired"
+   },
+   {
+    "p": 21,
+    "d": "alonso",
+    "g": 0,
+    "pts": 0,
+    "t": "Retired"
+   },
+   {
+    "p": 22,
+    "d": "stroll",
+    "g": 0,
+    "pts": 0,
+    "t": "Retired"
+   }
   ]
  },
  "sprints": {
@@ -3641,87 +3798,87 @@
  },
  "news": [
   {
-   "en": "OFFICIAL GRID: Who starts where for the Azerbaijan GP",
-   "url": "https://www.formula1.com/en/latest/article/official-grid-who-starts-where-in-baku-as-sainz-and-perez-penalised.dcHAVjwaraHEl8LqRwtcd",
+   "en": "Colapinto gets 5-place grid drop for Bahrain GP in Malaysia",
+   "url": "https://www.formula1.com/en/latest/article/colapinto-hit-with-five-place-grid-penalty-for-bahrain-gp-in-malaysia-after-baku-collision.3gWVfzDMMr5hReiwTt1fPD",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "LIVE COVERAGE: Russell leads Azerbaijan GP with Antonelli in P15",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-qatar-airways-azerbaijan-grand-prix-2026.3BgLmedK9OoVqH9fwTsfeE",
+   "en": "Hadjar hails ‘first proper podium’ with P3 in Baku",
+   "url": "https://www.formula1.com/en/latest/article/hadjar-hails-first-proper-podium-with-p3-in-baku-after-very-long-six-weeks-on-the-sidelines.3B3LcWHpym034tQVwdIQSf",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "Lindblad shares frustration after ‘trying to be too special’",
-   "url": "https://www.formula1.com/en/latest/article/im-mad-at-myself-lindblad-shares-frustration-after-trying-to-be-too-special-at-recent-events.6XJVvyuODOkcKvedVd9RwL",
+   "en": "Lawson baffled by Lindblad clash in Baku that ‘sucks’",
+   "url": "https://www.formula1.com/en/latest/article/i-just-dont-understand-lawson-baffled-by-lindblad-clash-that-sucks-for-our-race-in-baku.3ls6bzks1rRKQf1KwVCmcD",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "Bortoleto confused by 'weird' Baku form after Q1 exit",
-   "url": "https://www.formula1.com/en/latest/article/bortoleto-confused-by-weird-baku-form-after-upgraded-audis-knocked-out-in-q1.33355x6gASG3ssFdSCz7IJ",
+   "en": "Verstappen 'was trying everything' in quest for Baku victory",
+   "url": "https://www.formula1.com/en/latest/article/i-was-trying-everything-verstappen-gives-verdict-after-missing-out-on-azerbaijan-gp-victory.6M9zlnYYDH8w4AnRIninDX",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "What are the tyre strategy options for the Azerbaijan Grand Prix?",
-   "url": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-tactical-options-for-the-azerbaijan-gp.5iDS0mk2NragziXUR0jLlP",
+   "en": "Antonelli vows to learn from ‘worst weekend of the season’",
+   "url": "https://www.formula1.com/en/latest/article/antonelli-vows-to-take-lessons-from-worst-weekend-of-the-season-in-azerbaijan.2gFddBKt9w2Zp3y6deTe5r",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "What the teams said – Qualifying in Azerbaijan",
-   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-qualifying-in-azerbaijan-2026.1Q1zEji1dZ8Ho8SAMNABJJ",
+   "en": "‘Some drivers shouldn’t be in F1’ – Norris on Baku clash",
+   "url": "https://www.formula1.com/en/latest/article/some-drivers-shouldnt-be-in-f1-norris-reflects-on-baku-clash-that-led-to-dnf.76PWZBrhTQ5PMLrgvQFyPt",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "What To Watch For in the Azerbaijan Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-azerbaijan-grand-prix.1OFqAMByguJFeWBaV3kRa6",
+   "en": "Russell ‘feels like myself again’ after Baku victory",
+   "url": "https://www.formula1.com/en/latest/article/russell-feels-like-myself-again-after-incredible-pole-to-victory-drive-in-azerbaijan.67QSi4tYiFh9PYkG2KSgIY",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "Why Verstappen feels Baku was Red Bull's best chance to win in F1 2026",
-   "url": "https://www.autosport.com/f1/news/why-verstappen-feels-baku-was-red-bulls-best-chance-to-win-in-f1-2026/10859128/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "en": "Colapinto apologises for Alpine team crash in Azerbaijan GP",
+   "url": "https://www.formula1.com/en/latest/article/sorry-to-all-of-them-colapinto-apologises-for-azerbaijan-gp-crash-with-alpine-team-mate-gasly.3fcbjHOa8zF2lQacETFaw8",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Verstappen wins fan vote after narrowly missing Baku victory",
+   "url": "https://www.formula1.com/en/latest/article/driver-of-the-day-verstappen-gets-your-vote-after-narrowly-missing-baku-win.3JLJUKiu1PR3eIKD3wRgfL",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Russell holds off Verstappen for victory in chaotic Azerbaijan GP",
+   "url": "https://www.formula1.com/en/latest/article/russell-narrowly-holds-off-verstappen-to-take-victory-over-the-line-in-chaotic-azerbaijan-gp.5J4lgNh82JDL2GM302irF0",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Why Max Verstappen says 0.196s Baku finish-line gap to George Russell is slightly misleading",
+   "url": "https://www.autosport.com/f1/news/why-max-verstappen-says-0196s-baku-finish-line-gap-to-george-russell-is-slightly-misleading/10859367/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
    "date": "2026-09-26"
   },
   {
-   "en": "Alex Albon and Carlos Sainz reveal F1 boys' trip plans",
-   "url": "https://www.motorsport.com/f1/news/alex-albon-and-carlos-sainz-reveal-f1-boys-trip-plans/10859204/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
+   "en": "Briatore to reflect on necessary action after Colapinto's \"poor\" Baku blunder",
+   "url": "https://www.autosport.com/f1/news/alpines-flavio-briatore-rips-into-franco-colapintos-baku-blunder-a-very-poor-move/10859341/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
    "date": "2026-09-26"
   },
   {
-   "en": "How McLaren’s major F1 upgrade has been working in Baku",
-   "url": "https://www.motorsport.com/f1/news/how-mclarens-major-f1-upgrade-has-been-working-in-baku/10859110/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
+   "en": "Top 10 F1 closest finishes",
+   "url": "https://www.autosport.com/f1/news/top-10-f1-closest-finishes-/10859318/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
    "date": "2026-09-26"
   },
   {
-   "en": "Max Verstappen backs Kimi Antonelli after Baku F1 qualifying crash: “People forget how young he is”",
-   "url": "https://www.motorsport.com/f1/news/max-verstappen-backs-kimi-antonelli-after-baku-f1-qualifying-crash-people-forget-how-young-he-is/10859160/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-09-26"
-  },
-  {
-   "en": "Jacques Villeneuve delivers verdict on Esteban Ocon's F1 future",
-   "url": "https://www.motorsport.com/f1/news/jacques-villeneuve-delivers-verdict-on-esteban-ocons-f1-future/10858886/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-09-26"
-  },
-  {
-   "en": "Lando Norris: ‘I have to go for it or die trying’ to win 2026 F1 title",
-   "url": "https://www.motorsport.com/f1/news/lando-norris-i-have-to-go-for-it-or-die-trying-to-win-2026-f1-title/10859120/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-09-26"
-  },
-  {
-   "en": "\"Great job messing it up\" – Why Max Verstappen feels Baku was Red Bull's best chance to win",
-   "url": "https://www.motorsport.com/f1/news/great-job-messing-it-up-why-max-verstappen-feels-baku-was-red-bulls-best-chance-to-win/10859123/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
+   "en": "Norris demands ban for Colapinto after Azerbaijan GP crash",
+   "url": "https://www.autosport.com/f1/news/norris-demands-ban-for-colapinto-after-azerbaijan-gp-crash/10859259/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
    "date": "2026-09-26"
   }
  ],
@@ -3731,6 +3888,12 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBdkw4My1NUWpSeFktVWJ6Vjdlb3pTMXhqUEpVcGxtLWlGek9LejR6eFNpMThGWGQ2bEY1TnI4UjlJaFVfMm1pNHpTZjE3ak1rVGRNcFpGRE9lX1p6a1dzZHlYcS1va1FFckFQYVh0dw?oc=5",
    "src": "오토레이싱",
    "date": "2026-09-26"
+  },
+  {
+   "ko": "[2026 F1 15R] 러셀, 아제르바이잔 GP서 압도적인 기량 뽐내며 시즌 5번째 폴",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxUzRkZGR3czhvYkt4OUYxSmQ4YVhwMjJINWk0ajFfWURGV2JlUGFRRi1xRXAtYmdUQlR0LXI4RVpqZXBhZWtZWVVnM04zUzQ3cmQwWHJTT2lVcEV2dFNkTm1KVWZTZ3R6Z05OQw?oc=5",
+   "src": "고카넷",
+   "date": "2026-09-25"
   },
   {
    "ko": "F1, 2030년부터 1,000마력 이상 V8 엔진 복귀 추진",
@@ -3757,15 +3920,15 @@
    "date": "2026-09-25"
   },
   {
-   "ko": "[2026 F1 15R] 러셀, 아제르바이잔 GP서 압도적인 기량 뽐내며 시즌 5번째 폴",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxUzRkZGR3czhvYkt4OUYxSmQ4YVhwMjJINWk0ajFfWURGV2JlUGFRRi1xRXAtYmdUQlR0LXI4RVpqZXBhZWtZWVVnM04zUzQ3cmQwWHJTT2lVcEV2dFNkTm1KVWZTZ3R6Z05OQw?oc=5",
+   "ko": "[2026 F1 15R] 베르스타펜, 벽과의 접촉 위험 극복하고 파이널 연습 세션 톱타임",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04al9yUEx0Ukt2QVBmX1laQXgxdFNMT0s4TUdBb1NqbkhkV1MzV2I3M1JzTTQ3ZGw5aURTWUFXWVNYVnZIdjI1NUpRNnRIV0tFQzI4b1MzMXdrRHRNUUluNnE5UmFrc09Ba2tJXw?oc=5",
    "src": "고카넷",
    "date": "2026-09-25"
   },
   {
    "ko": "11년 만에 다시 나온 윌리엄스 여성 F1 드라이버…채드윅 32바퀴 질주",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zelVQaEdtYVNRcnh0R3hvQ2Z3cFdKbEVoNHR3RVU1bHNFQy0wQTFuV1VNX1Y3bk00aUgzdnRaNnVSLU9GMVgzeERvYTJWRmtXVFdzQVNZaGRQMVlZTlHSAWNBVV95cUxNYUVyYkVfeGJhNU9RUVVWYWtZb2ozNVlfV3U1aldvYTFZQjR5bmZua2pfWG02Y0lkbzNIbWRqdlhSdlBGaXNzNGx3WVktRVllQlRCWFBGSlhGR0E0QXk1cDN1MUU?oc=5",
-   "src": "스포츠경향",
+   "src": "sports.khan.co.kr",
    "date": "2026-09-24"
   },
   {
@@ -3781,22 +3944,16 @@
    "date": "2026-09-24"
   },
   {
-   "ko": "[2026 F1 15R] 러셀, 베르스타펜 제치고 아제르바이잔 GP 오프닝 연습 세션 톱타임",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WVVlGdmJ6cHFVanJzcnBybUF2MFRUdVFlUUJDekpNSDFjYzJZQVdSMnVfUzhTSTk2VnN2VmxqazV4OWczWjl1VXg0NkY0ZGpISHpTcVFibC0zbzBBeW5ZMFNjX0RBRENkZnZwcw?oc=5",
+   "ko": "[2026 F1 15R] 압도적 페이스 선보인 러셀, 아제르바이잔 GP FP2 톱타임",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00eG03MVIyTWpHYVBKSkFpLUZYMGlyN3hzUDc2bk8xdjItZ3AtWmFNUFhndTFKbmpjbHFpSTdxTThHLXdURXVaZ2o5d2xkMG91TTlTd3FtN01mWFQtWHFCLUdhb2VfbG9aRnl3TA?oc=5",
    "src": "고카넷",
    "date": "2026-09-24"
   },
   {
-   "ko": "[F1 아제르바이잔 GP 프리뷰] 3연승 노리는 키미 안토넬리",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GOVlVaXhwSW1JbjdCSlNxYkdaMjViOTM5cVNSdkdIUXVrNWhqZ0tJZmF4SGZYZ2pucUpReVBWOXNoMGF4OC10RFdzV2tUaTVsZWpESURtd0dKTXNKOW0wTXFmVTFvbmV0Z01v?oc=5",
-   "src": "standingout.kr",
-   "date": "2026-09-23"
-  },
-  {
-   "ko": "‘한국인 최초 F1 도전’ 이규호, GB3 브랜즈 해치서 포디엄 재도전",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0UDNCb3NUWVNpMTNPdTN1dW1TQXE2QjlUN093Q3RqUEdONkxva1I3V2FUNXhSdGFaR1pwQWMwOEdncktKQW5JSXIxMllod2tUU3FlU2VLRGdpcjNJZEtzTTEyeFM5MEtWZDlXNw?oc=5",
-   "src": "모터그래프",
-   "date": "2026-09-23"
+   "ko": "[2026 F1 15R] 러셀, 베르스타펜 제치고 아제르바이잔 GP 오프닝 연습 세션 톱타임",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WVVlGdmJ6cHFVanJzcnBybUF2MFRUdVFlUUJDekpNSDFjYzJZQVdSMnVfUzhTSTk2VnN2VmxqazV4OWczWjl1VXg0NkY0ZGpISHpTcVFibC0zbzBBeW5ZMFNjX0RBRENkZnZwcw?oc=5",
+   "src": "고카넷",
+   "date": "2026-09-24"
   }
  ]
 }
