@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28 01:59 KST",
+ "updated": "2026-09-28 06:22 KST",
  "roundsDone": 15,
  "drivers": [
   {
@@ -3798,6 +3798,12 @@
  },
  "news": [
   {
+   "en": "Red Bull's Baku brilliance gives Verstappen fresh hope",
+   "url": "https://www.formula1.com/en/latest/article/red-bulls-baku-brilliance-gives-max-verstappen-fresh-hope-for-first-grand-prix-win-in-2026.1nu3MgPzYKH4nL2x9rdAYL",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "How Baku highlighted McLaren’s straight line weakness",
    "url": "https://www.formula1.com/en/latest/article/a-very-frustrating-saturday-stella-explains-how-baku-highlighted-mclarens-straight-line-weakness.4iY4EWmrhkVVgus2tothvn",
    "src": "Formula1.com",
@@ -3874,12 +3880,6 @@
    "url": "https://www.motorsport.com/f1/news/alpine-makes-statement-as-franco-colapinto-related-abuse-accelerates/10859568/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
    "date": "2026-09-27"
-  },
-  {
-   "en": "Charles Leclerc: “McLaren and Red Bull did a step forward that we didn’t do”",
-   "url": "https://www.motorsport.com/f1/news/charles-leclerc-mclaren-and-red-bull-did-a-step-forward-that-we-didnt-do/10859495/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-09-27"
   }
  ],
  "newsKo": [
@@ -3916,7 +3916,7 @@
   {
    "ko": "[포토] 신세계 강남에 ‘미니지티’ 떴다…람보르기니·F1 미니카 한자리",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92WFZGRDJ4UVZPTzJIaWRQTHhJLTRtN290RmF4MlpsNjhiMEo3VEhVRWFYMHplUlhlUFVoSmFTb3JJVHhfcUJsbU5Sd19MakszQks4MQ?oc=5",
-   "src": "etoday.co.kr",
+   "src": "이투데이",
    "date": "2026-09-27"
   },
   {
