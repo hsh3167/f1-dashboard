@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27 06:11 KST",
+ "updated": "2026-09-27 14:20 KST",
  "roundsDone": 15,
  "drivers": [
   {
@@ -3884,16 +3884,40 @@
  ],
  "newsKo": [
   {
+   "ko": "‘토요일의 사나이’ 러셀, 바쿠서 부활…F1 시즌 3승 달성",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM0FJN0oxSFhFYnBpZkRsaHpUbTNidl9oNHhKZXM1dkdScmhsdlRycFM0eTF3MTY0WGEwVFBzS2lyQjlNMW1ZaE45LXhkS0hGR2lha21ueUJfelNjVl9XZzQ0TWRHQW5kTjdkQmcwWjRCMWxVSUtkekJVNlFLbnhsMw?oc=5",
+   "src": "edaily.co.kr",
+   "date": "2026-09-27"
+  },
+  {
+   "ko": "[2026 F1 제15전 아제르바이잔 GP] G. 러셀, M. 페르스타펜 0.196초 차 제치고 시즌 3승",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14MXBzTHhXSnppbzgxbk0zU21YUjlBS1pvMGJvZm9oTVJUV1BJRVFLWDBYWFp3Z3ZDQy10YlZWVGpkUFlkRnJfbW4zb1RpOGk0ck9WMk5pSWprdG5kenNSZjR3VlRBbTFJLXR5UDIwQQ?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-09-27"
+  },
+  {
+   "ko": "러셀, F1 아제르바이잔 GP 우승…선두 안토넬리와 66점 차",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBveTRybGZfSE8zSTJGSE9WaUVLM3VXX211aTNPY0M2Y2xYdkFnNXAzNzU4d0Q5dnVoTzRocVpqM080NDdqYnpnN2hPeThDZjY5bkdMcTcxNU5kRWdCT3FUT19VaHhQbFY0bnfSAW5BVV95cUxPRTNQaC1FaXVxSEpjR09UVXJSYW1acTVvVkNrRUduUXo5bXJsdDlMYzJsNDNicU9udFpEN3N3Q1VxbFk1MF9MX1ZJRU8wcHJOenFmeTJ0YzBwQ0V4YUdEN3VTMEc5WFJvU3EyWklyUQ?oc=5",
+   "src": "지피코리아",
+   "date": "2026-09-27"
+  },
+  {
+   "ko": "[포토] 신세계 강남에 ‘미니지티’ 떴다…람보르기니·F1 미니카 한자리",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92WFZGRDJ4UVZPTzJIaWRQTHhJLTRtN290RmF4MlpsNjhiMEo3VEhVRWFYMHplUlhlUFVoSmFTb3JJVHhfcUJsbU5Sd19MakszQks4MQ?oc=5",
+   "src": "이투데이",
+   "date": "2026-09-27"
+  },
+  {
+   "ko": "F1 러셀, 아제르바이잔 GP서 0.196초 차 '폴 투 윈'…시즌 3승",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBudHdtUFpKbUpGRTZGT1JZTDJ1ekNLQy1JWG5HMDUxMkJ6U3JEUGFnTmRRWUw0QzdLWXFCUjRWT21mdF8zc2hoZEhENmh4cWtxdy0tQ1o2MHUwV3Z1SlZBetIBYEFVX3lxTFBudHdtUFpKbUpGRTZGT1JZTDJ1ekNLQy1JWG5HMDUxMkJ6U3JEUGFnTmRRWUw0QzdLWXFCUjRWT21mdF8zc2hoZEhENmh4cWtxdy0tQ1o2MHUwV3Z1SlZBeg?oc=5",
+   "src": "연합뉴스",
+   "date": "2026-09-26"
+  },
+  {
    "ko": "[2026 F1 제15전 아제르바이잔 GP 예선 공식 기자회견] G. 러셀·C. 르클레르·O. 피아스트리",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBdkw4My1NUWpSeFktVWJ6Vjdlb3pTMXhqUEpVcGxtLWlGek9LejR6eFNpMThGWGQ2bEY1TnI4UjlJaFVfMm1pNHpTZjE3ak1rVGRNcFpGRE9lX1p6a1dzZHlYcS1va1FFckFQYVh0dw?oc=5",
    "src": "오토레이싱",
    "date": "2026-09-26"
-  },
-  {
-   "ko": "[2026 F1 15R] 러셀, 아제르바이잔 GP서 압도적인 기량 뽐내며 시즌 5번째 폴",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxUzRkZGR3czhvYkt4OUYxSmQ4YVhwMjJINWk0ajFfWURGV2JlUGFRRi1xRXAtYmdUQlR0LXI4RVpqZXBhZWtZWVVnM04zUzQ3cmQwWHJTT2lVcEV2dFNkTm1KVWZTZ3R6Z05OQw?oc=5",
-   "src": "고카넷",
-   "date": "2026-09-25"
   },
   {
    "ko": "F1, 2030년부터 1,000마력 이상 V8 엔진 복귀 추진",
@@ -3916,43 +3940,19 @@
   {
    "ko": "파라과이 모터스포츠의 새 역사, 조슈아 뒤르크센 메르세데스 F1 테스트 완수 : 남미동아뉴스 ; Paraguay Times",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TSkdfZlFINmpxNk15YmpOc1B5WU9xNkRILWo0RlRJbTVfc1BROWVsWnVyZE5PSW1nQ1h5Tmh4akUyeVpSdlRmOXJJXzBsdDNrSDRJVnhQZTNoUQ?oc=5",
-   "src": "뉴스케이",
-   "date": "2026-09-25"
-  },
-  {
-   "ko": "[2026 F1 15R] 베르스타펜, 벽과의 접촉 위험 극복하고 파이널 연습 세션 톱타임",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04al9yUEx0Ukt2QVBmX1laQXgxdFNMT0s4TUdBb1NqbkhkV1MzV2I3M1JzTTQ3ZGw5aURTWUFXWVNYVnZIdjI1NUpRNnRIV0tFQzI4b1MzMXdrRHRNUUluNnE5UmFrc09Ba2tJXw?oc=5",
-   "src": "고카넷",
+   "src": "newsk.net",
    "date": "2026-09-25"
   },
   {
    "ko": "11년 만에 다시 나온 윌리엄스 여성 F1 드라이버…채드윅 32바퀴 질주",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zelVQaEdtYVNRcnh0R3hvQ2Z3cFdKbEVoNHR3RVU1bHNFQy0wQTFuV1VNX1Y3bk00aUgzdnRaNnVSLU9GMVgzeERvYTJWRmtXVFdzQVNZaGRQMVlZTlHSAWNBVV95cUxNYUVyYkVfeGJhNU9RUVVWYWtZb2ozNVlfV3U1aldvYTFZQjR5bmZua2pfWG02Y0lkbzNIbWRqdlhSdlBGaXNzNGx3WVktRVllQlRCWFBGSlhGR0E0QXk1cDN1MUU?oc=5",
-   "src": "스포츠경향",
+   "src": "sports.khan.co.kr",
    "date": "2026-09-24"
   },
   {
    "ko": "메르세데스 F1, 바쿠서 통산 4승 도전",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qOC1yS0JQYVZ2YUJPMHVhUEUxcHRLNm51ZUVZYnJWS0FzYjFxR1ZILTU4LVFTVnI0a25ZRnRYQ3pYdm8xWmgzNFhPUDhaTjFQd0ZHZjBYem1xWnFSYlp0R25ycWZSUlZNcFVJLUtocw?oc=5",
    "src": "오토레이싱",
-   "date": "2026-09-24"
-  },
-  {
-   "ko": "[2026 F1 제15전 아제르바이잔 GP FP1] G. 러셀 1위, A. 키미 안토넬리 유압 발목",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vc01YWngxVF9sU1RsbG9ieTBSbTJydi0yaHBOQUtwRXIyb3dPVzBCakpqa2hRZ2JZMEEtelhQRncxeS1UZFZSNVI3NGZRNkVsZW1ZdjVFeVNFZFIzUnE3SGVSSnNwSGE1MFpTU01jOA?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-09-24"
-  },
-  {
-   "ko": "[2026 F1 15R] 러셀, 베르스타펜 제치고 아제르바이잔 GP 오프닝 연습 세션 톱타임",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WVVlGdmJ6cHFVanJzcnBybUF2MFRUdVFlUUJDekpNSDFjYzJZQVdSMnVfUzhTSTk2VnN2VmxqazV4OWczWjl1VXg0NkY0ZGpISHpTcVFibC0zbzBBeW5ZMFNjX0RBRENkZnZwcw?oc=5",
-   "src": "고카넷",
-   "date": "2026-09-24"
-  },
-  {
-   "ko": "[2026 F1 15R] 압도적 페이스 선보인 러셀, 아제르바이잔 GP FP2 톱타임",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00eG03MVIyTWpHYVBKSkFpLUZYMGlyN3hzUDc2bk8xdjItZ3AtWmFNUFhndTFKbmpjbHFpSTdxTThHLXdURXVaZ2o5d2xkMG91TTlTd3FtN01mWFQtWHFCLUdhb2VfbG9aRnl3TA?oc=5",
-   "src": "고카넷",
    "date": "2026-09-24"
   }
  ]
