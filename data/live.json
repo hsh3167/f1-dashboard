@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28 06:22 KST",
+ "updated": "2026-09-28 14:26 KST",
  "roundsDone": 15,
  "drivers": [
   {
@@ -3870,24 +3870,66 @@
    "date": "2026-09-27"
   },
   {
-   "en": "George Russell after rejuvenating Baku win: \"It would have been very easy for me to lose the faith\"",
-   "url": "https://www.motorsport.com/f1/news/george-russell-after-rejuvenating-baku-win-it-would-have-been-very-easy-for-me-to-lose-the-faith/10859613/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "en": "Arvid Lindblad issues apology after Racing Bulls team-mate clash in Baku",
+   "url": "https://www.motorsport.com/f1/news/arvid-lindblad-issues-apology-after-racing-bulls-team-mate-clash-in-baku/10859656/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
    "date": "2026-09-27"
   },
   {
-   "en": "Alpine makes statement as Franco Colapinto-related abuse accelerates",
-   "url": "https://www.motorsport.com/f1/news/alpine-makes-statement-as-franco-colapinto-related-abuse-accelerates/10859568/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "en": "Oscar Piastri: Error that cost me F1 Azerbaijan GP podium was \"a bit weird\"",
+   "url": "https://www.motorsport.com/f1/news/oscar-piastri-the-error-that-cost-me-baku-f1-podium-was-a-bit-weird/10859516/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
    "date": "2026-09-27"
   }
  ],
  "newsKo": [
   {
-   "ko": "‘토요일의 사나이’ 러셀, 바쿠서 부활…F1 시즌 3승 달성",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM0FJN0oxSFhFYnBpZkRsaHpUbTNidl9oNHhKZXM1dkdScmhsdlRycFM0eTF3MTY0WGEwVFBzS2lyQjlNMW1ZaE45LXhkS0hGR2lha21ueUJfelNjVl9XZzQ0TWRHQW5kTjdkQmcwWjRCMWxVSUtkekJVNlFLbnhsMw?oc=5",
-   "src": "edaily.co.kr",
-   "date": "2026-09-27"
+   "ko": "메르세데스-AMG 페트로나스 F1팀 조지 러셀, 2026 아제르바이잔 그랑프리서 우승",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IT3ZWa3liQXhhYnhfdGVCZi02dGQ2OTliTnE2YzFhc3ozT3poUEVHN3Nha3h0SkFCLTQzMlFxaGtDRlM5MXFCN0JYbWVJN2RXVGpVVU5tZ1Q5emEt?oc=5",
+   "src": "오토뷰",
+   "date": "2026-09-28"
+  },
+  {
+   "ko": "‘F1 지망’ 이규호, GB3 7라운드 결승서 뒷심..예선 아쉬움 털고 추월쇼",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TalRqT0FmZ0Z6cThISWx6QTkwR2E3WEpqcm54UTUyMVdFWk1SaGxubG5lRjFlMFB1ZGZHVC1QTFo5SzFadTJlcmJzT3U5T2VjaWtkRDZXeTJWVGNiRWZDUC10Q2U3NFRXMlFUUElFMG40ZFhuRVE?oc=5",
+   "src": "dailycar.co.kr",
+   "date": "2026-09-28"
+  },
+  {
+   "ko": "메르세데스-AMG 페트로나스 F1팀 '아제르바이잔 그랑프리' 우승",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TbFYyaXRLdWkyS3hDZWlITThDWFBCMHZ3NzBzVW5VNmtTdlZQOVQtOGVhUnlhSXFuSl9wS2FaR1JKOXNBX1FFbUVfTThpLUtSZEp3OEs0Sjg3Zw?oc=5",
+   "src": "파이낸셜뉴스",
+   "date": "2026-09-28"
+  },
+  {
+   "ko": "조지 러셀, 2026 F1 아제르바이잔 GP 우승...시즌 3승·통산 8승 달성",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sMjVZNXNfczcybVR6Z0pNejRJLU9TdlhTakR6OWNHeG42RnVxbFp1QzBob29WczBLUE5wS1NQUmlFY2ppWFg3bzhzLXNMaUdjMlhFQmw3aDRsaTJGZ0k4bGRQRUtkNGE5S3FuOQ?oc=5",
+   "src": "모터매거진",
+   "date": "2026-09-28"
+  },
+  {
+   "ko": "“3레이스 모두 완주”…F1 도전 이규호, GB3 7R서 순위 끌어올렸다",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FLTFWVm55VzVmQS1uVU1TOTNtSXFPYlUyLUZpc19lREM4d3FfNFlMYUIyT0V3UWNjTk5KcDJtN000eno3VkFFY2UySGtfSDBzME4tdDdFajJZRzBfcmVtdUdwT3V4eENOQWZWQW1JMkRxdw?oc=5",
+   "src": "톱스타뉴스",
+   "date": "2026-09-28"
+  },
+  {
+   "ko": "'F1 도전' 이규호, GB3 6R 완주…\"최종 라운드는 포디움 도전\"",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxWkpuZnVPWFl0SngyOXRWZk84U0twSGRlOHYtQWZtUS1LVm1OamQ1bXY1NTBycThab0hUMENqNDlLZXl6bnJSYlRaM0swQU1GV1VxZXMybFVnSVo2WGdmNdIBYEFVX3lxTFBxWkpuZnVPWFl0SngyOXRWZk84U0twSGRlOHYtQWZtUS1LVm1OamQ1bXY1NTBycThab0hUMENqNDlLZXl6bnJSYlRaM0swQU1GV1VxZXMybFVnSVo2WGdmNQ?oc=5",
+   "src": "연합뉴스",
+   "date": "2026-09-28"
+  },
+  {
+   "ko": "조지 러셀, F1 아제르바이잔 GP 우승..통산 8승 달성 ‘기염’",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QY0lwR2RIT2dNZlNLVHdNdFpyeTNOaUFCQ0xxbUNSSVVkQXZ2S3Z4X2d6d0lLcktWTng1VDBKaGhoejdxak5NY1Bsc1JlLWlXSEdKLXRYOENmSlZvTUtyTUExclUxclZkbGRrSkk0Ry14VFlPelE?oc=5",
+   "src": "dailycar.co.kr",
+   "date": "2026-09-28"
+  },
+  {
+   "ko": "조지 러셀, 아제르바이잔 GP ‘폴투윈’⋯메르세데스-AMG 538점 선두",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WQVJvU3o4cHhZRzdGd0VvcW0zR1JHVy1jaVlPWk5WdzJJbV9NQXZUOTl6cllEdHM0Wl9fbU9ka2hqaVl1Z2pSb0twamZJcnZhZUx3ZV8yMm1KOUlnMGd2Q00tSVJ3RGpFMHVoOHd5MA?oc=5",
+   "src": "엠투데이",
+   "date": "2026-09-28"
   },
   {
    "ko": "[2026 F1 제15전 아제르바이잔 GP] G. 러셀, M. 페르스타펜 0.196초 차 제치고 시즌 3승",
@@ -3912,48 +3954,6 @@
    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9sZHBxYVFnVUcwZmpRUkNzVThDaTZSZHdPY1htMVBHdENiQTJ2eEFzVndmUllEcGFIRGhEYTdtai1zUjZkOVE?oc=5",
    "src": "v.daum.net",
    "date": "2026-09-27"
-  },
-  {
-   "ko": "[포토] 신세계 강남에 ‘미니지티’ 떴다…람보르기니·F1 미니카 한자리",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92WFZGRDJ4UVZPTzJIaWRQTHhJLTRtN290RmF4MlpsNjhiMEo3VEhVRWFYMHplUlhlUFVoSmFTb3JJVHhfcUJsbU5Sd19MakszQks4MQ?oc=5",
-   "src": "이투데이",
-   "date": "2026-09-27"
-  },
-  {
-   "ko": "F1 러셀, 아제르바이잔 GP서 0.196초 차 '폴 투 윈'…시즌 3승",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBudHdtUFpKbUpGRTZGT1JZTDJ1ekNLQy1JWG5HMDUxMkJ6U3JEUGFnTmRRWUw0QzdLWXFCUjRWT21mdF8zc2hoZEhENmh4cWtxdy0tQ1o2MHUwV3Z1SlZBetIBYEFVX3lxTFBudHdtUFpKbUpGRTZGT1JZTDJ1ekNLQy1JWG5HMDUxMkJ6U3JEUGFnTmRRWUw0QzdLWXFCUjRWT21mdF8zc2hoZEhENmh4cWtxdy0tQ1o2MHUwV3Z1SlZBeg?oc=5",
-   "src": "연합뉴스",
-   "date": "2026-09-26"
-  },
-  {
-   "ko": "[2026 F1 제15전 아제르바이잔 GP 예선 공식 기자회견] G. 러셀·C. 르클레르·O. 피아스트리",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBdkw4My1NUWpSeFktVWJ6Vjdlb3pTMXhqUEpVcGxtLWlGek9LejR6eFNpMThGWGQ2bEY1TnI4UjlJaFVfMm1pNHpTZjE3ak1rVGRNcFpGRE9lX1p6a1dzZHlYcS1va1FFckFQYVh0dw?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-09-26"
-  },
-  {
-   "ko": "[2026 F1 15R] 러셀, 아제르바이잔 GP서 압도적인 기량 뽐내며 시즌 5번째 폴",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxUzRkZGR3czhvYkt4OUYxSmQ4YVhwMjJINWk0ajFfWURGV2JlUGFRRi1xRXAtYmdUQlR0LXI4RVpqZXBhZWtZWVVnM04zUzQ3cmQwWHJTT2lVcEV2dFNkTm1KVWZTZ3R6Z05OQw?oc=5",
-   "src": "고카넷",
-   "date": "2026-09-25"
-  },
-  {
-   "ko": "F1, 2030년부터 1,000마력 이상 V8 엔진 복귀 추진",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeEJsZFRUYkw5Nk9sVUM4ME01dEo4UTZQbklEcVdaUlpHT1RWLVo0dnl5UjBNaHl2TXVoVjdlQ1pmeWwzN0ExT0k4azBDcGZRZ3pIcmU3UkdGSy04aVMyMXE1RzdpRWFfMWdEX2NZN3habHBDRngwVmVCVUJDTGQybXlRSllEQVE?oc=5",
-   "src": "Hypebeast.KR",
-   "date": "2026-09-25"
-  },
-  {
-   "ko": "[2026 F1 아제르바이잔 GP FP2] G. 러셀 1위, 메르세데스 원투",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Cbk1sNHlyZlItTWE5VGRBemNIbUhMOTNVS1VNT3RRaWg1cUlNX2pfZ3hpY0YtTTFoME1XUmVuY3pwbDk3c3V1cE9OandxRlY4S2xqWkZIXy00eERFdlBzdVZzbnJ2LWJmcHc2Yl8tUQ?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-09-25"
-  },
-  {
-   "ko": "[2026 F1 제15전 아제르바이잔 GP QR] G. 러셀, 0.837초 차 시즌 5번째 PP",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hVzB4WTY4c0NtZGx4dnNmRU1iaVRzT1p5d3lfclhfajE4X3JUVlNBVF9RT3huMFVuRFcyLUZzakhIRnI0Yk5QbEpGejJaWU81QmZWUFZLbVE3bHFuOU1GYUhpNzBnZXRVSmg0YlhqWQ?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-09-25"
   }
  ]
 }
