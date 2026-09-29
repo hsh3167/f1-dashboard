@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29 06:14 KST",
+ "updated": "2026-09-29 10:01 KST",
  "roundsDone": 15,
  "drivers": [
   {
@@ -3852,12 +3852,6 @@
    "date": ""
   },
   {
-   "en": "Mekies praises Hadjar's 'outstanding' Baku podium on return",
-   "url": "https://www.formula1.com/en/latest/article/it-was-outstanding-mekies-praises-hadjars-azerbaijan-gp-podium-on-return.5suUJmpAuHzbzrUe5SzELk",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
    "en": "Herta still aiming for F1 by 2028",
    "url": "https://www.autosport.com/f1/news/herta-still-aiming-for-f1-by-2028/10859881/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
@@ -3880,6 +3874,12 @@
    "url": "https://www.autosport.com/f1/news/why-mclaren-was-so-much-slower-than-mercedes-on-bakus-straights/10859723/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
    "date": "2026-09-28"
+  },
+  {
+   "en": "McLaren Racing reportedly set for historic $1billion revenue milestone",
+   "url": "https://www.motorsport.com/f1/news/mclaren-racing-reportedly-set-for-historic-1billion-revenue-milestone/10859918/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-09-28"
   }
  ],
  "newsKo": [
@@ -3891,7 +3891,7 @@
   },
   {
    "ko": "메르세데스-AMG 페트로나스 F1팀 '아제르바이잔 그랑프리' 우승",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LU05DZXBHYlJpX3diVXFxTHBTRnhLQml5LVVROGNISU5Wam84aXQyNmtoSEtJN0JHSEtKdHprdjNHMkNTUVZ0VjcySGdhcU1EenhsSA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmYnFiRHVBaG1ZVlZtT3FuXzNVaXRmTml5X2p2M1RsbEVoWkVFbEJFbkhpbDduYnd6TlFJbXdUUThGMXJSSWEzLUNZbw?oc=5",
    "src": "v.daum.net",
    "date": "2026-09-28"
   },
@@ -3926,9 +3926,15 @@
    "date": "2026-09-28"
   },
   {
+   "ko": "트와이스 쯔위, 윌리엄즈 F1×‘단다단’ 테마곡 참여",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tVnBBOVBGYXZXT1JOOWZrSDE0WUN5Q3ZaQzdTTTJNUDFjUUtrajlSUmhIWUR5X2h5ZnM4dUlISmYtdXZ1MFZ0ZFlSTklVMmVhazR5d2VCZS0tQ3hFRUltZWFnQUgzcFlpM0xIWUhlRQ?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-09-28"
+  },
+  {
    "ko": "조지 러셀, 아제르바이잔 GP 우승…메르세데스 F1 선두 질주",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93MkxrdzF2aEFvNlIxdGVuY3J3Um11TF9NTDdUN2tXT1Z3ekJnU0pORXEwUzh3YWtpT2R2TTNfcHlPVGs3ek4wWnFEbXQyeUtRdlA0OC13U251cTIt?oc=5",
-   "src": "뉴스핌",
+   "src": "newspim.com",
    "date": "2026-09-28"
   },
   {
@@ -3940,18 +3946,12 @@
   {
    "ko": "조지 러셀, F1 아제르바이잔 GP 우승…시즌 3승·통산 8승",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSjdxSU1CVE40QnJHNXp5aFFEVWdVZ0RJV3VtSUIzTTZHYjRhSmF4cldOa2JsaWszY2RmOGJ6cmJDSnNGSWFNenIxbTNtdDl0cFFRZjNRcUNnNjhuaXRRZDdZME5oTUhlc055dGFDUEVKX0tjdS1JbGthZnZxclh4WEtMdTgza1nSAXtBVV95cUxNaGh2MmRFNk5tdXh5NDFWTEtXb3NXSllUMlB1WmJIMGxKMXRIeWJtZUFXTndoNFBvMmozbTdCS3RKeVNtdjl4dmJyRG1pVXFuLUhXUXZYT2lMcUtYTkRVR2JKMWlNNEhNMmt4M2pqVlF4Sms5YzBsTGhsUW8?oc=5",
-   "src": "digitalchosun.dizzo.com",
+   "src": "디지틀조선일보",
    "date": "2026-09-28"
   },
   {
-   "ko": "메르세데스-AMG 페트로나스 F1팀 러셀, 아제르바이잔 그랑프리 우승…시즌 3승 달성",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YWFRyOTQ3cFh4ZVZtTzZPQnFQcURTY3p0R3lKVXBjOFE0cjBaQTZrVVVOcURGYnNGZk96U1JNWHdzQ052a296b3V5WkRua0k5V0t2cEEycXNNMjQ3VV9VbnBUY2REbVhGNFJVVHZDeV9vbTDSAXdBVV95cUxORGhydUlLTFVmTFAwVS1PUTIyMktUaDNrMTcyd0F0RzJTMWthNTRCcDMxWTNzX2x1eUx3bGwyZ0RkQlZ2RU1NcEFUVzJTYXNxeHp3aDlxNm45X1lISkV5TGEtaVNSVFM3OTJWYWNtRDBsZmJMVV96VQ?oc=5",
-   "src": "pinpointnews.co.kr",
-   "date": "2026-09-28"
-  },
-  {
-   "ko": "[2026 F1 제15전 아제르바이잔 GP Review-메르세데스] G. 러셀, “정말 놀라운 주말이었다”",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxcXNHdUE2QW1oQWwyQ1pHZnRuczc5RU9zNmdkQTNwT0lhTEJmM20yLWVjMTNheVo4TjUyVFdBWnFLbTljbm8tQlVYMXotRkdlVjNhRTBiMDNxaXdHeDNrQ2NBQU5qTkhFV1VSeE5fYw?oc=5",
+   "ko": "[2026 F1 제15전 아제르바이잔 GP Review-레드불] M. 페르스타펜, “오늘 정말 강한 레이스를 했다”",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xdjE3Z3ZCVVBud0tITFVDOWRwUXVFdmhSQk00cWVqV0M2VjZScEUxM1FZb01YWU95d0JJc2pDNVpDMjhMLUgycHJnbzhMZFhNaDhRZ2l0SzItYXg4UnJJU1Y5NE0wQTgxUGdUTnlOUQ?oc=5",
    "src": "오토레이싱",
    "date": "2026-09-28"
   }
