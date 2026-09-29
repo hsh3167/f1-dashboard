@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29 10:01 KST",
+ "updated": "2026-09-29 18:51 KST",
  "roundsDone": 15,
  "drivers": [
   {
@@ -3798,6 +3798,12 @@
  },
  "news": [
   {
+   "en": "How Hadjar cleverly handled his comeback to claim a podium in Baku",
+   "url": "https://www.formula1.com/en/latest/article/how-hadjar-cleverly-handled-his-comeback-to-claim-a-podium-in-baku.6e5PnWMLxKo38Bj0iVBRRg",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "PALMER: Why George Russell’s Baku win was so impressive",
    "url": "https://www.formula1.com/en/latest/article/why-russells-baku-win-was-so-impressive.4DjGxjpyh7WxwnhjmZfk7H",
    "src": "Formula1.com",
@@ -3846,10 +3852,10 @@
    "date": ""
   },
   {
-   "en": "How Baku highlighted McLaren’s straight line weakness",
-   "url": "https://www.formula1.com/en/latest/article/a-very-frustrating-saturday-stella-explains-how-baku-highlighted-mclarens-straight-line-weakness.4iY4EWmrhkVVgus2tothvn",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "Esteban Ocon: “I’m one of the best, and I’m not afraid to say it”",
+   "url": "https://www.motorsport.com/f1/news/esteban-ocon-im-one-of-the-best-and-im-not-afraid-to-say-it/10859693/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-09-29"
   },
   {
    "en": "Herta still aiming for F1 by 2028",
@@ -3874,15 +3880,27 @@
    "url": "https://www.autosport.com/f1/news/why-mclaren-was-so-much-slower-than-mercedes-on-bakus-straights/10859723/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
    "date": "2026-09-28"
-  },
-  {
-   "en": "McLaren Racing reportedly set for historic $1billion revenue milestone",
-   "url": "https://www.motorsport.com/f1/news/mclaren-racing-reportedly-set-for-historic-1billion-revenue-milestone/10859918/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-09-28"
   }
  ],
  "newsKo": [
+  {
+   "ko": "[2026 F1 아제르바이잔 GP Review-페라리] “제대로 포디엄 경쟁할 정도는 아니었다”",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Ca01jaUtmSEI2RGRaaGZLQUJHenppYjlmUVBRemxpNjI3TkpHMVQ1MHMxRGcxTlNtWGdvV0toOEZuTVNrM2JYVkZUUl9DQXk2OFhkNmhBdkg4aklXMUhMaTZzOGR1cldzcG52LUV2WQ?oc=5",
+   "src": "autoracing.co.kr",
+   "date": "2026-09-29"
+  },
+  {
+   "ko": "[2026 F1 아제르바이잔 GP Review-맥라렌] “포디엄 경쟁 페이스가 있었다”",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4TnJpV0MtN0NZRTlyNTNRVnlGNVZHR04yVU1fMEJyNTdIRHhmdTU5WHZ3dzdYVDhPM2lnZ095ZHlqNEl0RW4tVl9Mc0Z3RFVPNGotcGNiNVVxRlg4eWE2Yl9OaW1oQWF5cTVYWTlQNA?oc=5",
+   "src": "autoracing.co.kr",
+   "date": "2026-09-29"
+  },
+  {
+   "ko": "'F1 도전' 이규호, GB3 6R 완주…\"최종 라운드는 포디움 도전\"",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxWkpuZnVPWFl0SngyOXRWZk84U0twSGRlOHYtQWZtUS1LVm1OamQ1bXY1NTBycThab0hUMENqNDlLZXl6bnJSYlRaM0swQU1GV1VxZXMybFVnSVo2WGdmNdIBYEFVX3lxTFBxWkpuZnVPWFl0SngyOXRWZk84U0twSGRlOHYtQWZtUS1LVm1OamQ1bXY1NTBycThab0hUMENqNDlLZXl6bnJSYlRaM0swQU1GV1VxZXMybFVnSVo2WGdmNQ?oc=5",
+   "src": "연합뉴스",
+   "date": "2026-09-28"
+  },
   {
    "ko": "메르세데스-AMG F1팀 러셀, 아제르바이잔 그랑프리 우승",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LVU9MWWlFaERZZ3lWeUtjdGllbzd4SVN5Rm1pckRzUV9DcjlCRWVkQVJVQ29MeENqNVlpbTVnNVFEdlFXekdNSVhXS0J2MmtLeElId21xMFZiQ2NOV0FkcTFiTmQ?oc=5",
@@ -3916,25 +3934,7 @@
   {
    "ko": "메르세데스-AMG 페트로나스 F1팀, 아제르바이잔 GP 우승…러셀 시즌 3승",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVbXdMUFhTRXlZam9rSS04blU1NWNoRkJ2WS1SSmhZZE52di1PS2MzM0dsZktWb0FJeFV1LW92aFVPS2lCTkJRaGo3SnBlWXlnMDQ4LUFBcWJyN1NSWkZNMHNnV1p1SU1mYVhhX0wxS18?oc=5",
-   "src": "신아일보",
-   "date": "2026-09-28"
-  },
-  {
-   "ko": "'F1 도전' 이규호, GB3 6R 완주…\"최종 라운드는 포디움 도전\"",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxWkpuZnVPWFl0SngyOXRWZk84U0twSGRlOHYtQWZtUS1LVm1OamQ1bXY1NTBycThab0hUMENqNDlLZXl6bnJSYlRaM0swQU1GV1VxZXMybFVnSVo2WGdmNdIBYEFVX3lxTFBxWkpuZnVPWFl0SngyOXRWZk84U0twSGRlOHYtQWZtUS1LVm1OamQ1bXY1NTBycThab0hUMENqNDlLZXl6bnJSYlRaM0swQU1GV1VxZXMybFVnSVo2WGdmNQ?oc=5",
-   "src": "연합뉴스",
-   "date": "2026-09-28"
-  },
-  {
-   "ko": "트와이스 쯔위, 윌리엄즈 F1×‘단다단’ 테마곡 참여",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tVnBBOVBGYXZXT1JOOWZrSDE0WUN5Q3ZaQzdTTTJNUDFjUUtrajlSUmhIWUR5X2h5ZnM4dUlISmYtdXZ1MFZ0ZFlSTklVMmVhazR5d2VCZS0tQ3hFRUltZWFnQUgzcFlpM0xIWUhlRQ?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-09-28"
-  },
-  {
-   "ko": "조지 러셀, 아제르바이잔 GP 우승…메르세데스 F1 선두 질주",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93MkxrdzF2aEFvNlIxdGVuY3J3Um11TF9NTDdUN2tXT1Z3ekJnU0pORXEwUzh3YWtpT2R2TTNfcHlPVGs3ek4wWnFEbXQyeUtRdlA0OC13U251cTIt?oc=5",
-   "src": "newspim.com",
+   "src": "shinailbo.co.kr",
    "date": "2026-09-28"
   },
   {
@@ -3944,15 +3944,15 @@
    "date": "2026-09-28"
   },
   {
-   "ko": "조지 러셀, F1 아제르바이잔 GP 우승…시즌 3승·통산 8승",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSjdxSU1CVE40QnJHNXp5aFFEVWdVZ0RJV3VtSUIzTTZHYjRhSmF4cldOa2JsaWszY2RmOGJ6cmJDSnNGSWFNenIxbTNtdDl0cFFRZjNRcUNnNjhuaXRRZDdZME5oTUhlc055dGFDUEVKX0tjdS1JbGthZnZxclh4WEtMdTgza1nSAXtBVV95cUxNaGh2MmRFNk5tdXh5NDFWTEtXb3NXSllUMlB1WmJIMGxKMXRIeWJtZUFXTndoNFBvMmozbTdCS3RKeVNtdjl4dmJyRG1pVXFuLUhXUXZYT2lMcUtYTkRVR2JKMWlNNEhNMmt4M2pqVlF4Sms5YzBsTGhsUW8?oc=5",
-   "src": "디지틀조선일보",
+   "ko": "트와이스 쯔위, 윌리엄즈 F1×‘단다단’ 테마곡 참여",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tVnBBOVBGYXZXT1JOOWZrSDE0WUN5Q3ZaQzdTTTJNUDFjUUtrajlSUmhIWUR5X2h5ZnM4dUlISmYtdXZ1MFZ0ZFlSTklVMmVhazR5d2VCZS0tQ3hFRUltZWFnQUgzcFlpM0xIWUhlRQ?oc=5",
+   "src": "autoracing.co.kr",
    "date": "2026-09-28"
   },
   {
-   "ko": "[2026 F1 제15전 아제르바이잔 GP Review-레드불] M. 페르스타펜, “오늘 정말 강한 레이스를 했다”",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xdjE3Z3ZCVVBud0tITFVDOWRwUXVFdmhSQk00cWVqV0M2VjZScEUxM1FZb01YWU95d0JJc2pDNVpDMjhMLUgycHJnbzhMZFhNaDhRZ2l0SzItYXg4UnJJU1Y5NE0wQTgxUGdUTnlOUQ?oc=5",
-   "src": "오토레이싱",
+   "ko": "조지 러셀, 아제르바이잔 GP 우승…메르세데스 F1 선두 질주",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93MkxrdzF2aEFvNlIxdGVuY3J3Um11TF9NTDdUN2tXT1Z3ekJnU0pORXEwUzh3YWtpT2R2TTNfcHlPVGs3ek4wWnFEbXQyeUtRdlA0OC13U251cTIt?oc=5",
+   "src": "뉴스핌",
    "date": "2026-09-28"
   }
  ]
