@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03 02:52 KST",
+ "updated": "2026-10-03 07:15 KST",
  "roundsDone": 15,
  "drivers": [
   {
@@ -3798,6 +3798,12 @@
  },
  "news": [
   {
+   "en": "Best Qualifying bets available for the Bahrain GP",
+   "url": "https://www.formula1.com/en/latest/article/best-qualifying-bets-available-for-the-bahrain-grand-prix.3m4ZZfFtaTecS1xC8UtAzr",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "Vasseur responds to gossip about his future",
    "url": "https://www.formula1.com/en/latest/article/sometimes-the-attacks-are-a-bit-personal-vasseur-responds-to-gossip-about-his-future.jpv8msSmPmCJB0VDCfZcK",
    "src": "Formula1.com",
@@ -3846,12 +3852,6 @@
    "date": ""
   },
   {
-   "en": "AS IT HAPPENED: Second Practice for the Bahrain GP in Malaysia",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-second-practice-in-bahrain-2026.6OjmjNAxRiaFHYsr4vLHnJ",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
    "en": "Why Verstappen’s unusual run plan highlights F1 teams’ biggest challenge in Malaysia",
    "url": "https://www.autosport.com/f1/news/max-verstappens-unusual-run-plan-and-f1-teams-biggest-challenge-in-malaysia-explained/10861106/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
@@ -3892,13 +3892,7 @@
   {
    "ko": "메르세데스, 2026 F1 말레이시아 GP서 ‘페트로나스’ 스페셜 리버리 투입",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYVGtHVGVpeU1lNDgwYUJ4Tk5wODc5dHktcGx5NElBVEl5S0RKaEw0cVM5MXRfSFNNQnFqQzJtWENVZWx3QVlYaVBhYk5kbnFsQ3FPNUd6TTFjVlU0dzVOdW1sZUl2MmVMODh1ZTNmbw?oc=5",
-   "src": "autoracing.co.kr",
-   "date": "2026-10-01"
-  },
-  {
-   "ko": "짙은 스모그가 싱가포르와 말레이시아를 뒤덮어 포뮬러 1 경주에 차질을 빚고 있습니다.",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNalZrVXctTFo5ZnE0Tk9URlU2ZVFHbWlNN0pYM2hlUmJvOGkxMUxGTkJYcHJ0UlUyR1hDNkVHYW9EdkszaXB4dnJvTzJKS1V6X29hbjZFVTlibFUydzR3V0RldXNWZHdWRFI3d2NjN0luNkxwNTJsc3ZERVVWdF9DSXl6WF9hV3c?oc=5",
-   "src": "Vietnam.vn",
+   "src": "오토레이싱",
    "date": "2026-10-01"
   },
   {
@@ -3910,50 +3904,56 @@
   {
    "ko": "카운트다운 시작… F1, 2027년 10월 3일 이스탄불로 돌아온다",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzOWlWWHp1WWNGcFJsdnZKY243ZUEwQ0pUYzhiZzRhMjZWUG9rbUFJc29SeGhZQjBrVVo5SUJUQ1o3UGFXZW5qZUtfWjRpejNZUlRPdlRfVUlIV21hc1Q1MWRleTNib2Jn?oc=5",
-   "src": "aseanexpress.co.kr",
+   "src": "아세안익스프레스",
    "date": "2026-09-30"
   },
   {
    "ko": "[2026 F1 서킷 스토리⑯] 두 직선·고속 코너·열대 폭우, 9년 만에 돌아온 세팡",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tREpPakVCTVY1S2FacF9MRHMyak0wQVpDeDNsRVhVUWYxTXBRLS1QcW1lNzVjdFV6RGVjRDlMREctRlJnUzZoUW1zYWtHRjJHWG1fQnk5OGIxVjQ1eWVjNjdSeUZaWDI1ZzVEVGdzZw?oc=5",
-   "src": "autoracing.co.kr",
+   "src": "오토레이싱",
    "date": "2026-09-30"
   },
   {
    "ko": "[2026 F1 아제르바이잔 GP Review-하스] “모나코 이후 무득점 끊었다”",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6RTYzZUpuOHpHZWhqd0ZYWDdIT2kwcTh4Z25vQU5YdER5NEdpWl9fSW1iLS11VVlmU09EUXRPR1Q1ZmRHSG9CMWJUZGUtNVpkWFRGbGFfUkk1SXViTXVUd0F0TWdIbHlJRzVkMzQwdw?oc=5",
-   "src": "autoracing.co.kr",
+   "src": "오토레이싱",
    "date": "2026-09-30"
   },
   {
    "ko": "애스턴마틴 F1, 2027시즌도 F. 알론소·L. 스트롤과 동행",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tNVlROG1McVZYdndPS25rMWVabnpCQnZFaUtlU2RwUWFoakJlU2luMkJmVVJhOG9SUGlMQ2JEb284RDREdUZYOU9KVmd3TG8xcmNzSE1hUHY2S3J6UGFfOGlETm9jZE9Zc1hRcDZfQQ?oc=5",
-   "src": "autoracing.co.kr",
+   "src": "오토레이싱",
    "date": "2026-09-30"
   },
   {
    "ko": "TGR 하스 F1팀, E. 오콘과 2026시즌 끝으로 결별",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tQTVFZTI1LWxodnM3VFVaWlRfaHlBZXBTd0pvSUZieS1GNVdvVlFzMFFkZ1VLcWJ3aFdLQlJjUHBvdzVFZ3V6NFIwdFItZFVva2syQzFINFNscjlEMUFLT1ZhQnJJckE5QkVwV1RUdw?oc=5",
-   "src": "autoracing.co.kr",
+   "src": "오토레이싱",
    "date": "2026-09-30"
   },
   {
-   "ko": "[대회] F1 튀르키예 그랑프리, 6년 만에 전격 복귀…2027년 10월 이스탄불 개최",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtdVRoVkJwdGhwbUw3a2dVN1BxRnRhVE1XSUhXOFI3cjNCenVMT0NxZmNsNS11Yy0tTWdXN3NNeXZZUTNZMGU3dHQwaGluMFFZQUJzM1d1b2hZNFY5aV9Kd2t5bDFYMjJRNnpMYzZ3a04?oc=5",
-   "src": "리뷰타임스",
+   "ko": "[2026 F1 아제르바이잔 GP Review-페라리] “포디엄 경쟁을 할 정도는 아니었다”",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Ca01jaUtmSEI2RGRaaGZLQUJHenppYjlmUVBRemxpNjI3TkpHMVQ1MHMxRGcxTlNtWGdvV0toOEZuTVNrM2JYVkZUUl9DQXk2OFhkNmhBdkg4aklXMUhMaTZzOGR1cldzcG52LUV2WQ?oc=5",
+   "src": "오토레이싱",
    "date": "2026-09-29"
   },
   {
-   "ko": "“F1이 다시 이스탄불로”…튀르키예 그랑프리 6년 만에 부활",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QSnZGQzFkMDVtUGd6OTgzZXZ5TnNodzJYamFsa1JHUHRfUkVqZjBZV25ZanZEbXZoaHJOQlV1Z1R5c2R6NG5ZdTRTSDRxSjh6d2ZKU2lYeHdMTU55ZFVZ?oc=5",
-   "src": "스타패션",
+   "ko": "아디다스×메르세데스 F1, 화제의 '실버 재킷' 한정 출시",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SUjdycmRDZkpUMGFHNHlSd2hJSUdkODRVZWFEQnRWRVBlV1M3SWpRSjlkZ25zMGw5RlZxOXJkRU44d05mWHFRb2R3SQ?oc=5",
+   "src": "v.daum.net",
    "date": "2026-09-29"
   },
   {
-   "ko": "아디다스×메르세데스 F1, 화제의 ‘실버 재킷’ 한정 출시",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tZ3V5eUM4SHlYX2pBZHJfVGVSWmlvNXUzVWFSM2lKYTlXNGNTLXZWemcxWE11cnB1X1lzTlA3Z3NZX0Z4WXFMUmJ5ZTZxYnZ3VGt4VzZxcC1yaDI4ZHNYMFVDb0JmYVNzVllTM0R30gFuQVVfeXFMTm1ndXl5QzhIeVhfakFkcl9UZVJaaW81dTNVYVIzaUphOVc0Y1MtdlZ6ZzFYTXVycHVfWXNOUDdnc1lfRnhZcUxSYnllNnFidndUa3hXNnFwLXJoMjhkc1gwVUNvQmZhU3NWWVMzRHc?oc=5",
-   "src": "지피코리아",
+   "ko": "[2026 F1 아제르바이잔 GP Review-맥라렌] “포디엄 경쟁 페이스가 있었다”",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4TnJpV0MtN0NZRTlyNTNRVnlGNVZHR04yVU1fMEJyNTdIRHhmdTU5WHZ3dzdYVDhPM2lnZ095ZHlqNEl0RW4tVl9Mc0Z3RFVPNGotcGNiNVVxRlg4eWE2Yl9OaW1oQWF5cTVYWTlQNA?oc=5",
+   "src": "오토레이싱",
    "date": "2026-09-29"
+  },
+  {
+   "ko": "메르세데스-AMG F1팀 러셀, 아제르바이잔 그랑프리 우승",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LVU9MWWlFaERZZ3lWeUtjdGllbzd4SVN5Rm1pckRzUV9DcjlCRWVkQVJVQ29MeENqNVlpbTVnNVFEdlFXekdNSVhXS0J2MmtLeElId21xMFZiQ2NOV0FkcTFiTmQ?oc=5",
+   "src": "서울경제TV",
+   "date": "2026-09-28"
   }
  ]
 }
