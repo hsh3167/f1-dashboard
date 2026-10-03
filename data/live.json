@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04 01:19 KST",
+ "updated": "2026-10-04 06:18 KST",
  "roundsDone": 15,
  "drivers": [
   {
@@ -3840,18 +3840,6 @@
    "date": ""
   },
   {
-   "en": "Hadjar 'enjoying' injury comeback despite Sepang race penalty",
-   "url": "https://www.formula1.com/en/latest/article/hadjar-enjoying-comeback-from-injury-despite-grand-prix-penalty-in-malaysia.3JYXgUv1pfyCZUIXdgMMPy",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Hamilton on how Ferrari ‘hit the sweet spot’ in Malaysia",
-   "url": "https://www.formula1.com/en/latest/article/hamilton-explains-how-ferrari-hit-the-sweet-spot-in-qualifying-for-bahrain-gp-in-malaysia.012Xq9ylnwbXl6HOmHai9v",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
    "en": "Why Malaysia would be the perfect place for F1’s first wet-weather race in 2026",
    "url": "https://www.autosport.com/f1/news/why-malaysia-would-be-the-best-place-for-f1s-first-wet-weather-race-in-2026/10861397/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
@@ -3880,6 +3868,18 @@
    "url": "https://www.autosport.com/f1/news/why-mercedes-upgrade-is-still-a-big-question-mark/10861516/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
    "date": "2026-10-03"
+  },
+  {
+   "en": "F1 Bahrain GP in Malaysia: Verstappen dominates for first pole of 2026 from Hamilton",
+   "url": "https://www.autosport.com/f1/news/f1-bahrain-gp-in-malaysia-qualifying-report/10861364/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-10-03"
+  },
+  {
+   "en": "F1 Bahrain GP in Malaysia: Antonelli recovers from tough Friday to top FP3",
+   "url": "https://www.autosport.com/f1/news/f1-bahrain-gp-in-malaysia-antonelli-recovers-from-tough-friday-to-top-fp3/10861282/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-10-03"
   }
  ],
  "newsKo": [
@@ -3890,8 +3890,26 @@
    "date": "2026-10-03"
   },
   {
+   "ko": "F1 페르스타펜, 바레인 GP서 시즌 첫 폴포지션…2위 해밀턴",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE43emRreHlDWE05c0lieGdNMlNsdzlNalVJSnlHMEtXZkp1ak96TlgxRll6VW1icElkSWRzeVVIX0ptZUFNNHc?oc=5",
+   "src": "v.daum.net",
+   "date": "2026-10-03"
+  },
+  {
+   "ko": "아시아뉴스 세팡 서킷 F1 그랑프리, 치솟은 식음료 가격에 관람객 눈살",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxWVRhN0RKMGxGZzJOZmRuOFlnay1FMjJkdTZYWnY3VFVUWm5ZLXlEOExVeUFFbjNCRFZzSkZfME5KNHhiOHpiYjRmSWV5NmJYLV9NYWJtMEdsQQ?oc=5",
+   "src": "뉴스케이",
+   "date": "2026-10-02"
+  },
+  {
    "ko": "[2026 F1 제16전 바레인 GP FP2] C. 르클레르 ‘톱 타임’",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRcms5TlRBWU53MFBDVDVOVjdWQWJxVGotb3I2ZUJsaHJNcnE3WEFMNng1ZTlmS0RkZFB4Q3huanRqZ21rZThhV2tQd3VlbHdISnNmZzBGbFcwOVJRZlF0UFRXSXBfczE0RVN2MWF2Yw?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-10-02"
+  },
+  {
+   "ko": "[2026 F1 제16전 바레인 GP FP1] M. 페르스타펜 1위, G. 러셀에 0.383초 앞서",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xWm9VbWRvODR4Z29BNXA4Rk44aUFtQVRvV3RUU0UzYTRUcWVYYnFHWE9xaEF2VVdWNkxNVFVMalVvbzMyRTdXSHJLUWxHR29tQ1hNQUl4V3pPVVQ3Q2phOHBXbUc2amc4OWRsWTRJSQ?oc=5",
    "src": "오토레이싱",
    "date": "2026-10-02"
   },
@@ -3920,40 +3938,22 @@
    "date": "2026-10-01"
   },
   {
+   "ko": "[2026 F1 16R 팀 프리뷰] 페라리, 세팡 서킷 개최 바레인 GP서 완벽한 주말 운영 도모",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGS0ZjTzd3azFKa3pPWk41TDB2WnV6NnFIYzlIN0k5OE05aHdNYnptUy1zallFU3FyYWdubDN2U3FoUnpyd3ZRdnZyTUtJV2FRVUF4a1ZGYkk4WDlyZVdIWEFUX0ZiQTctY1daNw?oc=5",
+   "src": "고카넷",
+   "date": "2026-10-01"
+  },
+  {
+   "ko": "[2026 F1 16R 팀 프리뷰] 맥라렌, 세팡 서킷 개최 바레인 GP서 반등 모색",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XdjVkSldkenp0NkJfdlZWZmU3SzNoYVZIMnFIc0Y1ZjN0MnVkZ0h4LXdKU1dXTF80RDJoM3hfUGpra3F1QUJZQ0NFVHpTQ3lkN05BNk5LdTJ6dWNYUkFodUpwLVE1RGNjZEtIRQ?oc=5",
+   "src": "고카넷",
+   "date": "2026-10-01"
+  },
+  {
    "ko": "카운트다운 시작… F1, 2027년 10월 3일 이스탄불로 돌아온다",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzOWlWWHp1WWNGcFJsdnZKY243ZUEwQ0pUYzhiZzRhMjZWUG9rbUFJc29SeGhZQjBrVVo5SUJUQ1o3UGFXZW5qZUtfWjRpejNZUlRPdlRfVUlIV21hc1Q1MWRleTNib2Jn?oc=5",
    "src": "아세안익스프레스",
    "date": "2026-09-30"
-  },
-  {
-   "ko": "[2026 F1 서킷 스토리⑯] 두 직선·고속 코너·열대 폭우, 9년 만에 돌아온 세팡",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tREpPakVCTVY1S2FacF9MRHMyak0wQVpDeDNsRVhVUWYxTXBRLS1QcW1lNzVjdFV6RGVjRDlMREctRlJnUzZoUW1zYWtHRjJHWG1fQnk5OGIxVjQ1eWVjNjdSeUZaWDI1ZzVEVGdzZw?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-09-30"
-  },
-  {
-   "ko": "[2026 F1 아제르바이잔 GP Review-하스] “모나코 이후 무득점 끊었다”",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6RTYzZUpuOHpHZWhqd0ZYWDdIT2kwcTh4Z25vQU5YdER5NEdpWl9fSW1iLS11VVlmU09EUXRPR1Q1ZmRHSG9CMWJUZGUtNVpkWFRGbGFfUkk1SXViTXVUd0F0TWdIbHlJRzVkMzQwdw?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-09-30"
-  },
-  {
-   "ko": "애스턴마틴 F1, 2027시즌도 F. 알론소·L. 스트롤과 동행",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tNVlROG1McVZYdndPS25rMWVabnpCQnZFaUtlU2RwUWFoakJlU2luMkJmVVJhOG9SUGlMQ2JEb284RDREdUZYOU9KVmd3TG8xcmNzSE1hUHY2S3J6UGFfOGlETm9jZE9Zc1hRcDZfQQ?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-09-30"
-  },
-  {
-   "ko": "[2026 F1 아제르바이잔 GP Review-페라리] “포디엄 경쟁을 할 정도는 아니었다”",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Ca01jaUtmSEI2RGRaaGZLQUJHenppYjlmUVBRemxpNjI3TkpHMVQ1MHMxRGcxTlNtWGdvV0toOEZuTVNrM2JYVkZUUl9DQXk2OFhkNmhBdkg4aklXMUhMaTZzOGR1cldzcG52LUV2WQ?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-09-29"
-  },
-  {
-   "ko": "아디다스×메르세데스 F1, 화제의 '실버 재킷' 한정 출시",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SUjdycmRDZkpUMGFHNHlSd2hJSUdkODRVZWFEQnRWRVBlV1M3SWpRSjlkZ25zMGw5RlZxOXJkRU44d05mWHFRb2R3SQ?oc=5",
-   "src": "v.daum.net",
-   "date": "2026-09-29"
   }
  ]
 }
