@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07 00:58 KST",
+ "updated": "2026-10-07 07:40 KST",
  "roundsDone": 16,
  "drivers": [
   {
@@ -3955,6 +3955,18 @@
  },
  "news": [
   {
+   "en": "The 5 drivers most likely to win the Singapore GP",
+   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-singapore-grand-prix-according-to-betting-markets.5f1rjP6QXQ69LOmLDTGZ9H",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "What time is the 2026 Singapore GP and how can I watch it?",
+   "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-singapore-grand-prix-and-how-can-i-watch-it.26vUwPc8sNYNC4KJRyXzLC",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "Can Red Bull keep up their momentum after Verstappen’s Sepang win?",
    "url": "https://www.formula1.com/en/latest/article/can-red-bull-keep-up-their-momentum-after-verstappens-sepang-win.2YqIG9uyvXkWJPSexKwgwh",
    "src": "Formula1.com",
@@ -3997,18 +4009,6 @@
    "date": ""
   },
   {
-   "en": "5 winners and 5 losers from the Bahrain GP in Malaysia",
-   "url": "https://www.formula1.com/en/latest/article/5-winners-and-5-losers-from-the-bahrain-grand-prix-in-malaysia.ndcQ6Uza4pKcTHsLnvJoH",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "How McLaren got their sums wrong on Sepang tyre strategy",
-   "url": "https://www.formula1.com/en/latest/article/an-incorrect-judgement-how-mclaren-got-their-sums-wrong-on-sepang-tyre-strategy.4v0pYbPzbMliaDbxtRYrH0",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
    "en": "Russell to take grid penalty in Singapore due to Sepang retirement",
    "url": "https://www.autosport.com/f1/news/russell-to-take-grid-penalty-in-singapore-due-to-sepang-retirement/10862556/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
@@ -4021,6 +4021,12 @@
    "date": "2026-10-06"
   },
   {
+   "en": "F1 fashion goes local as Ferrari, McLaren and Mercedes celebrate Singapore",
+   "url": "https://www.motorsport.com/f1/news/f1-fashion-goes-local-as-ferrari-mclaren-and-mercedes-celebrate-singapore/10862577/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-10-06"
+  },
+  {
    "en": "Fernando Alonso builds his dream F1 circuit but Sergio Perez spots one major problem",
    "url": "https://www.motorsport.com/f1/news/fernando-alonso-just-revealed-his-dream-f1-track-but-one-brutal-reality-would-ruin-it/10862446/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
@@ -4029,12 +4035,6 @@
   {
    "en": "Red Bull is overcoming ADUO restrictions but still calls on tweaks for F1 2027",
    "url": "https://www.motorsport.com/f1/news/red-bull-is-overcoming-aduo-restrictions-but-still-calls-on-tweaks-for-f1-2027/10862326/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-10-06"
-  },
-  {
-   "en": "Lewis Hamilton expands fashion empire with Plus44 Singapore launch",
-   "url": "https://www.motorsport.com/f1/news/lewis-hamilton-expands-fashion-empire-with-plus44-singapore-launch/10862566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
    "date": "2026-10-06"
   }
@@ -4073,7 +4073,7 @@
   {
    "ko": "[F1] 9년 만에 돌아와 또 우승… 베르스타펜, 세팡서 시즌 첫 승 ‘포효’",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CYWllVktLTXRLeWJIemswZW5VRFdBV21MUlFXUUJfaXJjNnkzNUV0R0VMb1lFRGg1NjFlb1l0OWI5YnpNTGFyd2JQYUx4dnJDNTE2RWRJSV9kVHNRemdPSk1FUTJIQU90bVhn?oc=5",
-   "src": "standingout.kr",
+   "src": "https://www.standingout.kr/",
    "date": "2026-10-05"
   },
   {
@@ -4103,7 +4103,7 @@
   {
    "ko": "보타스, 바레인 F1 예선서 캐딜락 F1 'MAC-26 페라리' 운전",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yWUZ6VFkwV2RhS2ZybzNfOTBmY1c1a0FheXdDbEJVU2xuS3Q0MFh1OFBzTEk4cUVEZGstSHYxZllJazZlcWRHOEJwZllQVFBOSUpBeUZPenRUUFNvcm1UOG1HZ2tIRWZzQ0MzVVVn?oc=5",
-   "src": "gukjenews.com",
+   "src": "국제뉴스",
    "date": "2026-10-04"
   },
   {
