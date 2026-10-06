@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06 07:01 KST",
+ "updated": "2026-10-06 15:23 KST",
  "roundsDone": 16,
  "drivers": [
   {
@@ -4021,6 +4021,12 @@
    "date": "2026-10-05"
   },
   {
+   "en": "Mercedes pokes fun at Kimi Antonelli after Bahrain GP podium blunder",
+   "url": "https://www.motorsport.com/f1/news/mercedes-pokes-fun-at-kimi-antonelli-after-bahrain-gp-podium-blunder/10862391/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-10-05"
+  },
+  {
    "en": "Charles Leclerc explains why Bahrain GP chaos has reinforced F1 driver fears",
    "url": "https://www.motorsport.com/f1/news/charles-leclerc-explains-why-bahrain-gp-chaos-has-reinforced-f1-driver-fears/10862350/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
@@ -4031,15 +4037,21 @@
    "url": "https://www.motorsport.com/f1/news/andrea-stella-concedes-mclaren-made-incorrect-judgment-on-bahrain-gp-strategy/10862366/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
    "date": "2026-10-05"
-  },
-  {
-   "en": "David Coulthard hints at imminent F1 African GP announcement",
-   "url": "https://www.motorsport.com/f1/news/david-coulthard-hints-at-imminent-f1-african-gp-announcement/10862363/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-10-05"
   }
  ],
  "newsKo": [
+  {
+   "ko": "[2027 FIA F1·F2·F3] 글로벌 캘린더 확대, F3 북미 첫 진출",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wZXRheVBFLUdEU005bEJhckpPM1ZNdG5IZm5nY0l5Q1pIaG1RRWxYM2dtR1BVMVg0YkVJVTNCMnJyQnlmX0t3eU5yR1MycmhXVmw1SlFZMENIbEtWX2RJZ2RtWkxpM2NRZkJOTi14SQ?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-10-06"
+  },
+  {
+   "ko": "브루나이 국왕, 세팡 F1 그랑프리 참석",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNa2pLal91WWItTDFRUUdkYXRiTTRuTjA1cjZjeV9fQVVQckxSRjZBX2ZuWWcxektLZWpnWGhnSGdCc3RmWFN4Y2xNYXVzM1pRc2dSZ2NyN2pPRGxRTmtRVjNrRzZkd2FrZThrQVVLSm1fQ01rOHFaQlVQTHZkU2gwajYyWk1sNVU5U2E5UDNZUXl4N3c2elpwSlpJUlB2ZXJzZm5mSEk3aXpDUVA0VEwyR25maDVfLWN2bzlyamxvT2x5Z19veXhLX0llcUhydXhGOTduQ2wyVWhRSjN3a2NwbWcyV1VRWUlPcW5mN0FpcjM1SXM5Q1BRN3FGaUtBQ0N5T2ljZUJoMG4?oc=5",
+   "src": "IDNFinancials",
+   "date": "2026-10-05"
+  },
   {
    "ko": "[F1] 9년 만에 돌아와 또 우승… 베르스타펜, 세팡서 시즌 첫 승 ‘포효’",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CYWllVktLTXRLeWJIemswZW5VRFdBV21MUlFXUUJfaXJjNnkzNUV0R0VMb1lFRGg1NjFlb1l0OWI5YnpNTGFyd2JQYUx4dnJDNTE2RWRJSV9kVHNRemdPSk1FUTJIQU90bVhn?oc=5",
@@ -4066,7 +4078,7 @@
   },
   {
    "ko": "F1 페르스타펜, 바레인GP서 폭우 뚫고 시즌 첫 승…레드불-포드 첫 우승",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9FaWwtekhEN1pQd3dJM2N6cFpsZ3VDcDZTaE5kNDJuZ1NaWk9WQjhKU1ZyRlV4MGlnT09WR0FFN3BWMmxLcW5JUEVGTQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBVd2lQcGd3UkpWOGp6WllmWEVfRGJ2Y2pEaTlBRzJOc1ZOOXZLUV9peGJYZGVoVXA4bjJTZG5ZeHEwLVppZFE?oc=5",
    "src": "v.daum.net",
    "date": "2026-10-04"
   },
@@ -4079,7 +4091,7 @@
   {
    "ko": "'도파민' 터지는 '포스트 스포츠' F1에 관한 모든 것",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByRWJUeUFEemJudnIwWThHdnYzWUQ0bm9xQzhBMnhWeGhEY013V2RuREVjN0YxWkFKRlhPc2UybUhJQjhxWm9xZTVZaWo1QXlmSGxYSTBOeElXQVNScTJtaVdjWWE1VjAxTExN?oc=5",
-   "src": "pressian.com",
+   "src": "프레시안",
    "date": "2026-10-03"
   },
   {
@@ -4087,12 +4099,6 @@
    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE43emRreHlDWE05c0lieGdNMlNsdzlNalVJSnlHMEtXZkp1ak96TlgxRll6VW1icElkSWRzeVVIX0ptZUFNNHc?oc=5",
    "src": "v.daum.net",
    "date": "2026-10-03"
-  },
-  {
-   "ko": "아시아뉴스 세팡 서킷 F1 그랑프리, 치솟은 식음료 가격에 관람객 눈살",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxWVRhN0RKMGxGZzJOZmRuOFlnay1FMjJkdTZYWnY3VFVUWm5ZLXlEOExVeUFFbjNCRFZzSkZfME5KNHhiOHpiYjRmSWV5NmJYLV9NYWJtMEdsQQ?oc=5",
-   "src": "뉴스케이",
-   "date": "2026-10-02"
   },
   {
    "ko": "[2026 F1 제16전 바레인 GP FP2] C. 르클레르 ‘톱 타임’",
@@ -4105,12 +4111,6 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xWm9VbWRvODR4Z29BNXA4Rk44aUFtQVRvV3RUU0UzYTRUcWVYYnFHWE9xaEF2VVdWNkxNVFVMalVvbzMyRTdXSHJLUWxHR29tQ1hNQUl4V3pPVVQ3Q2phOHBXbUc2amc4OWRsWTRJSQ?oc=5",
    "src": "오토레이싱",
    "date": "2026-10-02"
-  },
-  {
-   "ko": "[F1 바레인 GP 프리뷰] 안토넬리의 반격이냐, 러셀의 연승이냐",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kZldRTmY5Um9CZVNNRWNlTm1XWkJZbDNfdkxqN21UdXlpcVRLZW5PNENldW92QWt6UUtkZU12a2YtV25IT2VoSGtucVZJcGh0RUNmd0pXc3YyMzdlYU83ZG9kaG9yMEpEb0hn?oc=5",
-   "src": "standingout.kr",
-   "date": "2026-10-01"
   }
  ]
 }
