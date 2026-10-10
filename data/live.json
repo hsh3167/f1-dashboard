@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10 09:53 KST",
+ "updated": "2026-10-10 18:52 KST",
  "roundsDone": 16,
  "drivers": [
   {
@@ -3955,6 +3955,18 @@
  },
  "news": [
   {
+   "en": "LIVE COVERAGE: Russell crashes out of Singapore Sprint",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-f1-sprint-in-singapore-2026.5TXFKG7uP5goYHSqUotcmZ",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Why Wolff is backing Mercedes’ split-spec strategy",
+   "url": "https://www.formula1.com/en/latest/article/wolff-concedes-upgraded-mercedes-is-a-little-more-tricky-to-drive-as-he-backs-split-spec-strategy.3tWxlbHKJMR3Aqg87zVDwz",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "Who will go fastest in Singapore Grand Prix Qualifying?",
    "url": "https://www.formula1.com/en/latest/article/who-the-betting-markets-think-will-go-fastest-in-singapore-grand-prix-qualifying.0TS6DccooSF1duklRZ9yf",
    "src": "Formula1.com",
@@ -4003,43 +4015,49 @@
    "date": ""
   },
   {
-   "en": "McLaren pair divided over ‘very tricky’ Sprint Qualifying",
-   "url": "https://www.formula1.com/en/latest/article/norris-and-piastri-divided-over-mclarens-performance-in-very-tricky-sprint-qualifying-in-singapore.1myBR2fHEKECN8JHD3iFKW",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "Toto Wolff slams “red mist” F1 rule proposal but warns of massive talent crisis",
+   "url": "https://www.motorsport.com/f1/news/toto-wolff-slams-red-mist-f1-rule-proposal-but-warns-of-a-massive-talent-crisis/10863727/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-10-10"
   },
   {
-   "en": "Ferrari 'not fast enough' in Sprint Qualifying – Leclerc",
-   "url": "https://www.formula1.com/en/latest/article/just-not-fast-enough-to-fight-leclerc-reflects-on-ferraris-singapore-gp-sprint-qualifying.21EtqZ7mRhjgCybXJkEs5Y",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "McLaren boss makes encouraging admission after Singapore sprint qualifying",
+   "url": "https://www.motorsport.com/f1/news/mclaren-team-principal-says-the-2026-f1-grid-is-finally-back-to-pre-baku-form/10863714/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-10-10"
   },
   {
-   "en": "Singapore sprint qualifying chaos leaves F1 teams furious",
-   "url": "https://www.autosport.com/f1/news/f1-teams-furious-after-singapore-qualifying-chaos/10863535/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-10-09"
+   "en": "Mercedes drivers speak out after bitterly divided F1 qualifying session in Singapore",
+   "url": "https://www.motorsport.com/f1/news/mercedes-drivers-speak-out-after-a-bitterly-divided-f1-qualifying-session-in-singapore/10863711/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-10-10"
   },
   {
-   "en": "FIA reveals \"human error\" caused latest software glitch in Singapore sprint qualifying",
-   "url": "https://www.autosport.com/f1/news/human-error-caused-singapore-gp-sprint-qualifying-glitch/10863502/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-10-09"
-  },
-  {
-   "en": "F1 Singapore GP: Verstappen storms to sprint pole with Antonelli only seventh",
-   "url": "https://www.autosport.com/f1/news/f1-singapore-gp-verstappen-takes-sprint-pole/10863448/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-10-09"
-  },
-  {
-   "en": "Is Antonelli favoured by Mercedes? Wolff responds to latest claims",
-   "url": "https://www.autosport.com/f1/news/toto-wolff-hits-back-at-brainless-george-russell-conspiracy-theory/10863399/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-10-09"
+   "en": "Mercedes boss admits team is baffled by failed 2026 F1 upgrades",
+   "url": "https://www.motorsport.com/f1/news/mercedes-boss-admits-the-team-is-completely-baffled-by-their-failed-2026-f1-upgrades/10863705/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-10-10"
   }
  ],
  "newsKo": [
+  {
+   "ko": "코르티스, F1 싱가포르 메인 무대서 공연…6만 관객과 호흡",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GWS02VzRLZlRENHlTWjdIVHYtZlItQjFkaXYzRWx4Y1c2eks2Nmwxb0lqVklTR0FOcjFHY0lKS25GVG5UNW1xUVNLRVFJdFlSb0lBejJhT25NcmNiN3R6Q9IBYEFVX3lxTE9GWS02VzRLZlRENHlTWjdIVHYtZlItQjFkaXYzRWx4Y1c2eks2Nmwxb0lqVklTR0FOcjFHY0lKS25GVG5UNW1xUVNLRVFJdFlSb0lBejJhT25NcmNiN3R6Qw?oc=5",
+   "src": "연합뉴스",
+   "date": "2026-10-10"
+  },
+  {
+   "ko": "역시 코르티스! F1 싱가포르 그랑프리 '압도'",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fQ2hjNU5JVDhVdmhQODE3alQ4dGdjZ3dLbnFLWXVxLVR3T29ZNU96UHpIVy1fcFBNcUMxTWVnanpzQkJHZHQwRnh6N1l1UQ?oc=5",
+   "src": "전자신문",
+   "date": "2026-10-10"
+  },
+  {
+   "ko": "코르티스, F1 싱가포르 GP 메인 무대 접수",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GRWNYalNRVmUwVFVmYkNrd2RKbXFYclZ6dDZIMWpUTEhKRkM5eWJQRVNhYUllNl9WXzlTM0FJYVQyYWpGYUVQM25peFFHVHVLNUhSTV9CUS1vX1ZsdC02dmc0YW8?oc=5",
+   "src": "BNT뉴스",
+   "date": "2026-10-10"
+  },
   {
    "ko": "한글날 연휴 F1 질주…쿠팡플레이, 싱가포르 그랑프리 4K 생중계",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PM0tPUVJwMlRjNDRja08tNnlMQjY2b0RGQUluVkZ5bllrYmRoX05ka0E0aVlnYnR5RW9FVGswTzVaVEtLdnhqaW9Ob1I5eXpGQmFIaGNFdVU5TktOWm4wSjhB?oc=5",
@@ -4059,20 +4077,20 @@
    "date": "2026-10-09"
   },
   {
+   "ko": "실적 전망 상향이 포뮬러 원 그룹(FWON.K)의 투자 매력도를 바꾸고 있는가?",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVDNyemp4MUVjRDIwWmVHVmNYTEg4T1ZaYThFdms4VThTekQxRkFHMlpsTlF6TlZCNHd5WktWN1Vnd1JHU0p1ZElnRFd3V1IxUFJ5RTY4eEtFMUFLWmZDSExhZDJDV2ZQN1pKMHdBOUlqOWk4SExWTVBfOHN3X0FjTlVoVE9mcVhBLXNhbTVxdXJOSzBZd0VSdEVxcnhrejjSAZ8BQVVfeXFMTVQzcnpqeDFFY0QyMFplR1ZjWExIOE9WWmE4RXZrOFU4U3pEMUZBRzJabE5Rek5WQjR3eVpLVjdVZ3dSR1NKdWRJZ0RXd1dSMVBSeUU2OHhLRTFBS1pmQ0hMYWQyQ1dmUDdaSjB3QTlJajlpOEhMVk1QXzhzd19BY05VaFRPZnFYQS1zYW01cXVyTkswWXdFUnRFcXJ4a3o4?oc=5",
+   "src": "Simply Wall Street",
+   "date": "2026-10-09"
+  },
+  {
    "ko": "'돈 버는 질주' 메르세데스 F1팀, 매출 1조1200억원·이익 2360억원",
    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1IQXQwNnZWa203VGgxbHFuZWc0MjRHRlVyVjRyOXN3a0g2aF9fRXJxR1VzSURNOXB1dEhkMldyUkhYcWRMaEE?oc=5",
    "src": "Daum",
    "date": "2026-10-09"
   },
   {
-   "ko": "윤시윤, ‘2026 F1 싱가포르 그랑프리’ 현장 찾는다",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91NmI4OXgxMWRzSlljNlVsM2NMWl95MWFBWlBoaG1wa25EUmRoSXZ3ckdyTjVLSHc3ZTZqMFJJR3dxNzlVOTlVUWFySHV3Rk02XzIybQ?oc=5",
-   "src": "JTBC",
-   "date": "2026-10-08"
-  },
-  {
    "ko": "\"창이공항서 F1 레이스 즐긴다\"…롯데면세점, '시바스 리갈' 팝업",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMSlYzRlZ3dm05YUdNemM5a0VxWTZZWmpZUWtwRlREa244MFRvRUxZVzRnZHl4dzMyTk1EcklWc2ItTGpqVm9HMVBZeVNfUEhpbmM5RE1BOFdkQ0tUdkVYcjdEUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VUzdrNUgzM2Vfd20zQWVQaXNfUjBrZTh0eHpBc2FyQlRDMXZqSV9oaHVVQ241cjVmOXZJb1ZGSnhtVDY2YUZPY3lxd2ltdWVreFRnTmFUa0FvSExvUFE?oc=5",
    "src": "더구루",
    "date": "2026-10-08"
   },
@@ -4083,33 +4101,15 @@
    "date": "2026-10-08"
   },
   {
-   "ko": "코르티스 \"F1서 퍼포먼스, 폭발적 에너지 쏟아내겠다\"",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyQS04RWgzalAxcnMyaXpjUFJkT0ZNREhMVjN4NEhyeW5yanl4RkF4RlFnN09nVkI4ak5zSTluNE5memZZRjA5dldibG1IallHZUNqaFJkMHFXXzTSAWBBVV95cUxQdVhJLXV1OXZRMzVxSlpSbmw3LUM0Z01vOFlESUVwR29VQklVa29IbDlrR3dUekFwWXdNUlNJQktzRUFDVFNEakNWcV85TXB0MlRIWWJDVFlWanI3dXVTQ18?oc=5",
-   "src": "연합뉴스",
+   "ko": "윤시윤, ‘2026 F1 싱가포르 그랑프리’ 현장 찾는다",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91NmI4OXgxMWRzSlljNlVsM2NMWl95MWFBWlBoaG1wa25EUmRoSXZ3ckdyTjVLSHc3ZTZqMFJJR3dxNzlVOTlVUWFySHV3Rk02XzIybQ?oc=5",
+   "src": "JTBC",
    "date": "2026-10-08"
   },
   {
    "ko": "윤시윤, 韓 배우 최초 'F1' 콘텐츠 촬영 나선다…싱가포르 그랑프리 출격",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vUElMczl2SjdwRHgzc1VpbUR1dDRNcXhGYjFMN1FmUGZOcEI5NXVmTjF6WThfbmg3ZEVvZ1R1dnpRcmJsQnZMNG1sa3dnYzEwcTV1NHRqREJreGxFMjRfeThSRE4?oc=5",
    "src": "뉴스1",
-   "date": "2026-10-08"
-  },
-  {
-   "ko": "NBA 달군 코르티스, F1 메인 무대 출격…‘영크크’다운 행보",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ENWxJdERpTUR5emE2OXlNOXRpdXE1a2NvUkpQNUVYQTZyVEZUeXRQb1ZNcWl6WW10M0MwUHdVemswTlhTNnBYZzZ1a2tHVlUzZjVNbg?oc=5",
-   "src": "JTBC",
-   "date": "2026-10-08"
-  },
-  {
-   "ko": "코르티스, '포뮬러 원 싱가포르 그랑프리' 공연 앞두고 \"에너지 쏟겠다\"",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RSjBEREthMWl6SVlFSlpKcHB3VmxTSHdLSzJMRUd0WExSYzFFVmNXejdLaWVqM2IyNi1zY1JrUzVLekVXbWlfNHc4WkZ4VXAxVjRkQ0JUaFVNUFZDenVzN2NUaVd6ckNXS3loMHdMRFNFdTlOLXBQS9IBeEFVX3lxTE1RSjBEREthMWl6SVlFSlpKcHB3VmxTSHdLSzJMRUd0WExSYzFFVmNXejdLaWVqM2IyNi1zY1JrUzVLekVXbWlfNHc4WkZ4VXAxVjRkQ0JUaFVNUFZDenVzN2NUaVd6ckNXS3loMHdMRFNFdTlOLXBQSw?oc=5",
-   "src": "뉴시스",
-   "date": "2026-10-08"
-  },
-  {
-   "ko": "코르티스, NBA 이어 F1까지… 글로벌 러브콜 잇따라",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PVkptTWFQenFrVjVWeUFXZkhDZzdsMEhpNjZOOG1TWEkwcmh1eldERnR6aE1SbURTR2lLdW45YWJUeXdaR2pCOTBsT2dJT3JPYlVWNF90Y2Q2UTlCelFNUlNQdGY?oc=5",
-   "src": "BNT뉴스",
    "date": "2026-10-08"
   }
  ]
