@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11 06:46 KST",
+ "updated": "2026-10-11 14:49 KST",
  "roundsDone": 16,
  "drivers": [
   {
@@ -11,7 +11,7 @@
    "dob": "2006-08-25",
    "team": "mercedes",
    "pos": 1,
-   "pts": 320,
+   "pts": 325,
    "wins": 8,
    "podiums": 13,
    "best": 1,
@@ -47,7 +47,7 @@
    "dob": "1985-01-07",
    "team": "ferrari",
    "pos": 3,
-   "pts": 214,
+   "pts": 221,
    "wins": 1,
    "podiums": 6,
    "best": 1,
@@ -65,31 +65,13 @@
    "dob": "1997-10-16",
    "team": "ferrari",
    "pos": 4,
-   "pts": 191,
+   "pts": 197,
    "wins": 1,
    "podiums": 4,
    "best": 1,
    "ko": "샤를 르클레르",
    "nat": "모나코",
    "flag": "mc",
-   "note": ""
-  },
-  {
-   "id": "norris",
-   "code": "NOR",
-   "num": 1,
-   "first": "Lando",
-   "last": "Norris",
-   "dob": "1999-11-13",
-   "team": "mclaren",
-   "pos": 5,
-   "pts": 188,
-   "wins": 2,
-   "podiums": 5,
-   "best": 1,
-   "ko": "랜도 노리스",
-   "nat": "영국",
-   "flag": "gb",
    "note": ""
   },
   {
@@ -100,14 +82,32 @@
    "last": "Verstappen",
    "dob": "1997-09-30",
    "team": "red_bull",
-   "pos": 6,
-   "pts": 188,
+   "pos": 5,
+   "pts": 196,
    "wins": 1,
    "podiums": 8,
    "best": 1,
    "ko": "막스 페르스타펜",
    "nat": "네덜란드",
    "flag": "nl",
+   "note": ""
+  },
+  {
+   "id": "norris",
+   "code": "NOR",
+   "num": 1,
+   "first": "Lando",
+   "last": "Norris",
+   "dob": "1999-11-13",
+   "team": "mclaren",
+   "pos": 6,
+   "pts": 189,
+   "wins": 2,
+   "podiums": 5,
+   "best": 1,
+   "ko": "랜도 노리스",
+   "nat": "영국",
+   "flag": "gb",
    "note": ""
   },
   {
@@ -155,7 +155,7 @@
    "dob": "2002-02-11",
    "team": "red_bull",
    "pos": 9,
-   "pts": 65,
+   "pts": 69,
    "wins": 0,
    "podiums": 0,
    "best": 5,
@@ -227,7 +227,7 @@
    "dob": "2005-05-08",
    "team": "haas",
    "pos": 13,
-   "pts": 20,
+   "pts": 23,
    "wins": 0,
    "podiums": 0,
    "best": 5,
@@ -263,7 +263,7 @@
    "dob": "1987-08-19",
    "team": "audi",
    "pos": 15,
-   "pts": 7,
+   "pts": 9,
    "wins": 0,
    "podiums": 0,
    "best": 8,
@@ -421,31 +421,31 @@
   {
    "id": "mercedes",
    "pos": 1,
-   "pts": 556,
+   "pts": 561,
    "wins": 11
   },
   {
    "id": "ferrari",
    "pos": 2,
-   "pts": 405,
+   "pts": 418,
    "wins": 2
   },
   {
    "id": "mclaren",
    "pos": 3,
-   "pts": 316,
+   "pts": 317,
    "wins": 2
   },
   {
    "id": "red_bull",
    "pos": 4,
-   "pts": 298,
+   "pts": 306,
    "wins": 1
   },
   {
    "id": "rb",
    "pos": 5,
-   "pts": 90,
+   "pts": 94,
    "wins": 0
   },
   {
@@ -457,13 +457,13 @@
   {
    "id": "haas",
    "pos": 7,
-   "pts": 27,
+   "pts": 30,
    "wins": 0
   },
   {
    "id": "audi",
    "pos": 8,
-   "pts": 17,
+   "pts": 19,
    "wins": 0
   },
   {
@@ -3788,6 +3788,162 @@
     "pts": 0,
     "t": "Lapped"
    }
+  ],
+  "17": [
+   {
+    "p": 1,
+    "d": "verstappen",
+    "g": 1,
+    "pts": 8,
+    "t": "39:48.162"
+   },
+   {
+    "p": 2,
+    "d": "hamilton",
+    "g": 6,
+    "pts": 7,
+    "t": "+2.591"
+   },
+   {
+    "p": 3,
+    "d": "leclerc",
+    "g": 3,
+    "pts": 6,
+    "t": "+16.871"
+   },
+   {
+    "p": 4,
+    "d": "antonelli",
+    "g": 7,
+    "pts": 5,
+    "t": "+17.238"
+   },
+   {
+    "p": 5,
+    "d": "lawson",
+    "g": 8,
+    "pts": 4,
+    "t": "+20.632"
+   },
+   {
+    "p": 6,
+    "d": "bearman",
+    "g": 13,
+    "pts": 3,
+    "t": "+24.321"
+   },
+   {
+    "p": 7,
+    "d": "hulkenberg",
+    "g": 12,
+    "pts": 2,
+    "t": "+27.525"
+   },
+   {
+    "p": 8,
+    "d": "norris",
+    "g": 5,
+    "pts": 1,
+    "t": "+28.272"
+   },
+   {
+    "p": 9,
+    "d": "gasly",
+    "g": 10,
+    "pts": 0,
+    "t": "+36.220"
+   },
+   {
+    "p": 10,
+    "d": "ocon",
+    "g": 16,
+    "pts": 0,
+    "t": "+37.640"
+   },
+   {
+    "p": 11,
+    "d": "alonso",
+    "g": 15,
+    "pts": 0,
+    "t": "+50.464"
+   },
+   {
+    "p": 12,
+    "d": "sainz",
+    "g": 22,
+    "pts": 0,
+    "t": "+52.467"
+   },
+   {
+    "p": 13,
+    "d": "lindblad",
+    "g": 17,
+    "pts": 0,
+    "t": "+55.792"
+   },
+   {
+    "p": 14,
+    "d": "piastri",
+    "g": 4,
+    "pts": 0,
+    "t": "Retired"
+   },
+   {
+    "p": 15,
+    "d": "albon",
+    "g": 19,
+    "pts": 0,
+    "t": "Retired"
+   },
+   {
+    "p": 16,
+    "d": "bortoleto",
+    "g": 14,
+    "pts": 0,
+    "t": "Retired"
+   },
+   {
+    "p": 17,
+    "d": "bottas",
+    "g": 21,
+    "pts": 0,
+    "t": "Retired"
+   },
+   {
+    "p": 18,
+    "d": "hadjar",
+    "g": 9,
+    "pts": 0,
+    "t": "Retired"
+   },
+   {
+    "p": 19,
+    "d": "colapinto",
+    "g": 11,
+    "pts": 0,
+    "t": "Retired"
+   },
+   {
+    "p": 20,
+    "d": "russell",
+    "g": 2,
+    "pts": 0,
+    "t": "Retired"
+   },
+   {
+    "p": 21,
+    "d": "perez",
+    "g": 20,
+    "pts": 0,
+    "t": "Retired"
+   },
+   {
+    "p": 22,
+    "d": "stroll",
+    "g": 18,
+    "pts": 0,
+    "t": "Retired"
+   }
   ]
  },
  "sessions": {
@@ -4041,10 +4197,10 @@
  ],
  "newsKo": [
   {
-   "ko": "코르티스, F1 싱가포르 메인 무대서 공연…6만 관객과 호흡",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFbXpkQXJQNlRTYVNrMzI5NmpSUnd2ck9YY3dndWd0R2pELWdWNUczSEpPQ1F3VWp6NWdSSVJwall0ckJscmRrVGFhbW14aGp3Q2VUUUNMUEJMaGvSAWBBVV95cUxPRlktNlc0S2ZURDR5U1o3SFR2LWZSLUIxZGl2M0VseGNXNnpLNjZsMW9JalZJU0dBTnIxR2NJSktuRlRuVDVtcVFTS0VRSXRZUm9JQXoyYU9uTXJjYjd0ekM?oc=5",
+   "ko": "밤을 가르는 폭풍 질주…F1 싱가포르 그랑프리",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2LWJFa21pRWR3dHVMU0xEc3RjLU1kcUxWdGlzNWRhaXBBWHRlTVhlVDhzZXRwME5qYnNJTkZ3emhRSWltV2JuNmJ1aWVzQ2g1WGlGYi11c0syMWpUSTdaX2Z4UUNDY1RwUGZ2Ym90RHh0WGk1SzZEYw?oc=5",
    "src": "연합뉴스",
-   "date": "2026-10-10"
+   "date": "2026-10-11"
   },
   {
    "ko": "역시 코르티스! F1 싱가포르 그랑프리 '압도'",
@@ -4053,9 +4209,39 @@
    "date": "2026-10-10"
   },
   {
+   "ko": "[단독] 쯔위, 싱가포르 F1 그랑프리 떴다..전 세계 사로잡은 아름다움[★NEWSing]",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMR1JCbE9tdy1vZFRaX1I2aFplbUhwSGxOaWRXNmtMRHJ2WG5qSzdId29jQ0xUN1VGTTVyQnNzdlNsUXdqbmtnOVQ1b2wxc0h1OXpONVNWdjVOU2xoRmpOM2lLR05FclNZX0RCc2dGVlRpY1k?oc=5",
+   "src": "스타뉴스",
+   "date": "2026-10-10"
+  },
+  {
    "ko": "코르티스, F1 싱가포르 GP 메인 무대 접수",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GRWNYalNRVmUwVFVmYkNrd2RKbXFYclZ6dDZIMWpUTEhKRkM5eWJQRVNhYUllNl9WXzlTM0FJYVQyYWpGYUVQM25peFFHVHVLNUhSTV9CUS1vX1ZsdC02dmc0YW8?oc=5",
    "src": "BNT뉴스",
+   "date": "2026-10-10"
+  },
+  {
+   "ko": "코르티스, F1 싱가포르 메인 무대서 공연…6만 관객과 호흡",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFbXpkQXJQNlRTYVNrMzI5NmpSUnd2ck9YY3dndWd0R2pELWdWNUczSEpPQ1F3VWp6NWdSSVJwall0ckJscmRrVGFhbW14aGp3Q2VUUUNMUEJMaGvSAWBBVV95cUxPRlktNlc0S2ZURDR5U1o3SFR2LWZSLUIxZGl2M0VseGNXNnpLNjZsMW9JalZJU0dBTnIxR2NJSktuRlRuVDVtcVFTS0VRSXRZUm9JQXoyYU9uTXJjYjd0ekM?oc=5",
+   "src": "연합뉴스",
+   "date": "2026-10-10"
+  },
+  {
+   "ko": "‘F1 싱가포르’ 접수한 코르티스…6만 관객 운집",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wSlJzM2EyNmgzVEVPZTUyLVBJQVFpOXowUF9LMnZLamRRNEZrd1F5SXJoYlpKbEdqUXlHWGVydVEtM18xYmd3RmRsdEFaTDB6?oc=5",
+   "src": "문화일보",
+   "date": "2026-10-10"
+  },
+  {
+   "ko": "F1 페르스타펜, 페라리 제치고 싱가포르 GP 예선 첫 1위…통산 50번째",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jdTJEWDJmNFRHdWRWbGRMaWtqWnh5UVNoRTQzRFVzOGlBTUVQM2JGTzZrdXdBRmMtdlI5OUZzQllnYWZQTjBuTjIxS0g2SHNMZGdwejZUaEhUWTNSOWxKUVhicDVMbGJFT3fSAW5BVV95cUxQRHpVbmhEZTg4YlBINnRTaE9WODVGUVFPT2RtdTRmRm9hQTNaQU9QWW5zZmZ2d2ZabFFXc0JPRElqbVhBQVNGQkY5Ymo5dS1GSUE3Yy03VDVNTGplNUxWeEF1S2RoUnRtYkQwNGp3dw?oc=5",
+   "src": "지피코리아",
+   "date": "2026-10-10"
+  },
+  {
+   "ko": "[2026 F1 17R] 베르스타펜, 페라리 듀오 제치고 ‘싱가포르 그랑프리’서 연속 폴 행진",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sZXlYb2xXOHpnc2tCRUJQcm5pc3hOSTJPLWYzZTFaR2pra05kV19EVzBYMVMzbVFNYjF1d3dRc3ZfdThHcmg3OUp2d3RLNVJtU0NfTU5MVDJCXzlrakVzb1RzVkVYcmtNZ1RWZQ?oc=5",
+   "src": "고카넷",
    "date": "2026-10-10"
   },
   {
@@ -4081,36 +4267,6 @@
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVDNyemp4MUVjRDIwWmVHVmNYTEg4T1ZaYThFdms4VThTekQxRkFHMlpsTlF6TlZCNHd5WktWN1Vnd1JHU0p1ZElnRFd3V1IxUFJ5RTY4eEtFMUFLWmZDSExhZDJDV2ZQN1pKMHdBOUlqOWk4SExWTVBfOHN3X0FjTlVoVE9mcVhBLXNhbTVxdXJOSzBZd0VSdEVxcnhrejjSAZ8BQVVfeXFMTVQzcnpqeDFFY0QyMFplR1ZjWExIOE9WWmE4RXZrOFU4U3pEMUZBRzJabE5Rek5WQjR3eVpLVjdVZ3dSR1NKdWRJZ0RXd1dSMVBSeUU2OHhLRTFBS1pmQ0hMYWQyQ1dmUDdaSjB3QTlJajlpOEhMVk1QXzhzd19BY05VaFRPZnFYQS1zYW01cXVyTkswWXdFUnRFcXJ4a3o4?oc=5",
    "src": "Simply Wall Street",
    "date": "2026-10-09"
-  },
-  {
-   "ko": "'돈 버는 질주' 메르세데스 F1팀, 매출 1조1200억원·이익 2360억원",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1IQXQwNnZWa203VGgxbHFuZWc0MjRHRlVyVjRyOXN3a0g2aF9fRXJxR1VzSURNOXB1dEhkMldyUkhYcWRMaEE?oc=5",
-   "src": "Daum",
-   "date": "2026-10-09"
-  },
-  {
-   "ko": "\"창이공항서 F1 레이스 즐긴다\"…롯데면세점, '시바스 리갈' 팝업",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMSlYzRlZ3dm05YUdNemM5a0VxWTZZWmpZUWtwRlREa244MFRvRUxZVzRnZHl4dzMyTk1EcklWc2ItTGpqVm9HMVBZeVNfUEhpbmM5RE1BOFdkQ0tUdkVYcjdEUQ?oc=5",
-   "src": "더구루",
-   "date": "2026-10-08"
-  },
-  {
-   "ko": "코르티스, F1 열기 더한다…\"싱가포르 그랑프리 출격\"",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xR1RGYXVvNkRzaEpGQUFMTnYyREV2MkpRQW9nampiSFllc2xLbzFwREpXNFNZZjdrZ0pSNGV3STVVeUdsVURNTUhn?oc=5",
-   "src": "디스패치",
-   "date": "2026-10-08"
-  },
-  {
-   "ko": "NBA 달군 코르티스, F1 메인 무대 출격…‘영크크’다운 행보",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ENWxJdERpTUR5emE2OXlNOXRpdXE1a2NvUkpQNUVYQTZyVEZUeXRQb1ZNcWl6WW10M0MwUHdVemswTlhTNnBYZzZ1a2tHVlUzZjVNbg?oc=5",
-   "src": "JTBC",
-   "date": "2026-10-08"
-  },
-  {
-   "ko": "윤시윤, 韓 배우 최초 'F1' 콘텐츠 촬영 나선다…싱가포르 그랑프리 출격",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vUElMczl2SjdwRHgzc1VpbUR1dDRNcXhGYjFMN1FmUGZOcEI5NXVmTjF6WThfbmg3ZEVvZ1R1dnpRcmJsQnZMNG1sa3dnYzEwcTV1NHRqREJreGxFMjRfeThSRE4?oc=5",
-   "src": "뉴스1",
-   "date": "2026-10-08"
   }
  ]
 }
