@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-11 21:52 KST",
- "roundsDone": 16,
+ "updated": "2026-10-12 04:34 KST",
+ "roundsDone": 17,
  "drivers": [
   {
    "id": "antonelli",
@@ -11,9 +11,9 @@
    "dob": "2006-08-25",
    "team": "mercedes",
    "pos": 1,
-   "pts": 325,
+   "pts": 340,
    "wins": 8,
-   "podiums": 13,
+   "podiums": 14,
    "best": 1,
    "ko": "안드레아 키미 안토넬리",
    "nat": "이탈리아",
@@ -29,7 +29,7 @@
    "dob": "1998-02-15",
    "team": "mercedes",
    "pos": 2,
-   "pts": 236,
+   "pts": 238,
    "wins": 3,
    "podiums": 8,
    "best": 1,
@@ -47,31 +47,13 @@
    "dob": "1985-01-07",
    "team": "ferrari",
    "pos": 3,
-   "pts": 221,
+   "pts": 229,
    "wins": 1,
    "podiums": 6,
    "best": 1,
    "ko": "루이스 해밀턴",
    "nat": "영국",
    "flag": "gb",
-   "note": ""
-  },
-  {
-   "id": "leclerc",
-   "code": "LEC",
-   "num": 16,
-   "first": "Charles",
-   "last": "Leclerc",
-   "dob": "1997-10-16",
-   "team": "ferrari",
-   "pos": 4,
-   "pts": 197,
-   "wins": 1,
-   "podiums": 4,
-   "best": 1,
-   "ko": "샤를 르클레르",
-   "nat": "모나코",
-   "flag": "mc",
    "note": ""
   },
   {
@@ -82,14 +64,32 @@
    "last": "Verstappen",
    "dob": "1997-09-30",
    "team": "red_bull",
-   "pos": 5,
-   "pts": 196,
-   "wins": 1,
-   "podiums": 8,
+   "pos": 4,
+   "pts": 221,
+   "wins": 2,
+   "podiums": 9,
    "best": 1,
    "ko": "막스 페르스타펜",
    "nat": "네덜란드",
    "flag": "nl",
+   "note": ""
+  },
+  {
+   "id": "leclerc",
+   "code": "LEC",
+   "num": 16,
+   "first": "Charles",
+   "last": "Leclerc",
+   "dob": "1997-10-16",
+   "team": "ferrari",
+   "pos": 5,
+   "pts": 215,
+   "wins": 1,
+   "podiums": 5,
+   "best": 1,
+   "ko": "샤를 르클레르",
+   "nat": "모나코",
+   "flag": "mc",
    "note": ""
   },
   {
@@ -101,7 +101,7 @@
    "dob": "1999-11-13",
    "team": "mclaren",
    "pos": 6,
-   "pts": 189,
+   "pts": 201,
    "wins": 2,
    "podiums": 5,
    "best": 1,
@@ -119,7 +119,7 @@
    "dob": "2001-04-06",
    "team": "mclaren",
    "pos": 7,
-   "pts": 128,
+   "pts": 138,
    "wins": 0,
    "podiums": 2,
    "best": 2,
@@ -137,7 +137,7 @@
    "dob": "2004-09-28",
    "team": "red_bull",
    "pos": 8,
-   "pts": 96,
+   "pts": 97,
    "wins": 0,
    "podiums": 2,
    "best": 3,
@@ -155,7 +155,7 @@
    "dob": "2002-02-11",
    "team": "red_bull",
    "pos": 9,
-   "pts": 69,
+   "pts": 75,
    "wins": 0,
    "podiums": 0,
    "best": 5,
@@ -237,24 +237,6 @@
    "note": ""
   },
   {
-   "id": "bortoleto",
-   "code": "BOR",
-   "num": 5,
-   "first": "Gabriel",
-   "last": "Bortoleto",
-   "dob": "2004-10-14",
-   "team": "audi",
-   "pos": 14,
-   "pts": 10,
-   "wins": 0,
-   "podiums": 0,
-   "best": 8,
-   "ko": "가브리엘 보르톨레토",
-   "nat": "브라질",
-   "flag": "br",
-   "note": ""
-  },
-  {
    "id": "hulkenberg",
    "code": "HUL",
    "num": 27,
@@ -262,14 +244,32 @@
    "last": "Hülkenberg",
    "dob": "1987-08-19",
    "team": "audi",
-   "pos": 15,
-   "pts": 9,
+   "pos": 14,
+   "pts": 13,
    "wins": 0,
    "podiums": 0,
    "best": 8,
    "ko": "니코 휠켄베르크",
    "nat": "독일",
    "flag": "de",
+   "note": ""
+  },
+  {
+   "id": "bortoleto",
+   "code": "BOR",
+   "num": 5,
+   "first": "Gabriel",
+   "last": "Bortoleto",
+   "dob": "2004-10-14",
+   "team": "audi",
+   "pos": 15,
+   "pts": 10,
+   "wins": 0,
+   "podiums": 0,
+   "best": 8,
+   "ko": "가브리엘 보르톨레토",
+   "nat": "브라질",
+   "flag": "br",
    "note": ""
   },
   {
@@ -421,31 +421,31 @@
   {
    "id": "mercedes",
    "pos": 1,
-   "pts": 561,
+   "pts": 578,
    "wins": 11
   },
   {
    "id": "ferrari",
    "pos": 2,
-   "pts": 418,
+   "pts": 444,
    "wins": 2
   },
   {
    "id": "mclaren",
    "pos": 3,
-   "pts": 317,
+   "pts": 339,
    "wins": 2
   },
   {
    "id": "red_bull",
    "pos": 4,
-   "pts": 306,
-   "wins": 1
+   "pts": 332,
+   "wins": 2
   },
   {
    "id": "rb",
    "pos": 5,
-   "pts": 94,
+   "pts": 100,
    "wins": 0
   },
   {
@@ -463,7 +463,7 @@
   {
    "id": "audi",
    "pos": 8,
-   "pts": 19,
+   "pts": 23,
    "wins": 0
   },
   {
@@ -501,13 +501,14 @@
   "13": "antonelli",
   "14": "antonelli",
   "15": "russell",
-  "16": "verstappen"
+  "16": "verstappen",
+  "17": "verstappen"
  },
  "podium": {
-  "16": [
+  "17": [
    "verstappen",
-   "antonelli",
-   "hamilton"
+   "leclerc",
+   "antonelli"
   ]
  },
  "results": {
@@ -3006,6 +3007,162 @@
     "pts": 0,
     "t": "Retired"
    }
+  ],
+  "17": [
+   {
+    "p": 1,
+    "d": "verstappen",
+    "g": 1,
+    "pts": 25,
+    "t": "1:42:00.785"
+   },
+   {
+    "p": 2,
+    "d": "leclerc",
+    "g": 2,
+    "pts": 18,
+    "t": "+7.335"
+   },
+   {
+    "p": 3,
+    "d": "antonelli",
+    "g": 4,
+    "pts": 15,
+    "t": "+24.573"
+   },
+   {
+    "p": 4,
+    "d": "norris",
+    "g": 5,
+    "pts": 12,
+    "t": "+40.506"
+   },
+   {
+    "p": 5,
+    "d": "piastri",
+    "g": 6,
+    "pts": 10,
+    "t": "+49.644"
+   },
+   {
+    "p": 6,
+    "d": "hamilton",
+    "g": 3,
+    "pts": 8,
+    "t": "+53.188"
+   },
+   {
+    "p": 7,
+    "d": "lawson",
+    "g": 8,
+    "pts": 6,
+    "t": "+1:21.666"
+   },
+   {
+    "p": 8,
+    "d": "hulkenberg",
+    "g": 10,
+    "pts": 4,
+    "t": "+1:23.386"
+   },
+   {
+    "p": 9,
+    "d": "russell",
+    "g": 19,
+    "pts": 2,
+    "t": "+1:24.677"
+   },
+   {
+    "p": 10,
+    "d": "hadjar",
+    "g": 22,
+    "pts": 1,
+    "t": "+1:30.862"
+   },
+   {
+    "p": 11,
+    "d": "gasly",
+    "g": 7,
+    "pts": 0,
+    "t": "+2.171"
+   },
+   {
+    "p": 12,
+    "d": "bearman",
+    "g": 11,
+    "pts": 0,
+    "t": "+5.006"
+   },
+   {
+    "p": 13,
+    "d": "ocon",
+    "g": 12,
+    "pts": 0,
+    "t": "+25.647"
+   },
+   {
+    "p": 14,
+    "d": "sainz",
+    "g": 13,
+    "pts": 0,
+    "t": "+58.139"
+   },
+   {
+    "p": 15,
+    "d": "lindblad",
+    "g": 9,
+    "pts": 0,
+    "t": "+1:00.950"
+   },
+   {
+    "p": 16,
+    "d": "alonso",
+    "g": 20,
+    "pts": 0,
+    "t": "+1:14.454"
+   },
+   {
+    "p": 17,
+    "d": "perez",
+    "g": 17,
+    "pts": 0,
+    "t": "+20.520"
+   },
+   {
+    "p": 18,
+    "d": "albon",
+    "g": 16,
+    "pts": 0,
+    "t": "Retired"
+   },
+   {
+    "p": 19,
+    "d": "bottas",
+    "g": 18,
+    "pts": 0,
+    "t": "+17.347"
+   },
+   {
+    "p": 20,
+    "d": "stroll",
+    "g": 21,
+    "pts": 0,
+    "t": "Retired"
+   },
+   {
+    "p": 21,
+    "d": "colapinto",
+    "g": 15,
+    "pts": 0,
+    "t": "Retired"
+   },
+   {
+    "p": 22,
+    "d": "bortoleto",
+    "g": 14,
+    "pts": 0,
+    "t": "Retired"
+   }
   ]
  },
  "sprints": {
@@ -4111,95 +4268,101 @@
  },
  "news": [
   {
-   "en": "OFFICIAL GRID: Who starts where for the Singapore Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/official-grid-who-starts-where-for-the-2026-singapore-grand-prix.4JVD7MzJPal9kXzVlrEXXo",
+   "en": "What the teams said – Race day in Singapore",
+   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-race-day-in-singapore-2026.3lLHolVW3aIRAl7Ohxlxf6",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "LIVE COVERAGE: Verstappen leads in Singapore Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-singapore-airlines-singapore-grand-prix-2026.64UBFhKsSsN0V9RoD8JQqx",
+   "en": "All the key moments from the 2026 Singapore Grand Prix",
+   "url": "https://www.formula1.com/en/latest/article/singapore-lowdown-all-the-key-moments-as-verstappen-dominates-and-ferrari-face-strategy-turmoil.08P4aNzUgbtUZ7GnJ9njb",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "Racing Bulls to make driver decision 'in the coming weeks'",
-   "url": "https://www.formula1.com/en/latest/article/permane-states-racing-bulls-will-select-their-2027-driver-line-up-in-the-coming-weeks.39Cso2HINAEU5KViOulOZb",
+   "en": "Hamilton apologises after ‘painful lesson’ in Singapore",
+   "url": "https://www.formula1.com/en/latest/article/a-painful-lesson-hamilton-apologises-as-he-takes-responsibility-for-strategy-gamble-in-singapore.6NUbQvdet1DQa5ElDtonw1",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "What are the tyre strategy options for the Singapore GP?",
-   "url": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-tactical-options-for-the-singapore-gp.5jWKmehs0PU7rZJfM7hesc",
+   "en": "‘It was a mistake’ – Vasseur on Hamilton’s strategy call",
+   "url": "https://www.formula1.com/en/latest/article/it-was-a-mistake-vasseur-reacts-to-hamiltons-strategy-call-that-lost-a-podium-in-singapore.7FetC3ZueATDEKBKuuy4V",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "Why F1 fans should keep emotions out of Singapore GP",
-   "url": "https://www.formula1.com/en/latest/article/why-f1-fans-should-keep-emotions-out-of-their-bets-during-the-singapore-grand-prix.6A2tjupHGD063ttuHg3OLM",
+   "en": "Russell rues ‘difficult’ Singapore GP as ‘story of season’",
+   "url": "https://www.formula1.com/en/latest/article/the-story-of-the-season-russell-assesses-very-difficult-recovery-drive-in-singapore-grand-prix.bdIuyUxGaD3yWI4SpS7zZ",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "'It is serious'  – Stella addresses Norris and Piastri's clash",
-   "url": "https://www.formula1.com/en/latest/article/it-is-serious-stella-disappointed-by-norris-and-piastris-clash-in-singapore-sprint.7hW2cxQgohHZfu4wgvtfRQ",
+   "en": "Antonelli reacts as Singapore P3 puts him on brink of title",
+   "url": "https://www.formula1.com/en/latest/article/can-i-really-antonelli-reacts-as-he-gives-himself-first-chance-of-sealing-world-title-after-singapore-podium.2BhiC6Exd2Jtm9uT3xZ2Rb",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "What To Watch For in the Singapore Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-singapore-grand-prix.3sJXqpx3NdOWrrjnXZ7h0d",
+   "en": "Norris 'not happy with a P4' finish in Singapore GP",
+   "url": "https://www.formula1.com/en/latest/article/we-want-to-fight-for-wins-norris-not-happy-with-a-p4-finish-in-singapore-gp.7KagAh8STy3D0lYmIV5fOx",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "What the teams said – Sprint day and Qualifying in Singapore",
-   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-sprint-day-and-qualifying-in-singapore-2026.5FELDvSCjmTcjvCtfedWaU",
+   "en": "Leclerc ‘gave it all’ to secure P2 in Singapore",
+   "url": "https://www.formula1.com/en/latest/article/i-dont-regret-anything-leclerc-gave-it-all-to-secure-p2-in-singapore.4TemKhORmVtudPgWO2Uiw4",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "FIA admits fairness was compromised in Singapore GP sprint qualifying “mess”",
-   "url": "https://www.autosport.com/f1/news/fia-admits-fairness-was-compromised-in-singapore-f1-sprint-qualifying-mess/10864155/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "en": "Verstappen thrilled with first Singapore win at 10th attempt",
+   "url": "https://www.formula1.com/en/latest/article/its-taken-a-while-verstappen-thrilled-with-maiden-singapore-win-at-10th-attempt.7A6wicGmDmoONtJzg1TdLl",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Verstappen your Singapore Driver of the Day after dominant win",
+   "url": "https://www.formula1.com/en/latest/article/driver-of-the-day-first-time-singapore-gp-winner-verstappen-gets-your-vote.6KaQbrOz89gdBDMMW9bjqM",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Verstappen jokes about coded messages as Red Bull phases in Lambiase’s successor",
+   "url": "https://www.autosport.com/f1/news/max-verstappen-jokes-about-coded-messages-as-red-bull-plans-first-races-for-gianpiero-lambiases-suc/10864455/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
    "date": "2026-10-11"
   },
   {
-   "en": "Kimi Antonelli hit with a major pre-race scare in Singapore",
-   "url": "https://www.motorsport.com/f1/news/kimi-antonelli-hit-with-a-major-pre-race-scare-in-singapore/10864300/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
+   "en": "Ferrari explains Hamilton’s failed Singapore GP gamble",
+   "url": "https://www.autosport.com/f1/news/ferrari-explains-hamiltons-failed-singapore-gp-gamble/10864421/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
    "date": "2026-10-11"
   },
   {
-   "en": "George Russell handed another 20-place penalty before the Singapore Grand Prix",
-   "url": "https://www.motorsport.com/f1/news/george-russell-handed-another-20-place-penalty-before-the-singapore-grand-prix/10864262/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
+   "en": "How can Antonelli become F1 world champion at US GP?",
+   "url": "https://www.autosport.com/f1/news/how-can-antonelli-become-f1-world-champion-at-us-gp/10864377/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
    "date": "2026-10-11"
   },
   {
-   "en": "Pierre Gasly questions FIA stewards' decision not to penalise Lando Norris after Singapore crash",
-   "url": "https://www.motorsport.com/f1/news/gasly-questions-fia-stewards-decision-not-to-penalise-norris-after-singapore-crash/10864257/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-10-11"
-  },
-  {
-   "en": "Isack Hadjar \"pissed off\" after mechanical problems strike at Singapore GP",
-   "url": "https://www.motorsport.com/f1/news/isack-hadjar-pissed-off-after-mechanical-problems-strike-at-singapore-gp/10864184/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-10-11"
-  },
-  {
-   "en": "FIA admits fairness was compromised in Singapore F1 sprint qualifying “mess”",
-   "url": "https://www.motorsport.com/f1/news/fia-admits-fairness-was-compromised-in-singapore-f1-sprint-qualifying-mess/10864037/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
+   "en": "Hamilton takes blame for poor Singapore GP strategy call",
+   "url": "https://www.autosport.com/f1/news/lewis-hamilton-takes-blame-for-poor-singapore-gp-strategy/10864343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
    "date": "2026-10-11"
   }
  ],
  "newsKo": [
   {
    "ko": "밤을 가르는 폭풍 질주…F1 싱가포르 그랑프리",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2LWJFa21pRWR3dHVMU0xEc3RjLU1kcUxWdGlzNWRhaXBBWHRlTVhlVDhzZXRwME5qYnNJTkZ3emhRSWltV2JuNmJ1aWVzQ2g1WGlGYi11c0syMWpUSTdaX2Z4UUNDY1RwUGZ2Ym90RHh0WGk1SzZEYw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kdk1TNTd4YWt1bC1oVDBxSF9WVzJIZ1FZN0RMblpqd3FFWFJZdFJISmM2Z1ZfV0hXQ3ZFSXQ4dGt1amN1clJjZ0Rsa2piOTVXak9WeXAyY0l6SG8?oc=5",
    "src": "연합뉴스",
+   "date": "2026-10-11"
+  },
+  {
+   "ko": "코르티스, F1 싱가포르 그랑프리 무대 장식…6만 관객 열광",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wbzhyZFZyOHRCU1d1Q2lXc3pkb3Y2MEVCMTN4WXJSQzZrUFM0ajA3bkI4aDh1bERuWXlXMDIzMkYzX2VPMVdocUExVnJUY2VuNFJpQXBZWWxGaFQ0Q3h6UnlEOUVteVhIMXpV?oc=5",
+   "src": "대구신문",
    "date": "2026-10-11"
   },
   {
@@ -4247,7 +4410,7 @@
   {
    "ko": "[HD포토] 아이브 장원영, ‘F1 그랑프리 보러 가는 워뇨’ (인천공항 출국)",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE52MEpvb2cyRFl5eUE1cjFyMWJCam5CbTYwUVVBRlBxa3JYbGZSR3B0UFJkZjlGZUxTTFc5cDRYa3hNM2xxYlhyVC15ZUVaeXpmeTZSVkQ2YWpuSFdGX1NGTmJyMDNmZTBIOG0zdXZnaUNTUQ?oc=5",
-   "src": "TopStarNews",
+   "src": "톱스타뉴스",
    "date": "2026-10-09"
   },
   {
@@ -4261,12 +4424,6 @@
    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1IQXQwNnZWa203VGgxbHFuZWc0MjRHRlVyVjRyOXN3a0g2aF9fRXJxR1VzSURNOXB1dEhkMldyUkhYcWRMaEE?oc=5",
    "src": "Daum",
    "date": "2026-10-09"
-  },
-  {
-   "ko": "\"창이공항서 F1 레이스 즐긴다\"…롯데면세점, '시바스 리갈' 팝업",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMSlYzRlZ3dm05YUdNemM5a0VxWTZZWmpZUWtwRlREa244MFRvRUxZVzRnZHl4dzMyTk1EcklWc2ItTGpqVm9HMVBZeVNfUEhpbmM5RE1BOFdkQ0tUdkVYcjdEUQ?oc=5",
-   "src": "더구루",
-   "date": "2026-10-08"
   }
  ]
 }
