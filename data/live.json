@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13 06:17 KST",
+ "updated": "2026-10-13 11:37 KST",
  "roundsDone": 17,
  "drivers": [
   {
@@ -4316,6 +4316,18 @@
    "date": ""
   },
   {
+   "en": "Toto Wolff reveals problem behind George Russell's Singapore GP recovery",
+   "url": "https://www.motorsport.com/f1/news/toto-wolff-reveals-the-problem-behind-george-russells-singapore-gp-recovery/10864793/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-10-13"
+  },
+  {
+   "en": "McLaren to phase upgrades for 2026 fight and next year's F1 development",
+   "url": "https://www.motorsport.com/f1/news/mclaren-to-phase-upgrades-for-2026-fight-and-next-years-f1-development/10864787/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-10-13"
+  },
+  {
    "en": "The not-so-obvious chance Leclerc missed to usurp Verstappen",
    "url": "https://www.autosport.com/f1/news/charles-leclerc-admits-he-missed-a-chance-against-max-verstappen-but-not-the-obvious-one/10864639/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
@@ -4334,25 +4346,25 @@
    "date": "2026-10-12"
   },
   {
-   "en": "Oscar Piastri on his Singapore puncture: “Ironically, it probably helped”",
-   "url": "https://www.motorsport.com/f1/news/oscar-piastri-on-his-singapore-puncture-ironically-it-probably-helped/10864632/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-10-12"
-  },
-  {
-   "en": "How to watch Max Verstappen race GT World Challenge Portimao free: Live stream, start time and schedule",
-   "url": "https://www.motorsport.com/f1/news/how-to-watch-max-verstappen-race-gt-world-challenge-portimao-free-live-stream-start-time-and-schedu/10864757/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-10-12"
-  },
-  {
-   "en": "Charles Leclerc admits he missed a chance against Max Verstappen – but not the obvious one",
-   "url": "https://www.motorsport.com/f1/news/charles-leclerc-admits-he-missed-a-chance-against-max-verstappen-but-not-the-obvious-one/10864610/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "en": "Why Kimi Antonelli was left fighting his Mercedes brakes during the Singapore GP",
+   "url": "https://www.motorsport.com/f1/news/why-kimi-antonelli-was-left-fighting-his-mercedes-brakes-during-the-singapore-gp/10864784/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
    "date": "2026-10-12"
   }
  ],
  "newsKo": [
+  {
+   "ko": "[2026 F1 제17전 싱가포르 GP 페라리] 엇갈린 전략 속 3, 6위",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5S2x5QXhCVjhjSWh2dGtIQVIwRzNObTd3cjJNMGhoLVl5SjU0N1dmX0JEUFpUbHJEV0wzUXhwSG13M3dYVU84Y0lkakxURVllX2Y5NHV6dExOV0FPdTJhNEc5S0ktT1FUNFZhaGhxcw?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-10-13"
+  },
+  {
+   "ko": "장원영 나오자 화면이 멈췄다 \"카메라맨도 반한 거 아냐?\"... F1 등장에 해외 화제, '클로즈업→손키스' 현지 매체도 주목 - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByS200VHAwdUVjVDNqbi1JRFF0NncyeERXVkNiZkNBalFlUjg5Z1FKTUEyRFdibUdLa0RsMzJiSGtGVFFHem5BY1laUy1xdUxiczRkby0xdmgxUUs5RTJDeEZKaWdwWm9pcUHSAW9BVV95cUxQRlZBU1J3UU90VmUzbmtRTEM4RS1CclctZVBKM0tBMGhYYjBueUdsbkhEcHlveFF4S0FWSVowZ1FNRE5MRi1vNkF2LUJWMG43QU0wYUhXYm5BQnR6QnFfS01ZYlc1ckVqWWF6U1ZDLVk?oc=5",
+   "src": "머니투데이",
+   "date": "2026-10-12"
+  },
   {
    "ko": "코르티스부터 필릭스까지, F1 싱가포르 그랑프리와 함께한 스타들",
    "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNdC12YndDOExybFFQODBka3pxOFNTcXQ2MXVnYUJfSktKUjFmNE1sQlg0dTdoSlEwUmREMTJyTG9uOGpNMkl4bDRuNVhrbnBkSXJyUlJqNkh6cXMwbmhRbnMwbS1Nby1IaklYZ2NGczBDVEc3MmJuZ25WdHdGdm1QazIyajFkY21tSTY4bDl2bmtXTlJUbkd3V1lyZ0pEU0hGTHZWOER5clFRb29peVlzS3VnTjkxbkhyLTF2X2ZrLW8xSUlGMVFNZ2RTZ1NCcEFIUkdhc3ZYWmx3QmFtRjV2VnVaSHJqZ2owYlIxcnVtcFhXeXAxVU55RXBzWFM0QTVRXzFjM1BGNXdtNXJLdUdjenRoSEVzcnFjT2t2RDU4UTVDMUFXTWpXck9EaFpCamtvLW9xa3ozRTZhTHhPVnp3TURrT0VBa0J1a0p0bkpCNExDQQ?oc=5",
@@ -4372,15 +4384,15 @@
    "date": "2026-10-12"
   },
   {
-   "ko": "피렐리, F1 세이프티 카 '메르세데스-AMG GT 63 프로 4매틱+' 전용 타이어 '피제로 R' 공개",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PSXJvR0pyMzMyTG91UlFjbHl6U3kwUDAteUVPQ25oX0NtRkRLWE9vU190OVpaRXQwWmZqSW1PVjN3S2JZQXZ1UWZWSHU3Vy0wQjVxSXNydGtRZw?oc=5",
-   "src": "한국경제",
-   "date": "2026-10-12"
-  },
-  {
    "ko": "피렐리, F1 세이프티 카 ‘메르세데스-AMG GT 63 프로 4매틱+’ 전용 피제로 R 타이어 공개",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jVDRkZUFhbmV6WGxCWHN3SVA1ZXk0TkJHQV9PYk5IX05Sci1qWThXTVJlMF9NU1lybkFRMWstRk1md055MHZfMUYteEc2TWhfV3lBeEZ0bFVRMWlqMWlvLXdCdDQ0LWZvZXQw?oc=5",
    "src": "비즈월드",
+   "date": "2026-10-12"
+  },
+  {
+   "ko": "피렐리, F1 세이프티 카 '메르세데스-AMG GT 63 프로 4매틱+' 전용 타이어 '피제로 R' 공개",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PSXJvR0pyMzMyTG91UlFjbHl6U3kwUDAteUVPQ25oX0NtRkRLWE9vU190OVpaRXQwWmZqSW1PVjN3S2JZQXZ1UWZWSHU3Vy0wQjVxSXNydGtRZw?oc=5",
+   "src": "한국경제",
    "date": "2026-10-12"
   },
   {
@@ -4396,6 +4408,12 @@
    "date": "2026-10-12"
   },
   {
+   "ko": "[2026 F1 제17전 싱가포르 GP 레드불] “완벽에 가까운 주말 만들었다”",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ndkZQRlhBU1ZyUWlZTnVlZ05seFlzMUNoNjFqaFNaVUR5ZVFjSHZkSXFteVlzSkZzSXNhUmpudTJQekxwZmhoaV82Q0dDQndscVBJeGVieVZmMmtkNm84dnFZbDVsVTVVZ2VHcE50WQ?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-10-12"
+  },
+  {
    "ko": "밤을 가르는 폭풍 질주…F1 싱가포르 그랑프리",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kdk1TNTd4YWt1bC1oVDBxSF9WVzJIZ1FZN0RMblpqd3FFWFJZdFJISmM2Z1ZfV0hXQ3ZFSXQ4dGt1amN1clJjZ0Rsa2piOTVXak9WeXAyY0l6SG8?oc=5",
    "src": "연합뉴스",
@@ -4406,24 +4424,6 @@
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4WG5fNDlRcHNoaWpzOHBBc18wNWVKcTdxOVkwRDBDT0dWRkVTT2QzYkNMUUNxamhULUwySVNEM3ctVUpKUDJRc1FOQTdOUlVzVEkyTzR6UUQ2eWd1MUhrN0M2ejhhZTREc193?oc=5",
    "src": "https://www.standingout.kr/",
    "date": "2026-10-11"
-  },
-  {
-   "ko": "[2026 F1 제17전 싱가포르 GP] M. 페르스타펜, 시즌 첫 승으로 통산 73승",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KWVRXOXh1YkVTUHpVcmMyQTdUQnN2MzB5OWJ5MmRwM0l6TDVHNHhtam1ndGhXNHdnOGNqQUV0RDVhNTJHdW03Y1E5Nk4xNlFvaGlsRHVxcjNmcE1XTEZWNzRYTXJqREh5ODhlMXRyMA?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-10-11"
-  },
-  {
-   "ko": "[단독] 쯔위, 싱가포르 F1 그랑프리 떴다..전 세계 사로잡은 아름다움[★NEWSing]",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMR1JCbE9tdy1vZFRaX1I2aFplbUhwSGxOaWRXNmtMRHJ2WG5qSzdId29jQ0xUN1VGTTVyQnNzdlNsUXdqbmtnOVQ1b2wxc0h1OXpONVNWdjVOU2xoRmpOM2lLR05FclNZX0RCc2dGVlRpY1k?oc=5",
-   "src": "스타뉴스",
-   "date": "2026-10-10"
-  },
-  {
-   "ko": "역시 코르티스! F1 싱가포르 그랑프리 '압도'",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5fQ2hjNU5JVDhVdmhQODE3alQ4dGdjZ3dLbnFLWXVxLVR3T29ZNU96UHpIVy1fcFBNcUMxTWVnanpzQkJHZHQwRnh6N1l1UQ?oc=5",
-   "src": "전자신문",
-   "date": "2026-10-10"
   }
  ]
 }
