@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16 02:03 KST",
+ "updated": "2026-10-16 06:24 KST",
  "roundsDone": 17,
  "drivers": [
   {
@@ -4355,7 +4355,7 @@
  "newsKo": [
   {
    "ko": "르완다, F1 유치…아프리카 대륙서 30여년 만에 '그랑프리'",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CN0NGN25id3RrREVxRVdvUkpqVUZWamlKajVJaEVzZm8tejBEbmtrMDNvZEpueDVrdGdtTl82U0d6Mm1MblF0ZzFlRVZnZ2hGbWtaWUF5UldURDTSAWBBVV95cUxPNjB1SHVBMTNtbWJaYURpaFdRaDVpanNyb3I5XzBlOWV6d1pDNHdReWZ2dkhkalFtSXZfbklMcnBRdkNHYzl2NFNzN1Q4X0NIaHhLQXJtNUdRR3RGTDl4MTU?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82MHVIdUExM21tYlphRGloV1FoNWlqc3JvcjlfMGU5ZXp3WkM0d1F5ZnZ2SGRqUW1Jdl9uSUxycFF2Q0djOXY0U3M3VDhfQ0hoeEtBcm01R1FHdEZMOXgxNdIBYEFVX3lxTE82MHVIdUExM21tYlphRGloV1FoNWlqc3JvcjlfMGU5ZXp3WkM0d1F5ZnZ2SGRqUW1Jdl9uSUxycFF2Q0djOXY0U3M3VDhfQ0hoeEtBcm01R1FHdEZMOXgxNQ?oc=5",
    "src": "연합뉴스",
    "date": "2026-10-15"
   },
@@ -4402,6 +4402,12 @@
    "date": "2026-10-13"
   },
   {
+   "ko": "[2026 F1 제17전 싱가포르 GP 맥라렌] 전략으로 메우기 어려웠던 속도 차",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ncl8yTWUwSC0yWnZoSk5TRXBVSVdoSXpZeFBqTXZKcVk2QjF1Q2Mxc1p6VFhMemR4SXNWLW1RNWJTWlptS2ItSEhPc0hWSnhmbmFSNG9EOGJQY1hfVm5MM3YwY3hyVHpuU0hBNjZ0WQ?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-10-13"
+  },
+  {
    "ko": "장원영 나오자 화면이 멈췄다 \"카메라맨도 반한 거 아냐?\"... F1 등장에 해외 화제, '클로즈업→손키스' 현지 매체도 주목 - 머니투데이",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByS200VHAwdUVjVDNqbi1JRFF0NncyeERXVkNiZkNBalFlUjg5Z1FKTUEyRFdibUdLa0RsMzJiSGtGVFFHem5BY1laUy1xdUxiczRkby0xdmgxUUs5RTJDeEZKaWdwWm9pcUHSAW9BVV95cUxQRlZBU1J3UU90VmUzbmtRTEM4RS1CclctZVBKM0tBMGhYYjBueUdsbkhEcHlveFF4S0FWSVowZ1FNRE5MRi1vNkF2LUJWMG43QU0wYUhXYm5BQnR6QnFfS01ZYlc1ckVqWWF6U1ZDLVk?oc=5",
    "src": "머니투데이",
@@ -4417,12 +4423,6 @@
    "ko": "레드불 베르스타텐, 스프린트부터 결승 '올킬'... F1 싱가포르 '완전무결' 우승",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13djhfUVJ4T193VnVkOUNBOGlRbDM3NlJCNUd4NE5qN01YXzJ2SmVTaTU1cFNyNldGV2dOWWNnSzFlX0x3UUl1Vl92SDUzeE9Ia2liR2RGUnkwTmw2VHlhUTZ0S1dYSkFoMEU4YzVtb2Q4dw?oc=5",
    "src": "다나와 자동차",
-   "date": "2026-10-12"
-  },
-  {
-   "ko": "영남대 YUSAE, 직접 만든 자동차로 내연기관 포뮬러 1위",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OSlBXV2FVbnRlTzNmR1lCa0pqTkdzTUxvbm5jNnk1ZjVmS3psTEdlOWhkaUV5RHhCU00zN3NxZENzeE5MdVA1RVprOHFrVGFPMU83aHY0ejVlYm50RG9wNlU4R1llbTgzTkNhRFZNdw?oc=5",
-   "src": "경북일보",
    "date": "2026-10-12"
   }
  ]
