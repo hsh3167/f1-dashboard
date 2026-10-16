@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16 20:27 KST",
+ "updated": "2026-10-17 01:41 KST",
  "roundsDone": 17,
  "drivers": [
   {
@@ -4268,6 +4268,24 @@
  },
  "news": [
   {
+   "en": "How the pecking order has changed since the season opener",
+   "url": "https://www.formula1.com/en/latest/article/in-numbers-how-the-pecking-order-has-changed-since-the-2026-season-opener.5audfzy7TXq7Jzl92vs6Pd",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Why Brown thinks Piastri is 'back to the driver I know'",
+   "url": "https://www.formula1.com/en/latest/article/piastri-back-to-the-driver-i-know-brown-encouraged-by-mclaren-drivers-growing-confidence.5XI6KWGDCPVvoHn5sybz22",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Ferrari's Larsen to return for 2027 F1 ACADEMY campaign",
+   "url": "https://www.formula1.com/en/latest/article/ferraris-larsen-to-return-for-2027-f1-academy-campaign.5eeThwId7hnIzVMd8zkTPB",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "The top 10 driver/team combination wins in F1 history",
    "url": "https://www.formula1.com/en/latest/article/the-top-10-driver-team-combination-wins-in-f1-history.6H3YLvCRZN9e3kGTEQWGGx",
    "src": "Formula1.com",
@@ -4310,22 +4328,10 @@
    "date": ""
   },
   {
-   "en": "Haas sign Ferrari junior Rafael Camara for 2027",
-   "url": "https://www.formula1.com/en/latest/article/ferrari-junior-rafael-camara-promoted-to-f1-with-haas-for-2027.1RSxvnFaLu8Hd3JD2ppFsz",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "How a chat with Prost inspired Wolff's F1 driver management",
-   "url": "https://www.formula1.com/en/latest/article/how-a-conversation-with-alain-prost-inspired-toto-wolff-in-managing-mercedes-drivers.4qT8o2fJt8rsZJT7BmAQ6Z",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Mekies signs long-term contract extension with Red Bull",
-   "url": "https://www.formula1.com/en/latest/article/mekies-commits-to-long-term-contract-extension-as-red-bull-team-principal.1NfCP1Zas2IAzVa3sNa3yf",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "Colapinto urges fans to stop online abuse: “You’re not helping me or my future”",
+   "url": "https://www.autosport.com/f1/news/colapinto-urges-fans-to-stop-the-abuse-youre-not-helping-me-or-my-future/10865685/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-10-16"
   },
   {
    "en": "Who will win this year’s ultimate F1 dream ticket? You decide…",
@@ -4334,20 +4340,14 @@
    "date": "2026-10-16"
   },
   {
-   "en": "Why Toto Wolff wore two watches at the Singapore Grand Prix",
-   "url": "https://www.motorsport.com/f1/news/why-toto-wolff-wore-two-watches-at-the-singapore-grand-prix/10865603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "en": "Franco Colapinto urges fans to stop the abuse: “You’re not helping me or my future”",
+   "url": "https://www.motorsport.com/f1/news/franco-colapinto-urges-fans-to-stop-the-abuse-youre-not-helping-me-or-my-future/10865682/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
    "date": "2026-10-16"
   },
   {
-   "en": "Who will win this year’s ultimate F1 dream ticket? You decide…",
-   "url": "https://www.motorsport.com/general/news/who-will-win-this-years-ultimate-f1-dream-ticket-you-decide-/10865593/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-10-16"
-  },
-  {
-   "en": "Isack Hadjar on reality of racing alongside \"prime of the prime\" Max Verstappen",
-   "url": "https://www.motorsport.com/f1/news/isack-hadjar-on-reality-of-racing-alongside-prime-of-the-prime-max-verstappen-/10861847/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "en": "Liam Lawson to perform live music set ahead of F1 United States Grand Prix in Austin",
+   "url": "https://www.motorsport.com/f1/news/liam-lawson-to-perform-live-music-set-ahead-of-f1-united-states-grand-prix-in-austin/10865675/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
    "date": "2026-10-16"
   }
@@ -4391,7 +4391,7 @@
   },
   {
    "ko": "피렐리, F1 세이프티카 맞춤형 ‘P Zero R’ 공개…메르세데스-AMG와 고성능 합작",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3UzIzOFFDb0pSN2lPNTctaGxDOHpfUmxFYkcyT05oRzdLM1hEWXJhdmxEcHJMLVBkMU15Zk81LV8xMkd1dThUb0JmSVV1YmRFUnp2ZExNME45SWRtUTN3MDBUNmF6d9IBZkFVX3lxTFA3UzIzOFFDb0pSN2lPNTctaGxDOHpfUmxFYkcyT05oRzdLM1hEWXJhdmxEcHJMLVBkMU15Zk81LV8xMkd1dThUb0JmSVV1YmRFUnp2ZExNME45SWRtUTN3MDBUNmF6dw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TSTd6WVdlVUc4Y25fcUtjMDlRYkhUQUhHX0ppT1N4WXptTm01OVZxUk5YZ2xLNmVKRnZsM1FHcXZzQ0w1b1dfZG42eHF4aVZVQlV1T01yX2toQUF2MFZfMnFUeGpSMDZkNHp0VW82SGVoYWVKZVHSAWZBVV95cUxQN1MyMzhRQ29KUjdpTzU3LWhsQzh6X1JsRWJHMk9OaEc3SzNYRFlyYXZsRHByTC1QZDFNeWZPNS1fMTJHdXU4VG9CZklVdWJkRVJ6dmRMTTBOOUlkbVEzdzAwVDZhenc?oc=5",
    "src": "동아일보",
    "date": "2026-10-13"
   },
