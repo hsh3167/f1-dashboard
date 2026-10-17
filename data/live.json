@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17 13:29 KST",
+ "updated": "2026-10-17 19:47 KST",
  "roundsDone": 17,
  "drivers": [
   {
@@ -4268,6 +4268,18 @@
  },
  "news": [
   {
+   "en": "Rwanda will write a new chapter in Africa’s rich F1 heritage",
+   "url": "https://www.formula1.com/en/latest/article/rwanda-will-write-a-new-chapter-in-africas-rich-f1-heritage.7If5jA3uz9KtpTP3lzoCrk",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "How Mekies has already made his mark at Red Bull",
+   "url": "https://www.formula1.com/en/latest/article/how-mekies-has-already-made-his-mark-at-red-bull-and-why-the-teams-future-looks-safe-in-his-hands.4Z7kqYHKxjyWTKVxQDFgfk",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "How the pecking order has changed since the season opener",
    "url": "https://www.formula1.com/en/latest/article/in-numbers-how-the-pecking-order-has-changed-since-the-2026-season-opener.5audfzy7TXq7Jzl92vs6Pd",
    "src": "Formula1.com",
@@ -4316,40 +4328,28 @@
    "date": ""
   },
   {
-   "en": "The next Ferrari protege Haas couldn’t turn down",
-   "url": "https://www.formula1.com/en/latest/article/rafael-camara-the-next-ferrari-protege-haas-couldnt-turn-down.24Vz3MR6I5GVOywy1z8C39",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Why Haas decided to risk promoting rookie Camara",
-   "url": "https://www.formula1.com/en/latest/article/analysis-why-haas-decided-to-risk-promoting-rookie-camara-for-their-2027-line-up.4Q2AGJtixidwJ2EXtdsydz",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Colapinto urges fans to stop online abuse: “You’re not helping me or my future”",
-   "url": "https://www.autosport.com/f1/news/colapinto-urges-fans-to-stop-the-abuse-youre-not-helping-me-or-my-future/10865685/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "en": "What Verstappen knew about Red Bull’s big upgrade when he signed his new F1 deal",
+   "url": "https://www.autosport.com/f1/news/did-max-verstappen-already-know-the-impact-of-red-bulls-big-upgrade-when-he-signed-his-new-deal/10865791/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
-   "date": "2026-10-16"
+   "date": "2026-10-17"
   },
   {
-   "en": "Who will win this year’s ultimate F1 dream ticket? You decide…",
-   "url": "https://www.autosport.com/general/news/who-will-win-this-years-ultimate-f1-dream-ticket-you-decide-/10865598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-10-16"
-  },
-  {
-   "en": "Bernie Collins warns of growing trust issues between Lewis Hamilton and Ferrari",
-   "url": "https://www.motorsport.com/f1/news/bernie-collins-warns-of-growing-trust-issues-between-lewis-hamilton-and-ferrari/10865751/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "en": "Christian Horner calls for F1 budget cap rethink: \"Teams are spending $500 or $600m\"",
+   "url": "https://www.motorsport.com/f1/news/christian-horner-calls-for-f1-budget-cap-rethink-teams-are-spending-500-or-600m/10865680/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
-   "date": "2026-10-16"
+   "date": "2026-10-17"
   },
   {
-   "en": "Ferrari releases chaotic footage of Lewis Hamilton and Charles Leclerc's social media takeover",
-   "url": "https://www.motorsport.com/f1/news/ferrari-releases-chaotic-footage-of-lewis-hamilton-and-charles-leclercs-social-media-takeover/10865748/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "en": "Mercedes F1 accounts reveal £633m revenue and £125m payout to shareholders",
+   "url": "https://www.motorsport.com/f1/news/mercedes-f1-accounts-reveal-633m-revenue-and-125m-payout-to-shareholders/10865823/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
-   "date": "2026-10-16"
+   "date": "2026-10-17"
+  },
+  {
+   "en": "Ferrari expected to introduce major upgrade package at United States GP",
+   "url": "https://www.motorsport.com/f1/news/ferrari-expected-to-introduce-major-upgrade-package-at-united-states-gp/10865819/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-10-17"
   }
  ],
  "newsKo": [
@@ -4384,15 +4384,21 @@
    "date": "2026-10-13"
   },
   {
-   "ko": "[F1] 20세 안토넬리, 미국서 역대 최연소 챔피언 도전",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mYTFaQ3Y0ZFBMaFkxYzRVQ2dQYXo0MWdLMzBYRlozandGZGdIRWYtV1pybnVwUHdCclkwQWR5TE1IaTY5cUMxMGJBVnpLRFRaUkZaUmdoOEY4TFo3WFo3SElMT0k1Y3Ytam5F?oc=5",
-   "src": "https://www.standingout.kr/",
+   "ko": "[2026 F1 제17전 싱가포르 GP 메르세데스] 후반 승부수 통했다",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84X3M0bFJRTF9CalNka2lSeDdkbzBrcnliaGhwcm9XNG1fWUhmSmlJYUJTWU1hMFZ0V1hOenR2RUp0VklObmNtZzVvTGJCSmVQc2YxcWxHSXlnRkMtR2lrREhocHNSR3pUSVBmY2p5OA?oc=5",
+   "src": "오토레이싱",
    "date": "2026-10-13"
   },
   {
    "ko": "피렐리, F1 세이프티카 맞춤형 ‘P Zero R’ 공개…메르세데스-AMG와 고성능 합작",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TSTd6WVdlVUc4Y25fcUtjMDlRYkhUQUhHX0ppT1N4WXptTm01OVZxUk5YZ2xLNmVKRnZsM1FHcXZzQ0w1b1dfZG42eHF4aVZVQlV1T01yX2toQUF2MFZfMnFUeGpSMDZkNHp0VW82SGVoYWVKZVHSAWZBVV95cUxQN1MyMzhRQ29KUjdpTzU3LWhsQzh6X1JsRWJHMk9OaEc3SzNYRFlyYXZsRHByTC1QZDFNeWZPNS1fMTJHdXU4VG9CZklVdWJkRVJ6dmRMTTBOOUlkbVEzdzAwVDZhenc?oc=5",
    "src": "동아일보",
+   "date": "2026-10-13"
+  },
+  {
+   "ko": "[2026 F1 제17전 싱가포르 GP 페라리] 속도는 있었지만 전략에서 갈렸다",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5S2x5QXhCVjhjSWh2dGtIQVIwRzNObTd3cjJNMGhoLVl5SjU0N1dmX0JEUFpUbHJEV0wzUXhwSG13M3dYVU84Y0lkakxURVllX2Y5NHV6dExOV0FPdTJhNEc5S0ktT1FUNFZhaGhxcw?oc=5",
+   "src": "오토레이싱",
    "date": "2026-10-13"
   },
   {
@@ -4408,21 +4414,15 @@
    "date": "2026-10-12"
   },
   {
+   "ko": "레드불 베르스타텐, 스프린트부터 결승 '올킬'... F1 싱가포르 '완전무결' 우승",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13djhfUVJ4T193VnVkOUNBOGlRbDM3NlJCNUd4NE5qN01YXzJ2SmVTaTU1cFNyNldGV2dOWWNnSzFlX0x3UUl1Vl92SDUzeE9Ia2liR2RGUnkwTmw2VHlhUTZ0S1dYSkFoMEU4YzVtb2Q4dw?oc=5",
+   "src": "다나와 자동차",
+   "date": "2026-10-12"
+  },
+  {
    "ko": "영남대 YUSAE, 직접 만든 자동차로 내연기관 포뮬러 1위",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OSlBXV2FVbnRlTzNmR1lCa0pqTkdzTUxvbm5jNnk1ZjVmS3psTEdlOWhkaUV5RHhCU00zN3NxZENzeE5MdVA1RVprOHFrVGFPMU83aHY0ejVlYm50RG9wNlU4R1llbTgzTkNhRFZNdw?oc=5",
    "src": "경북일보",
-   "date": "2026-10-12"
-  },
-  {
-   "ko": "피렐리, F1 세이프티 카 '메르세데스-AMG GT 63 프로 4매틱+' 전용 타이어 '피제로 R' 공개",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PSXJvR0pyMzMyTG91UlFjbHl6U3kwUDAteUVPQ25oX0NtRkRLWE9vU190OVpaRXQwWmZqSW1PVjN3S2JZQXZ1UWZWSHU3Vy0wQjVxSXNydGtRZw?oc=5",
-   "src": "한국경제",
-   "date": "2026-10-12"
-  },
-  {
-   "ko": "피렐리 타이어, F1 세이프티카 전용 타이어 공개",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ldUx0bzdSVmh5U1NIVm4xUEsxM0hEUXZ3MVFuMHVKR2x4T01vWHhUdnNfTEJKZ01mamdNSEl6OEd5Vl9RZEx0RzR5Rng4M212RVhPNmQ0OVpCcXMwYXVsLWl5bUVDY2l5cTFTcg?oc=5",
-   "src": "모터그래프",
    "date": "2026-10-12"
   }
  ]
