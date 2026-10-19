@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19 08:14 KST",
+ "updated": "2026-10-19 13:43 KST",
  "roundsDone": 17,
  "drivers": [
   {
@@ -4328,6 +4328,12 @@
    "date": ""
   },
   {
+   "en": "Stray Kids' Felix sends fans into frenzy with behind-the-scenes Ferrari F1 photos",
+   "url": "https://www.motorsport.com/f1/news/stray-kids-felix-sends-fans-into-frenzy-with-behind-the-scenes-ferrari-f1-photos/10866141/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-10-19"
+  },
+  {
    "en": "Mercedes explains why its upgrade made its F1 car harder to drive",
    "url": "https://www.autosport.com/f1/news/mercedes-explains-why-its-upgrade-made-its-f1-car-harder-to-drive/10866035/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
@@ -4344,15 +4350,15 @@
    "url": "https://www.motorsport.com/f1/news/lewis-hamilton-and-fernando-alonsos-infamous-mclaren-rivalry-set-for-bbc-documentary/10866138/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
    "date": "2026-10-18"
-  },
-  {
-   "en": "BBC could lose F1 radio rights after 32 years as rival broadcaster considers bid",
-   "url": "https://www.motorsport.com/f1/news/bbc-could-lose-f1-radio-rights-after-32-years-as-rival-broadcaster-considers-bid/10866051/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-10-18"
   }
  ],
  "newsKo": [
+  {
+   "ko": "브래드 피트가 317㎞로 질주한 ‘F1 머신’ 판다",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JRkN3Skk3QW50b3ZOQW9TSjh6cjNyUVZCRTVLWEZ4N2toVmdaQzhuQkZOOHgzVFpaci1IVXFqNnZjUFpoM19zbURGd0tUM1FB?oc=5",
+   "src": "문화일보",
+   "date": "2026-10-19"
+  },
   {
    "ko": "TGR 하스, F2 1위 라파엘 카마라와 다년 계약 2027 F1 데뷔 확정",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4TlpiYW9UXzFsMEhRQ2lGcXY2UXdHVzhLQ3NvbHEtSU11ZVk4M1VSWEd2OWtFaEZnSjZPUkR1YUVxcjRiTDBqaHd2OFE2TDJYWHNyRTlJUGZTZGhyZXpzVVdZZEQzR1JoaHFoeXctQQ?oc=5",
@@ -4417,12 +4423,6 @@
    "ko": "피렐리, F1 세이프티카 맞춤형 ‘P Zero R’ 공개…메르세데스-AMG와 고성능 합작",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TSTd6WVdlVUc4Y25fcUtjMDlRYkhUQUhHX0ppT1N4WXptTm01OVZxUk5YZ2xLNmVKRnZsM1FHcXZzQ0w1b1dfZG42eHF4aVZVQlV1T01yX2toQUF2MFZfMnFUeGpSMDZkNHp0VW82SGVoYWVKZVHSAWZBVV95cUxQN1MyMzhRQ29KUjdpTzU3LWhsQzh6X1JsRWJHMk9OaEc3SzNYRFlyYXZsRHByTC1QZDFNeWZPNS1fMTJHdXU4VG9CZklVdWJkRVJ6dmRMTTBOOUlkbVEzdzAwVDZhenc?oc=5",
    "src": "동아일보",
-   "date": "2026-10-13"
-  },
-  {
-   "ko": "[2026 F1 제17전 싱가포르 GP 메르세데스] 후반 승부수 통했다",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84X3M0bFJRTF9CalNka2lSeDdkbzBrcnliaGhwcm9XNG1fWUhmSmlJYUJTWU1hMFZ0V1hOenR2RUp0VklObmNtZzVvTGJCSmVQc2YxcWxHSXlnRkMtR2lrREhocHNSR3pUSVBmY2p5OA?oc=5",
-   "src": "오토레이싱",
    "date": "2026-10-13"
   }
  ]
