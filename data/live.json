@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21 20:51 KST",
+ "updated": "2026-10-22 06:44 KST",
  "roundsDone": 17,
  "drivers": [
   {
@@ -4268,6 +4268,42 @@
  },
  "news": [
   {
+   "en": "Ferrari become latest team to unveil special livery for US GP",
+   "url": "https://www.formula1.com/en/latest/article/gallery-ferrari-become-latest-team-to-unveil-special-livery-for-united-states-grand-prix.4EbG3ECmHt6RxHQYeFPkvD",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Aston Martin reveal special livery for United States Grand Prix",
+   "url": "https://www.formula1.com/en/latest/article/gallery-aston-martin-reveal-special-livery-for-united-states-grand-prix.54xJBwPZxuLxE2ON1Oh2bi",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "The F1 Fantasy Strategist on the US, Mexico and Brazil",
+   "url": "https://www.formula1.com/en/latest/article/f1-fantasy-strategist-preview-the-alpine-mini-league-and-what-you-need-to-know-for-the-us-mexico-and-brazil.5PalKAaeXaGqR6yYGvubuO",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "How F1 drivers and strategists tackle the Circuit of The Americas",
+   "url": "https://www.formula1.com/en/latest/article/the-risk-perspective-how-f1-drivers-engineers-and-strategists-tackle-the-circuit-of-the-americas.741JHFwQ3tVxbddx0ndKXz",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Match the grid for your chance to win the ultimate F1 experience",
+   "url": "https://www.formula1.com/en/latest/article/match-the-grid-for-your-chance-to-win-the-ultimate-f1-experience-week5.2t2L2pj3NSCwiiwQiom4sv",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Vesti on the unusual way he became a Mercedes Junior driver",
+   "url": "https://www.formula1.com/en/latest/article/it-wasnt-easy-vesti-on-the-unusual-way-he-became-a-mercedes-junior-and-why-his-f1-dream-is-still-very-much-alive.1m0NqMANLmCy25o3bQbcjo",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "What tyres will the teams have for the United States GP?",
    "url": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2026-united-states-grand-prix.44LKddYSbUJK1LxMAa6VLI",
    "src": "Formula1.com",
@@ -4286,48 +4322,6 @@
    "date": ""
   },
   {
-   "en": "Mercedes show off special United States Grand Prix livery",
-   "url": "https://www.formula1.com/en/latest/article/gallery-mercedes-show-off-special-livery-for-united-states-grand-prix-weekend.56I955QMPnrmCAzO1hQdpu",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "How Williams entered the Marvel Universe",
-   "url": "https://www.formula1.com/en/latest/article/from-the-circuit-to-comic-con-how-williams-joined-the-marvel-universe.2CRyGcEiwfgZ67ouVodMxF",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "The 5 drivers most like to qualify quickest in Austin",
-   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-qualify-quickest-for-the-united-states-grand-prix.3bsWMBT70xX9tDyfmCpKJQ",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "HINCHCLIFFE: Why Lawson deserves to keep his seat at Racing Bulls",
-   "url": "https://www.formula1.com/en/latest/article/why-lawson-deserves-to-keep-his-seat-at-racing-bulls.6kJytSbdHiVxSlxgaLbjjU",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Why Red Bull and Audi’s floor stay trick is banned for 2027",
-   "url": "https://www.formula1.com/en/latest/article/the-floor-stay-loophole-behind-red-bull-and-audis-sidepods-and-why-it-is-being-closed-for-2027.4rwr2rImgcIIHLCLed473w",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "The 5 drivers most likely to win the United States GP",
-   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-united-states-grand-prix-according-to-the-betting-markets.3OhZRS9hatUzoRjV2rDe4m",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "What could ‘formidable’ Red Bull achieve after resurgence?",
-   "url": "https://www.formula1.com/en/latest/article/i-dont-see-a-weakness-what-could-formidable-red-bull-achieve-after-massive-resurgence.5qNK8tS9Gi6aw3lCdaBGz3",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
    "en": "FIA set to close F1 cost cap loophole with new rules",
    "url": "https://www.autosport.com/f1/news/fia-set-to-close-f1-cost-cap-loophole/10866649/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
@@ -4340,14 +4334,20 @@
    "date": "2026-10-21"
   },
   {
-   "en": "The figures that show Mercedes has lost its supremacy in F1 2026",
-   "url": "https://www.motorsport.com/f1/news/the-figures-that-show-mercedes-has-lost-its-supremacy-in-f1-2026/10866657/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "en": "Lando Norris launches new clothing collection ahead of United States Grand Prix",
+   "url": "https://www.motorsport.com/f1/news/lando-norris-launches-new-clothing-collection-ahead-of-united-states-grand-prix/10866798/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
    "date": "2026-10-21"
   },
   {
-   "en": "Oscar Piastri delivers worrying McLaren verdict with six races remaining",
-   "url": "https://www.motorsport.com/f1/news/oscar-piastri-delivers-worrying-mclaren-verdict-with-six-races-remaining/10866598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "en": "Kimi Antonelli reveals down-to-earth habit ahead of potential F1 title win",
+   "url": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-down-to-earth-habit-ahead-of-potential-f1-title-win/10866796/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-10-21"
+  },
+  {
+   "en": "Where to find free F1 fan zones across Austin this week",
+   "url": "https://www.motorsport.com/f1/news/where-to-find-free-f1-fan-zones-across-austin-this-week/10866794/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
    "date": "2026-10-21"
   }
@@ -4357,12 +4357,6 @@
    "ko": "F1 대기만 하는 줄 알았는데... 맥라렌 포르나롤리, 르망에도 나선다",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lZlB2dFRLMWswLXIyTDQ5N0ZuTlpkLUhTYWdEWjhYVXczd1hyaWxYdFlaN2gxUk1aSGd1RTkwQWpIT005eTRESy1qeFM2NHBBbTdYWFRoTWFkdGN2UGVDWm13WVFHdXFhek9LWWhvNWQ?oc=5",
    "src": "오토트리뷴",
-   "date": "2026-10-21"
-  },
-  {
-   "ko": "라이카, 카본 파이버 소재의 'Q3 43 포뮬러 1 에디션' 카메라 공개하며 전속력 질주",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZUUzYk5fV29NVnNrNkhaNDNsR0F1UHJqVi1rUXdvQ3dYOEJsOGM0WURDN0U1QTU4ZDU5clUyUWNESUhwTDhDR2JFZUNIYWNRaTlwRUw5Z0tDeHBDd19ZRTdaUnVpNzlXcmQxX0pKUWdVSTRLdTNhbkpwOHozeTcxaVNTMUI3YVlMR01nTnlXbnUzbGd3TUZMeGNSSGEwdGpNZlVzc1NkWTBxSDRfVTdsS3AwTXd1a05tVG94RXpuVlYtamVJYjlqcU1rVG4?oc=5",
-   "src": "하입비스트",
    "date": "2026-10-21"
   },
   {
@@ -4384,6 +4378,12 @@
    "date": "2026-10-21"
   },
   {
+   "ko": "라이카, 카본 파이버 소재의 'Q3 43 포뮬러 1 에디션' 카메라 공개하며 전속력 질주",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZUUzYk5fV29NVnNrNkhaNDNsR0F1UHJqVi1rUXdvQ3dYOEJsOGM0WURDN0U1QTU4ZDU5clUyUWNESUhwTDhDR2JFZUNIYWNRaTlwRUw5Z0tDeHBDd19ZRTdaUnVpNzlXcmQxX0pKUWdVSTRLdTNhbkpwOHozeTcxaVNTMUI3YVlMR01nTnlXbnUzbGd3TUZMeGNSSGEwdGpNZlVzc1NkWTBxSDRfVTdsS3AwTXd1a05tVG94RXpuVlYtamVJYjlqcU1rVG4?oc=5",
+   "src": "하입비스트",
+   "date": "2026-10-21"
+  },
+  {
    "ko": "No.1 자전거 전문 매거진:굿이어 이글 F1 RS, 완전히 향상된 성능의 3세대 로드 타이어",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84ejctNDYwaXY2VDdzWDBHck13X0tZaGhqXzdJT0hPLUs0UEFZb0NDLXRRWkJPYUdJb2FZUGU1SWlTcVRLQW4xMHd2YmktRjM4Q0pVdGcxaTlseFNjZm8w?oc=5",
    "src": "바이크매거진",
@@ -4402,8 +4402,14 @@
    "date": "2026-10-20"
   },
   {
+   "ko": "모토GP, 2026 F1 제18전 미국 GP서 사상 첫 공식 시범주행",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95TW15T1NBeGhTTHpHT0VTWWYtY2xTMnFBc3R1OWlzTGxzVEhiS05CamY2Vl9oY0RzVVdpUnBWeFRaaEZRY2VWVDJkbXZmOGtsM1BQMkRTQkR3ZEVqazJhTVBxd1ZqS24yMFB3NmVEUQ?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-10-20"
+  },
+  {
    "ko": "슈퍼카 F80 앞세우고 F1 머신까지 총출동... 뉴델리 뒤흔든 페라리 월드",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xd1RmdmVDY0ZJenU4d05FVVB6X19EbzdhNURZYkRWakNUODR6WmlPaHNTa1JWWFI4Qnlzc2NPUHNpX0JSZGhlU3FIOHdnUlYtWG9iYm1GWkhINU9KNUNsRGpiZFhzS1pRWFo4?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEbnlQeW5BdEU0WGRaSWZyN1lySkxGMmNuMUdtNzZPZG1jOVpIa0dzc3RlVVlmeU9oekE0RDAxZXh3cXBVUmRuTTI3RDdudHhKZUZxbEJ5dzg3VFVqendGY3dVUEFRWU45YnFVTlpzdE9Tdw?oc=5",
    "src": "다나와 자동차",
    "date": "2026-10-20"
   },
@@ -4418,12 +4424,6 @@
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kc2xJczZJcVhTbTZBcDcxWnc0LUpOcGRQRDFxUWNKSnJkaG9LX1l0Uy15QzUxbjd3NGVYX2lLZHBrNTBERGJacWotQWVJWjdxNzNkOXU3SnNPbFMyS3NBeWhnVFdxNUFOckHSAW5BVV95cUxNWGZZUlpqQnE1dEd2d1dybFhzTVM3TE5uNkVic0ttVHVUb2RBLUFnYVcyNUh6OS1mZjZoNl92bU1SNS1jVWx5ek1xb2x0TEpyQWZQbXVqcnFNc3dzN1NrOW9HOVpJamh6UndPbXY0dw?oc=5",
    "src": "지피코리아",
    "date": "2026-10-20"
-  },
-  {
-   "ko": "TGR 하스, F1 미국 GP서 고질라 스페셜 리버리 공개",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jQ2JpNEV4NTRTRlRRNEtVT2ozOE1fNkNKaEdDVmdoWV94ejdnbmt1NUsyaUVZVGxpWTVCMFVBc3A0dlkxcnVCYW41LTNBTGtEejduUUZCeGR2QmdnY1VHUlB4U2VXWGhjY2RVVWZhOA?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-10-19"
   }
  ]
 }
