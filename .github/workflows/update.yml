@@ -1,4 +1,4 @@
-name: F1 ������ �ڵ� ����
+name: F1 데이터 자동 갱신
 
 on:
   push:
@@ -8,9 +8,9 @@ on:
       - 'tests/**'
       - '.github/workflows/update.yml'
   schedule:
-    # UTC ���� 3�ð� ����, �Ž� 17�� (�ѱ��ð� 00/03/06/...�� 17��).
+    # UTC 기준 3시간 간격, 매시 17분 (한국시간 00/03/06/...시 17분).
     - cron: '17 */3 * * *'
-  workflow_dispatch:        # ����� Actions �ǿ��� ���� ���� ����
+  workflow_dispatch:        # 저장소 Actions 탭에서 수동 실행 가능
 
 permissions:
   contents: write
@@ -32,25 +32,25 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: ��� ó�� ȸ�� �׽�Ʈ
+      - name: 장애 처리 회귀 테스트
         run: python3 -m unittest discover -s tests -v
 
-      - name: ������ ����
+      - name: 데이터 갱신
         env:
           PYTHONUNBUFFERED: '1'
         run: python3 scripts/update.py
 
-      - name: ����� Ŀ��
+      - name: 변경분 커밋
         run: |
           if ! git diff --quiet -- data/live.json; then
             git config user.name  "f1-bot"
             git config user.email "actions@github.com"
             git add data/live.json
-            git commit -m "chore: F1 ������ �ڵ� ���� ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+            git commit -m "chore: F1 데이터 자동 갱신 ($(date -u '+%Y-%m-%d %H:%M UTC'))"
             git pull --rebase origin main
             git push origin HEAD:main
           else
-            echo "���� ����"
+            echo "변경 없음"
           fi
 
 
