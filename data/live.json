@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23 20:41 KST",
+ "updated": "2026-10-24 02:10 KST",
  "roundsDone": 17,
  "drivers": [
   {
@@ -4268,6 +4268,12 @@
  },
  "news": [
   {
+   "en": "Can Alpine bounce back and take the P5 fight to Racing Bulls?",
+   "url": "https://www.formula1.com/en/latest/article/can-alpine-bounce-back-and-take-the-p5-fight-to-racing-bulls.6PEAFH06BcZUdo2HS4iEFB",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "Crawford set for Mexico City FP1 outing with Aston Martin",
    "url": "https://www.formula1.com/en/latest/article/crawford-set-for-mexico-city-fp1-outing-with-aston-martin.SpGxwvNGILiMifrzBTX7m",
    "src": "Formula1.com",
@@ -4322,12 +4328,6 @@
    "date": ""
   },
   {
-   "en": "Piastri reveals ‘clear sign of progress’ in ‘challenging’ year",
-   "url": "https://www.formula1.com/en/latest/article/piastri-reveals-clear-sign-of-progress-after-challenging-year-for-mclaren.7LvZdSCorwXqhBAJn1M1Pq",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
    "en": "Renault to sell former F1 engine facility in Viry",
    "url": "https://www.autosport.com/f1/news/renault-to-sell-former-f1-engine-facility-in-viry/10867332/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
@@ -4346,13 +4346,19 @@
    "date": "2026-10-23"
   },
   {
-   "en": "George Russell: F1 2026 season a test of \"character and resilience\"",
-   "url": "https://www.motorsport.com/f1/news/russell-f1-2026-season-a-test-of-character-and-resilience/10867173/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "en": "Lewis Hamilton: Kimi Antonelli “deserves to be the champion”",
+   "url": "https://www.motorsport.com/f1/news/lewis-hamilton-kimi-antonelli-deserves-to-be-the-champion/10867431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
    "date": "2026-10-23"
   }
  ],
  "newsKo": [
+  {
+   "ko": "루이스 해밀턴, 아프리카 그랑프리 개최 확정에 F1 커리어 연장 시사",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeEhzREZaWXczNzZUY0JPRTUtOEw4VlU2OV9iSVpXM3RIaFJjN3hTSTVfLW1ydENla3dzUGdQV3ZHaWtpMjlxNVphejVDQnFvU0hicWtLaTEzQnExMzJjZE5kaHMzMmtHNUVLdk5sYTFqZ21MRkpxMTdjNGhnZndNQ1k4VmVGWHFUZjZnTmtPbERJTzlrZ21ROWxWSVcyY2twamJqVUVRWS0?oc=5",
+   "src": "하입비스트",
+   "date": "2026-10-23"
+  },
   {
    "ko": "F1 챔피언 향해 질주하는 키미 안토넬리, 우승 순간 손목에 빛난 IWC",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8weTV2YlIwSFhabUZ5T1ZrVG84Z1dsU0pLT1VYU1JSc2Z1N1RibXM5NGx1VWx1RXQ1SXhYdmVpdmh3dmtnbUQ1VVRCMDcwWUVaN0djNkxQOTlTVUxJN0ZtbGViRGVGdWJzOGI3Vw?oc=5",
@@ -4384,14 +4390,14 @@
    "date": "2026-10-22"
   },
   {
-   "ko": "[2026 F1 서킷 스토리⑱] 오르막·고속 연속 코너·긴 직선의 ‘COTA’",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GRkFTR3hXMmw4S2h5RE5Id2FwVEh6RzNkTXo4bWNHNjhMLVZIUkxIMWN1cWZvb29QaTlHV21QZS1qR080WWhHY1phZ1RsSFcxUWJuS004YjU2ZzBONjhFdndqel9yMTZORk1tMlZCcw?oc=5",
+   "ko": "페라리, F1 미국 GP서 설계에서 경쟁까지 담은 SF-26 특별 리버리 공개",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pZXl3TjM3aVhTZWNMVHVpc0NZMFBaak1URFN1WE9hWXhMQUR6OWhfb1BZUTdPZVVCSkk5d2ZqODhVT3FialJ5VVBVR05uaGRZdDNySnd6OEFFektnTzFUeTJVZlRpZVVZZlFUM1JPdw?oc=5",
    "src": "오토레이싱",
    "date": "2026-10-22"
   },
   {
-   "ko": "페라리, F1 미국 GP서 설계에서 경쟁까지 담은 SF-26 특별 리버리 공개",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pZXl3TjM3aVhTZWNMVHVpc0NZMFBaak1URFN1WE9hWXhMQUR6OWhfb1BZUTdPZVVCSkk5d2ZqODhVT3FialJ5VVBVR05uaGRZdDNySnd6OEFFektnTzFUeTJVZlRpZVVZZlFUM1JPdw?oc=5",
+   "ko": "[2026 F1 서킷 스토리⑱] 오르막·고속 연속 코너·긴 직선의 ‘COTA’",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GRkFTR3hXMmw4S2h5RE5Id2FwVEh6RzNkTXo4bWNHNjhMLVZIUkxIMWN1cWZvb29QaTlHV21QZS1qR080WWhHY1phZ1RsSFcxUWJuS004YjU2ZzBONjhFdndqel9yMTZORk1tMlZCcw?oc=5",
    "src": "오토레이싱",
    "date": "2026-10-22"
   },
@@ -4417,12 +4423,6 @@
    "ko": "F1 대기만 하는 줄 알았는데... 맥라렌 포르나롤리, 르망에도 나선다",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lZlB2dFRLMWswLXIyTDQ5N0ZuTlpkLUhTYWdEWjhYVXczd1hyaWxYdFlaN2gxUk1aSGd1RTkwQWpIT005eTRESy1qeFM2NHBBbTdYWFRoTWFkdGN2UGVDWm13WVFHdXFhek9LWWhvNWQ?oc=5",
    "src": "오토트리뷴",
-   "date": "2026-10-21"
-  },
-  {
-   "ko": "라이카와 F1의 만남, ‘라이카 Q3 43 Formula 1® 에디션’ 출시 정보",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKUHZ6Y1d6QXJ5V0tiRmJ0Ui1EbFRPU3NRNVpGYzBOT2k3ZzEyS3N6R0ljZm9CYkx4bXNST1lyZGlOU0JNUFRVRV9MelBtSklwMTJzNWZ0YTlTbXU4SHBsNmtLZlI4T2NHRlo1dVJTSzlQMEd4TmV6M3pB?oc=5",
-   "src": "아이즈매거진 | eyesmag",
    "date": "2026-10-21"
   }
  ]
