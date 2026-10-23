@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24 02:10 KST",
+ "updated": "2026-10-24 06:25 KST",
  "roundsDone": 17,
  "drivers": [
   {
@@ -4268,6 +4268,30 @@
  },
  "news": [
   {
+   "en": "LIVE COVERAGE: Second practice in the United States",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-second-practice-in-the-united-states-2026.3cC2d5dlTvN0egy2pb11Ko",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Lindblad, Colapinto and Bortoleto to take penalties for US GP",
+   "url": "https://www.formula1.com/en/latest/article/lindblad-colapinto-and-bortoleto-to-take-grid-penalties-for-united-states-grand-prix.4qjn84W4zOmwNXeELFWn0k",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Leclerc fastest in first practice for the United States GP",
+   "url": "https://www.formula1.com/en/latest/article/fp1-leclerc-fastest-in-first-practice-for-the-united-states-gp-ahead-of-verstappen-and-norris.125WlaFK7K1mXXyLgb93ui",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "AS IT HAPPENED: First practice for the United States GP",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-first-practice-in-the-united-states-2026.4RPi7TTxLPbQv2rXIDvFPk",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "Can Alpine bounce back and take the P5 fight to Racing Bulls?",
    "url": "https://www.formula1.com/en/latest/article/can-alpine-bounce-back-and-take-the-p5-fight-to-racing-bulls.6PEAFH06BcZUdo2HS4iEFB",
    "src": "Formula1.com",
@@ -4304,28 +4328,16 @@
    "date": ""
   },
   {
-   "en": "Verstappen backs Mekies' Red Bull contract extension",
-   "url": "https://www.formula1.com/en/latest/article/he-fully-deserves-it-verstappen-backs-mekies-contract-extension-but-wary-of-red-bulls-winning-form-continuing-in-austin.2z5DsziITrRNyz7pVwJzu8",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "The reasons behind Ferrari's US GP upgrades",
+   "url": "https://www.autosport.com/f1/news/the-reasons-behind-ferraris-us-gp-upgrades/10867545/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-10-23"
   },
   {
-   "en": "Leclerc names bigger goal than P2 in Teams’ Championship",
-   "url": "https://www.formula1.com/en/latest/article/leclerc-names-what-would-be-a-much-bigger-satisfaction-than-p2-in-the-teams-championship.1qtcJMCtrJkubAYDMnrKcd",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Ocon: Camara deserves a shot – but I don't deserve to be out",
-   "url": "https://www.formula1.com/en/latest/article/ocon-backs-camaras-f1-promotion-but-insists-i-dont-deserve-to-be-out.568MmK87bzFdFANA2rjpXc",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Hamilton reflects on Singapore mistakes ahead of US GP",
-   "url": "https://www.formula1.com/en/latest/article/hurts-when-i-lose-points-for-the-team-hamilton-reflects-on-singapore-strategy-mistake-ahead-of-united-states-gp.7d91ykgwkTr0bkFBxQr9DQ",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "F1 United States GP: Leclerc beats Verstappen to top FP1 in upgraded Ferrari",
+   "url": "https://www.autosport.com/f1/news/f1-united-states-gp-leclerc-beats-verstappen-to-top-fp1/10867509/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-10-23"
   },
   {
    "en": "Renault to sell former F1 engine facility in Viry",
@@ -4337,18 +4349,6 @@
    "en": "\"It's pretty bad\" – Why Norris needs headache tablets for bumpy Austin circuit",
    "url": "https://www.autosport.com/f1/news/its-pretty-bad-why-norris-needs-headache-tablets-for-bumpy-austin-circuit/10867192/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
-   "date": "2026-10-23"
-  },
-  {
-   "en": "Why it's now Bearman versus Camara for the next Ferrari vacancy",
-   "url": "https://www.autosport.com/f1/news/why-its-now-bearman-versus-camara-for-the-next-ferrari-vacancy/10867288/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-10-23"
-  },
-  {
-   "en": "Lewis Hamilton: Kimi Antonelli “deserves to be the champion”",
-   "url": "https://www.motorsport.com/f1/news/lewis-hamilton-kimi-antonelli-deserves-to-be-the-champion/10867431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
    "date": "2026-10-23"
   }
  ],
@@ -4384,6 +4384,18 @@
    "date": "2026-10-23"
   },
   {
+   "ko": "[2026 F1 제18전 미국 GP FP1] 르클레르 1위, 페르스타펜 0.084초 차 2위",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKYzlQWldWemF4NW42Y3FnZFBPZ21JLUI2SUNLSDJlOFI3Z05MbXZPdmhRRW1WbUM3UmVWSHBKZUktVVJxdzR4YjlUbWhDMGJPRV9wMkl3bXMtUWp1eTNSMzhKWVRRMklzbHFhLXQ4Zw?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-10-23"
+  },
+  {
+   "ko": "라이카와 F1의 만남, ‘라이카 Q3 43 Formula 1® 에디션’ 출시 정보",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKUHZ6Y1d6QXJ5V0tiRmJ0Ui1EbFRPU3NRNVpGYzBOT2k3ZzEyS3N6R0ljZm9CYkx4bXNST1lyZGlOU0JNUFRVRV9MelBtSklwMTJzNWZ0YTlTbXU4SHBsNmtLZlI4T2NHRlo1dVJTSzlQMEd4TmV6M3pB?oc=5",
+   "src": "아이즈매거진 | eyesmag",
+   "date": "2026-10-22"
+  },
+  {
    "ko": "메르세데스 F1, 미국 GP서 W17 ‘마누팍투어’ 특별 리버리 공개",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4M2tCMkhHSWo0Vkd5SmVSMkZHcXFfc2NMMkdaOVVlZkxkRmhsUEhYcmp2SFg5U2FoVUJtb3k2Y3d3bUREZFVGbjhrcWxfUU05R00wb1RZSzlGa19NVDBRUVNTU0tFenNGcXJNS0p1TQ?oc=5",
    "src": "오토레이싱",
@@ -4412,18 +4424,6 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMaW4zakFXbW1DbEIySDVlSWFnSndsSEYwOGFqTG9lYUJ4OWwxdnN6TkFfYnBkRnc1ZE55MEFjOHFmNE5CejcwMS03eXZybVVHOUxfOGR1OG1OenN5bmhIcUFud1JKSDNLYlByXzZYeUY?oc=5",
    "src": "오토트리뷴",
    "date": "2026-10-22"
-  },
-  {
-   "ko": "혼다, F1 제18전 미국 GP서 통산 500경기 출전 기념",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Id2RXSGg5a0RxZm12TU9HVjg1UFVNRmU4UXpRdXVrbi04QmZUUkxhRUlPMVBHaGlwUXYtaTF4eUI4ak1LRDJvOF9VRXE3R3F6Z0s0c2Q1SHlJVnJPUDl0Q2FmSjF6Q0RMZDJuU1E0cw?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-10-21"
-  },
-  {
-   "ko": "F1 대기만 하는 줄 알았는데... 맥라렌 포르나롤리, 르망에도 나선다",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lZlB2dFRLMWswLXIyTDQ5N0ZuTlpkLUhTYWdEWjhYVXczd1hyaWxYdFlaN2gxUk1aSGd1RTkwQWpIT005eTRESy1qeFM2NHBBbTdYWFRoTWFkdGN2UGVDWm13WVFHdXFhek9LWWhvNWQ?oc=5",
-   "src": "오토트리뷴",
-   "date": "2026-10-21"
   }
  ]
 }
