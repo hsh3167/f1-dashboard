@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25 05:51 KST",
+ "updated": "2026-10-25 08:17 KST",
  "roundsDone": 17,
  "drivers": [
   {
@@ -4268,7 +4268,13 @@
  },
  "news": [
   {
-   "en": "LIVE COVERAGE: Qualifying for the United States Grand Prix",
+   "en": "Antonelli seizes pole position for the United States GP",
+   "url": "https://www.formula1.com/en/latest/article/antonelli-seizes-pole-position-ahead-of-verstappen-in-qualifying-at-the-united-states-gp.4xdH4w09GhNDOJdknowRAk",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "AS IT HAPPENED: All the action from Qualifying for the US GP",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-the-united-states-2026.49VaYyfwlL9ih2hFfuf9r5",
    "src": "Formula1.com",
    "date": ""
@@ -4322,10 +4328,10 @@
    "date": ""
   },
   {
-   "en": "Leclerc warns against ‘high expectations’ at US GP",
-   "url": "https://www.formula1.com/en/latest/article/we-need-to-be-careful-leclerc-warns-against-high-expectations-at-united-states-gp.3YLWMX7LEph9Fo3qfBbsQn",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "F1 United States GP: Antonelli beats Verstappen to pole with Russell only sixth",
+   "url": "https://www.autosport.com/f1/news/f1-united-states-gp-antonelli-beats-verstappen-to-pole/10867984/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-10-24"
   },
   {
    "en": "F1 United States GP: Ferrari completes perfect practice record as Hamilton tops FP3",
@@ -4342,12 +4348,6 @@
   {
    "en": "The unexpected issue Honda faced with upgraded F1 power unit",
    "url": "https://www.autosport.com/f1/news/the-unexpected-issue-honda-faced-with-upgraded-f1-power-unit/10867646/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-10-24"
-  },
-  {
-   "en": "Verstappen enjoys promising start to US GP - but Red Bull pinpoints areas of improvement",
-   "url": "https://www.autosport.com/f1/news/red-bull-pinpoints-areas-of-improvement-at-us-gp/10867770/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
    "date": "2026-10-24"
   }
