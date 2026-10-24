@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25 00:59 KST",
+ "updated": "2026-10-25 05:51 KST",
  "roundsDone": 17,
  "drivers": [
   {
@@ -4268,6 +4268,24 @@
  },
  "news": [
   {
+   "en": "LIVE COVERAGE: Qualifying for the United States Grand Prix",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-the-united-states-2026.49VaYyfwlL9ih2hFfuf9r5",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Hamilton goes fastest in final practice for the US GP",
+   "url": "https://www.formula1.com/en/latest/article/fp3-hamilton-goes-fastest-in-final-practice-session-for-the-united-states-gp-ahead-of-verstappen-and-leclerc.1KQ5x8wUAtBETnHxKDNldC",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "AS IT HAPPENED: Third practice in the United States",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-third-practice-in-the-united-states-2026.1BD7GmKj1G3IaUnrRcWI3P",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "Freddie Hunt on his father James’ ‘incredible’ 1976 title",
    "url": "https://www.formula1.com/en/latest/article/f1-icons-freddie-hunt-on-his-father-james-incredible-1976-title-and-legacy.5EtNzEaEXwqcaKCGn2ySzR",
    "src": "Formula1.com",
@@ -4310,22 +4328,10 @@
    "date": ""
   },
   {
-   "en": "Why Norris found it 'very difficult' to maximise the McLaren",
-   "url": "https://www.formula1.com/en/latest/article/why-norris-found-it-very-difficult-to-maximise-the-mclarens-potential-in-austin.2w8uKimVta60U6RKqTTwJd",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Palmowski closes in on title with Opening Race victory",
-   "url": "https://www.formula1.com/en/latest/article/f1-academy-palmowski-closes-in-on-title-with-opening-race-victory-in-austin.3N2UMw9slc62OyhqJox5vH",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Antonelli explains ‘steps forward’ with Mercedes’ upgrades",
-   "url": "https://www.formula1.com/en/latest/article/antonelli-explains-steps-forward-with-mercedes-upgrades-during-free-practice-at-us-gp.2XV6b0WII3eonLYi1DamuL",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "F1 United States GP: Ferrari completes perfect practice record as Hamilton tops FP3",
+   "url": "https://www.autosport.com/f1/news/f1-united-states-gp-hamilton-tops-fp3/10867933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-10-24"
   },
   {
    "en": "The intrigue caused by Cadillac's F1 boss dodging driver market question",
@@ -4343,12 +4349,6 @@
    "en": "Verstappen enjoys promising start to US GP - but Red Bull pinpoints areas of improvement",
    "url": "https://www.autosport.com/f1/news/red-bull-pinpoints-areas-of-improvement-at-us-gp/10867770/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
-   "date": "2026-10-24"
-  },
-  {
-   "en": "Why Cadillac F1 boss provoked fresh intrigue by dodging driver question",
-   "url": "https://www.motorsport.com/f1/news/why-cadillac-f1-boss-provoked-fresh-intrigue-by-dodging-driver-question/10867808/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
    "date": "2026-10-24"
   }
  ],
@@ -4384,6 +4384,12 @@
    "date": "2026-10-23"
   },
   {
+   "ko": "[2026 F1 제18전 미국 GP FP1] 르클레르 1위, 페르스타펜 0.084초 차 2위",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKYzlQWldWemF4NW42Y3FnZFBPZ21JLUI2SUNLSDJlOFI3Z05MbXZPdmhRRW1WbUM3UmVWSHBKZUktVVJxdzR4YjlUbWhDMGJPRV9wMkl3bXMtUWp1eTNSMzhKWVRRMklzbHFhLXQ4Zw?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-10-23"
+  },
+  {
    "ko": "“남들과 같은 벤츠는 싫다면”... 메르세데스벤츠, F1까지 물들인 맞춤 색상",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVTUJMQ1NKU2hEdHRUdzl5a2JaU1FQWkFPZEdfcW1FdXJFV0s4N0NSQVk3cWJ0bXZSekIyNGx1dEJYdjNOc3JYWF9uMjhIT1cxWWJPTzdhaGJwZ0p4cTEtLU1ZYWFCT2RWNnQ3NkpCMG0?oc=5",
    "src": "오토트리뷴",
@@ -4393,12 +4399,6 @@
    "ko": "[F1 인사이트] 오라클·포드가 웃었다…‘랩당 1초’ 좁힌 레드불 2연승의 비밀",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwNENkZ1dsZFR2ZEQ2ZEpjSnBmWXBIaWloMXFFdmlpOEJNYjR1LVpraTBzWG9UMVdqQkxPdEM5QXRwUWQwcmZqdDFibTE5TjgzZ1kwcmFLYUkwRi1kTFRpYlozUTBxLXAzV0HSAW5BVV95cUxQYzFxQkk4d2hrNjlob2hUV2NSeWgwQVdPd2xnaUQ2S2lVZXh4cmdiZHFQeWViY1YzakZiVGMtaFNUbjdLTFBWZUNVLUVoZGc4U0FoRkpLRS1UMUt0X2FjZnR4Zm94Nms0WXVESWZnUQ?oc=5",
    "src": "지피코리아",
-   "date": "2026-10-23"
-  },
-  {
-   "ko": "[2026 F1 제18전 미국 GP FP1] 르클레르 1위, 페르스타펜 0.084초 차 2위",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKYzlQWldWemF4NW42Y3FnZFBPZ21JLUI2SUNLSDJlOFI3Z05MbXZPdmhRRW1WbUM3UmVWSHBKZUktVVJxdzR4YjlUbWhDMGJPRV9wMkl3bXMtUWp1eTNSMzhKWVRRMklzbHFhLXQ4Zw?oc=5",
-   "src": "오토레이싱",
    "date": "2026-10-23"
   },
   {
