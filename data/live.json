@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25 13:43 KST",
+ "updated": "2026-10-25 20:33 KST",
  "roundsDone": 17,
  "drivers": [
   {
@@ -4268,6 +4268,12 @@
  },
  "news": [
   {
+   "en": "Why F1 fans should avoid emotional bets in Austin",
+   "url": "https://www.formula1.com/en/latest/article/why-f1-fans-should-avoid-emotional-betting-during-the-united-states-grand-prix-in-austin.6oUesBvtInjTBO6UhiEGu8",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "How Lawson helped Lindblad by sacrificing his Q3 run",
    "url": "https://www.formula1.com/en/latest/article/how-lawson-helped-racing-bulls-team-mate-lindblad-by-sacrificing-his-q3-run.dTI59a1UDuyke2gc1RC7b",
    "src": "Formula1.com",
@@ -4316,21 +4322,21 @@
    "date": ""
   },
   {
-   "en": "Russell reflects on Austin Qualifying struggles",
-   "url": "https://www.formula1.com/en/latest/article/russell-reflects-on-austin-qualifying-struggles-after-one-slide-led-to-a-snowball.rAYr78wrhqMG7GJfIca7R",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Bemused Wolff celebrates Antonelli’s ‘miracle lap’ in the US",
-   "url": "https://www.formula1.com/en/latest/article/bemused-wolff-celebrates-antonellis-miracle-lap-in-qualifying-at-the-united-states-gp.16Hhn5cueHlsfCdfY62pka",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "Verstappen responds to COTA boss and proposes drastic measures to tackle bumps",
+   "url": "https://www.autosport.com/f1/news/max-verstappen-responds-to-cota-boss-he-can-drive-my-car-after-five-laps-he-wont-be-able-to-walk/10868204/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-10-25"
   },
   {
    "en": "Antonelli pole shows Mercedes is 'finally seeing the results' of car upgrades",
    "url": "https://www.autosport.com/f1/news/antonelli-pole-shows-mercedes-is-seeing-results-of-car-upgrades/10868072/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
+   "date": "2026-10-25"
+  },
+  {
+   "en": "Max Verstappen reacts to COTA boss: \"He can drive my car, after five laps he won't be able to walk\"",
+   "url": "https://www.motorsport.com/f1/news/max-verstappen-reacts-to-cota-boss-he-can-drive-my-car-after-five-laps-he-wont-be-able-to-walk/10868080/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
    "date": "2026-10-25"
   },
   {
@@ -4344,15 +4350,15 @@
    "url": "https://www.motorsport.com/f1/news/alpine-issues-statement-after-jeremy-clarksons-controversial-franco-colapinto-comments/10868082/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
    "date": "2026-10-25"
-  },
-  {
-   "en": "George Russell calls for F1 rethink as cars are “forced to run so low and so stiff”",
-   "url": "https://www.motorsport.com/f1/news/george-russell-calls-for-f1-rethink-as-cars-are-forced-to-run-so-low-and-so-stiff/10868060/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-10-25"
   }
  ],
  "newsKo": [
+  {
+   "ko": "[2026 F1 제18전 미국 GP 예선 공식 기자회견] 안토넬리 “첫 코너까지 1위 지키겠다”",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TY1JOT2hBbGYzYXhMLTdFUXhsLWxCYU5lYVRWT3lob3dIX2hNOTZ2Tk0xckhtTlpyUVRoVEhUTTdOdkdVU2RHWDJlWTRmeFlLR1JoQ0J0aXpZSXhEUnAzYXBaQXpQTTZiWENGXzcwMA?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-10-25"
+  },
   {
    "ko": "[2026 F1 제18전 미국 GP QR] 안토넬리 시즌 7번째 폴",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TWERGeEVadGFqdUhwWVZUd0ZYSEVla25lWjlFdUk4dF9ySF84VDZuNFJPcUVJZVJMSzZJYnQ5dVN4dnM1NU1XZndaeGRvcVVGWHNfYlNlejZNWFpHQ3pXQ1RBdk15U1IwQnFpeWlzYw?oc=5",
@@ -4367,8 +4373,8 @@
   },
   {
    "ko": "안토넬리, F1 미국GP 예선 폴포지션…시즌 7번째·챔피언 눈앞",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sWkRKa3BFZ3JEYUxBQWtUQXUtQWRvSnlPQzhPZURxWUUtdmxwTXdpcHFKclpBOUQzQWg0VWpWZDhfazhxWTdsREFFTHlxRzNRTlRNSmNOSlJGVDcwNjVReHUzYXBaNHhTbUHSAW5BVV95cUxQSXNFWmdxSVp4alB3b1BzUFFLSmZweFR1b3h3ZThsdUZLSnlYWGV2S3JuQ1IybUo4U0t1UjluaTBYRW44eGZRYmE5WkQxLVpleXItWjJDaHlONnQtVjREWnBTWFUzaS1rZE41aU84dw?oc=5",
-   "src": "지피코리아",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBNSFZJa29DNXRoRU5WVGR0UTVtLXRZMng2X3RSeVVSZmNBVEY2U3NVT3hyMk5Cc2ZidWZra21qOGx1OWFVdVE?oc=5",
+   "src": "Daum",
    "date": "2026-10-24"
   },
   {
@@ -4408,22 +4414,16 @@
    "date": "2026-10-23"
   },
   {
-   "ko": "[2026 F1 제18전 미국 GP FP1] 르클레르 1위, 페르스타펜 0.084초 차 2위",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKYzlQWldWemF4NW42Y3FnZFBPZ21JLUI2SUNLSDJlOFI3Z05MbXZPdmhRRW1WbUM3UmVWSHBKZUktVVJxdzR4YjlUbWhDMGJPRV9wMkl3bXMtUWp1eTNSMzhKWVRRMklzbHFhLXQ4Zw?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-10-23"
-  },
-  {
    "ko": "[F1 인사이트] 오라클·포드가 웃었다…‘랩당 1초’ 좁힌 레드불 2연승의 비밀",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwNENkZ1dsZFR2ZEQ2ZEpjSnBmWXBIaWloMXFFdmlpOEJNYjR1LVpraTBzWG9UMVdqQkxPdEM5QXRwUWQwcmZqdDFibTE5TjgzZ1kwcmFLYUkwRi1kTFRpYlozUTBxLXAzV0HSAW5BVV95cUxQYzFxQkk4d2hrNjlob2hUV2NSeWgwQVdPd2xnaUQ2S2lVZXh4cmdiZHFQeWViY1YzakZiVGMtaFNUbjdLTFBWZUNVLUVoZGc4U0FoRkpLRS1UMUt0X2FjZnR4Zm94Nms0WXVESWZnUQ?oc=5",
    "src": "지피코리아",
    "date": "2026-10-23"
   },
   {
-   "ko": "라이카와 F1의 만남, ‘라이카 Q3 43 Formula 1® 에디션’ 출시 정보",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKUHZ6Y1d6QXJ5V0tiRmJ0Ui1EbFRPU3NRNVpGYzBOT2k3ZzEyS3N6R0ljZm9CYkx4bXNST1lyZGlOU0JNUFRVRV9MelBtSklwMTJzNWZ0YTlTbXU4SHBsNmtLZlI4T2NHRlo1dVJTSzlQMEd4TmV6M3pB?oc=5",
-   "src": "아이즈매거진 | eyesmag",
-   "date": "2026-10-22"
+   "ko": "[2026 F1 제18전 미국 GP FP1] 르클레르 1위, 페르스타펜 0.084초 차 2위",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKYzlQWldWemF4NW42Y3FnZFBPZ21JLUI2SUNLSDJlOFI3Z05MbXZPdmhRRW1WbUM3UmVWSHBKZUktVVJxdzR4YjlUbWhDMGJPRV9wMkl3bXMtUWp1eTNSMzhKWVRRMklzbHFhLXQ4Zw?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-10-23"
   }
  ]
 }
