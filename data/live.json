@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-26 05:53 KST",
- "roundsDone": 17,
+ "updated": "2026-10-26 08:17 KST",
+ "roundsDone": 18,
  "drivers": [
   {
    "id": "antonelli",
@@ -11,9 +11,9 @@
    "dob": "2006-08-25",
    "team": "mercedes",
    "pos": 1,
-   "pts": 340,
-   "wins": 8,
-   "podiums": 14,
+   "pts": 365,
+   "wins": 9,
+   "podiums": 15,
    "best": 1,
    "ko": "안드레아 키미 안토넬리",
    "nat": "이탈리아",
@@ -29,7 +29,7 @@
    "dob": "1998-02-15",
    "team": "mercedes",
    "pos": 2,
-   "pts": 238,
+   "pts": 242,
    "wins": 3,
    "podiums": 8,
    "best": 1,
@@ -47,7 +47,7 @@
    "dob": "1985-01-07",
    "team": "ferrari",
    "pos": 3,
-   "pts": 229,
+   "pts": 241,
    "wins": 1,
    "podiums": 6,
    "best": 1,
@@ -65,9 +65,9 @@
    "dob": "1997-09-30",
    "team": "red_bull",
    "pos": 4,
-   "pts": 221,
+   "pts": 236,
    "wins": 2,
-   "podiums": 9,
+   "podiums": 10,
    "best": 1,
    "ko": "막스 페르스타펜",
    "nat": "네덜란드",
@@ -83,9 +83,9 @@
    "dob": "1997-10-16",
    "team": "ferrari",
    "pos": 5,
-   "pts": 215,
+   "pts": 233,
    "wins": 1,
-   "podiums": 5,
+   "podiums": 6,
    "best": 1,
    "ko": "샤를 르클레르",
    "nat": "모나코",
@@ -101,7 +101,7 @@
    "dob": "1999-11-13",
    "team": "mclaren",
    "pos": 6,
-   "pts": 201,
+   "pts": 211,
    "wins": 2,
    "podiums": 5,
    "best": 1,
@@ -119,7 +119,7 @@
    "dob": "2001-04-06",
    "team": "mclaren",
    "pos": 7,
-   "pts": 138,
+   "pts": 144,
    "wins": 0,
    "podiums": 2,
    "best": 2,
@@ -137,7 +137,7 @@
    "dob": "2004-09-28",
    "team": "red_bull",
    "pos": 8,
-   "pts": 97,
+   "pts": 105,
    "wins": 0,
    "podiums": 2,
    "best": 3,
@@ -155,7 +155,7 @@
    "dob": "2002-02-11",
    "team": "red_bull",
    "pos": 9,
-   "pts": 75,
+   "pts": 77,
    "wins": 0,
    "podiums": 0,
    "best": 5,
@@ -173,7 +173,7 @@
    "dob": "1996-02-07",
    "team": "alpine",
    "pos": 10,
-   "pts": 41,
+   "pts": 42,
    "wins": 0,
    "podiums": 0,
    "best": 6,
@@ -421,37 +421,37 @@
   {
    "id": "mercedes",
    "pos": 1,
-   "pts": 578,
-   "wins": 11
+   "pts": 607,
+   "wins": 12
   },
   {
    "id": "ferrari",
    "pos": 2,
-   "pts": 444,
-   "wins": 2
-  },
-  {
-   "id": "mclaren",
-   "pos": 3,
-   "pts": 339,
+   "pts": 474,
    "wins": 2
   },
   {
    "id": "red_bull",
+   "pos": 3,
+   "pts": 355,
+   "wins": 2
+  },
+  {
+   "id": "mclaren",
    "pos": 4,
-   "pts": 332,
+   "pts": 355,
    "wins": 2
   },
   {
    "id": "rb",
    "pos": 5,
-   "pts": 100,
+   "pts": 102,
    "wins": 0
   },
   {
    "id": "alpine",
    "pos": 6,
-   "pts": 68,
+   "pts": 69,
    "wins": 0
   },
   {
@@ -502,13 +502,14 @@
   "14": "antonelli",
   "15": "russell",
   "16": "verstappen",
-  "17": "verstappen"
+  "17": "verstappen",
+  "18": "antonelli"
  },
  "podium": {
-  "17": [
-   "verstappen",
+  "18": [
+   "antonelli",
    "leclerc",
-   "antonelli"
+   "verstappen"
   ]
  },
  "results": {
@@ -3163,6 +3164,162 @@
     "pts": 0,
     "t": "Retired"
    }
+  ],
+  "18": [
+   {
+    "p": 1,
+    "d": "antonelli",
+    "g": 1,
+    "pts": 25,
+    "t": "1:35:16.650"
+   },
+   {
+    "p": 2,
+    "d": "leclerc",
+    "g": 4,
+    "pts": 18,
+    "t": "+13.078"
+   },
+   {
+    "p": 3,
+    "d": "verstappen",
+    "g": 2,
+    "pts": 15,
+    "t": "+17.485"
+   },
+   {
+    "p": 4,
+    "d": "hamilton",
+    "g": 5,
+    "pts": 12,
+    "t": "+18.515"
+   },
+   {
+    "p": 5,
+    "d": "norris",
+    "g": 8,
+    "pts": 10,
+    "t": "+30.521"
+   },
+   {
+    "p": 6,
+    "d": "hadjar",
+    "g": 3,
+    "pts": 8,
+    "t": "+34.373"
+   },
+   {
+    "p": 7,
+    "d": "piastri",
+    "g": 7,
+    "pts": 6,
+    "t": "+52.674"
+   },
+   {
+    "p": 8,
+    "d": "russell",
+    "g": 6,
+    "pts": 4,
+    "t": "+54.303"
+   },
+   {
+    "p": 9,
+    "d": "lawson",
+    "g": 9,
+    "pts": 2,
+    "t": "+1:19.183"
+   },
+   {
+    "p": 10,
+    "d": "gasly",
+    "g": 10,
+    "pts": 1,
+    "t": "+1:27.516"
+   },
+   {
+    "p": 11,
+    "d": "hulkenberg",
+    "g": 11,
+    "pts": 0,
+    "t": "+1:34.945"
+   },
+   {
+    "p": 12,
+    "d": "lindblad",
+    "g": 14,
+    "pts": 0,
+    "t": "+6.344"
+   },
+   {
+    "p": 13,
+    "d": "bortoleto",
+    "g": 21,
+    "pts": 0,
+    "t": "+14.197"
+   },
+   {
+    "p": 14,
+    "d": "ocon",
+    "g": 15,
+    "pts": 0,
+    "t": "+21.042"
+   },
+   {
+    "p": 15,
+    "d": "stroll",
+    "g": 22,
+    "pts": 0,
+    "t": "+49.418"
+   },
+   {
+    "p": 16,
+    "d": "alonso",
+    "g": 12,
+    "pts": 0,
+    "t": "+1:00.668"
+   },
+   {
+    "p": 17,
+    "d": "albon",
+    "g": 17,
+    "pts": 0,
+    "t": "+1:02.176"
+   },
+   {
+    "p": 18,
+    "d": "sainz",
+    "g": 16,
+    "pts": 0,
+    "t": "+1:02.835"
+   },
+   {
+    "p": 19,
+    "d": "perez",
+    "g": 18,
+    "pts": 0,
+    "t": "+1:22.809"
+   },
+   {
+    "p": 20,
+    "d": "bottas",
+    "g": 19,
+    "pts": 0,
+    "t": "Retired"
+   },
+   {
+    "p": 21,
+    "d": "colapinto",
+    "g": 20,
+    "pts": 0,
+    "t": "Retired"
+   },
+   {
+    "p": 22,
+    "d": "bearman",
+    "g": 13,
+    "pts": 0,
+    "t": "Retired"
+   }
   ]
  },
  "sprints": {
@@ -4268,6 +4425,30 @@
  },
  "news": [
   {
+   "en": "Russell at a loss to explain United States GP struggles",
+   "url": "https://www.formula1.com/en/latest/article/russell-at-a-loss-to-explain-united-states-gp-struggles-as-mercedes-man-finishes-in-p8.4RRUvKCTx9siOaCCBh4xah",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Antonelli hoping to win title ‘very soon’ after ‘perfect’ US GP",
+   "url": "https://www.formula1.com/en/latest/article/it-was-the-result-we-needed-antonelli-hoping-to-win-title-very-soon-after-perfect-us-gp.3pukItI57EWP9AtzrExMek",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Leclerc your US GP Driver of the Day after fighting drive to P2",
+   "url": "https://www.formula1.com/en/latest/article/driver-of-the-day-leclerc-gets-your-vote-after-beating-verstappen-to-p2-in-austin.57AHVRNPHJYOuZFT4cjZPy",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Antonelli surges to dominant victory in United States GP",
+   "url": "https://www.formula1.com/en/latest/article/antonelli-surges-to-dominant-victory-in-united-states-grand-prix-ahead-of-leclerc-and-verstappen.6kmBQv9FNTW7LzkDj8S34j",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "Gademan grabs second win with assured Austin drive",
    "url": "https://www.formula1.com/en/latest/article/f1-academy-gademan-seizes-second-victory-of-the-season-with-assured-austin-drive.q6wyvoFDYd1YGnleJKDGu",
    "src": "Formula1.com",
@@ -4280,7 +4461,7 @@
    "date": ""
   },
   {
-   "en": "LIVE COVERAGE: Antonelli leads the field in United States GP",
+   "en": "LIVE COVERAGE: Antonelli wins United States GP in Austin",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-msc-cruises-united-states-grand-prix-2026.62QsaPaMCCAdaEfWYAmuGL",
    "src": "Formula1.com",
    "date": ""
@@ -4292,28 +4473,16 @@
    "date": ""
   },
   {
-   "en": "Why F1 fans should avoid emotional bets in Austin",
-   "url": "https://www.formula1.com/en/latest/article/why-f1-fans-should-avoid-emotional-betting-during-the-united-states-grand-prix-in-austin.6oUesBvtInjTBO6UhiEGu8",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "The maths behind Antonelli becoming F1 world champion at Mexico GP",
+   "url": "https://www.autosport.com/f1/news/the-maths-behind-antonelli-becoming-f1-world-champion-at-mexico-gp/10868378/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-10-25"
   },
   {
-   "en": "How Lawson helped Lindblad by sacrificing his Q3 run",
-   "url": "https://www.formula1.com/en/latest/article/how-lawson-helped-racing-bulls-team-mate-lindblad-by-sacrificing-his-q3-run.dTI59a1UDuyke2gc1RC7b",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "‘We can’t fix core problems' – Albon on Williams' Qualifying",
-   "url": "https://www.formula1.com/en/latest/article/we-cant-fix-core-problems-albon-delivers-honest-verdict-after-challenging-qualifying-for-williams-in-austin.LO31B2xewgPJfUt5kSgoB",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Palmowski crowned 2026 champion as Larsen takes maiden victory",
-   "url": "https://www.formula1.com/en/latest/article/f1-academy-palmowski-crowned-2026-champion-as-larsen-takes-maiden-victory-in-austin.4AiAv0y5slEikwSUxzQuX4",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "F1 United States GP: Antonelli dominates from pole - but forced to wait for title",
+   "url": "https://www.autosport.com/f1/news/f1-united-states-gp-antonelli-wins/10868343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-10-25"
   },
   {
    "en": "Inside COTA's Turn 1 clubhouse and its plans to build a second track",
@@ -4338,18 +4507,6 @@
    "url": "https://www.autosport.com/f1/news/antonelli-pole-shows-mercedes-is-seeing-results-of-car-upgrades/10868072/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
    "date": "2026-10-25"
-  },
-  {
-   "en": "Toto Wolff gets brutally honest about spotting F1 talent and why prodigies wash out",
-   "url": "https://www.motorsport.com/f1/news/toto-wolff-gets-brutally-honest-about-spotting-f1-talent-and-why-prodigies-wash-out/10868224/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-10-25"
-  },
-  {
-   "en": "Charles Leclerc reacts to Ferrari fear: 'We know what line not to cross'",
-   "url": "https://www.motorsport.com/f1/news/charles-leclerc-reacts-to-ferrari-fear-we-know-what-the-line-is-not-to-cross/10868297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-10-25"
   }
  ],
  "newsKo": [
@@ -4366,6 +4523,18 @@
    "date": "2026-10-25"
   },
   {
+   "ko": "\"F1 세계 1위가 주차 사고라니!\" 20세 천재 드라이버의 황당 실수... 후진하다 울타리 '쾅'",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJNGZucm52OXRiX2xBbFhYTUsxZGJHU1lMSVhqT1hDeS02am5TczNwcWtxT01RUDJWc2w4Zkl1SzJzd0ZPT3MzY1dMelNBYk5NSDFCTFY3U1FfR21ERTczeDRGS3kxeWxIdmNqcU1YcnFaSTJYTmc?oc=5",
+   "src": "스타뉴스",
+   "date": "2026-10-25"
+  },
+  {
+   "ko": "미국 오스틴 델 발레 독립교육구 교육재단, ‘F1® 올윈 글로벌 커뮤니티 어워드’ 수상… 학생 1만2000명의 STEM 분야 진로 개발 지원 확대",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wbkxKS19saWlVaTBGN0dqR0hfdHBBcGI2TTRBd3NhZmswRmk3Z1Vmdzk3Y1R2T3Q2VUpGLUJrekszT3hBa05JVnRtaWFfMXFtRFE?oc=5",
+   "src": "AI경기방송",
+   "date": "2026-10-25"
+  },
+  {
    "ko": "[2026 F1 제18전 미국 GP QR] 안토넬리 시즌 7번째 폴",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TWERGeEVadGFqdUhwWVZUd0ZYSEVla25lWjlFdUk4dF9ySF84VDZuNFJPcUVJZVJMSzZJYnQ5dVN4dnM1NU1XZndaeGRvcVVGWHNfYlNlejZNWFpHQ3pXQ1RBdk15U1IwQnFpeWlzYw?oc=5",
    "src": "오토레이싱",
@@ -4378,15 +4547,15 @@
    "date": "2026-10-25"
   },
   {
+   "ko": "키미 안토넬리, F1 미국 GP 우승",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JM195RE1uTF8zb2FhZGpaVlp2NnlVT25xQ2FBS3RXUmpkdzRPZmUyRHpISlBHUVFFX0Rsb09iX1VDdVBpZ0RVaUdMQjlTaFNOS3diQlluV0FaVGZVQTRvM3R2NFJTcks5WTllRlpB?oc=5",
+   "src": "이투데이",
+   "date": "2026-10-25"
+  },
+  {
    "ko": "안토넬리, F1 미국GP 예선 폴포지션…시즌 7번째·챔피언 눈앞",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwcERKZ0dxSUl3aXlFRnZNTzdXWnFzYXB5amtIbnE5X09MUkR0WjZNVE8wQl9vWGV6ckU2NEp5M2pvekJOald5dUJ6cw?oc=5",
    "src": "Daum",
-   "date": "2026-10-24"
-  },
-  {
-   "ko": "키미 안토넬리는 F1 챔피언십을 목표로 미국에서 폴 포지션을 확보했습니다.",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeDBzeWRkN3ZPeW5oSmpyQWFIRzVJdTZ5X1VsbFBfUjc5OVBvQWhTMW1aX3dSWnZjT1dCeWwtV2xVRnhBczZ0eEQ3UnNfa3ZkaThFSDFXRXdWWGhkekwxdnF3NERvTTZMdGlNc005bWJQS0xxaGJObmctZUQ3T3ZNdGwwVlBSMjVXMzc1Ug?oc=5",
-   "src": "Vietnam.vn",
    "date": "2026-10-24"
   },
   {
@@ -4408,21 +4577,9 @@
    "date": "2026-10-23"
   },
   {
-   "ko": "[심층분석] 해밀턴의 '2030년대 초' 목표와 포뮬러원의 아프리카 공략",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fZUVyNGZ4Y0dENnlpV3ZSMGpnODFieDV3TVRNb09DR2RVS19FZ0NacVJKM2xheTlNcFMxQkdFamU4Y091UTRaYlJRNWttakJEcTcxTWZjWWJvVFE?oc=5",
-   "src": "데일리연합",
-   "date": "2026-10-23"
-  },
-  {
    "ko": "포뮬러 1가 Apple의 광고 사업에 활력을 불어넣고 있다",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbGh6LW9EbFRJa0o2OHZDajQ2MGtrYUptM3JPTlVodzlPMjhVT3JSUjJzLTNXVFBsbTNNblNqZjQ5YkI3RmlQYXJqOTloVzJ3VGNHLTVTdjBtNHc3cHBzcDVQMVFhU2NaNEFrUF8wX1B6NTNEYUplYWdXQzR0NzZxZnprLURjS1BfQl9tblBR?oc=5",
    "src": "Mezha.net",
-   "date": "2026-10-23"
-  },
-  {
-   "ko": "[2026 F1 제18전 미국 GP FP1] 르클레르 1위, 페르스타펜 0.084초 차 2위",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKYzlQWldWemF4NW42Y3FnZFBPZ21JLUI2SUNLSDJlOFI3Z05MbXZPdmhRRW1WbUM3UmVWSHBKZUktVVJxdzR4YjlUbWhDMGJPRV9wMkl3bXMtUWp1eTNSMzhKWVRRMklzbHFhLXQ4Zw?oc=5",
-   "src": "오토레이싱",
    "date": "2026-10-23"
   }
  ]
