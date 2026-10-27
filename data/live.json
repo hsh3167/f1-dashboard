@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27 05:29 KST",
+ "updated": "2026-10-27 09:26 KST",
  "roundsDone": 18,
  "drivers": [
   {
@@ -4425,6 +4425,12 @@
  },
  "news": [
   {
+   "en": "Second place battle intensifies as Antonelli nears title",
+   "url": "https://www.formula1.com/en/latest/article/attention-turns-to-the-race-for-second-place-as-kimi-antonelli-closes-in-on-title-success.4UFMy0lQi5bRt1lBhZLgDG",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "Russell struggling with 'difficult' operating window – Wolff",
    "url": "https://www.formula1.com/en/latest/article/we-just-have-to-work-it-out-with-him-wolff-admits-russell-struggling-to-find-operating-window-for-mercedes-w17.6pbdYv34V9nrlo6P0EoJQQ",
    "src": "Formula1.com",
@@ -4473,18 +4479,6 @@
    "date": ""
   },
   {
-   "en": "All the key moments from the 2026 United States Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/austin-lowdown-all-the-key-moments-as-antonelli-dominates-to-edge-towards-title.4HFlGYh5oSLacvlbJEIa1y",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Hamilton singles out his ‘biggest issue’ in US GP",
-   "url": "https://www.formula1.com/en/latest/article/hamilton-singles-out-his-biggest-issue-in-united-states-gp-with-leclerc-optimistic-after-podium.5mv33bCKbMzoECWZ6JqTBD",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
    "en": "Why being \"very adaptive\" gave Norris the edge over Piastri at US GP",
    "url": "https://www.autosport.com/f1/news/why-being-very-adaptive-gave-norris-edge-over-piastri-at-us-gp/10868691/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
@@ -4503,13 +4497,25 @@
    "date": "2026-10-26"
   },
   {
-   "en": "David Coulthard rejects F1 regulation excuses with Ayrton Senna and Michael Schumacher comparison",
-   "url": "https://www.motorsport.com/f1/news/david-coulthard-rejects-f1-regulation-excuses-with-ayrton-senna-and-michael-schumacher-comparison/10868708/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "en": "Naomi Schiff warns Red Bull over \"knife's edge\" F1 car after US GP struggles",
+   "url": "https://www.motorsport.com/f1/news/naomi-schiff-warns-red-bull-over-knifes-edge-f1-car-after-us-gp-struggles/10868723/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-10-26"
+  },
+  {
+   "en": "Fred Vasseur reveals two costly moments that denied Ferrari US GP double podium",
+   "url": "https://www.motorsport.com/f1/news/fred-vasseur-blames-a-q3-disaster-and-a-broken-cadillac-for-robbing-ferrari-of-a-us-gp-win/10868569/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
    "date": "2026-10-26"
   }
  ],
  "newsKo": [
+  {
+   "ko": "에어월렉스, 맥라렌 F1팀과 협력 연장…AI 금융 기술 지원 확대",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BWWgyMWRCaDhNTV9BaVoxU1N3RzZQN013Q3Vna2hPQlhpRE84YWQxTkd2WnR6bGE4ZERsd2ZaNjh5QnZXRE9yeEV2VzFoT1JpOUVaSGVJbFd4SmZsV1dEcVhPVVc?oc=5",
+   "src": "서울경제TV",
+   "date": "2026-10-27"
+  },
   {
    "ko": "메르세데스 안토넬리, 美 F1 그랑프리 우승…시즌 9승 달성",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BcEJqOFIyX3FOV3RZTDloZGhsV1A1aFRUdUVBVmh2TVBtMkdKY1RlRFV6enJoakJtZlZVdC1JdmdXMjhzOW9QV3Y5X2ExdlBqOTRxWXI4ZjJGSjljWDJKbEU2akY?oc=5",
@@ -4565,21 +4571,15 @@
    "date": "2026-10-26"
   },
   {
+   "ko": "맥라렌 F1, 첫 공식 AI 금융 파트너로 에어월렉스 선정…2027년 협력 확대",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8ta0FidGhjMnlucU9uMW9jNDBsTk94X0E0R2dnRFdWM3hob2pmLWR4Q0JNU0tCUTRMMThKOXJ2SmpsT09iMWVOOE1icHVxeVktcXpYM01fdm5YTXJLWEw3SDFwMDhmUUJWbW5ONQ?oc=5",
+   "src": "뉴스탭",
+   "date": "2026-10-26"
+  },
+  {
    "ko": "[2026 F1 제18전 미국 GP 결선] A. 안토넬리 시즌 9승, 챔피언에 성큼",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VdVJIYUI5U3JYb1k2NzB2dlM4NjYxeDV5djNXbVZDTzh4X0VmQVRwNjFOcXBVTURhcThGOFdiWWtZN3oyZ2pkeFlMNm5GbWtrcE9sbmlZdkFEbTRZeXd5N2tlRHlnbkp0TElOeHNscw?oc=5",
    "src": "오토레이싱",
-   "date": "2026-10-26"
-  },
-  {
-   "ko": "F1 레드불, 오라클 클라우드로 160억 번 달린다",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Pa0dHMTFLaVJaeUdhWlVhUTUxMnEyLTE3b0owNzFmQmJOMWpVMmZIY3RETDlpVzkzbU9mQTJFT1BIR0dfVkh6NmhuUkFfcGhSQUZUNG1R?oc=5",
-   "src": "지디넷코리아",
-   "date": "2026-10-26"
-  },
-  {
-   "ko": "[오라클AI월드] F1 레드불·세일GP, OCI로 레이스 전략 짠다…경기 운영 전반에 AI 적용",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WbEluUUlOb052a1V6ME1QVW4xazZhRzhiOUJhUzF6UTdrN3lPRXlfTmt2VmdLaW5JY3BXT3JPM1BQVkJmZFVXZDhBQlQtZ2ZQbnowWWMzZjkzd21zRUdzTlU4ZUM?oc=5",
-   "src": "디지털데일리",
    "date": "2026-10-26"
   }
  ]
