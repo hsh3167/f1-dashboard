@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28 14:44 KST",
+ "updated": "2026-10-28 21:57 KST",
  "roundsDone": 18,
  "drivers": [
   {
@@ -4425,6 +4425,24 @@
  },
  "news": [
   {
+   "en": "Ricciardo opens up on the ‘humiliation’ he felt amid F1 exit",
+   "url": "https://www.formula1.com/en/latest/article/ricciardo-explains-how-he-converted-humiliation-into-feeling-proud-following-his-f1-exit.10kNySRo1gU5H2e59aN8qR",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "The 5 drivers most likely to qualify fastest in Mexico",
+   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-who-are-most-likely-to-qualify-fastest-in-mexico-city.1t7oVE9TBWLG7srsEAA0Bh",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "What went into Ferrari's upgrade package in the US?",
+   "url": "https://www.formula1.com/en/latest/article/what-went-into-ferraris-latest-upgrade-package-in-the-united-states.3I72X1Dos3Nty2sNxMfDD4",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "The 5 drivers most likely to win in Mexico",
    "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-mexico-city-grand-prix-according-to-the-betting-markets.32ZVgQbihx4vuZDR1iAHkQ",
    "src": "Formula1.com",
@@ -4461,52 +4479,34 @@
    "date": ""
   },
   {
-   "en": "'More than a bad start' cost Audi after another P11 finish",
-   "url": "https://www.formula1.com/en/latest/article/more-than-a-bad-start-cost-audi-in-austin-as-hulkenberg-returns-another-p11-finish.7iLbqYhxXCxyg6VgvzN23w",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Second place battle intensifies as Antonelli nears title",
-   "url": "https://www.formula1.com/en/latest/article/attention-turns-to-the-race-for-second-place-as-kimi-antonelli-closes-in-on-title-success.4UFMy0lQi5bRt1lBhZLgDG",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Max Verstappen admits Red Bull was “just a little average” in Austin",
-   "url": "https://www.motorsport.com/f1/news/max-verstappen-admits-red-bull-was-just-a-little-average-in-austin/10868963/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-10-28"
-  },
-  {
-   "en": "Toto Wolff reveals how Williams' surprise victory helped him secure Mercedes role",
-   "url": "https://www.motorsport.com/f1/news/toto-wolff-reveals-how-williams-surprise-victory-helped-him-secure-mercedes-role/10868959/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-10-28"
-  },
-  {
-   "en": "George Russell F1 title chances defended by Toto Wolff after Helmut Marko comments",
-   "url": "https://www.motorsport.com/f1/news/george-russell-f1-title-chances-defended-by-toto-wolff-after-helmut-marko-comments/10868961/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-10-28"
-  },
-  {
-   "en": "Helmut Marko invests in AI start-up after Red Bull F1 exit",
-   "url": "https://www.motorsport.com/f1/news/helmut-marko-invests-in-ai-start-up-after-red-bull-f1-exit/10868955/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-10-28"
-  },
-  {
-   "en": "Red Bull responds to Aston Martin F1 power unit rumours",
-   "url": "https://www.motorsport.com/f1/news/red-bull-responds-to-aston-martin-f1-power-unit-rumours/10868957/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-10-28"
-  },
-  {
-   "en": "Mercedes has a Russell-sized problem and it is sharing responsibility",
-   "url": "https://www.autosport.com/f1/news/mercedes-has-a-russell-sized-problem-and-it-is-sharing-responsibility/10868909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "en": "The unusual Aston Martin, Honda and Red Bull Powertrains rumours put into perspective",
+   "url": "https://www.autosport.com/f1/news/why-aston-martin-and-red-bull-were-asked-about-an-unlikely-f1-engine-partnership/10869017/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
-   "date": "2026-10-27"
+   "date": "2026-10-28"
+  },
+  {
+   "en": "FIA announces new partnership to help drive future F1 regulations",
+   "url": "https://www.autosport.com/f1/news/fia-announces-new-partnership-to-help-drive-future-f1-regulations/10868916/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-10-28"
+  },
+  {
+   "en": "Yet another DNF for Cadillac’s Valtteri Bottas: ‘Sometimes we don’t quite understand it’",
+   "url": "https://www.motorsport.com/f1/news/yet-another-dnf-for-cadillacs-valtteri-bottas-sometimes-we-dont-quite-understand-it/10868669/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-10-28"
+  },
+  {
+   "en": "Why Aston Martin and Red Bull were asked about an unlikely F1 engine partnership",
+   "url": "https://www.motorsport.com/f1/news/why-aston-martin-and-red-bull-were-asked-about-an-unlikely-f1-engine-partnership/10869014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-10-28"
+  },
+  {
+   "en": "Audi F1 power unit division brings back CEO role",
+   "url": "https://www.motorsport.com/f1/news/audi-f1-power-unit-division-brings-back-ceo-role/10869006/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-10-28"
   }
  ],
  "newsKo": [
@@ -4517,8 +4517,20 @@
    "date": "2026-10-28"
   },
   {
+   "ko": "[F1] 페라리가 놓친 안토넬리… 메르세데스는 9년간 거액 투자",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uYnhkSUZCNnNyZHJtTHlrWEIwN1VaWXJobHV4bVNIaWNCUmpacDBPWEhJQU1LSF9FSlMzMWI4eTU2N1lvT2hFcXdFbGszdncxTzdjM1o0d3Jkdm5TS2JsSW1JZ0M3bUYwLVZj?oc=5",
+   "src": "https://www.standingout.kr/",
+   "date": "2026-10-28"
+  },
+  {
+   "ko": "에어월렉스, 맥라렌 F1 팀 공식 AI 금융 파트너 선정",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01Sm9GOWNfcjBKQ29aZ1RIZXhETEdscnREc0pTRG5SazlMdkI0b3pKWkIzdndBUFZNZWU0T0hzMk4xM3ZaSXBRRzJfR3ZvUEt1V2xfQ0tEY2xqU2tubHltWnBoX3hSOW1vUXc?oc=5",
+   "src": "천지일보",
+   "date": "2026-10-28"
+  },
+  {
    "ko": "F1 라스베이거스 GP",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ReFVKZWlWNkVPWGI1UmxveWNDelRNbnc4cDlORmNtYVMtVFNiVnJoZEo1MEV3bHhacmNxbDRlOEZIZnA2ZEtDVWVydHR4bTRh0gFTQVVfeXFMUHVzNjYxZmhTa3NBZHFNRUVzOVB0amU2aHZzTVlxUGhXM09nWjRUV0VBR05oWm5YUnpOaG5jRGUtbGRtNTlDaXlpdjY3bzd3NVNxalE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1czY2MWZoU2tzQWRxTUVFczlQdGplNmh2c01ZcVBoVzNPZ1o0VFdFQUdOaFpuWFJ6TmhuY0RlLWxkbTU5Q2l5aXY2N283dzVTcWpR0gFTQVVfeXFMUHVzNjYxZmhTa3NBZHFNRUVzOVB0amU2aHZzTVlxUGhXM09nWjRUV0VBR05oWm5YUnpOaG5jRGUtbGRtNTlDaXlpdjY3bzd3NVNxalE?oc=5",
    "src": "VOA 한국어 홈페이지",
    "date": "2026-10-27"
   },
@@ -4541,12 +4553,6 @@
    "date": "2026-10-27"
   },
   {
-   "ko": "에어월렉스, 맥라렌 F1 팀 AI 금융 파트너 선정…협력 연장",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xQm5GRmx3MG96S2RjdDM5XzAtZE5kZm01aktEY0NSQjdYMXpRcjR2dEp3azZuanhhZXZVTEhTYTdDLTZ4RmI0N3hnSVRMdWltb0U5UWRTRGVKMDBEbHJyYWxYVmY2SlVBUktR?oc=5",
-   "src": "라이센스뉴스",
-   "date": "2026-10-27"
-  },
-  {
    "ko": "에어월렉스, 맥라렌 F1 공식 AI 금융 파트너 선정...다년 계약 연장",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PaG1sYzdrSEZIZ2kzTUdiV2RsM051aVBlOXQxS1hva0hXM0xDUmJqRjlEZm1jbEUtNGMxNWRfelVYMkpfcGZkRHlkcnBlZHJKTkNjR2cwR2JNOFNSTk13X0dkZEU3Tzdldl9v?oc=5",
    "src": "더에이아이",
@@ -4559,21 +4565,15 @@
    "date": "2026-10-27"
   },
   {
+   "ko": "에어월렉스, 맥라렌 F1 팀 AI 금융 파트너 선정…협력 연장",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xQm5GRmx3MG96S2RjdDM5XzAtZE5kZm01aktEY0NSQjdYMXpRcjR2dEp3azZuanhhZXZVTEhTYTdDLTZ4RmI0N3hnSVRMdWltb0U5UWRTRGVKMDBEbHJyYWxYVmY2SlVBUktR?oc=5",
+   "src": "라이센스뉴스",
+   "date": "2026-10-27"
+  },
+  {
    "ko": "에어월렉스, 맥라렌 F1 팀 AI 금융 파트너 선정 ··· 운영 협력 확대",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52MEx0RWVPSWRvaDkwZ2NtWGN0cy1UZkRUcVc3QUVIek5QaElmaXoyTTN4Ry1EZ0VUYVNNUm1CdjBMbzJVSVBVeDA1dV8yNnJEQ1NCbDJ2Skh4ajgyeW5jMEpfVjRNZ3VnQU5QaA?oc=5",
    "src": "데이터넷",
-   "date": "2026-10-27"
-  },
-  {
-   "ko": "에어월렉스, 맥라렌 F1팀 파트너십 연장",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kQjFZbmRjSDRhRlowQUt2N2Y3WGw5TmMyZkwyLTdhemRGVTBhRVl5QktuaEVLd0M0OU9uOHRJUm1OeUJ4U09mZXJqMndpRTVneWtXMUtVY29iR3FCbmV2eHd0Zlo3Z2huTndj?oc=5",
-   "src": "한스경제",
-   "date": "2026-10-27"
-  },
-  {
-   "ko": "\"단순 스폰서 넘어 공식 AI 파트너로\"… 에어월렉스, 맥라렌 F1과 동행 연장",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JMFRnQkYyYXBKT0JHQ3NaaWpFR3d5a3AtVy1nWjVZZGk2ZWczMnIwNGRqNWxwNTZUb29hSWg5M080Vkx0VVhIaHM0bUtkcXRqbXBYVV9MNEJReVQ1MFRKbkZsTHdET3hRc0c4ajEtMUlLZU5lclVRejFGTdIBe0FVX3lxTE9JMFRnQkYyYXBKT0JHQ3NaaWpFR3d5a3AtVy1nWjVZZGk2ZWczMnIwNGRqNWxwNTZUb29hSWg5M080Vkx0VVhIaHM0bUtkcXRqbXBYVV9MNEJReVQ1MFRKbkZsTHdET3hRc0c4ajEtMUlLZU5lclVRejFGTQ?oc=5",
-   "src": "디지틀조선일보",
    "date": "2026-10-27"
   },
   {
