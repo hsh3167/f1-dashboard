@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01 22:27 KST",
+ "updated": "2026-11-02 04:42 KST",
  "roundsDone": 18,
  "drivers": [
   {
@@ -419,10 +419,10 @@
   {
    "id": "ryo_hirakawa",
    "code": "HIR",
-   "num": 0,
+   "num": 50,
    "first": "Ryo",
    "last": "Hirakawa",
-   "dob": "",
+   "dob": "1994-03-07",
    "team": "haas",
    "pos": 24,
    "pts": 0,
@@ -430,8 +430,8 @@
    "podiums": 0,
    "best": 0,
    "ko": "Ryo Hirakawa",
-   "nat": "",
-   "flag": "un",
+   "nat": "일본",
+   "flag": "jp",
    "note": ""
   }
  ],
@@ -4443,6 +4443,24 @@
  },
  "news": [
   {
+   "en": "OFFICIAL GRID: Who starts where for the Mexico City Grand Prix",
+   "url": "https://www.formula1.com/en/latest/article/official-grid-who-starts-where-for-the-2026-mexico-city-grand-prix.4AUykgAAZz3GMiI15Fqfir",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "LIVE COVERAGE: Follow the action from the Mexico City GP",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-gran-premio-de-la-ciudad-de-mexico-2026.5CheEK7oQK2jf98nrc6i8Y",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Why F1 fans must avoid emotional bets in Mexico",
+   "url": "https://www.formula1.com/en/latest/article/why-f1-fans-must-avoid-emotional-betting-during-the-mexico-city-grand-prix.6XPJ9yMZJmUR7oF9cHe2Ql",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "What are the tyre strategy options for the Mexico City GP?",
    "url": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-tactical-options-for-the-mexico-city-gp.22mzBSWEviowqhyGTbfhY",
    "src": "Formula1.com",
@@ -4473,26 +4491,8 @@
    "date": ""
   },
   {
-   "en": "F1’s longest pole career spans as Hamilton returns to top",
-   "url": "https://www.formula1.com/en/latest/article/f1s-longest-pole-position-career-spans-as-hamilton-returns-to-the-top-with-ferrari.6YDBxkSvAtUCaNxNQBAk8Z",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "5 late-notice F1 debutants and how they fared",
-   "url": "https://www.formula1.com/en/latest/article/5-late-notice-f1-debutants-and-how-they-fared-as-hirakawa-replaces-ocon-in-mexico-city.38AAO3RRnruvkI88muFolf",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "What To Watch For in the Mexico City Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-mexico-city-grand-prix.2L0L49djDMMYYHFCx7EpTf",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "The changes Hamilton thinks are behind his Mexico GP pole",
-   "url": "https://www.autosport.com/f1/news/the-changes-hamilton-thinks-are-behind-his-mexico-gp-pole/10870570/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "en": "What does Yamaha’s shock MotoGP boycott mean for F1 in Qatar and Abu Dhabi?",
+   "url": "https://www.autosport.com/f1/news/what-does-yamahas-shock-motogp-boycott-mean-for-f1-in-qatar-and-abu-dhabi/10870666/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
    "date": "2026-11-01"
   },
@@ -4515,14 +4515,14 @@
    "date": "2026-11-01"
   },
   {
-   "en": "F1 2026 qualifying head-to-head: Mexico GP",
-   "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-mexico-gp/10870529/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "en": "What does Yamaha’s shock MotoGP boycott mean for F1 in Qatar and Abu Dhabi?",
+   "url": "https://www.motorsport.com/f1/news/what-does-yamahas-shock-motogp-boycott-mean-for-f1-in-qatar-and-abu-dhabi/10870664/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
    "date": "2026-11-01"
   },
   {
-   "en": "Red Bull drivers fear Mexico start, Max Verstappen jokes: “A Le Mans start would be just as quick”",
-   "url": "https://www.motorsport.com/f1/news/red-bull-drivers-fear-mexico-start-max-verstappen-jokes-a-le-mans-start-would-be-just-as-quick/10870533/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "en": "Valtteri Bottas \"pretty confident\" of staying for F1 2027 amid Colton Herta rumours",
+   "url": "https://www.motorsport.com/f1/news/valtteri-bottas-pretty-confident-of-staying-for-f1-2027-amid-colton-herta-rumours/10870623/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
    "date": "2026-11-01"
   }
@@ -4541,27 +4541,21 @@
    "date": "2026-11-01"
   },
   {
-   "ko": "푼다시온 레인테그라, 멕시코서 ‘F1® 올윈 글로벌 커뮤니티 어워드’ 수상… 청소년 사회 복귀 지원 확대",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCaFJONW5mTnhGTWdmaUt4dXlpU2wyMHZ0WVhrbVFkVHNFYXZNRXZPMVNsVTIwc1pVVHQtaHJlRE5vRnEyZlRYTDZ6ZVFPdENTMUk5RnBkQ1F1dmwxRU96MWJobWE5cnF5TWJxSUtYcTgwUWFRRGc?oc=5",
-   "src": "기업경제뉴스",
-   "date": "2026-11-01"
+   "ko": "[2026 F1 제19전 멕시코 GP QR] 해밀턴 페라리 첫 폴, 팀도 2026시즌 첫 폴",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BNHJVeEVGbWVRVGloaGtvbnhtWkhHcTAxV3JPcnJZLXYzX0xTWUJTakVIWVBsaVJ6S2lydDN6S3I1SWJVSjI2TUNKRV9HOFBtX0tLclppeF9FSXY1SWZFZ0ZFbi1EUHNZWGRzR1dKVQ?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-10-31"
   },
   {
    "ko": "마드리드의 열정, F1의 폭발감, 그리고 태그호이어의 질주",
    "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQQ3J1aU1yeWEtOHhFYzVPV0YtWUR6ZzdxRHFCNWNwNlVyc25QMEVUNkRwbGZyM1VGOVdUUmxmc1BRc0xyMzlQdXdwM1BLZ3BKTWF2QVV6cXRQamVPWTZyRFpnejRwdEJhdDhjbUpFUHg5OEs3TGRNT3FreElOUGNRMTBHWmFWa0hVWDZRQ0lHVlF6NmpHUzktWGd6bUV5NGJUY0t6YjlVdDhrWFNxNGFkb1AtWEpSMERmb1VpWkw3U1lMX0RqMVN5Y2F1WE5WUEtKUGQxUk5vWGtoSWxIcjM5SzczX0ZSSHM0MVRxVnVSbUVWNEZFZG9zUEh0VW5YVVF2cjE1dFlFcVN0WjVjV3lnNDlNdWRPMmRSTi1nWlUzV2R5ZXNZM1VjdlNkekVmSU52Rnh1dU50c21iY0hpN2FyaWRHbG0wLUJaS25jRV8wZk4xLUZZbnc?oc=5",
-   "src": "GQ Korea",
+   "src": "지큐 코리아 (GQ Korea)",
    "date": "2026-10-30"
   },
   {
    "ko": "[PRNewswire] 벨로와 맥라렌 마스터카드 포뮬러 1 팀®, 팬들의 꿈을 리버리에 담다",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yb2ppTXRSbGluOHZPb2dISGI1UXNUSC1MTE5lZzloa1c3WUVCYjlVQzBDOUpjTThWSkpiN25BWDRpYW5BZHBRNVdLaWJoeVZJQTlTSVZJV1NNTzA?oc=5",
    "src": "연합뉴스",
-   "date": "2026-10-29"
-  },
-  {
-   "ko": "\"포뮬러 1(F1) 기술력 양산차로 이전\"...메르세데스-벤츠, 전기 터보 4기통 파워트레인 공개… : 네이버 블로그",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTVBQVDRIV2gtdmkwZnNLdTJ5eVlOcWZEcnkzd0xtWHVIaEp3eHlNMnhuQXB4NU5PeDRja3QtcVhOWkVqMEdnSHlCMHZ0Z3pjMzJtbmtDbHkzWmpmNVdYYS1EZjdNM1BJbmdNUTJxZExXMk0tTnJuVnNyOUQ4MmV1NWxhdUpvemxXaFkyR0JxNDR3R2hGUmZMeA?oc=5",
-   "src": "Naver Blog",
    "date": "2026-10-29"
   },
   {
@@ -4599,6 +4593,12 @@
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPamU0cG03VUc0OUhpbnNnREFXWEhsWU5xcHhfbWFZQVhlS1ktZGwxbEZLSTBtWDdTOE9oUl9pYjRWYWRNUVVTbkJNM3lrWVlYWHc4T180ZjlocE8tTkpJTWx5c28yQVI1R1VhcThOSC1GSjJ1cUFQdmJFemVhY0xNdXJya3JnYm5NQzJ3Qlp3Vi1iU1otcVhibmd0cFZhNlY50gGmAUFVX3lxTE1XYmIwZVhURzhzNlppcUM3WUxDTGthSm0wMWxfZXUwQ0pNMWlVU0RPR1ByMUoxMk9KS0pCQk9CYnhOLUtjVVlFa1pYZVZmU2FCQ1Bfck03SDRxVi1NUi1JMDFPYnRwSDJrOEwzS0VzN0ZaVU54QTNMd2t4bHo5VFJPbS1xMnpfQ0xCZGlaX0IyTEpLY3BzcE9fY1VxZlFwSUlQeEozelE?oc=5",
    "src": "StorageReview.com",
    "date": "2026-10-28"
+  },
+  {
+   "ko": "F1 라스베이거스 GP",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ReFVKZWlWNkVPWGI1UmxveWNDelRNbnc4cDlORmNtYVMtVFNiVnJoZEo1MEV3bHhacmNxbDRlOEZIZnA2ZEtDVWVydHR4bTRh0gFTQVVfeXFMUHVzNjYxZmhTa3NBZHFNRUVzOVB0amU2aHZzTVlxUGhXM09nWjRUV0VBR05oWm5YUnpOaG5jRGUtbGRtNTlDaXlpdjY3bzd3NVNxalE?oc=5",
+   "src": "VOA 한국어 홈페이지",
+   "date": "2026-10-27"
   }
  ]
 }
