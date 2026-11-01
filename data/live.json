@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01 04:18 KST",
+ "updated": "2026-11-01 09:08 KST",
  "roundsDone": 18,
  "drivers": [
   {
@@ -414,6 +414,24 @@
    "ko": "세르히오 페레스",
    "nat": "멕시코",
    "flag": "mx",
+   "note": ""
+  },
+  {
+   "id": "ryo_hirakawa",
+   "code": "HIR",
+   "num": 0,
+   "first": "Ryo",
+   "last": "Hirakawa",
+   "dob": "",
+   "team": "haas",
+   "pos": 24,
+   "pts": 0,
+   "wins": 0,
+   "podiums": 0,
+   "best": 0,
+   "ko": "Ryo Hirakawa",
+   "nat": "",
+   "flag": "un",
    "note": ""
   }
  ],
@@ -4425,13 +4443,43 @@
  },
  "news": [
   {
+   "en": "Hamilton reacts to ‘special’ maiden pole with Ferrari",
+   "url": "https://www.formula1.com/en/latest/article/wow-hamilton-reacts-to-special-maiden-pole-with-ferrari-at-mexico-city-gp.1S7nqyX2uIPgZomeRkneq4",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Piastri reflects on 'bizarre' Q2 exit in Mexico",
+   "url": "https://www.formula1.com/en/latest/article/not-sure-what-happened-piastri-reflects-on-bizarre-q2-exit-in-mexico-city-gp-qualifying.7FPexiMg5O7poV0hFEoCxe",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Late Haas F1 call-up in Mexico 'dream come true' – Hirakawa",
+   "url": "https://www.formula1.com/en/latest/article/dream-come-true-hirakawa-details-late-haas-call-up-for-mexico-city-gp-ahead-of-f1-debut.62Xxmfh0IWBr7dFTDM5ciw",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Hamilton clinches first pole with Ferrari at Mexico City GP",
+   "url": "https://www.formula1.com/en/latest/article/hamilton-clinches-first-pole-with-ferrari-in-qualifying-at-the-mexico-city-gp.4GffzFhlnOxOjbHHMc0AJI",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "AS IT HAPPENED: Hamilton claims scintillating pole in Mexico City",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-mexico-city-2026.7rsM0FXrllMkwPI44GSR58",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "Norris pips Antonelli to top spot in Mexico City FP3",
    "url": "https://www.formula1.com/en/latest/article/fp3-norris-pips-antonelli-and-leclerc-to-top-spot-in-final-practice-for-mexico-city-gp.1s5lDqpwmCBl5aqSGq4Ffn",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "LIVE COVERAGE: FP3 for the Mexico City Grand Prix",
+   "en": "AS IT HAPPENED: FP3 for the Mexico City Grand Prix",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-third-practice-in-mexico-city-2026.3Ud38VpRJjlYJc5Gae4PGd",
    "src": "Formula1.com",
    "date": ""
@@ -4455,56 +4503,26 @@
    "date": ""
   },
   {
-   "en": "Alonso cautiously upbeat after strong Friday in Mexico",
-   "url": "https://www.formula1.com/en/latest/article/alonso-cautiously-upbeat-after-strong-friday-in-mexico-for-aston-martin.4vekgCuq0xUq8VaOuuxWAt",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "George Russell identifies costly decision behind Mexican GP qualifying near-miss",
+   "url": "https://www.motorsport.com/f1/news/george-russell-identifies-costly-decision-behind-mexican-gp-qualifying-near-miss/10870370/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-11-01"
   },
   {
-   "en": "Verstappen and Lawson get grid drops after ‘clumsy’ clash",
-   "url": "https://www.formula1.com/en/latest/article/verstappen-and-lawson-get-grid-penalties-after-clumsy-mexico-city-practice-clash.2m2ey8Pl7g5IfQfGeepilD",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "Ocon denies physical altercation rumours in first statement since being dropped by Haas for Mexico GP",
+   "url": "https://www.autosport.com/f1/news/ocon-denies-physical-altercation-rumours-in-first-statement-since-being-dropped-by-haas-for-mexico-/10870348/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-10-31"
   },
   {
-   "en": "What the teams said – Friday in Mexico City",
-   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-friday-in-mexico-city-2026.6smOV3lTU4s76z0vrnd1RJ",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "How 10 F1 rookies got on during FP1 in Mexico City",
-   "url": "https://www.formula1.com/en/latest/article/rookie-round-up-how-10-f1-rookies-got-on-during-fp1-in-mexico-city.74AEGVqctlzDCIV2WftRMC",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Are Ferrari the favourites after Friday practice in Mexico City?",
-   "url": "https://www.formula1.com/en/latest/article/are-ferrari-the-favourites-after-friday-practice-in-mexico-city.cvthLLii4LO7DJgTUQoxx",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "F1 Mexico GP: Hamilton takes pole from Russell and Leclerc",
+   "url": "https://www.autosport.com/f1/news/f1-mexico-gp-lewis-hamilton-beats-george-russell-and-charles-leclerc-to-pole/10870295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-10-31"
   },
   {
    "en": "F1 Mexico GP: Norris tops final practice by 0.001s from Antonelli",
    "url": "https://www.autosport.com/f1/news/f1-mexico-gp-norris-tops-final-practice-by-0001s-from-antonelli/10870228/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-10-31"
-  },
-  {
-   "en": "Red Bull provides timeline for long-awaited new F1 wind tunnel",
-   "url": "https://www.autosport.com/f1/news/when-red-bull-expects-to-start-using-its-long-awaited-new-f1-wind-tunnel/10870214/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-10-31"
-  },
-  {
-   "en": "Haas drops Ocon for F1 Mexico GP",
-   "url": "https://www.autosport.com/f1/news/haas-drops-ocon-for-f1-mexico-gp/10870160/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-10-31"
-  },
-  {
-   "en": "Stewards penalise Verstappen, Lawson after “unacceptable” F1 Mexico GP practice clash",
-   "url": "https://www.autosport.com/f1/news/max-verstappen-and-liam-lawson-handed-f1-mexico-gp-grid-penalties-after-practice-clash/10869942/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
    "date": "2026-10-31"
   }
@@ -4517,15 +4535,15 @@
    "date": "2026-10-30"
   },
   {
-   "ko": "윌리엄즈 F1, L. 브라우닝 멕시코·브라질 GP FP1 연속 투입",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvV1lhMWdOcWZIdmhpaTVHbTFKMXVEU0l1eC1yTzVrLXdXX3hkX3g3bGR1M21BdXdaYTE0TldGLVBhUFVQdHExMVBxZDBGaE84bDNfdm5rZFpZZEVFZVQtOFZQOUVpU25oTG9pd3lMUQ?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-10-30"
-  },
-  {
    "ko": "인제스피디움서 11월27일 ‘F1 머신 주행’ 펼쳐진다",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwZ3ZaQWlaTW1sQ3VIMGFrR2ktQ09Gcm9VZTRkRXRVajNUUlFSUDNKNkZaazhfSGh4LUpSM1RxYXkzY3kzNFZhMF9XWXJ4aVRmYm1NYm5qZ1RuS1k?oc=5",
    "src": "강원일보",
+   "date": "2026-10-29"
+  },
+  {
+   "ko": "[PRNewswire] 벨로와 맥라렌 마스터카드 포뮬러 1 팀®, 팬들의 꿈을 리버리에 담다",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yb2ppTXRSbGluOHZPb2dISGI1UXNUSC1MTE5lZzloa1c3WUVCYjlVQzBDOUpjTThWSkpiN25BWDRpYW5BZHBRNVdLaWJoeVZJQTlTSVZJV1NNTzA?oc=5",
+   "src": "연합뉴스",
    "date": "2026-10-29"
   },
   {
