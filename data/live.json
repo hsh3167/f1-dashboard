@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02 20:11 KST",
+ "updated": "2026-11-03 06:43 KST",
  "roundsDone": 19,
  "drivers": [
   {
@@ -119,7 +119,7 @@
    "dob": "2001-04-06",
    "team": "mclaren",
    "pos": 7,
-   "pts": 150,
+   "pts": 144,
    "wins": 0,
    "podiums": 2,
    "best": 2,
@@ -137,7 +137,7 @@
    "dob": "2004-09-28",
    "team": "red_bull",
    "pos": 8,
-   "pts": 105,
+   "pts": 107,
    "wins": 0,
    "podiums": 2,
    "best": 3,
@@ -155,7 +155,7 @@
    "dob": "2002-02-11",
    "team": "red_bull",
    "pos": 9,
-   "pts": 79,
+   "pts": 83,
    "wins": 0,
    "podiums": 0,
    "best": 5,
@@ -173,7 +173,7 @@
    "dob": "1996-02-07",
    "team": "alpine",
    "pos": 10,
-   "pts": 43,
+   "pts": 42,
    "wins": 0,
    "podiums": 0,
    "best": 6,
@@ -209,7 +209,7 @@
    "dob": "2003-05-27",
    "team": "alpine",
    "pos": 12,
-   "pts": 31,
+   "pts": 27,
    "wins": 0,
    "podiums": 0,
    "best": 6,
@@ -237,24 +237,6 @@
    "note": ""
   },
   {
-   "id": "hulkenberg",
-   "code": "HUL",
-   "num": 27,
-   "first": "Nico",
-   "last": "Hülkenberg",
-   "dob": "1987-08-19",
-   "team": "audi",
-   "pos": 14,
-   "pts": 13,
-   "wins": 0,
-   "podiums": 0,
-   "best": 8,
-   "ko": "니코 휠켄베르크",
-   "nat": "독일",
-   "flag": "de",
-   "note": ""
-  },
-  {
    "id": "bortoleto",
    "code": "BOR",
    "num": 5,
@@ -262,14 +244,32 @@
    "last": "Bortoleto",
    "dob": "2004-10-14",
    "team": "audi",
-   "pos": 15,
-   "pts": 10,
+   "pos": 14,
+   "pts": 14,
    "wins": 0,
    "podiums": 0,
    "best": 8,
    "ko": "가브리엘 보르톨레토",
    "nat": "브라질",
    "flag": "br",
+   "note": ""
+  },
+  {
+   "id": "hulkenberg",
+   "code": "HUL",
+   "num": 27,
+   "first": "Nico",
+   "last": "Hülkenberg",
+   "dob": "1987-08-19",
+   "team": "audi",
+   "pos": 15,
+   "pts": 13,
+   "wins": 0,
+   "podiums": 0,
+   "best": 8,
+   "ko": "니코 휠켄베르크",
+   "nat": "독일",
+   "flag": "de",
    "note": ""
   },
   {
@@ -363,6 +363,24 @@
    "note": "로슨의 레드불 이동에 따라 레이싱 불스에 복귀 출전 중"
   },
   {
+   "id": "ryo_hirakawa",
+   "code": "HIR",
+   "num": 50,
+   "first": "Ryo",
+   "last": "Hirakawa",
+   "dob": "1994-03-07",
+   "team": "haas",
+   "pos": 21,
+   "pts": 1,
+   "wins": 0,
+   "podiums": 0,
+   "best": 10,
+   "ko": "Ryo Hirakawa",
+   "nat": "일본",
+   "flag": "jp",
+   "note": ""
+  },
+  {
    "id": "stroll",
    "code": "STR",
    "num": 18,
@@ -370,7 +388,7 @@
    "last": "Stroll",
    "dob": "1998-10-29",
    "team": "aston_martin",
-   "pos": 21,
+   "pos": 22,
    "pts": 0,
    "wins": 0,
    "podiums": 0,
@@ -388,7 +406,7 @@
    "last": "Bottas",
    "dob": "1989-08-28",
    "team": "cadillac",
-   "pos": 22,
+   "pos": 23,
    "pts": 0,
    "wins": 0,
    "podiums": 0,
@@ -396,24 +414,6 @@
    "ko": "발테리 보타스",
    "nat": "핀란드",
    "flag": "fi",
-   "note": ""
-  },
-  {
-   "id": "ryo_hirakawa",
-   "code": "HIR",
-   "num": 50,
-   "first": "Ryo",
-   "last": "Hirakawa",
-   "dob": "1994-03-07",
-   "team": "haas",
-   "pos": 23,
-   "pts": 0,
-   "wins": 0,
-   "podiums": 0,
-   "best": 13,
-   "ko": "Ryo Hirakawa",
-   "nat": "일본",
-   "flag": "jp",
    "note": ""
   },
   {
@@ -451,37 +451,37 @@
   {
    "id": "red_bull",
    "pos": 3,
-   "pts": 380,
+   "pts": 382,
    "wins": 3
   },
   {
    "id": "mclaren",
    "pos": 4,
-   "pts": 371,
+   "pts": 365,
    "wins": 2
   },
   {
    "id": "rb",
    "pos": 5,
-   "pts": 104,
+   "pts": 108,
    "wins": 0
   },
   {
    "id": "alpine",
    "pos": 6,
-   "pts": 74,
+   "pts": 69,
    "wins": 0
   },
   {
    "id": "haas",
    "pos": 7,
-   "pts": 30,
+   "pts": 31,
    "wins": 0
   },
   {
    "id": "audi",
    "pos": 8,
-   "pts": 23,
+   "pts": 27,
    "wins": 0
   },
   {
@@ -3385,80 +3385,80 @@
    },
    {
     "p": 7,
-    "d": "piastri",
-    "g": 12,
-    "pts": 6,
-    "t": "+19.475"
-   },
-   {
-    "p": 8,
-    "d": "colapinto",
-    "g": 11,
-    "pts": 4,
-    "t": "+20.204"
-   },
-   {
-    "p": 9,
     "d": "lawson",
     "g": 22,
-    "pts": 2,
+    "pts": 6,
     "t": "+20.899"
    },
    {
-    "p": 10,
-    "d": "gasly",
-    "g": 9,
-    "pts": 1,
-    "t": "+21.483"
-   },
-   {
-    "p": 11,
+    "p": 8,
     "d": "bortoleto",
     "g": 13,
-    "pts": 0,
+    "pts": 4,
     "t": "+22.041"
    },
    {
-    "p": 12,
+    "p": 9,
     "d": "hadjar",
     "g": 7,
-    "pts": 0,
+    "pts": 2,
     "t": "+22.503"
    },
    {
-    "p": 13,
+    "p": 10,
     "d": "ryo_hirakawa",
     "g": 18,
-    "pts": 0,
+    "pts": 1,
     "t": "+25.373"
    },
    {
-    "p": 14,
+    "p": 11,
     "d": "albon",
     "g": 16,
     "pts": 0,
     "t": "+27.562"
    },
    {
-    "p": 15,
+    "p": 12,
     "d": "sainz",
     "g": 15,
     "pts": 0,
     "t": "+28.638"
    },
    {
-    "p": 16,
+    "p": 13,
+    "d": "piastri",
+    "g": 12,
+    "pts": 0,
+    "t": "+29.475"
+   },
+   {
+    "p": 14,
     "d": "hulkenberg",
     "g": 10,
     "pts": 0,
     "t": "+29.977"
    },
    {
-    "p": 17,
+    "p": 15,
+    "d": "colapinto",
+    "g": 11,
+    "pts": 0,
+    "t": "+30.204"
+   },
+   {
+    "p": 16,
     "d": "perez",
     "g": 20,
     "pts": 0,
     "t": "+30.695"
+   },
+   {
+    "p": 17,
+    "d": "gasly",
+    "g": 9,
+    "pts": 0,
+    "t": "+51.483"
    },
    {
     "p": 18,
@@ -4600,64 +4600,70 @@
  },
  "news": [
   {
+   "en": "Antonelli makes history as Verstappen eyes 2027 glory",
+   "url": "https://www.formula1.com/en/latest/article/max-verstappen-named-early-favourite-for-2027-title-despite-kimi-antonellis-record-breaking-season.2f4lCLl3YobQIzZd6CEiCu",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Antonelli reveals race number he will use to defend title in 2027",
+   "url": "https://www.formula1.com/en/latest/article/antonelli-reveals-what-race-number-he-will-use-to-defend-formula-1-title-in-2027.3GBWpLc1FUNDolu43D8Llu",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Hirakawa assesses 'dream' F1 debut in Mexico City",
+   "url": "https://www.formula1.com/en/latest/article/today-was-my-dream-hirakawa-really-happy-with-f1-debut-in-mexico-city.2JU1Knkff6nSnfmyb6cCId",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "5 Winners and 5 Losers from Mexico City",
+   "url": "https://www.formula1.com/en/latest/article/5-winners-and-5-losers-from-mexico-city.2bWgqftvDBHiqIs0dXUL3F",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Antonelli's incredible journey to his maiden F1 title",
+   "url": "https://www.formula1.com/en/latest/article/from-surviving-setbacks-to-making-history-antonellis-incredible-journey-to-his-maiden-f1-title.7as9Pn0nJF9dFsCv2F6Uis",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Bonnington names Antonelli’s top three races in title year",
+   "url": "https://www.formula1.com/en/latest/article/bonnington-names-antonellis-best-three-races-in-amazing-journey-to-maiden-title.2SMeeXEzL6g3KIb2zUN8AI",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "The records Antonelli has broken on his way to maiden title",
+   "url": "https://www.formula1.com/en/latest/article/in-numbers-the-records-antonelli-has-broken-on-his-way-to-his-maiden-f1-title.2FB9yQ5qD7XzQ418HNlrfN",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Russell details ‘frustrating’ opening lap issue in Mexico",
+   "url": "https://www.formula1.com/en/latest/article/russell-details-frustrating-opening-lap-issue-in-mexico-city-that-cost-him-a-shot-at-victory.3K9bqtqg1bCnFQf9NxWM5J",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "‘It's a matter of respect’ – Vasseur on Hamilton/Leclerc clash",
    "url": "https://www.formula1.com/en/latest/article/its-a-matter-of-respect-vasseur-airs-frustrations-over-ferrari-intra-team-clash-in-mexico.33Ed4HMOlbqcaZlQ37hA0F",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "The Mexico GP issues Antonelli overcame to claim his title",
-   "url": "https://www.formula1.com/en/latest/article/how-antonelli-drove-through-tears-fears-and-illness-to-claim-his-maiden-title.3LPbRl2JBmLVdc5OKrOTqF",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "What was Antonelli’s best moment of his F1 title-winning campaign? Our writers have their say",
+   "url": "https://www.autosport.com/f1/news/what-was-antonellis-best-moment-of-his-f1-title-winning-campaign-our-writers-have-their-say/10871078/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-11-02"
   },
   {
-   "en": "All the key moments from the 2026 Mexico City Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/mexico-city-lowdown-all-the-key-moments-as-antonelli-secures-maiden-title-and-verstappen-denies-ferrari-victory.3mPqECWFPlJsdg4jUOZUXz",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "What the teams said – Race day in Mexico City",
-   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-race-day-in-mexico-city-2026.5jvq4rkRMEYHkdIE7IXwxK",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "'Unbelievable' – The F1 grid praise new champion Antonelli",
-   "url": "https://www.formula1.com/en/latest/article/hes-made-everyone-else-look-silly-the-f1-grid-praise-new-world-champion-kimi-antonelli.4wWSNrdtuPYOnmQSLB78dt",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "‘People were doubters’ – Wolff on Antonelli’s ‘incredible’ journey",
-   "url": "https://www.formula1.com/en/latest/article/people-were-doubters-wolff-assesses-antonellis-incredible-journey-to-f1-title-glory.2t6Z3Fg7owWCwnAKjb7Mzl",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "'Serious talks’ – Hamilton on costly Leclerc battle",
-   "url": "https://www.formula1.com/en/latest/article/we-have-to-have-some-serious-talks-hamilton-reflects-on-costly-ferrari-intra-team-battle-in-mexico.20AlOSmTwJkVVJRtw70vIp",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Alpine duo stripped of Mexico City GP points after penalties",
-   "url": "https://www.formula1.com/en/latest/article/alpines-gasly-and-colapinto-stripped-of-mexico-city-gp-points-after-post-race-penalties.2wLfobQHufuH1L1aMYPl7h",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Antonelli’s dad reflects on son’s ‘important’ title triumph",
-   "url": "https://www.formula1.com/en/latest/article/he-makes-himself-stronger-antonellis-dad-reflects-on-sons-important-title-triumph.2jMjsfdy0bakm0FChw4Qk4",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Leclerc concedes he 'deserved penalty' over Hamilton clash",
-   "url": "https://www.formula1.com/en/latest/article/leclerc-concedes-he-deserved-penalty-over-hamilton-clash-in-mexico-city-gp.4rYJb2xww8myo1gtgBV5pV",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "Hamilton slams Leclerc for \"do or die\" attitude after Mexico GP clash",
+   "url": "https://www.autosport.com/f1/news/hamilton-slams-leclerc-for-do-or-die-attitude-after-mexico-gp-clash/10871033/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-11-02"
   },
   {
    "en": "Piastri out of F1 Mexico GP points after post-race penalty for Lindblad clash",
@@ -4676,12 +4682,6 @@
    "url": "https://www.autosport.com/f1/news/why-leclerc-didnt-give-up-mexico-gp-lead-after-cutting-turn-5/10870807/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
    "date": "2026-11-02"
-  },
-  {
-   "en": "Who slept best last night: Kimi Antonelli",
-   "url": "https://www.motorsport.com/f1/news/who-slept-best-last-night-kimi-antonelli-10870990/10870990/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-11-02"
   }
  ],
  "newsKo": [
@@ -4692,15 +4692,15 @@
    "date": "2026-11-02"
   },
   {
-   "ko": "‘20세 신성’ 키미 안토넬리, F1 역대 최연소 드라이버 챔피언 등극",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OWXZGcFFRd2xmLVFuUk1LS0FWa3N5emhfZlVkTC1JbmRlSEF1T19JU2d1TWEtVHljdTFBcXl4Qnlqbkl6RzBzaGhGRzFRWHU2UVhsWjhFWDgtbmdpWHlESUNhWmx4X1VKMG55dHFkVlc0NGM00gFmQVVfeXFMT1FiUU4tN2xpc0FuMGhreHhYWkFGUTNIRlpGSG40Snhib1hZaUF2QTlwdExEcEtLZnUxRW05ZXBSUFkxdy0xc3VYZzhLaHNTRnFuc1lldWd0QzdESi03d2tKYngyQkNR?oc=5",
-   "src": "동아일보",
-   "date": "2026-11-02"
-  },
-  {
    "ko": "F1 안토넬리, 20세에 역대 최연소 드라이버 챔피언 등극",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyQmYybGNwQnViQmU4d2pFVjBlZ01zLWgwUXRrZmVaVUdEd25QaXUweTRvd3ZQT19BR3dzZXZoZXFadWxpTkVyd3pZY0puZDhuYXBBaWNkaDdQcEZPZFlScNIBYEFVX3lxTFAyQmYybGNwQnViQmU4d2pFVjBlZ01zLWgwUXRrZmVaVUdEd25QaXUweTRvd3ZQT19BR3dzZXZoZXFadWxpTkVyd3pZY0puZDhuYXBBaWNkaDdQcEZPZFlScA?oc=5",
    "src": "연합뉴스",
+   "date": "2026-11-02"
+  },
+  {
+   "ko": "‘20세 신성’ 키미 안토넬리, F1 역대 최연소 드라이버 챔피언 등극",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OWXZGcFFRd2xmLVFuUk1LS0FWa3N5emhfZlVkTC1JbmRlSEF1T19JU2d1TWEtVHljdTFBcXl4Qnlqbkl6RzBzaGhGRzFRWHU2UVhsWjhFWDgtbmdpWHlESUNhWmx4X1VKMG55dHFkVlc0NGM00gFmQVVfeXFMT1FiUU4tN2xpc0FuMGhreHhYWkFGUTNIRlpGSG40Snhib1hZaUF2QTlwdExEcEtLZnUxRW05ZXBSUFkxdy0xc3VYZzhLaHNTRnFuc1lldWd0QzdESi03d2tKYngyQkNR?oc=5",
+   "src": "동아일보",
    "date": "2026-11-02"
   },
   {
@@ -4710,21 +4710,39 @@
    "date": "2026-11-02"
   },
   {
-   "ko": "엔진 소리 듣고 자란 소년, F1 역사가 되다... '20세 신성' 안토넬리, 최연소 챔피언",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LR3hEajVUUUZ6Q3N3TnlfWGoxOU40SWRWaU9aSlREdXFSNERPOU9XN3I5MUJ4YzBuZlR5aVNfdTh4N2pqeXhIa1huVVJuaGJQV1ZJbzBuZmp2SGs4Q0RnWS1ITjVVclRYR2h3ZXpySUtoYlXSAXNBVV95cUxNS0d4RGo1VFFGekNzd055X1hqMTlONElkVmlPWkpURHVxUjRETzlPVzdyOTFCeGMwbmZUeWlTX3U4eDdqanl4SGtYblVSbmhiUFdWSW8wbmZqdkhrOENEZ1ktSE41VXJUWEdod2V6cklLaGJV?oc=5",
-   "src": "한국일보",
+   "ko": "키미 안토넬리가 멕시코 그랑프리에서 새로운 월드 챔피언 자리에 올랐습니다.",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1bjJGSXRlTm9FYi01U2FQZEdQMEhaNW9JRk53UDBVMmg4T2xnajdtekJIWmNPTHpSanN6VlJvOW5zNVYxY3dGR1hTZFEySUVIeE9WUUFTdWlHRDQ2TXVFNFpENEU4Zm5aZEtaRDMxWkxSSUlYMl9J?oc=5",
+   "src": "마리끌레르 코리아",
    "date": "2026-11-02"
   },
   {
-   "ko": "스무살, 메르세데스 AMG '안토넬리' F1 역대 최연소 월드 챔피언 확정",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE44R0xsTHQtSlJnNWcwSDIzZWdxYVNMbk5Eb1prWE5fZ2NxSGxjTUJOcUFOb1F3ankwZlR3M09jNkpyMVhpR2p4ZXl1ZlRBWlRVWlRMY1BjRzVDdEtqQjhxdWV5QWdWaFNncEFGb19fUGNIZw?oc=5",
-   "src": "다나와 자동차",
+   "ko": "경주차 배기음이 자장가였던 아이, 20세에 F1 시즌 챔피언",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWEw1a0JlN0RGbHR6azhuWGh2LS1VN0tnS19tRmJrdmx3TVZnc1djWGlYS0cyQ2NHUHEzbzdVSHBPZHZkcWI2ZmVldjQwQmZDNkk3TGFGWjhJUTJMYXhaeURLYkF1UDVYUHJ5b2RKUkhCYmtXVEFkcjA2T1BLNkswak05MVNNRk10MHVpa1d4TlZCaFJTQlFGRmU5UWxMdw?oc=5",
+   "src": "조선일보",
+   "date": "2026-11-02"
+  },
+  {
+   "ko": "[2026 F1 제19전 멕시코 GP 공식 기자회견] 1~3위 페르스타펜·해밀턴·안토넬리",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92UkdkQ25CRGMtalc0S1NFZFN6SU1Ba1A2ZW1sNzV2QncwcERPR0hENmJhT2o4ejIzRXBPd1VzYnBjczVUQ1NTRldyWFR4U0UtMW5kZUNXRVlUcnhrdllFMjdZd1F6cjFwYjBXaWx5QQ?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-11-02"
+  },
+  {
+   "ko": "[2026 F1 제19전 멕시코 GP] 페르스타펜 시즌 3승, 안토넬리 최연소 월드챔피언",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xTm9lQXdFYTlVWlMwSGF1bXR0aGloaUxnNkV4M3NYRnFTTGF3QThIeTVhWjJ2NjJINlNrX1d4d2c2N2ZEcDJHcHFIdnR1VjVLNEJTVEJSZkVtaV9zcWJlT1RuUTBMSnY4bHgtdGhzbw?oc=5",
+   "src": "오토레이싱",
    "date": "2026-11-02"
   },
   {
    "ko": "페라리가 놓친 안토넬리, 메르세데스 타고 ‘F1 세계챔프’",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44SzFaMkZaQjBnaERIMGNDMVVGSFdFb3REVEVTcFYwdGdTMURKR25IVE5oSlhySmlLblZZZkJzSjZPS2VPekttVS1IYzZKOW52?oc=5",
    "src": "문화일보",
+   "date": "2026-11-02"
+  },
+  {
+   "ko": "스무살, 메르세데스 AMG '안토넬리' F1 역대 최연소 월드 챔피언 확정",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16YWdDWVhBT3VXSl8wZjJ4dkk1a3ZlY0o2cnA2VVdaVWFnUFBvelY1M2xlaDNfMzJQTl9RVXlmNUtTWmlObHRSaWtsLXdta09qOVp6MXFFMWlaZHJyQkxEQzRfTXR1U01wblhiNQ?oc=5",
+   "src": "다나와 자동차",
    "date": "2026-11-02"
   },
   {
@@ -4738,24 +4756,6 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80d1NkYVVQZVpTVU5zdEZ6QzN6NFVwbHRWOGNnXzJvemozMkV6VjFwbGEzQ3oxb2hIQ3hmS0FtZ2hubEQySEluN0F2Zml3Z2dqb1FBM3NlTmtiMF9SMHg4ZkI3Qm40V2ZKejlobzZHcw?oc=5",
    "src": "오토레이싱",
    "date": "2026-11-01"
-  },
-  {
-   "ko": "마드리드의 열정, F1의 폭발감, 그리고 태그호이어의 질주",
-   "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQQ3J1aU1yeWEtOHhFYzVPV0YtWUR6ZzdxRHFCNWNwNlVyc25QMEVUNkRwbGZyM1VGOVdUUmxmc1BRc0xyMzlQdXdwM1BLZ3BKTWF2QVV6cXRQamVPWTZyRFpnejRwdEJhdDhjbUpFUHg5OEs3TGRNT3FreElOUGNRMTBHWmFWa0hVWDZRQ0lHVlF6NmpHUzktWGd6bUV5NGJUY0t6YjlVdDhrWFNxNGFkb1AtWEpSMERmb1VpWkw3U1lMX0RqMVN5Y2F1WE5WUEtKUGQxUk5vWGtoSWxIcjM5SzczX0ZSSHM0MVRxVnVSbUVWNEZFZG9zUEh0VW5YVVF2cjE1dFlFcVN0WjVjV3lnNDlNdWRPMmRSTi1nWlUzV2R5ZXNZM1VjdlNkekVmSU52Rnh1dU50c21iY0hpN2FyaWRHbG0wLUJaS25jRV8wZk4xLUZZbnc?oc=5",
-   "src": "지큐 코리아 (GQ Korea)",
-   "date": "2026-10-30"
-  },
-  {
-   "ko": "[PRNewswire] 벨로와 맥라렌 마스터카드 포뮬러 1 팀®, 팬들의 꿈을 리버리에 담다",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yb2ppTXRSbGluOHZPb2dISGI1UXNUSC1MTE5lZzloa1c3WUVCYjlVQzBDOUpjTThWSkpiN25BWDRpYW5BZHBRNVdLaWJoeVZJQTlTSVZJV1NNTzA?oc=5",
-   "src": "연합뉴스",
-   "date": "2026-10-29"
-  },
-  {
-   "ko": "\"포뮬러 1(F1) 기술력 양산차로 이전\"...메르세데스-벤츠, 전기 터보 4기통 파워트레인 공개… : 네이버 블로그",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTVBQVDRIV2gtdmkwZnNLdTJ5eVlOcWZEcnkzd0xtWHVIaEp3eHlNMnhuQXB4NU5PeDRja3QtcVhOWkVqMEdnSHlCMHZ0Z3pjMzJtbmtDbHkzWmpmNVdYYS1EZjdNM1BJbmdNUTJxZExXMk0tTnJuVnNyOUQ4MmV1NWxhdUpvemxXaFkyR0JxNDR3R2hGUmZMeA?oc=5",
-   "src": "Naver Blog",
-   "date": "2026-10-29"
   }
  ]
 }
