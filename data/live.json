@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04 08:24 KST",
+ "updated": "2026-11-04 15:25 KST",
  "roundsDone": 19,
  "drivers": [
   {
@@ -4686,6 +4686,12 @@
  ],
  "newsKo": [
   {
+   "ko": "라파엘 카마라, 2026 F1 제20전 브라질 GP서 데뷔",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JNVhvc1ZaakpIZmtCWXhDZF9wX0VObUZNN2R1NmFZTVg3RWN6dHdfdm4wXy1la3VGUXJPVnRHd1VlSkV5QnFjSnFUMVZZMHdiT1RHRW5ObEx6QzBzX3Y4VzYtUFFtWjl4RUphX2ZuVQ?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-11-04"
+  },
+  {
    "ko": "[F1] 드라이버 챔피언 이어 팀 우승까지… 메르세데스, 브라질서 ‘더블’ 확정 도전",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SeGpqMXE5QjhHMGt0UzZoZEhqWVJLTlJtVmstd0FMR0tfVDVrSTVRSG1HaVp4TjhhUW16N0lkNnh5ZklNVWZ4eTRfOWVBWlZzdndEQWpWMi1YOHhMRkd1Y09lTnlGRHAwQmdn?oc=5",
    "src": "https://www.standingout.kr/",
@@ -4701,6 +4707,18 @@
    "ko": "[해외 크리에이티브] 드비알레, F1 드라이버 아이작 하자르와 AI 활용한 새 광고 공개",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBESEVJdXJCQlRCMndRZ1pOOUNDcWFvWWx3OTRvNnBObkU4RHJOaWE5MVVoeFlRd2xZMHpXZjRtWjZLZDI0OHZsNGhCMkh2RUJWQy1WWHpSam9GMXBoVG83M0JCLXNnTl85RXVDbw?oc=5",
    "src": "매드타임스",
+   "date": "2026-11-03"
+  },
+  {
+   "ko": "안토넬리, 20세 68일에 F1 최연소 챔피언…페텔 기록 3년 앞당겨",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82N1QwQnpHQW9ibjV5dWtsbTRnU0dDQ256ZXV4YzlpRF9VMG0taFR6SDNiOUJWZWJpVk1yZ2tZRWJxbzRlRjdOdVltekx1Mm5BV0xnN0pPRDFlSjhNZGdaeW04dXc?oc=5",
+   "src": "서울경제TV",
+   "date": "2026-11-03"
+  },
+  {
+   "ko": "메르세데스 F1의 신성 키미 안토넬리, 20세 나이로 최연소 월드 챔피언 등극",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96cDd3ZWlpbVFkcE1ySTFJejhGQUdRMUF3ZmRFd0VqZnNtaVhITmppaXJMUFNiNjNmZG1SRmhXSVBTcjBHUGZOUWt1Y0NJRTV4ZWU0YnNmSHBuakRHdHowSHlFbVItQ0RpZGhhdw?oc=5",
+   "src": "다나와 자동차",
    "date": "2026-11-03"
   },
   {
@@ -4737,24 +4755,6 @@
    "ko": "'20세 신성' 안토넬리, F1 최연소 드라이버 챔피언 등극",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JaWUzMXJDZUE5QmpXMFdZb0N4aTQ5bXcxbXBGNVgtZU4tRjB5SFZ1YkZOOFZHZFZiUmtoZGppN3RTQk0yZ3BRZVVmQ2c5bGV6cGRiNm1VXzZRN2V2?oc=5",
    "src": "뉴스핌",
-   "date": "2026-11-02"
-  },
-  {
-   "ko": "[2026 F1 제19전 멕시코 GP 공식 기자회견] 1~3위 페르스타펜·해밀턴·안토넬리",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92UkdkQ25CRGMtalc0S1NFZFN6SU1Ba1A2ZW1sNzV2QncwcERPR0hENmJhT2o4ejIzRXBPd1VzYnBjczVUQ1NTRldyWFR4U0UtMW5kZUNXRVlUcnhrdllFMjdZd1F6cjFwYjBXaWx5QQ?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-11-02"
-  },
-  {
-   "ko": "[2026 F1 제19전 멕시코 GP] 페르스타펜 시즌 3승, 안토넬리 최연소 월드챔피언",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xTm9lQXdFYTlVWlMwSGF1bXR0aGloaUxnNkV4M3NYRnFTTGF3QThIeTVhWjJ2NjJINlNrX1d4d2c2N2ZEcDJHcHFIdnR1VjVLNEJTVEJSZkVtaV9zcWJlT1RuUTBMSnY4bHgtdGhzbw?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-11-02"
-  },
-  {
-   "ko": "페라리가 놓친 안토넬리, 메르세데스 타고 ‘F1 세계챔프’",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44SzFaMkZaQjBnaERIMGNDMVVGSFdFb3REVEVTcFYwdGdTMURKR25IVE5oSlhySmlLblZZZkJzSjZPS2VPekttVS1IYzZKOW52?oc=5",
-   "src": "문화일보",
    "date": "2026-11-02"
   }
  ]
