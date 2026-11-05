@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05 08:41 KST",
+ "updated": "2026-11-05 15:49 KST",
  "roundsDone": 19,
  "drivers": [
   {
@@ -4654,6 +4654,18 @@
    "date": ""
   },
   {
+   "en": "Max Verstappen brings “some samba” to Sao Paulo with Brazil-themed F1 helmet",
+   "url": "https://www.motorsport.com/f1/news/max-verstappen-brings-some-samba-to-sao-paulo-with-brazil-themed-f1-helmet/10871580/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-11-05"
+  },
+  {
+   "en": "Kimi Antonelli to honour Ayrton Senna with special helmet at Brazilian GP",
+   "url": "https://www.motorsport.com/f1/news/kimi-antonelli-to-honour-ayrton-senna-with-special-helmet-at-brazilian-gp/10871582/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-11-05"
+  },
+  {
    "en": "Liverpool FC owners emerge as potential buyers of Cadillac F1 shares amid TWG uncertainty",
    "url": "https://www.autosport.com/f1/news/liverpool-fc-owners-emerge-as-potential-buyers-of-cadillac-f1-shares-amid-twg-uncertainty/10871500/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
@@ -4670,18 +4682,6 @@
    "url": "https://www.autosport.com/f1/news/mercedes-takes-blame-for-russells-poor-mexico-gp/10871439/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
    "date": "2026-11-04"
-  },
-  {
-   "en": "Herta to contest FP1 for Cadillac in Brazil to obtain final superlicence point",
-   "url": "https://www.autosport.com/f1/news/herta-to-contest-fp1-in-brazil/10871438/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-11-04"
-  },
-  {
-   "en": "Lando Norris blasts F1 top speed limiters: “We should easily go quicker than a motorbike”",
-   "url": "https://www.motorsport.com/f1/news/lando-norris-blasts-f1-top-speed-limiters-we-should-easily-go-quicker-than-a-motorbike/10871276/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-11-04"
   }
  ],
  "newsKo": [
@@ -4689,6 +4689,12 @@
    "ko": "라파엘 카마라, 2026 F1 제20전 브라질 GP서 데뷔",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JNVhvc1ZaakpIZmtCWXhDZF9wX0VObUZNN2R1NmFZTVg3RWN6dHdfdm4wXy1la3VGUXJPVnRHd1VlSkV5QnFjSnFUMVZZMHdiT1RHRW5ObEx6QzBzX3Y4VzYtUFFtWjl4RUphX2ZuVQ?oc=5",
    "src": "오토레이싱",
+   "date": "2026-11-04"
+  },
+  {
+   "ko": "러셀, 동료 안토넬리 F1 챔피언 등극에 충격…인터뷰 불참으로 팀 벌금",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZSU9nbndhaWdHc2VkVzJzUEMxSkpiUGNqWEZQWTVFN3M4V0NYcjVsbEFqYTZKSUs1TVJkRkEwYTVpNmQ2WFJrQmhFSXNtX0FPRjhzcw?oc=5",
+   "src": "이투데이",
    "date": "2026-11-04"
   },
   {
@@ -4749,12 +4755,6 @@
    "ko": "20세 안토넬리, 역사를 썼다…F1 최연소 드라이버 챔피언 등극",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCWGNNbnlKNFJGSXFEM29MU1RJRmc2ZDBnWWVlbzlFSXFFUmlSNzY5WmpTN0FTUTlqWC0zR3JrUHpYX2U1VG9DY0NVVzF4Y1gzcmJyNlJ3?oc=5",
    "src": "중앙일보",
-   "date": "2026-11-02"
-  },
-  {
-   "ko": "F1 안토넬리, 20세에 역대 최연소 드라이버 챔피언 등극",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5VGtMRS13ZzlMMm9IWUY3VGZvdHhocmJpN3ViTk5lUDBUWFNiMVRZU0QtQlBmaS1UaFFLRU1QYldLZWFoV0MzUVdzWTl4SU9iUk44LTN4ZHU0dHPSAWBBVV95cUxQMkJmMmxjcEJ1YkJlOHdqRVYwZWdNcy1oMFF0a2ZlWlVHRHduUGl1MHk0b3d2UE9fQUd3c2V2aGVxWnVsaU5Fcnd6WWNKbmQ4bmFwQWljZGg3UHBGT2RZUnA?oc=5",
-   "src": "연합뉴스",
    "date": "2026-11-02"
   }
  ]
