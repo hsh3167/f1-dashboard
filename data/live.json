@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07 08:10 KST",
+ "updated": "2026-11-07 14:59 KST",
  "roundsDone": 19,
  "drivers": [
   {
@@ -4600,6 +4600,12 @@
  },
  "news": [
   {
+   "en": "Camara reflects on 'very special' F1 weekend debut",
+   "url": "https://www.formula1.com/en/latest/article/camara-reflects-on-very-special-first-f1-outing-as-he-gears-up-for-haas-debut-in-sao-paulo.7FQp0PWMq4lsDsDAoosi4t",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "Red Bull ‘looking into quite a few changes’ for Verstappen",
    "url": "https://www.formula1.com/en/latest/article/schmitz-confirms-red-bull-looking-into-quite-a-few-changes-following-verstappens-sao-paulo-issues.mt1q9B8dzsQIDHkp5YFUs",
    "src": "Formula1.com",
@@ -4654,12 +4660,6 @@
    "date": ""
   },
   {
-   "en": "Camara looking to learn from Bearman on surprise F1 debut",
-   "url": "https://www.formula1.com/en/latest/article/camara-looking-to-learn-from-bearman-on-surprise-f1-debut-in-brazil.5d47nAelIarNkqGhVsTedK",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
    "en": "F1 Brazilian GP: Antonelli quickest in tricky FP2",
    "url": "https://www.autosport.com/f1/news/f1-brazilian-gp-kimi-antonelli-fastest-in-tricky-fp2/10872299/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
@@ -4704,22 +4704,22 @@
    "date": "2026-11-06"
   },
   {
+   "ko": "F1 데모 주행 ‘런 유니버스 페스티벌 2026’, 11월 28일로 변경",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FNngxVXktOUJqT21VVnpVajlfbWRJaXJoNThPVDJWaWd4WHRTTF9ObXpLOGlIVHVWUnoweHViRFQ3am56LVdTOFpJZXpEMW1MaDNxbDZ2OW0zS0I0?oc=5",
+   "src": "오토뷰",
+   "date": "2026-11-06"
+  },
+  {
    "ko": "F1 역사의 한 조각을 소유하다: 키미 안토넬리의 2025 루키 메르세데스 레이스 슈트, 골딘 경매 등장",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQS16NzJoc21waFMxa1JQS2VyWEljUEZRLVF6LUNFWU5DOUhtVEpTSG5ra0p3R1dNUXhBUjlmQnowOFB0Q3VBWkxHSk1NeXhvSnNvQUJJUXVJYTVIRFB2SzhLNERPdDZyWDg1YnpVV1hyNVZvX3J6UnhENEEwWEZidDhqdWlaTWVDZWJzeE9MLVk0ZFFMZmwzMG1yNFVHTm5zZ1BPQ29KWXFDZw?oc=5",
    "src": "Hypebeast.KR",
    "date": "2026-11-06"
   },
   {
-   "ko": "[2026 F1 서킷 스토리⑳] 고저차·역방향 주행·변덕스러운 날씨의 ‘인터라고스’",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16anNoYkxEc01XVU1Fd21rcXd0UGI4Ul9TcHgyTnpubFBKRXZtaTZfQnRhU2VyWG5EQlM3anRtdHZnYmI5M3dLa3ZIYXdkUjZWMFNpaThKbFFWaXl2bkgtOWpDeVBqUm5tbHJNdzhFbw?oc=5",
+   "ko": "[2026 F1 제20전 브라질 GP 금요일 공식 기자회견] F. 바수르 “페라리가 최우선”, 팀 운영 원칙 재확인",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yZFpXVXFZMk1nVGVJZFdkYTVfdm5ybmg5WDM4OUk0UTRDcFh1MHB5MW1qa2w2bDNod2JQbjY5RGNpZlhYeDVtMHlwM2NjWGtQUTZNR29uenhlQjkydUt5UVhoSE9tcWV1VzJKVjdBRQ?oc=5",
    "src": "오토레이싱",
-   "date": "2026-11-05"
-  },
-  {
-   "ko": "러셀, 동료 안토넬리 F1 챔피언 등극에 충격…인터뷰 불참으로 팀 벌금",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZSU9nbndhaWdHc2VkVzJzUEMxSkpiUGNqWEZQWTVFN3M4V0NYcjVsbEFqYTZKSUs1TVJkRkEwYTVpNmQ2WFJrQmhFSXNtX0FPRjhzcw?oc=5",
-   "src": "이투데이",
-   "date": "2026-11-04"
+   "date": "2026-11-06"
   },
   {
    "ko": "라파엘 카마라, 2026 F1 제20전 브라질 GP서 데뷔",
