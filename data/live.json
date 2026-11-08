@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08 09:38 KST",
+ "updated": "2026-11-08 19:25 KST",
  "roundsDone": 19,
  "drivers": [
   {
@@ -4618,6 +4618,24 @@
  },
  "news": [
   {
+   "en": "Hamilton's remarkable projects away from F1",
+   "url": "https://www.formula1.com/en/latest/article/beyond-the-track-hamiltons-remarkable-projects-away-from-f1-as-he-marks-400-grand-prix-starts.2EHQU6DAJjIFgT7OfB5iHf",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Rivals pay tribute as Hamilton reaches 400 F1 starts",
+   "url": "https://www.formula1.com/en/latest/article/rivals-pay-tribute-as-lewis-hamilton-reaches-400-formula-1-starts-at-sao-paulo-grand-prix.7ahLqNwTWm8Nze2o9hteZB",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "What are the tyre strategy options for the Sao Paulo GP?",
+   "url": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-tactical-options-for-the-sao-paulo-gp.1VKxBiV7J8p5OfDdK0NShA",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "Camara disappointed after crash in debut Qualifying",
    "url": "https://www.formula1.com/en/latest/article/camara-disappointed-after-crashing-in-debut-qualifying-session-at-interlagos.43LN93l0g5l5n6VMNHSV7F",
    "src": "Formula1.com",
@@ -4654,28 +4672,16 @@
    "date": ""
   },
   {
-   "en": "Lawson concedes he 'didn't quite maximise' his Q3 effort",
-   "url": "https://www.formula1.com/en/latest/article/lawson-concedes-he-didnt-quite-maximise-his-q3-effort-despite-looking-forward-to-p3-start-in-sao-paulo.3gr3fXY0IntEj7l7rKzUk4",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "Pierre Gasly on Franco Colapinto fan pressure: “Once you deal with Helmut Marko, anything else is no pressure”",
+   "url": "https://www.motorsport.com/f1/news/pierre-gasly-on-colapinto-fan-pressure-once-you-deal-with-helmut-marko-anything-else-is-no-pressure/10872811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-11-08"
   },
   {
-   "en": "Norris details how he excelled in wet Sao Paulo Qualifying",
-   "url": "https://www.formula1.com/en/latest/article/i-couldnt-have-done-any-more-norris-details-how-he-excelled-in-wet-sao-paulo-qualifying.3eF92OS2BRHYCcvImW3HeI",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "'First Q3 of the season feels good' in Brazil – Alonso",
-   "url": "https://www.formula1.com/en/latest/article/first-q3-of-the-season-feels-good-alonso-has-feet-on-the-ground-after-best-qualifying-of-the-season-in-brazil.4OATD4hn8zsO4htkxOYBBE",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Verstappen sets out goal from back of the grid in Sao Paulo",
-   "url": "https://www.formula1.com/en/latest/article/maybe-its-the-best-place-to-take-it-verstappen-sets-out-goal-from-back-of-the-grid-in-sao-paulo.3Q4PjMuHO5GVxoRFTwhggD",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "F1 2026 qualifying head-to-head: Brazilian GP",
+   "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-brazilian-gp/10872869/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-11-08"
   },
   {
    "en": "Why Russell was so angry in Brazilian GP qualifying despite already having a grid penalty",
@@ -4694,15 +4700,21 @@
    "url": "https://www.autosport.com/f1/news/f1-brazilian-gp-lando-norris-takes-pole-in-soaking-wet-qualifying/10872710/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
    "date": "2026-11-07"
-  },
-  {
-   "en": "Hamilton set for new penalty, will start F1 Brazilian GP from back of grid",
-   "url": "https://www.autosport.com/f1/news/hamilton-set-for-new-penalty-will-start-f1-brazilian-gp-from-back-of-grid/10872645/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-11-07"
   }
  ],
  "newsKo": [
+  {
+   "ko": "[2026 F1 제20전 브라질 GP QR] L. 노리스, 빗속 예선서 2년 연속 PP",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qckcyeGYzU2l2WHdJRTZ6dE5TUnA2WGVzMDNhZE5DNnRaUmhNSTYyWUZ2MTYzMDlWNUNoc2JtWnJzblUtekRNRWpFaGR0NXUyREp3bklfRzB5UUNuaFoxZDdrd2loM0xOSGhma05Raw?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-11-07"
+  },
+  {
+   "ko": "[2026 F1 제20전 브라질 GP QR 공식 기자회견] 노리스 “비가 기회를 줬고, 최대한 활용했다”",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkRmhveVdQU0xVNUhXWUFNOXNaemlRTnh2RU5Ya1RxY2huOUJPTlN1dU1PNEhhMjRoZFdnU3k1LV9IdndpMmYxc2U3OUt3SGJwdTJDN1d6ZU1sUUVHQzBya0o1OWxEdXBWRFEzNzV0OA?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-11-07"
+  },
   {
    "ko": "F1 데모 주행 ‘런 유니버스 페스티벌 2026’, 11월 28일로 변경",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FNngxVXktOUJqT21VVnpVajlfbWRJaXJoNThPVDJWaWd4WHRTTF9ObXpLOGlIVHVWUnoweHViRFQ3am56LVdTOFpJZXpEMW1MaDNxbDZ2OW0zS0I0?oc=5",
@@ -4716,20 +4728,14 @@
    "date": "2026-11-06"
   },
   {
-   "ko": "[2026 F1 제20전 브라질 GP 금요일 공식 기자회견] F. 바수르 “페라리가 최우선”, 팀 운영 원칙 재확인",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yZFpXVXFZMk1nVGVJZFdkYTVfdm5ybmg5WDM4OUk0UTRDcFh1MHB5MW1qa2w2bDNod2JQbjY5RGNpZlhYeDVtMHlwM2NjWGtQUTZNR29uenhlQjkydUt5UVhoSE9tcWV1VzJKVjdBRQ?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-11-06"
-  },
-  {
    "ko": "F1 역사의 한 조각을 소유하다: 키미 안토넬리의 2025 루키 메르세데스 레이스 슈트, 골딘 경매 등장",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQS16NzJoc21waFMxa1JQS2VyWEljUEZRLVF6LUNFWU5DOUhtVEpTSG5ra0p3R1dNUXhBUjlmQnowOFB0Q3VBWkxHSk1NeXhvSnNvQUJJUXVJYTVIRFB2SzhLNERPdDZyWDg1YnpVV1hyNVZvX3J6UnhENEEwWEZidDhqdWlaTWVDZWJzeE9MLVk0ZFFMZmwzMG1yNFVHTm5zZ1BPQ29KWXFDZw?oc=5",
    "src": "Hypebeast.KR",
    "date": "2026-11-06"
   },
   {
-   "ko": "맥라렌 F1팀, NTT와 2027년부터 AI·보안 협력",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03YUZld3pDSkp3elR5NEIwUlZPaVlGT3pIcUJ0Z1JjcnRzX1hwMk8ybHFkbXVXT01tTDZIWWZXMXhHZzg4V09pREYwbkZMaU95M2t5b0pSZ2xxUUk2SDdYUTVNS3dsZGlGbjNTZG9Taw?oc=5",
+   "ko": "[2026 F1 제20전 브라질 GP 금요일 공식 기자회견] F. 바수르 “페라리가 최우선”, 팀 운영 원칙 재확인",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yZFpXVXFZMk1nVGVJZFdkYTVfdm5ybmg5WDM4OUk0UTRDcFh1MHB5MW1qa2w2bDNod2JQbjY5RGNpZlhYeDVtMHlwM2NjWGtQUTZNR29uenhlQjkydUt5UVhoSE9tcWV1VzJKVjdBRQ?oc=5",
    "src": "오토레이싱",
    "date": "2026-11-06"
   },
@@ -4746,18 +4752,6 @@
    "date": "2026-11-04"
   },
   {
-   "ko": "2026 F1 월드챔피언 A. 안토넬리, 챔피언 번호 대신 내년에도 12번 고수",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PaWZRNnZSUVRKVmdmbjhWSlRVektId3lmaXRacktjVTdHaGNia1BLQVJQektHMS1XYUlHT1VEM0QwOFVPR2lPNHZONHh6UWdUSFBBSmdjLUhTUmdoaGxwYkVxemxHN3JfNFpYSllwNA?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-11-04"
-  },
-  {
-   "ko": "[카수다] F1 최연소 챔피언은 타고나는가, 만들어지는가",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tMlpzYXNIdzM5U1dFMU1CX2lLTDM2V2QtbU1OSEJvV2FRLVRDRGhoVnhHM1I5MUN1b0VLcUFUXzFEUExXYXQtWW1ZVTVJZUxzdkx0MmMzc21GLThmbmhfazNxd0paUmx4Qk9SamJZOHk5UQ?oc=5",
-   "src": "프라임경제",
-   "date": "2026-11-04"
-  },
-  {
    "ko": "[F1] 드라이버 챔피언 이어 팀 우승까지… 메르세데스, 브라질서 ‘더블’ 확정 도전",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SeGpqMXE5QjhHMGt0UzZoZEhqWVJLTlJtVmstd0FMR0tfVDVrSTVRSG1HaVp4TjhhUW16N0lkNnh5ZklNVWZ4eTRfOWVBWlZzdndEQWpWMi1YOHhMRkd1Y09lTnlGRHAwQmdn?oc=5",
    "src": "https://www.standingout.kr/",
@@ -4767,6 +4761,12 @@
    "ko": "메르세데스-AMG 페트로나스 F1팀, 멕시코 그랑프리서 ‘월드 챔피언’ 등극",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zWDZ0UnFiTXVjMDVBVXpwN3h6cTNYakhfcEpyMUs0VG1sM3lmeUZ4X2tEcERYd2Y1SU00SlF4R1EzNEpRczNCSDR6Uk9uTjdLNVY4b2pYNlR0SEVI?oc=5",
    "src": "오토뷰",
+   "date": "2026-11-03"
+  },
+  {
+   "ko": "[해외 크리에이티브] 드비알레, F1 드라이버 아이작 하자르와 AI 활용한 새 광고 공개",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBESEVJdXJCQlRCMndRZ1pOOUNDcWFvWWx3OTRvNnBObkU4RHJOaWE5MVVoeFlRd2xZMHpXZjRtWjZLZDI0OHZsNGhCMkh2RUJWQy1WWHpSam9GMXBoVG83M0JCLXNnTl85RXVDbw?oc=5",
+   "src": "매드타임스",
    "date": "2026-11-03"
   },
   {
