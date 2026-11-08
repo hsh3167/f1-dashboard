@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08 19:25 KST",
+ "updated": "2026-11-09 02:56 KST",
  "roundsDone": 19,
  "drivers": [
   {
@@ -4618,6 +4618,18 @@
  },
  "news": [
   {
+   "en": "OFFICIAL GRID: Who starts where for the Sao Paulo Grand Prix",
+   "url": "https://www.formula1.com/en/latest/article/official-grid-who-starts-where-for-the-2026-sao-paulo-grand-prix.5Xx3QRgvo5BHgAm6lZRbZr",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "LIVE COVERAGE: Norris leads in Sao Paulo after Antonelli spin",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.1yG2rNPUND8MpWa1F0mFES",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "Hamilton's remarkable projects away from F1",
    "url": "https://www.formula1.com/en/latest/article/beyond-the-track-hamiltons-remarkable-projects-away-from-f1-as-he-marks-400-grand-prix-starts.2EHQU6DAJjIFgT7OfB5iHf",
    "src": "Formula1.com",
@@ -4648,61 +4660,55 @@
    "date": ""
   },
   {
-   "en": "What To Watch For in the Sao Paulo Grand Prix at Interlagos",
-   "url": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-sao-paulo-grand-prix-at-interlagos.01wpd3EFVTEsOYLLkP6HyD",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "Can Hamilton and Verstappen fight back for F1 Brazilian GP victory?",
+   "url": "https://www.autosport.com/f1/news/ill-try-to-win-somehow-can-lewis-hamilton-and-max-verstappen-fight-back-for-f1-brazilian-gp-victory/10872922/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-11-08"
   },
   {
-   "en": "Hamilton reflects on grid penalties and PU changes in Brazil",
-   "url": "https://www.formula1.com/en/latest/article/using-the-qualifying-session-as-a-test-hamilton-reflects-on-grid-penalties-and-power-unit-changes-in-brazil.52oCsyQ0TZyrWtZKbnuEWx",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "The wet-weather challenges thrown up by Brazilian GP qualifying",
+   "url": "https://www.autosport.com/f1/news/the-wet-weather-challenges-thrown-up-by-brazilian-gp-qualifying/10872894/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-11-08"
   },
   {
-   "en": "'All to play for' in Sao Paulo after Qualifying – Hulkenberg",
-   "url": "https://www.formula1.com/en/latest/article/all-to-play-for-hulkenberg-reflects-on-strong-sao-paulo-qualifying-for-audi.4bMU3ptAMb8EtvF6MCJMke",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "Gabriel Bortoleto's partner Isabella Bernardini shows off custom Audi dress at Brazil GP",
+   "url": "https://www.motorsport.com/f1/news/gabriel-bortoletos-partner-isabella-bernardini-shows-off-custom-audi-dress-at-brazil-gp/10872947/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-11-08"
   },
   {
-   "en": "What the teams said – Qualifying in Brazil",
-   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-qualifying-in-brazil-2026.1mHPYet4OKECujD4Pc1l1r",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "‘I’ll try to win, somehow’ – Can Lewis Hamilton and Max Verstappen fight back for F1 Brazilian GP victory?",
+   "url": "https://www.motorsport.com/f1/news/ill-try-to-win-somehow-can-lewis-hamilton-and-max-verstappen-fight-back-for-f1-brazilian-gp-victory/10872909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-11-08"
+  },
+  {
+   "en": "McLaren’s 2027-spec front wing is making its F1 car more predictable",
+   "url": "https://www.motorsport.com/f1/news/mclarens-2027-spec-front-wing-is-making-its-f1-car-more-predictable/10872891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-11-08"
+  },
+  {
+   "en": "The wet-weather challenges thrown up by Brazilian GP qualifying",
+   "url": "https://www.motorsport.com/f1/news/the-wet-weather-challenges-thrown-up-by-brazilian-gp-qualifying/10872818/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-11-08"
   },
   {
    "en": "Pierre Gasly on Franco Colapinto fan pressure: “Once you deal with Helmut Marko, anything else is no pressure”",
    "url": "https://www.motorsport.com/f1/news/pierre-gasly-on-colapinto-fan-pressure-once-you-deal-with-helmut-marko-anything-else-is-no-pressure/10872811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
    "date": "2026-11-08"
-  },
-  {
-   "en": "F1 2026 qualifying head-to-head: Brazilian GP",
-   "url": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-brazilian-gp/10872869/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-11-08"
-  },
-  {
-   "en": "Why Russell was so angry in Brazilian GP qualifying despite already having a grid penalty",
-   "url": "https://www.autosport.com/f1/news/why-russell-was-so-angry-in-brazilian-gp-qualifying-despite-already-having-a-grid-penalty/10872788/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-11-07"
-  },
-  {
-   "en": "Hamilton insists Ferrari tensions with Leclerc are over: \"We've squashed it\"",
-   "url": "https://www.autosport.com/f1/news/lewis-hamilton-insists-ferrari-tensions-with-charles-leclerc-are-over-weve-squashed-it/10872775/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-11-07"
-  },
-  {
-   "en": "F1 Brazilian GP: Norris splashes to pole from Russell",
-   "url": "https://www.autosport.com/f1/news/f1-brazilian-gp-lando-norris-takes-pole-in-soaking-wet-qualifying/10872710/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-11-07"
   }
  ],
  "newsKo": [
+  {
+   "ko": "F1 브라질 GP, 개최 계약 5년 연장해 2035년까지 확정",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43X1VvaURVQ285bjhMTVhCWDEtdEROcXBOcktQcE56MnVxMldnTml2WnlDWEFMdUhpazY5ZV9CQk9wSVdza2t2OHFxUkhLdlpieUJKaGl5TlBkbWZRYzJLa1JDazc0MFc0RHdjNEJPTQ?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-11-08"
+  },
   {
    "ko": "[2026 F1 제20전 브라질 GP QR] L. 노리스, 빗속 예선서 2년 연속 PP",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qckcyeGYzU2l2WHdJRTZ6dE5TUnA2WGVzMDNhZE5DNnRaUmhNSTYyWUZ2MTYzMDlWNUNoc2JtWnJzblUtekRNRWpFaGR0NXUyREp3bklfRzB5UUNuaFoxZDdrd2loM0xOSGhma05Raw?oc=5",
@@ -4767,12 +4773,6 @@
    "ko": "[해외 크리에이티브] 드비알레, F1 드라이버 아이작 하자르와 AI 활용한 새 광고 공개",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBESEVJdXJCQlRCMndRZ1pOOUNDcWFvWWx3OTRvNnBObkU4RHJOaWE5MVVoeFlRd2xZMHpXZjRtWjZLZDI0OHZsNGhCMkh2RUJWQy1WWHpSam9GMXBoVG83M0JCLXNnTl85RXVDbw?oc=5",
    "src": "매드타임스",
-   "date": "2026-11-03"
-  },
-  {
-   "ko": "안토넬리, 20세 68일에 F1 최연소 챔피언…페텔 기록 3년 앞당겨",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82N1QwQnpHQW9ibjV5dWtsbTRnU0dDQ256ZXV4YzlpRF9VMG0taFR6SDNiOUJWZWJpVk1yZ2tZRWJxbzRlRjdOdVltekx1Mm5BV0xnN0pPRDFlSjhNZGdaeW04dXc?oc=5",
-   "src": "서울경제TV",
    "date": "2026-11-03"
   }
  ]
