@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08 04:26 KST",
+ "updated": "2026-11-08 09:38 KST",
  "roundsDone": 19,
  "drivers": [
   {
@@ -432,6 +432,24 @@
    "ko": "세르히오 페레스",
    "nat": "멕시코",
    "flag": "mx",
+   "note": ""
+  },
+  {
+   "id": "rafael_camara",
+   "code": "CAM",
+   "num": 0,
+   "first": "Rafael",
+   "last": "Camara",
+   "dob": "",
+   "team": "haas",
+   "pos": 25,
+   "pts": 0,
+   "wins": 0,
+   "podiums": 0,
+   "best": 0,
+   "ko": "Rafael Camara",
+   "nat": "",
+   "flag": "un",
    "note": ""
   }
  ],
@@ -4600,97 +4618,91 @@
  },
  "news": [
   {
-   "en": "LIVE COVERAGE: Qualifying delayed in Sao Paulo as rain pours",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-brazil-2026.3f1u3JidkKoZ1jnhWOuAi8",
+   "en": "Camara disappointed after crash in debut Qualifying",
+   "url": "https://www.formula1.com/en/latest/article/camara-disappointed-after-crashing-in-debut-qualifying-session-at-interlagos.43LN93l0g5l5n6VMNHSV7F",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "Hamilton set for further grid penalty in Sao Paulo",
-   "url": "https://www.formula1.com/en/latest/article/hamilton-set-to-start-at-back-of-the-grid-after-further-penalty-ahead-of-sao-paulo-grand-prix.5SFs44M6cNSDvUBCWE9FWZ",
+   "en": "Russell rues ‘misjudgement’ that cost him Sao Paulo pole",
+   "url": "https://www.formula1.com/en/latest/article/this-seasons-just-not-meant-to-be-russell-rues-misjudgement-that-cost-him-sao-paulo-pole.47Tk9mPuyw8ERY7SqWIvPv",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "Verstappen beats Antonelli and Norris in Sao Paulo FP3",
-   "url": "https://www.formula1.com/en/latest/article/fp3-verstappen-fastest-from-antonelli-and-norris-ahead-of-sao-paulo-grand-prix.43ghT9dACzjrhxyjTBgKct",
+   "en": "What To Watch For in the Sao Paulo Grand Prix at Interlagos",
+   "url": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-sao-paulo-grand-prix-at-interlagos.01wpd3EFVTEsOYLLkP6HyD",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "Hamilton, Leclerc and Verstappen take Brazil grid drops",
-   "url": "https://www.formula1.com/en/latest/article/hamilton-leclerc-and-verstappen-set-for-sao-paulo-grand-prix-penalties-after-power-unit-changes.7B5CuFFCN1F6Txc8YwcEhd",
+   "en": "Hamilton reflects on grid penalties and PU changes in Brazil",
+   "url": "https://www.formula1.com/en/latest/article/using-the-qualifying-session-as-a-test-hamilton-reflects-on-grid-penalties-and-power-unit-changes-in-brazil.52oCsyQ0TZyrWtZKbnuEWx",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "F1 to race in Sao Paulo through to 2035 following new deal",
-   "url": "https://www.formula1.com/en/latest/article/formula-1-to-race-in-sao-paulo-through-to-2035-following-new-five-year-contract-extension.3RBVXeLDp6NMDUQSAIX8TL",
+   "en": "'All to play for' in Sao Paulo after Qualifying – Hulkenberg",
+   "url": "https://www.formula1.com/en/latest/article/all-to-play-for-hulkenberg-reflects-on-strong-sao-paulo-qualifying-for-audi.4bMU3ptAMb8EtvF6MCJMke",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "Best Qualifying bets before the Sao Paulo GP",
-   "url": "https://www.formula1.com/en/latest/article/best-qualifying-bets-available-before-the-sao-paulo-grand-prix-in-brazil.3En9aemw37NmvZWqLBL1TM",
+   "en": "What the teams said – Qualifying in Brazil",
+   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-qualifying-in-brazil-2026.1mHPYet4OKECujD4Pc1l1r",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "AS IT HAPPENED: Third practice in Sao Paulo",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-third-practice-in-brazil-2026.2bZye9K2vj2FHjUqPupvAU",
+   "en": "Lawson concedes he 'didn't quite maximise' his Q3 effort",
+   "url": "https://www.formula1.com/en/latest/article/lawson-concedes-he-didnt-quite-maximise-his-q3-effort-despite-looking-forward-to-p3-start-in-sao-paulo.3gr3fXY0IntEj7l7rKzUk4",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "Permane gives update on Racing Bulls driver decision process",
-   "url": "https://www.formula1.com/en/latest/article/the-right-decision-will-be-made-permane-gives-update-on-driver-decision-process-at-racing-bulls.2kgfMJB54MrzV3I94KJHrG",
+   "en": "Norris details how he excelled in wet Sao Paulo Qualifying",
+   "url": "https://www.formula1.com/en/latest/article/i-couldnt-have-done-any-more-norris-details-how-he-excelled-in-wet-sao-paulo-qualifying.3eF92OS2BRHYCcvImW3HeI",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "Can Mercedes keep their rivals at bay in Sao Paulo?",
-   "url": "https://www.formula1.com/en/latest/article/can-mercedes-keep-their-rivals-at-bay-in-sao-paulo.7eVy5I4aTwZqm4N1WE2rBX",
+   "en": "'First Q3 of the season feels good' in Brazil – Alonso",
+   "url": "https://www.formula1.com/en/latest/article/first-q3-of-the-season-feels-good-alonso-has-feet-on-the-ground-after-best-qualifying-of-the-season-in-brazil.4OATD4hn8zsO4htkxOYBBE",
    "src": "Formula1.com",
    "date": ""
+  },
+  {
+   "en": "Verstappen sets out goal from back of the grid in Sao Paulo",
+   "url": "https://www.formula1.com/en/latest/article/maybe-its-the-best-place-to-take-it-verstappen-sets-out-goal-from-back-of-the-grid-in-sao-paulo.3Q4PjMuHO5GVxoRFTwhggD",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Why Russell was so angry in Brazilian GP qualifying despite already having a grid penalty",
+   "url": "https://www.autosport.com/f1/news/why-russell-was-so-angry-in-brazilian-gp-qualifying-despite-already-having-a-grid-penalty/10872788/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-11-07"
+  },
+  {
+   "en": "Hamilton insists Ferrari tensions with Leclerc are over: \"We've squashed it\"",
+   "url": "https://www.autosport.com/f1/news/lewis-hamilton-insists-ferrari-tensions-with-charles-leclerc-are-over-weve-squashed-it/10872775/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-11-07"
+  },
+  {
+   "en": "F1 Brazilian GP: Norris splashes to pole from Russell",
+   "url": "https://www.autosport.com/f1/news/f1-brazilian-gp-lando-norris-takes-pole-in-soaking-wet-qualifying/10872710/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-11-07"
   },
   {
    "en": "Hamilton set for new penalty, will start F1 Brazilian GP from back of grid",
    "url": "https://www.autosport.com/f1/news/hamilton-set-for-new-penalty-will-start-f1-brazilian-gp-from-back-of-grid/10872645/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
    "date": "2026-11-07"
-  },
-  {
-   "en": "F1 Brazilian GP: Verstappen edges out Antonelli to top FP3 as Hamilton hits mechanical trouble",
-   "url": "https://www.autosport.com/f1/news/f1-brazilian-gp-verstappen-edges-out-antonelli-to-top-fp3-as-hamilton-hits-mechanical-trouble/10872582/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-11-07"
-  },
-  {
-   "en": "Hamilton, Leclerc and Verstappen hit with F1 grid penalties for Brazilian GP",
-   "url": "https://www.autosport.com/f1/news/lewis-hamilton-charles-leclerc-and-max-verstappen-hit-with-f1-grid-penalties-for-brazilian-gp/10872564/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-11-07"
-  },
-  {
-   "en": "F1 retains Brazilian GP until 2035 with fresh Sao Paulo deal",
-   "url": "https://www.autosport.com/f1/news/f1-retains-brazilian-gp-until-2035-with-fresh-sao-paulo-deal/10872539/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-11-07"
-  },
-  {
-   "en": "Ocon axing ‘surprised everybody at Haas’",
-   "url": "https://www.autosport.com/f1/news/ayao-komatsu-esteban-ocon-axing-surprised-everybody-at-haas/10872457/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-11-07"
   }
  ],
  "newsKo": [
-  {
-   "ko": "멕시코서 터진 환호…안토넬리, 2026 F1 월드 챔피언 등극",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80Qk0wVXpxTGpJdGw1anpIVy1XWTVQMUdlMDlsYjRmcUZUMVVFR2tINlNSRFVCaVd5Q3Y3bm54TkF1anlTSGdPb0U2dFhKOGdvdnU4WkhDTE5kM1E?oc=5",
-   "src": "연합뉴스",
-   "date": "2026-11-07"
-  },
   {
    "ko": "F1 데모 주행 ‘런 유니버스 페스티벌 2026’, 11월 28일로 변경",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FNngxVXktOUJqT21VVnpVajlfbWRJaXJoNThPVDJWaWd4WHRTTF9ObXpLOGlIVHVWUnoweHViRFQ3am56LVdTOFpJZXpEMW1MaDNxbDZ2OW0zS0I0?oc=5",
@@ -4706,12 +4718,6 @@
   {
    "ko": "[2026 F1 제20전 브라질 GP 금요일 공식 기자회견] F. 바수르 “페라리가 최우선”, 팀 운영 원칙 재확인",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yZFpXVXFZMk1nVGVJZFdkYTVfdm5ybmg5WDM4OUk0UTRDcFh1MHB5MW1qa2w2bDNod2JQbjY5RGNpZlhYeDVtMHlwM2NjWGtQUTZNR29uenhlQjkydUt5UVhoSE9tcWV1VzJKVjdBRQ?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-11-06"
-  },
-  {
-   "ko": "[2026 F1 제20전 브라질 GP FP1] 노리스, 안토넬리 0.082초 차로 제치고 1위",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EV05rd0RscGR0YUFfTkxudnZ5UHJ5Q2c0VGEwNkc2bTY3Z1I1NTJrcWhqREhBU0dpVkFiMGxxXzV6NXR1UDlUei1Ucm40RDFCbEdCS0J1MHpsaHB3b0hIaExnWl81d1lSeWxhemdMaw?oc=5",
    "src": "오토레이싱",
    "date": "2026-11-06"
   },
@@ -4734,10 +4740,16 @@
    "date": "2026-11-05"
   },
   {
-   "ko": "[F1] ‘1번은 불길해서 싫다’… 새 챔피언 안토넬리, 내년에도 ‘12번’ 고수",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VeEFhYXVlVlNmVWJBWElwQ1pQNWtSeWowWnpUTVZkX0ZhWXlxOWphaU43ZFJNUGw0Szl0V0V2bXd6Qjg0Tklwb3BoZEVYQ0M0WVVwSk9QQ1hTWTQtdlM5b2VTSHltZTdFYXg0?oc=5",
-   "src": "https://www.standingout.kr/",
-   "date": "2026-11-05"
+   "ko": "러셀, 동료 안토넬리 F1 챔피언 등극에 충격…인터뷰 불참으로 팀 벌금",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZSU9nbndhaWdHc2VkVzJzUEMxSkpiUGNqWEZQWTVFN3M4V0NYcjVsbEFqYTZKSUs1TVJkRkEwYTVpNmQ2WFJrQmhFSXNtX0FPRjhzcw?oc=5",
+   "src": "이투데이",
+   "date": "2026-11-04"
+  },
+  {
+   "ko": "2026 F1 월드챔피언 A. 안토넬리, 챔피언 번호 대신 내년에도 12번 고수",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PaWZRNnZSUVRKVmdmbjhWSlRVektId3lmaXRacktjVTdHaGNia1BLQVJQektHMS1XYUlHT1VEM0QwOFVPR2lPNHZONHh6UWdUSFBBSmdjLUhTUmdoaGxwYkVxemxHN3JfNFpYSllwNA?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-11-04"
   },
   {
    "ko": "[카수다] F1 최연소 챔피언은 타고나는가, 만들어지는가",
@@ -4746,15 +4758,21 @@
    "date": "2026-11-04"
   },
   {
-   "ko": "[2026 F1 제19전 멕시코 GP 맥라렌] 포디엄 페이스도 추월 한계 극복 못해",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00clVLdTUweHhHbllQUGlvWWpVY1hNRHZVVU1SdXVscVNobmx3NG91V2JLVXBONkptTWJCQm5iSjFRcmhLOWZ1aWdnUkRWbm1pdVBEMDZhb3NWdDJTSW1Ic3pBaVl3STB3b251VW9hdw?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-11-04"
+   "ko": "[F1] 드라이버 챔피언 이어 팀 우승까지… 메르세데스, 브라질서 ‘더블’ 확정 도전",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SeGpqMXE5QjhHMGt0UzZoZEhqWVJLTlJtVmstd0FMR0tfVDVrSTVRSG1HaVp4TjhhUW16N0lkNnh5ZklNVWZ4eTRfOWVBWlZzdndEQWpWMi1YOHhMRkd1Y09lTnlGRHAwQmdn?oc=5",
+   "src": "https://www.standingout.kr/",
+   "date": "2026-11-03"
   },
   {
    "ko": "메르세데스-AMG 페트로나스 F1팀, 멕시코 그랑프리서 ‘월드 챔피언’ 등극",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zWDZ0UnFiTXVjMDVBVXpwN3h6cTNYakhfcEpyMUs0VG1sM3lmeUZ4X2tEcERYd2Y1SU00SlF4R1EzNEpRczNCSDR6Uk9uTjdLNVY4b2pYNlR0SEVI?oc=5",
    "src": "오토뷰",
+   "date": "2026-11-03"
+  },
+  {
+   "ko": "안토넬리, 20세 68일에 F1 최연소 챔피언…페텔 기록 3년 앞당겨",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82N1QwQnpHQW9ibjV5dWtsbTRnU0dDQ256ZXV4YzlpRF9VMG0taFR6SDNiOUJWZWJpVk1yZ2tZRWJxbzRlRjdOdVltekx1Mm5BV0xnN0pPRDFlSjhNZGdaeW04dXc?oc=5",
+   "src": "서울경제TV",
    "date": "2026-11-03"
   }
  ]
