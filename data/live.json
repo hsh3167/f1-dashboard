@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-09 02:56 KST",
- "roundsDone": 19,
+ "updated": "2026-11-09 07:07 KST",
+ "roundsDone": 20,
  "drivers": [
   {
    "id": "antonelli",
@@ -11,7 +11,7 @@
    "dob": "2006-08-25",
    "team": "mercedes",
    "pos": 1,
-   "pts": 380,
+   "pts": 390,
    "wins": 9,
    "podiums": 16,
    "best": 1,
@@ -29,31 +29,13 @@
    "dob": "1997-09-30",
    "team": "red_bull",
    "pos": 2,
-   "pts": 261,
+   "pts": 279,
    "wins": 3,
-   "podiums": 11,
+   "podiums": 12,
    "best": 1,
    "ko": "막스 페르스타펜",
    "nat": "네덜란드",
    "flag": "nl",
-   "note": ""
-  },
-  {
-   "id": "hamilton",
-   "code": "HAM",
-   "num": 44,
-   "first": "Lewis",
-   "last": "Hamilton",
-   "dob": "1985-01-07",
-   "team": "ferrari",
-   "pos": 3,
-   "pts": 259,
-   "wins": 1,
-   "podiums": 7,
-   "best": 1,
-   "ko": "루이스 해밀턴",
-   "nat": "영국",
-   "flag": "gb",
    "note": ""
   },
   {
@@ -64,12 +46,30 @@
    "last": "Russell",
    "dob": "1998-02-15",
    "team": "mercedes",
-   "pos": 4,
-   "pts": 250,
+   "pos": 3,
+   "pts": 262,
    "wins": 3,
    "podiums": 8,
    "best": 1,
    "ko": "조지 러셀",
+   "nat": "영국",
+   "flag": "gb",
+   "note": ""
+  },
+  {
+   "id": "hamilton",
+   "code": "HAM",
+   "num": 44,
+   "first": "Lewis",
+   "last": "Hamilton",
+   "dob": "1985-01-07",
+   "team": "ferrari",
+   "pos": 4,
+   "pts": 261,
+   "wins": 1,
+   "podiums": 7,
+   "best": 1,
+   "ko": "루이스 해밀턴",
    "nat": "영국",
    "flag": "gb",
    "note": ""
@@ -83,7 +83,7 @@
    "dob": "1997-10-16",
    "team": "ferrari",
    "pos": 5,
-   "pts": 245,
+   "pts": 251,
    "wins": 1,
    "podiums": 6,
    "best": 1,
@@ -101,9 +101,9 @@
    "dob": "1999-11-13",
    "team": "mclaren",
    "pos": 6,
-   "pts": 221,
-   "wins": 2,
-   "podiums": 5,
+   "pts": 246,
+   "wins": 3,
+   "podiums": 6,
    "best": 1,
    "ko": "랜도 노리스",
    "nat": "영국",
@@ -119,7 +119,7 @@
    "dob": "2001-04-06",
    "team": "mclaren",
    "pos": 7,
-   "pts": 144,
+   "pts": 152,
    "wins": 0,
    "podiums": 2,
    "best": 2,
@@ -137,9 +137,9 @@
    "dob": "2004-09-28",
    "team": "red_bull",
    "pos": 8,
-   "pts": 107,
+   "pts": 122,
    "wins": 0,
-   "podiums": 2,
+   "podiums": 3,
    "best": 3,
    "ko": "이삭 하자르",
    "nat": "프랑스",
@@ -155,7 +155,7 @@
    "dob": "2002-02-11",
    "team": "red_bull",
    "pos": 9,
-   "pts": 83,
+   "pts": 87,
    "wins": 0,
    "podiums": 0,
    "best": 5,
@@ -263,7 +263,7 @@
    "dob": "1987-08-19",
    "team": "audi",
    "pos": 15,
-   "pts": 13,
+   "pts": 14,
    "wins": 0,
    "podiums": 0,
    "best": 8,
@@ -446,7 +446,7 @@
    "pts": 0,
    "wins": 0,
    "podiums": 0,
-   "best": 0,
+   "best": 20,
    "ko": "Rafael Camara",
    "nat": "",
    "flag": "un",
@@ -457,31 +457,31 @@
   {
    "id": "mercedes",
    "pos": 1,
-   "pts": 630,
+   "pts": 652,
    "wins": 12
   },
   {
    "id": "ferrari",
    "pos": 2,
-   "pts": 504,
+   "pts": 512,
    "wins": 2
   },
   {
    "id": "red_bull",
    "pos": 3,
-   "pts": 382,
+   "pts": 415,
    "wins": 3
   },
   {
    "id": "mclaren",
    "pos": 4,
-   "pts": 365,
-   "wins": 2
+   "pts": 398,
+   "wins": 3
   },
   {
    "id": "rb",
    "pos": 5,
-   "pts": 108,
+   "pts": 112,
    "wins": 0
   },
   {
@@ -499,7 +499,7 @@
   {
    "id": "audi",
    "pos": 8,
-   "pts": 27,
+   "pts": 28,
    "wins": 0
   },
   {
@@ -540,13 +540,14 @@
   "16": "verstappen",
   "17": "verstappen",
   "18": "antonelli",
-  "19": "verstappen"
+  "19": "verstappen",
+  "20": "norris"
  },
  "podium": {
-  "19": [
+  "20": [
+   "norris",
    "verstappen",
-   "hamilton",
-   "antonelli"
+   "hadjar"
   ]
  },
  "results": {
@@ -3513,6 +3514,162 @@
     "pts": 0,
     "t": "Retired"
    }
+  ],
+  "20": [
+   {
+    "p": 1,
+    "d": "norris",
+    "g": 0,
+    "pts": 25,
+    "t": "1:35:23.504"
+   },
+   {
+    "p": 2,
+    "d": "verstappen",
+    "g": 0,
+    "pts": 18,
+    "t": "+14.602"
+   },
+   {
+    "p": 3,
+    "d": "hadjar",
+    "g": 0,
+    "pts": 15,
+    "t": "+24.485"
+   },
+   {
+    "p": 4,
+    "d": "russell",
+    "g": 0,
+    "pts": 12,
+    "t": "+33.991"
+   },
+   {
+    "p": 5,
+    "d": "antonelli",
+    "g": 0,
+    "pts": 10,
+    "t": "+36.017"
+   },
+   {
+    "p": 6,
+    "d": "piastri",
+    "g": 0,
+    "pts": 8,
+    "t": "+56.475"
+   },
+   {
+    "p": 7,
+    "d": "leclerc",
+    "g": 0,
+    "pts": 6,
+    "t": "+1:13.586"
+   },
+   {
+    "p": 8,
+    "d": "lawson",
+    "g": 0,
+    "pts": 4,
+    "t": "+1:15.402"
+   },
+   {
+    "p": 9,
+    "d": "hamilton",
+    "g": 0,
+    "pts": 2,
+    "t": "+4.427"
+   },
+   {
+    "p": 10,
+    "d": "hulkenberg",
+    "g": 0,
+    "pts": 1,
+    "t": "+17.105"
+   },
+   {
+    "p": 11,
+    "d": "lindblad",
+    "g": 0,
+    "pts": 0,
+    "t": "+19.130"
+   },
+   {
+    "p": 12,
+    "d": "alonso",
+    "g": 0,
+    "pts": 0,
+    "t": "+36.856"
+   },
+   {
+    "p": 13,
+    "d": "colapinto",
+    "g": 0,
+    "pts": 0,
+    "t": "+50.488"
+   },
+   {
+    "p": 14,
+    "d": "gasly",
+    "g": 0,
+    "pts": 0,
+    "t": "+58.677"
+   },
+   {
+    "p": 15,
+    "d": "albon",
+    "g": 0,
+    "pts": 0,
+    "t": "+1:04.101"
+   },
+   {
+    "p": 16,
+    "d": "bortoleto",
+    "g": 0,
+    "pts": 0,
+    "t": "+1:16.420"
+   },
+   {
+    "p": 17,
+    "d": "bearman",
+    "g": 0,
+    "pts": 0,
+    "t": "+1:26.711"
+   },
+   {
+    "p": 18,
+    "d": "perez",
+    "g": 0,
+    "pts": 0,
+    "t": "+27.120"
+   },
+   {
+    "p": 19,
+    "d": "sainz",
+    "g": 0,
+    "pts": 0,
+    "t": "+32.463"
+   },
+   {
+    "p": 20,
+    "d": "rafael_camara",
+    "g": 0,
+    "pts": 0,
+    "t": "+51.715"
+   },
+   {
+    "p": 21,
+    "d": "stroll",
+    "g": 0,
+    "pts": 0,
+    "t": "Retired"
+   },
+   {
+    "p": 22,
+    "d": "bottas",
+    "g": 0,
+    "pts": 0,
+    "t": "Did not start"
+   }
   ]
  },
  "sprints": {
@@ -4618,91 +4775,97 @@
  },
  "news": [
   {
+   "en": "Leclerc and Hamilton lament ‘horrendous’ Sao Paulo GP",
+   "url": "https://www.formula1.com/en/latest/article/a-complete-disaster-leclerc-and-hamilton-lament-horrendous-ferrari-performance-in-sao-paulo.sdZmqEEwBaoAC8OmBxvYh",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Leclerc and Antonelli hit with post-race penalties in Brazil",
+   "url": "https://www.formula1.com/en/latest/article/leclerc-hit-with-post-race-penalty-for-sao-paulo-collision-with-lawson.scK3PbeAxR70InNjz1ph3",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "'No idea what happened on that pit exit' spin – Russell",
+   "url": "https://www.formula1.com/en/latest/article/no-idea-what-happened-on-that-pit-exit-russell-reflects-on-spin-and-mercedes-title-win-in-sao-paulo.1C1TWOL9x9TBOkYyNxid7F",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Verstappen reflects on 'challenging' P21 to podium charge",
+   "url": "https://www.formula1.com/en/latest/article/verstappen-reflects-on-challenging-sao-paulo-gp-as-he-charges-from-p21-to-the-podium.4g4jMP9fsJQwWOCfDLitK9",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Norris delighted to ‘give back’ to McLaren in Sao Paulo win",
+   "url": "https://www.formula1.com/en/latest/article/i-just-kept-it-cool-norris-delighted-to-give-something-back-to-mclaren-with-sao-paulo-win.5nqTdIq8oTW6NDdnwWBSdi",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Why this title victory is one of Toto Wolff’s greatest triumphs",
+   "url": "https://www.formula1.com/en/latest/article/why-this-mercedes-title-victory-is-one-of-toto-wolffs-greatest-triumphs.520nWmdi7JAxC4ALa8HnPd",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Max Verstappen is your Sao Paulo GP Driver of the Day",
+   "url": "https://www.formula1.com/en/latest/article/driver-of-the-day-verstappen-gets-fan-vote-for-p21-to-podium-performance-in-sao-paulo.6lAa8RxSlJMqHxsNM0rAKF",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Norris wins wet Sao Paulo GP thriller as Mercedes claim title",
+   "url": "https://www.formula1.com/en/latest/article/norris-beats-verstappen-in-wet-sao-paulo-gp-thriller-as-mercedes-win-constructors-championship.7JN7MXLZf5lk5l0C3gfKGI",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "OFFICIAL GRID: Who starts where for the Sao Paulo Grand Prix",
    "url": "https://www.formula1.com/en/latest/article/official-grid-who-starts-where-for-the-2026-sao-paulo-grand-prix.5Xx3QRgvo5BHgAm6lZRbZr",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "LIVE COVERAGE: Norris leads in Sao Paulo after Antonelli spin",
+   "en": "AS IT HAPPENED: Norris wins Sao Paulo GP as Mercedes take Constructors'",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.1yG2rNPUND8MpWa1F0mFES",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "Hamilton's remarkable projects away from F1",
-   "url": "https://www.formula1.com/en/latest/article/beyond-the-track-hamiltons-remarkable-projects-away-from-f1-as-he-marks-400-grand-prix-starts.2EHQU6DAJjIFgT7OfB5iHf",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "Leclerc penalised for Lawson clash; Antonelli and Oliver Bearman also punished after F1 Brazilian GP",
+   "url": "https://www.autosport.com/f1/news/leclerc-penalised-for-lawson-clash-antonelli-and-oliver-bearman-also-punished-after-f1-brazilian-gp/10873166/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-11-08"
   },
   {
-   "en": "Rivals pay tribute as Hamilton reaches 400 F1 starts",
-   "url": "https://www.formula1.com/en/latest/article/rivals-pay-tribute-as-lewis-hamilton-reaches-400-formula-1-starts-at-sao-paulo-grand-prix.7ahLqNwTWm8Nze2o9hteZB",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "Antonelli explains \"weird\" spin and car instability which cost F1 Brazilian GP win",
+   "url": "https://www.autosport.com/f1/news/antonelli-explains-weird-spin-and-car-instability-which-cost-f1-brazilian-gp-win/10873132/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-11-08"
   },
   {
-   "en": "What are the tyre strategy options for the Sao Paulo GP?",
-   "url": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-tactical-options-for-the-sao-paulo-gp.1VKxBiV7J8p5OfDdK0NShA",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Camara disappointed after crash in debut Qualifying",
-   "url": "https://www.formula1.com/en/latest/article/camara-disappointed-after-crashing-in-debut-qualifying-session-at-interlagos.43LN93l0g5l5n6VMNHSV7F",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Russell rues ‘misjudgement’ that cost him Sao Paulo pole",
-   "url": "https://www.formula1.com/en/latest/article/this-seasons-just-not-meant-to-be-russell-rues-misjudgement-that-cost-him-sao-paulo-pole.47Tk9mPuyw8ERY7SqWIvPv",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "F1 Brazilian GP: Norris wins in mixed conditions, Mercedes clinch constructors’ title",
+   "url": "https://www.autosport.com/f1/news/f1-brazilian-gp-lando-norris-wins-in-mixed-conditions-mercedes-clinches-constructors-title/10873048/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-11-08"
   },
   {
    "en": "Can Hamilton and Verstappen fight back for F1 Brazilian GP victory?",
    "url": "https://www.autosport.com/f1/news/ill-try-to-win-somehow-can-lewis-hamilton-and-max-verstappen-fight-back-for-f1-brazilian-gp-victory/10872922/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
    "date": "2026-11-08"
-  },
-  {
-   "en": "The wet-weather challenges thrown up by Brazilian GP qualifying",
-   "url": "https://www.autosport.com/f1/news/the-wet-weather-challenges-thrown-up-by-brazilian-gp-qualifying/10872894/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-11-08"
-  },
-  {
-   "en": "Gabriel Bortoleto's partner Isabella Bernardini shows off custom Audi dress at Brazil GP",
-   "url": "https://www.motorsport.com/f1/news/gabriel-bortoletos-partner-isabella-bernardini-shows-off-custom-audi-dress-at-brazil-gp/10872947/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-11-08"
-  },
-  {
-   "en": "‘I’ll try to win, somehow’ – Can Lewis Hamilton and Max Verstappen fight back for F1 Brazilian GP victory?",
-   "url": "https://www.motorsport.com/f1/news/ill-try-to-win-somehow-can-lewis-hamilton-and-max-verstappen-fight-back-for-f1-brazilian-gp-victory/10872909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-11-08"
-  },
-  {
-   "en": "McLaren’s 2027-spec front wing is making its F1 car more predictable",
-   "url": "https://www.motorsport.com/f1/news/mclarens-2027-spec-front-wing-is-making-its-f1-car-more-predictable/10872891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-11-08"
-  },
-  {
-   "en": "The wet-weather challenges thrown up by Brazilian GP qualifying",
-   "url": "https://www.motorsport.com/f1/news/the-wet-weather-challenges-thrown-up-by-brazilian-gp-qualifying/10872818/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-11-08"
-  },
-  {
-   "en": "Pierre Gasly on Franco Colapinto fan pressure: “Once you deal with Helmut Marko, anything else is no pressure”",
-   "url": "https://www.motorsport.com/f1/news/pierre-gasly-on-colapinto-fan-pressure-once-you-deal-with-helmut-marko-anything-else-is-no-pressure/10872811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-11-08"
   }
  ],
  "newsKo": [
+  {
+   "ko": "[F1] '17그리드서 우승했던 그곳'… 베르스타펜, 이번엔 21번 그리드 대역전 도전",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5teHNaMXRVN3NFRHUzTE5MZTZBYTJrLUo4Y2tuMTJUQTJ5clJwR1pudVg3azZBeVJheVdLVDRGNkxvVU5DeUE5S1dvX21ielFKUFF4WnE1OUNoQjQ5dlFnTXg1UktUY0tMMldz?oc=5",
+   "src": "https://www.standingout.kr/",
+   "date": "2026-11-08"
+  },
   {
    "ko": "F1 브라질 GP, 개최 계약 5년 연장해 2035년까지 확정",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43X1VvaURVQ285bjhMTVhCWDEtdEROcXBOcktQcE56MnVxMldnTml2WnlDWEFMdUhpazY5ZV9CQk9wSVdza2t2OHFxUkhLdlpieUJKaGl5TlBkbWZRYzJLa1JDazc0MFc0RHdjNEJPTQ?oc=5",
@@ -4767,12 +4930,6 @@
    "ko": "메르세데스-AMG 페트로나스 F1팀, 멕시코 그랑프리서 ‘월드 챔피언’ 등극",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zWDZ0UnFiTXVjMDVBVXpwN3h6cTNYakhfcEpyMUs0VG1sM3lmeUZ4X2tEcERYd2Y1SU00SlF4R1EzNEpRczNCSDR6Uk9uTjdLNVY4b2pYNlR0SEVI?oc=5",
    "src": "오토뷰",
-   "date": "2026-11-03"
-  },
-  {
-   "ko": "[해외 크리에이티브] 드비알레, F1 드라이버 아이작 하자르와 AI 활용한 새 광고 공개",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBESEVJdXJCQlRCMndRZ1pOOUNDcWFvWWx3OTRvNnBObkU4RHJOaWE5MVVoeFlRd2xZMHpXZjRtWjZLZDI0OHZsNGhCMkh2RUJWQy1WWHpSam9GMXBoVG83M0JCLXNnTl85RXVDbw?oc=5",
-   "src": "매드타임스",
    "date": "2026-11-03"
   }
  ]
