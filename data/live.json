@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09 07:07 KST",
+ "updated": "2026-11-09 15:34 KST",
  "roundsDone": 20,
  "drivers": [
   {
@@ -83,7 +83,7 @@
    "dob": "1997-10-16",
    "team": "ferrari",
    "pos": 5,
-   "pts": 251,
+   "pts": 249,
    "wins": 1,
    "podiums": 6,
    "best": 1,
@@ -155,7 +155,7 @@
    "dob": "2002-02-11",
    "team": "red_bull",
    "pos": 9,
-   "pts": 87,
+   "pts": 89,
    "wins": 0,
    "podiums": 0,
    "best": 5,
@@ -463,7 +463,7 @@
   {
    "id": "ferrari",
    "pos": 2,
-   "pts": 512,
+   "pts": 510,
    "wins": 2
   },
   {
@@ -481,7 +481,7 @@
   {
    "id": "rb",
    "pos": 5,
-   "pts": 112,
+   "pts": 114,
    "wins": 0
   },
   {
@@ -3519,154 +3519,154 @@
    {
     "p": 1,
     "d": "norris",
-    "g": 0,
+    "g": 1,
     "pts": 25,
     "t": "1:35:23.504"
    },
    {
     "p": 2,
     "d": "verstappen",
-    "g": 0,
+    "g": 21,
     "pts": 18,
     "t": "+14.602"
    },
    {
     "p": 3,
     "d": "hadjar",
-    "g": 0,
+    "g": 5,
     "pts": 15,
     "t": "+24.485"
    },
    {
     "p": 4,
     "d": "russell",
-    "g": 0,
+    "g": 7,
     "pts": 12,
     "t": "+33.991"
    },
    {
     "p": 5,
     "d": "antonelli",
-    "g": 0,
+    "g": 2,
     "pts": 10,
-    "t": "+36.017"
+    "t": "+41.017"
    },
    {
     "p": 6,
     "d": "piastri",
-    "g": 0,
+    "g": 10,
     "pts": 8,
     "t": "+56.475"
    },
    {
     "p": 7,
-    "d": "leclerc",
-    "g": 0,
+    "d": "lawson",
+    "g": 3,
     "pts": 6,
-    "t": "+1:13.586"
+    "t": "+1:15.402"
    },
    {
     "p": 8,
-    "d": "lawson",
-    "g": 0,
+    "d": "leclerc",
+    "g": 14,
     "pts": 4,
-    "t": "+1:15.402"
+    "t": "+1:18.586"
    },
    {
     "p": 9,
     "d": "hamilton",
-    "g": 0,
+    "g": 20,
     "pts": 2,
     "t": "+4.427"
    },
    {
     "p": 10,
     "d": "hulkenberg",
-    "g": 0,
+    "g": 4,
     "pts": 1,
     "t": "+17.105"
    },
    {
     "p": 11,
     "d": "lindblad",
-    "g": 0,
+    "g": 18,
     "pts": 0,
     "t": "+19.130"
    },
    {
     "p": 12,
     "d": "alonso",
-    "g": 0,
+    "g": 8,
     "pts": 0,
     "t": "+36.856"
    },
    {
     "p": 13,
     "d": "colapinto",
-    "g": 0,
+    "g": 13,
     "pts": 0,
     "t": "+50.488"
    },
    {
     "p": 14,
     "d": "gasly",
-    "g": 0,
+    "g": 15,
     "pts": 0,
     "t": "+58.677"
    },
    {
     "p": 15,
     "d": "albon",
-    "g": 0,
+    "g": 9,
     "pts": 0,
     "t": "+1:04.101"
    },
    {
     "p": 16,
     "d": "bortoleto",
-    "g": 0,
+    "g": 19,
     "pts": 0,
     "t": "+1:16.420"
    },
    {
     "p": 17,
     "d": "bearman",
-    "g": 0,
+    "g": 6,
     "pts": 0,
-    "t": "+1:26.711"
+    "t": "+1:31.711"
    },
    {
     "p": 18,
     "d": "perez",
-    "g": 0,
+    "g": 22,
     "pts": 0,
     "t": "+27.120"
    },
    {
     "p": 19,
     "d": "sainz",
-    "g": 0,
+    "g": 12,
     "pts": 0,
     "t": "+32.463"
    },
    {
     "p": 20,
     "d": "rafael_camara",
-    "g": 0,
+    "g": 11,
     "pts": 0,
     "t": "+51.715"
    },
    {
     "p": 21,
     "d": "stroll",
-    "g": 0,
+    "g": 16,
     "pts": 0,
     "t": "Retired"
    },
    {
     "p": 22,
     "d": "bottas",
-    "g": 0,
+    "g": 17,
     "pts": 0,
     "t": "Did not start"
    }
@@ -4775,6 +4775,36 @@
  },
  "news": [
   {
+   "en": "All the key moments from the 2026 Sao Paulo Grand Prix",
+   "url": "https://www.formula1.com/en/latest/article/sao-paulo-lowdown-all-the-key-moments-as-mercedes-secures-constructors-title-and-norris-wins-in-the-rain.2VjsvSp3rejjziq7VbVVOr",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "How Lawson stated his case with a brilliant Brazilian weekend",
+   "url": "https://www.formula1.com/en/latest/article/how-lawson-stated-his-case-with-a-brilliant-brazilian-weekend.6pFeRcXLYj8qdZZt23LdhV",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Antonelli ‘grateful’ for team glory amid Brazil frustration",
+   "url": "https://www.formula1.com/en/latest/article/they-helped-me-achieve-this-dream-antonelli-grateful-for-mercedes-glory-amid-brazil-frustration.3ZVoYyfjzeFZKrW0bUfXUn",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "What the teams said – Race day in Brazil",
+   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-race-day-in-brazil-2026.6WRrgNQ7FDoFnwzxR9Vjw7",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Wolff already thinking about 2027 despite constructors' win",
+   "url": "https://www.formula1.com/en/latest/article/wolff-already-thinking-about-2027-despite-constructors-championship-win-in-brazil.21aGFbwHKbhjkcmpeYVrZV",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "Leclerc and Hamilton lament ‘horrendous’ Sao Paulo GP",
    "url": "https://www.formula1.com/en/latest/article/a-complete-disaster-leclerc-and-hamilton-lament-horrendous-ferrari-performance-in-sao-paulo.sdZmqEEwBaoAC8OmBxvYh",
    "src": "Formula1.com",
@@ -4805,36 +4835,6 @@
    "date": ""
   },
   {
-   "en": "Why this title victory is one of Toto Wolff’s greatest triumphs",
-   "url": "https://www.formula1.com/en/latest/article/why-this-mercedes-title-victory-is-one-of-toto-wolffs-greatest-triumphs.520nWmdi7JAxC4ALa8HnPd",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Max Verstappen is your Sao Paulo GP Driver of the Day",
-   "url": "https://www.formula1.com/en/latest/article/driver-of-the-day-verstappen-gets-fan-vote-for-p21-to-podium-performance-in-sao-paulo.6lAa8RxSlJMqHxsNM0rAKF",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Norris wins wet Sao Paulo GP thriller as Mercedes claim title",
-   "url": "https://www.formula1.com/en/latest/article/norris-beats-verstappen-in-wet-sao-paulo-gp-thriller-as-mercedes-win-constructors-championship.7JN7MXLZf5lk5l0C3gfKGI",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "OFFICIAL GRID: Who starts where for the Sao Paulo Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/official-grid-who-starts-where-for-the-2026-sao-paulo-grand-prix.5Xx3QRgvo5BHgAm6lZRbZr",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "AS IT HAPPENED: Norris wins Sao Paulo GP as Mercedes take Constructors'",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.1yG2rNPUND8MpWa1F0mFES",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
    "en": "Leclerc penalised for Lawson clash; Antonelli and Oliver Bearman also punished after F1 Brazilian GP",
    "url": "https://www.autosport.com/f1/news/leclerc-penalised-for-lawson-clash-antonelli-and-oliver-bearman-also-punished-after-f1-brazilian-gp/10873166/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
@@ -4861,14 +4861,38 @@
  ],
  "newsKo": [
   {
-   "ko": "[F1] '17그리드서 우승했던 그곳'… 베르스타펜, 이번엔 21번 그리드 대역전 도전",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5teHNaMXRVN3NFRHUzTE5MZTZBYTJrLUo4Y2tuMTJUQTJ5clJwR1pudVg3azZBeVJheVdLVDRGNkxvVU5DeUE5S1dvX21ielFKUFF4WnE1OUNoQjQ5dlFnTXg1UktUY0tMMldz?oc=5",
-   "src": "https://www.standingout.kr/",
-   "date": "2026-11-08"
+   "ko": "‘한국인 최초 F1 도전’ 이규호, GB3 챔피언십 첫 시즌 10위로 마감",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wSWU5S25mSGtLZ3ZuLUtPMEZCdVlKUVpSWW1feEF5WEdQei1waE5YMUJBbjEzQlNYWWpVYUxmSFBtT1B0VW5xM2F4UW9pVHkxdE5iN1EwYjY3X0I3ZEFQaXRn?oc=5",
+   "src": "미주중앙일보",
+   "date": "2026-11-09"
   },
   {
-   "ko": "F1 브라질 GP, 개최 계약 5년 연장해 2035년까지 확정",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43X1VvaURVQ285bjhMTVhCWDEtdEROcXBOcktQcE56MnVxMldnTml2WnlDWEFMdUhpazY5ZV9CQk9wSVdza2t2OHFxUkhLdlpieUJKaGl5TlBkbWZRYzJLa1JDazc0MFc0RHdjNEJPTQ?oc=5",
+   "ko": "'F1 도전' 이규호, GB3 챔피언십 첫 시즌 '랭킹 10위'로 마무리",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qaTNtYV85eHJucWtnRGo5MXBHUGUwbTV4QXJaR29IVGlXRFF2bFZZMXU0ZEVWcE4zMGdzSEFTazRkMzFqTUJLSTNtclozZFQ3NnBEd1QxWHpGNWc1d3BaOdIBYEFVX3lxTE5qaTNtYV85eHJucWtnRGo5MXBHUGUwbTV4QXJaR29IVGlXRFF2bFZZMXU0ZEVWcE4zMGdzSEFTazRkMzFqTUJLSTNtclozZFQ3NnBEd1QxWHpGNWc1d3BaOQ?oc=5",
+   "src": "연합뉴스",
+   "date": "2026-11-09"
+  },
+  {
+   "ko": "메르세데스-AMG 페트로나스 F1 팀, 2026 컨스트럭터 챔피언십 우승 확정",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeG5OMEY5R0tUR25wZHp2Zm5MTDlBVHhHZ012RnBSQTVQNU1WbFVLNmY1SmowajNiaUw5V08zS2tmUnhvc0xMaGFvMGtsUS1pQXNLQ1ZIcWtSTGVsa25YVkNxOTZYaTQ3REJBaDl3M3M1ajdNdUdPaGtmXzVxX2Flal8yZ3NGaGpRSWVuNzNPQWc5aDVyR2M5VENiTld2Q2NfMUNhY280QTU3alV1U0R6WA?oc=5",
+   "src": "Hypebeast.KR",
+   "date": "2026-11-09"
+  },
+  {
+   "ko": "[2026 F1 제20전 브라질 GP 공식 기자회견] 1~3위 노리스·페르스타펜·아자르",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YTXVlOWJhRm9CdWM3NXpreEZ4bk92ajdIYi1XYTBrRW4yYU5rcms1VWF6cmNOQWdvSlQwMVl6azFXOTRzVUdiaVZpR3BLMC13bmYzWGV4NEZhajJ2V2p3TXpXNzFEVFRTZ2hpMVQ5RQ?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-11-09"
+  },
+  {
+   "ko": "F1 메르세데스, 5년 만에 통산 9번째 팀 정상…안토넬리와 양대 타이틀 석권",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZbFFtVTlCSWdnWFp0cWY5TktMTGhoOHlnV1RFTnhZc3gtdWtZcXNacnY4dGwzM2dKU2kyZE41c29OUU1OYjZFNld4RzN0cV9hTzN6Q2F5ZErSAVRBVV95cUxOT1lSOFZGMFBZVkdDTmh3TTg3YkJSc190V1dpRU9HWUxwYUxIYXpESmZnZzBZdDVXSnFDRTIwRWdFU2dlSHVWQS1RaWZDUF9DWS1TNEc?oc=5",
+   "src": "세계일보",
+   "date": "2026-11-09"
+  },
+  {
+   "ko": "[2026 F1 제20전 브라질 GP] L. 노리스 시즌 3승, 메르세데스 컨스트럭터 챔피언 확정",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uZUw0cV92S3ZQZGVLRkJjbVoyVEJEbVhXU2RGSTl5WGctSzFjOTlPNkVkT0t4LXYxOFVGVFBMTHhIRnBIMHpObE54N1Q2TGg2aHNmOUZrMFR2dUdPRjExNnpETk9CZ2JudXAzMHBaYw?oc=5",
    "src": "오토레이싱",
    "date": "2026-11-08"
   },
@@ -4885,9 +4909,9 @@
    "date": "2026-11-07"
   },
   {
-   "ko": "F1 데모 주행 ‘런 유니버스 페스티벌 2026’, 11월 28일로 변경",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FNngxVXktOUJqT21VVnpVajlfbWRJaXJoNThPVDJWaWd4WHRTTF9ObXpLOGlIVHVWUnoweHViRFQ3am56LVdTOFpJZXpEMW1MaDNxbDZ2OW0zS0I0?oc=5",
-   "src": "오토뷰",
+   "ko": "아우디 F1팀, 상파울루 도시 문양 담은 특별 리버리 공개",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HbzNwUHRlWndveXJXdFFja0lMdzRoNkd4YXhqY2k2dHMzckJITDJja2NiR3F6T3RVc0J4MTMyeXZGOHdRMUoyQnM2R0tIc3dibjA3VmlDS1lndHBYbHBWOEYwY0lpOEE5eGEwdGpFdw?oc=5",
+   "src": "오토레이싱",
    "date": "2026-11-06"
   },
   {
@@ -4907,30 +4931,6 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yZFpXVXFZMk1nVGVJZFdkYTVfdm5ybmg5WDM4OUk0UTRDcFh1MHB5MW1qa2w2bDNod2JQbjY5RGNpZlhYeDVtMHlwM2NjWGtQUTZNR29uenhlQjkydUt5UVhoSE9tcWV1VzJKVjdBRQ?oc=5",
    "src": "오토레이싱",
    "date": "2026-11-06"
-  },
-  {
-   "ko": "[2026 F1 서킷 스토리⑳] 고저차·역방향 주행·변덕스러운 날씨의 ‘인터라고스’",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16anNoYkxEc01XVU1Fd21rcXd0UGI4Ul9TcHgyTnpubFBKRXZtaTZfQnRhU2VyWG5EQlM3anRtdHZnYmI5M3dLa3ZIYXdkUjZWMFNpaThKbFFWaXl2bkgtOWpDeVBqUm5tbHJNdzhFbw?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-11-05"
-  },
-  {
-   "ko": "러셀, 동료 안토넬리 F1 챔피언 등극에 충격…인터뷰 불참으로 팀 벌금",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZSU9nbndhaWdHc2VkVzJzUEMxSkpiUGNqWEZQWTVFN3M4V0NYcjVsbEFqYTZKSUs1TVJkRkEwYTVpNmQ2WFJrQmhFSXNtX0FPRjhzcw?oc=5",
-   "src": "이투데이",
-   "date": "2026-11-04"
-  },
-  {
-   "ko": "[F1] 드라이버 챔피언 이어 팀 우승까지… 메르세데스, 브라질서 ‘더블’ 확정 도전",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SeGpqMXE5QjhHMGt0UzZoZEhqWVJLTlJtVmstd0FMR0tfVDVrSTVRSG1HaVp4TjhhUW16N0lkNnh5ZklNVWZ4eTRfOWVBWlZzdndEQWpWMi1YOHhMRkd1Y09lTnlGRHAwQmdn?oc=5",
-   "src": "https://www.standingout.kr/",
-   "date": "2026-11-03"
-  },
-  {
-   "ko": "메르세데스-AMG 페트로나스 F1팀, 멕시코 그랑프리서 ‘월드 챔피언’ 등극",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zWDZ0UnFiTXVjMDVBVXpwN3h6cTNYakhfcEpyMUs0VG1sM3lmeUZ4X2tEcERYd2Y1SU00SlF4R1EzNEpRczNCSDR6Uk9uTjdLNVY4b2pYNlR0SEVI?oc=5",
-   "src": "오토뷰",
-   "date": "2026-11-03"
   }
  ]
 }
