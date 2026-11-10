@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 12:35 KST",
+ "updated": "2026-11-10 23:55 KST",
  "roundsDone": 20,
  "drivers": [
   {
@@ -437,10 +437,10 @@
   {
    "id": "rafael_camara",
    "code": "CAM",
-   "num": 0,
+   "num": 51,
    "first": "Rafael",
    "last": "Camara",
-   "dob": "",
+   "dob": "2005-05-05",
    "team": "haas",
    "pos": 25,
    "pts": 0,
@@ -448,8 +448,8 @@
    "podiums": 0,
    "best": 20,
    "ko": "Rafael Camara",
-   "nat": "",
-   "flag": "un",
+   "nat": "브라질",
+   "flag": "br",
    "note": ""
   }
  ],
@@ -4775,6 +4775,30 @@
  },
  "news": [
   {
+   "en": "Camara experiences every condition in ‘tricky’ Haas debut",
+   "url": "https://www.formula1.com/en/latest/article/camara-experiences-every-condition-going-in-tricky-haas-debut.40TC0zRX2AaMmtJ50RsCYH",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Why McLaren went the opposite way to Mercedes' front wing",
+   "url": "https://www.formula1.com/en/latest/article/why-mclaren-went-the-opposite-way-to-mercedes-on-their-front-wing.6adMZ9ne0eiXVRofKcPgF8",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Alonso credits ‘phenomenal’ car after strong drive in Brazil",
+   "url": "https://www.formula1.com/en/latest/article/alonso-credits-phenomenal-car-after-strong-showing-in-sao-paulo.7d9xmDFQhJ3IRqGx0xuFHK",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "P10 in Sao Paulo GP 'the maximum possible' – Hulkenberg",
+   "url": "https://www.formula1.com/en/latest/article/the-maximum-possible-hulkenberg-on-audis-fight-for-points-in-sao-paulo-grand-prix.1KO1iL7LzQm3Cfl0CGspws",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "The best images from Mercedes' title celebrations",
    "url": "https://www.formula1.com/en/latest/article/gallery-the-best-images-from-mercedes-title-celebrations-2026.1GRUyTDIodPm4vvlVEydw5",
    "src": "Formula1.com",
@@ -4805,64 +4829,46 @@
    "date": ""
   },
   {
-   "en": "Piastri and management team mutually terminate agreement",
-   "url": "https://www.formula1.com/en/latest/article/piastri-and-management-team-mutually-terminate-agreement.a59N6pYIBGSiFmwMY1Xkk",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Vasseur explains Ferrari’s tyre struggles in Brazil",
-   "url": "https://www.formula1.com/en/latest/article/if-youre-not-in-the-right-spot-youre-nowhere-vasseur-explains-ferraris-brazil-tyre-struggles.4BJ7k41PfxDI31jhSg9RU",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "The 110 seconds that almost won Verstappen the Sao Paulo GP",
-   "url": "https://www.formula1.com/en/latest/article/the-110-seconds-that-almost-won-verstappen-the-sao-paulo-grand-prix.1ekcYv2HICNUBqf0ZhUylV",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "All the key moments from the 2026 Sao Paulo Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/sao-paulo-lowdown-all-the-key-moments-as-mercedes-secures-constructors-title-and-norris-wins-in-the-rain.2VjsvSp3rejjziq7VbVVOr",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "How Lawson stated his case with a brilliant Brazilian weekend",
-   "url": "https://www.formula1.com/en/latest/article/how-lawson-stated-his-case-with-a-brilliant-brazilian-weekend.6pFeRcXLYj8qdZZt23LdhV",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "What's behind Piastri's split with Webber – and what it means for his F1 career",
-   "url": "https://www.autosport.com/f1/news/whats-behind-piastris-split-with-webber-and-what-it-means-for-his-f1-career/10873410/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "en": "FIA reveals ADUO results in final review of 2026 F1 season",
+   "url": "https://www.autosport.com/f1/news/fia-reveals-aduo-results-in-final-review-of-2026-f1-season/10873566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
-   "date": "2026-11-09"
+   "date": "2026-11-10"
   },
   {
-   "en": "How the Racing Bulls pendulum is swinging back towards Lawson",
-   "url": "https://www.autosport.com/f1/news/how-the-racing-bulls-pendulum-is-swinging-back-towards-lawson/10873320/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-11-09"
-  },
-  {
-   "en": "Piastri and Webber terminate management agreement",
-   "url": "https://www.autosport.com/f1/news/oscar-piastri-splits-from-mark-webber-management/10873258/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-11-09"
-  },
-  {
-   "en": "F1 Las Vegas Grand Prix announces pre-race music line-up",
-   "url": "https://www.motorsport.com/f1/news/f1-las-vegas-grand-prix-announces-pre-race-music-line-up/10873488/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "en": "F1 2026 calendar update: Imola GP off the table, no plan B if war escalates",
+   "url": "https://www.motorsport.com/f1/news/f1-2026-calendar-update-imola-gp-off-the-table-no-plan-b-if-war-escalates/10873637/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
-   "date": "2026-11-09"
+   "date": "2026-11-10"
+  },
+  {
+   "en": "FIA reveals latest ADUO results in final review of 2026 F1 season",
+   "url": "https://www.motorsport.com/f1/news/fia-reveals-latest-aduo-results-in-final-review-of-2026-f1-season/10873562/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-11-10"
+  },
+  {
+   "en": "Honda struggling to explain Lance Stroll’s 13th DNF of the season",
+   "url": "https://www.motorsport.com/f1/news/honda-struggling-to-explain-lance-strolls-13th-dnf-of-the-season/10873412/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-11-10"
+  },
+  {
+   "en": "Laurent Mekies: Liam Lawson’s fate has nothing to do with me",
+   "url": "https://www.motorsport.com/f1/news/laurent-mekies-liam-lawsons-fate-has-nothing-to-do-with-me/10873368/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-11-10"
   }
  ],
  "newsKo": [
   {
-   "ko": "[카트에서 F1까지②] F1 드라이버는 왜 카트에서 시작하나",
+   "ko": "[카트에서 F1까지②] F1 드라이버가 카트에서 시작하는 이유",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PLUh5TkdLSncyd05QZmVqQlptMnhRMnFuejZJMHBQTGZFcE1hQVN5aGZsOVJ6TXJ3WHJZNmcxY2Nud0owWVV1dkFUTEtGTWdkWjlFWGlycTA1THp2QjNvZmJrQW1wMTBrUlJXcjVBNA?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-11-10"
+  },
+  {
+   "ko": "[2026 F1 제20전 브라질 GP 메르세데스] 우승 놓쳤지만 통산 9번째 팀 챔피언 등극",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FcmczdnlNV2RzNXdUN0xBUURubjMtLWhGNDZZaTRST1NlX1d2U0JaSUxjUzFVVU1vaWc3UDM1ZTloQzVnSHRTRDV3eEVTcXdoY0pLemp2Mml0eU9zU1ZRdl9iSlFqSXJUYkZNRFQ1WQ?oc=5",
    "src": "오토레이싱",
    "date": "2026-11-10"
   },
@@ -4886,14 +4892,8 @@
   },
   {
    "ko": "4·5위로 웃은 메르세데스… 6년 만에 F1 '더블'",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XSUhham5QS05TT3k5Z0JJOWQyMW5TTzZxVFdaeWc2VHlKS3JUajgtZjJRUzdMdzZrVGtudkdkUkY0M3pULWJ4WVZOd3JUcVlzZTdjMDdqRV9oeFNZRkhtRG00TmpDbk1DbDZtcmJkekg5VTjSAXNBVV95cUxPV0lIYWpuUEtOU095OWdCSTlkMjFuU082cVRXWnlnNlR5SktyVGo4LWYyUVM3THc2a1RrbnZHZFJGNDN6VC1ieFlWTndyVHFZc2U3YzA3akVfaHhTWUZIbURtNE5qQ25NQ2w2bXJiZHpIOVU4?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FMnFwMlFhejZjVkJVLVVydGNkYlZ2OFJVd2tjQkIxdS1KRHBBdE92eE1NUlROTkhaRTZyYXRVZDdxZjhITVpySEplSGRfX3lxSmZIOFozT0lNMFpGdjVtc1d1WFJRSldvWmdGajd30gFzQVVfeXFMT1dJSGFqblBLTlNPeTlnQkk5ZDIxblNPNnFUV1p5ZzZUeUpLclRqOC1mMlFTN0x3NmtUa252R2RSRjQzelQtYnhZVk53clRxWXNlN2MwN2pFX2h4U1lGSG1EbTROakNuTUNsNm1yYmR6SDlVOA?oc=5",
    "src": "한국일보",
-   "date": "2026-11-09"
-  },
-  {
-   "ko": "‘한국인 최초 F1 도전’ 이규호, GB3 챔피언십 첫 시즌 10위로 마감",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wSWU5S25mSGtLZ3ZuLUtPMEZCdVlKUVpSWW1feEF5WEdQei1waE5YMUJBbjEzQlNYWWpVYUxmSFBtT1B0VW5xM2F4UW9pVHkxdE5iN1EwYjY3X0I3ZEFQaXRn?oc=5",
-   "src": "미주중앙일보",
    "date": "2026-11-09"
   },
   {
