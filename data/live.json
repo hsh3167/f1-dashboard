@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 04:50 KST",
+ "updated": "2026-11-10 12:35 KST",
  "roundsDone": 20,
  "drivers": [
   {
@@ -4853,16 +4853,22 @@
    "date": "2026-11-09"
   },
   {
-   "en": "George Russell teases imminent karting announcement as F1 fans spot major clue",
-   "url": "https://www.motorsport.com/f1/news/george-russell-teases-imminent-karting-announcement-as-f1-fans-spot-major-clue/10873459/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "en": "F1 Las Vegas Grand Prix announces pre-race music line-up",
+   "url": "https://www.motorsport.com/f1/news/f1-las-vegas-grand-prix-announces-pre-race-music-line-up/10873488/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
    "date": "2026-11-09"
   }
  ],
  "newsKo": [
   {
+   "ko": "[카트에서 F1까지②] F1 드라이버는 왜 카트에서 시작하나",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PLUh5TkdLSncyd05QZmVqQlptMnhRMnFuejZJMHBQTGZFcE1hQVN5aGZsOVJ6TXJ3WHJZNmcxY2Nud0owWVV1dkFUTEtGTWdkWjlFWGlycTA1THp2QjNvZmJrQW1wMTBrUlJXcjVBNA?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-11-10"
+  },
+  {
    "ko": "F1 메르세데스, 6년 만에 드라이버·제조자 챔피언 '더블 달성'",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XZ0luR3lFb1ZTUEpWTEg3WW83NWIyS1R6SDBhWXRhNGFNUklQenB3ZzZra1NodzBQcXZDdC1QU2NvcUJ4aHpDVFNaLUQxUWNaOFRDU19CcFgzMlItdHRTWdIBYEFVX3lxTE5XZ0luR3lFb1ZTUEpWTEg3WW83NWIyS1R6SDBhWXRhNGFNUklQenB3ZzZra1NodzBQcXZDdC1QU2NvcUJ4aHpDVFNaLUQxUWNaOFRDU19CcFgzMlItdHRTWQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oX3RQa1hCaUNyTUtmTndqMDllcXpLeUhwZG4wRVR4OU03QXYxVmV0a0VFUXM5aGhmOUdDdy1oaUZYQU9ockUxeFB2bUVJY0ViUnhWemFzWmJPSDjSAWBBVV95cUxOV2dJbkd5RW9WU1BKVkxIN1lvNzViMktUekgwYVl0YTRhTVJJUHpwd2c2a2tTaHcwUHF2Q3QtUFNjb3FCeGh6Q1RTWi1EMVFjWjhUQ1NfQnBYMzJSLXR0U1k?oc=5",
    "src": "연합뉴스",
    "date": "2026-11-09"
   },
@@ -4870,12 +4876,6 @@
    "ko": "메르세데스, 페라리 눌렀다…F1 6년 만에 제조자·드라이버 챔피언",
    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoMldLQTJ4ME1UQmxpeXp5UzQ4SnBMU3pnQmt2UTE1Vk14Zl9TTjZLdFhVemRIMjBtNFRITE1TSFhHYnFDM0tMVEh2NG9CT1dsWUdr0gFYQVVfeXFMUHc2TlFOdW9lN1lOcmZjSUxUM1lfSlNGUWtfZ1VsRmtBU1Q4MnVvbHlFRG5ySHVnZWNnWE5TNTR4cjF6cncyYThWZjUtbjJ1QWllSHFHZDVsQQ?oc=5",
    "src": "SBS Biz",
-   "date": "2026-11-09"
-  },
-  {
-   "ko": "메르세데스, 2026 F1 드라이버·제조자 챔피언 동시 석권",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VUGVfVjdXdk12dVdCMEo5UTY1WFV0WTBTbUNUWGk2S0NKWEt3ZlFPZVZ4UTgwN28yVWZJSkJnN042WHZyS05HSlZGbDNlSmFUTmxvbXN3dHg2US1pTzFtUTRRamF5WW9BVWd6dENSa21Sdw?oc=5",
-   "src": "톱스타뉴스",
    "date": "2026-11-09"
   },
   {
@@ -4888,6 +4888,12 @@
    "ko": "4·5위로 웃은 메르세데스… 6년 만에 F1 '더블'",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XSUhham5QS05TT3k5Z0JJOWQyMW5TTzZxVFdaeWc2VHlKS3JUajgtZjJRUzdMdzZrVGtudkdkUkY0M3pULWJ4WVZOd3JUcVlzZTdjMDdqRV9oeFNZRkhtRG00TmpDbk1DbDZtcmJkekg5VTjSAXNBVV95cUxPV0lIYWpuUEtOU095OWdCSTlkMjFuU082cVRXWnlnNlR5SktyVGo4LWYyUVM3THc2a1RrbnZHZFJGNDN6VC1ieFlWTndyVHFZc2U3YzA3akVfaHhTWUZIbURtNE5qQ25NQ2w2bXJiZHpIOVU4?oc=5",
    "src": "한국일보",
+   "date": "2026-11-09"
+  },
+  {
+   "ko": "‘한국인 최초 F1 도전’ 이규호, GB3 챔피언십 첫 시즌 10위로 마감",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wSWU5S25mSGtLZ3ZuLUtPMEZCdVlKUVpSWW1feEF5WEdQei1waE5YMUJBbjEzQlNYWWpVYUxmSFBtT1B0VW5xM2F4UW9pVHkxdE5iN1EwYjY3X0I3ZEFQaXRn?oc=5",
+   "src": "미주중앙일보",
    "date": "2026-11-09"
   },
   {
@@ -4909,15 +4915,15 @@
    "date": "2026-11-09"
   },
   {
-   "ko": "F1 메르세데스, 5년 만에 통산 9번째 팀 정상…안토넬리와 양대 타이틀 석권",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ZbFFtVTlCSWdnWFp0cWY5TktMTGhoOHlnV1RFTnhZc3gtdWtZcXNacnY4dGwzM2dKU2kyZE41c29OUU1OYjZFNld4RzN0cV9hTzN6Q2F5ZErSAVRBVV95cUxOT1lSOFZGMFBZVkdDTmh3TTg3YkJSc190V1dpRU9HWUxwYUxIYXpESmZnZzBZdDVXSnFDRTIwRWdFU2dlSHVWQS1RaWZDUF9DWS1TNEc?oc=5",
-   "src": "세계일보",
-   "date": "2026-11-09"
-  },
-  {
    "ko": "\"상파울루서 컨스트럭터 우승 확정\"... 메르세데스 F1, 통산 9번째 정상",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxdUVoTk13OElla2JnVEpUMkh5dnRSYmtpaG5WYjR4aGtIbG9CNzUxNUNVY0tISEhNMzdUWXRjbUR0MzNyMU03Rk53LTBTb2s3RVphalZqOEdDWE1VZWxYbU5KZ01ORExvdEI2MF9iazc?oc=5",
    "src": "오토트리뷴",
+   "date": "2026-11-09"
+  },
+  {
+   "ko": "메르세데스, 2026 F1 드라이버·제조자 챔피언 동시 석권",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VUGVfVjdXdk12dVdCMEo5UTY1WFV0WTBTbUNUWGk2S0NKWEt3ZlFPZVZ4UTgwN28yVWZJSkJnN042WHZyS05HSlZGbDNlSmFUTmxvbXN3dHg2US1pTzFtUTRRamF5WW9BVWd6dENSa21Sdw?oc=5",
+   "src": "톱스타뉴스",
    "date": "2026-11-09"
   },
   {
@@ -4925,12 +4931,6 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uZUw0cV92S3ZQZGVLRkJjbVoyVEJEbVhXU2RGSTl5WGctSzFjOTlPNkVkT0t4LXYxOFVGVFBMTHhIRnBIMHpObE54N1Q2TGg2aHNmOUZrMFR2dUdPRjExNnpETk9CZ2JudXAzMHBaYw?oc=5",
    "src": "오토레이싱",
    "date": "2026-11-08"
-  },
-  {
-   "ko": "[2026 F1 제20전 브라질 GP QR] L. 노리스, 빗속 예선서 2년 연속 PP",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qckcyeGYzU2l2WHdJRTZ6dE5TUnA2WGVzMDNhZE5DNnRaUmhNSTYyWUZ2MTYzMDlWNUNoc2JtWnJzblUtekRNRWpFaGR0NXUyREp3bklfRzB5UUNuaFoxZDdrd2loM0xOSGhma05Raw?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-11-07"
   }
  ]
 }
