@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10 23:55 KST",
+ "updated": "2026-11-11 06:18 KST",
  "roundsDone": 20,
  "drivers": [
   {
@@ -4775,6 +4775,24 @@
  },
  "news": [
   {
+   "en": "PALMER: Why Norris’ Sao Paulo victory was one of his best ever wins",
+   "url": "https://www.formula1.com/en/latest/article/why-norris-sao-paulo-victory-was-one-of-his-best-ever-wins.3hyiRlbfztlQekIw1WuvWd",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Who impressed our Power Rankings judges in Sao Paulo?",
+   "url": "https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-at-the-2026-sao-paulo-grand-prix.4dgXaQOufQtljKWj7Q7Yhs",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "F1 ACADEMY announces 2027 calendar",
+   "url": "https://www.formula1.com/en/latest/article/f1-academy-unveils-calendar-for-2027-season.1mYuyMEiCaWyI8pAfg5K0O",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "Camara experiences every condition in ‘tricky’ Haas debut",
    "url": "https://www.formula1.com/en/latest/article/camara-experiences-every-condition-going-in-tricky-haas-debut.40TC0zRX2AaMmtJ50RsCYH",
    "src": "Formula1.com",
@@ -4811,27 +4829,21 @@
    "date": ""
   },
   {
-   "en": "Rivals congratulate Mercedes on Constructors' Championship",
-   "url": "https://www.formula1.com/en/latest/article/rivals-congratulate-mercedes-on-2026-constructors-championship-after-sao-paulo-gp.5mQ3BkVs5HLP8LE8PduoWY",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "How Verstappen outperformed Red Bull’s simulations in Brazil",
-   "url": "https://www.formula1.com/en/latest/article/mekies-explains-how-verstappen-outperformed-red-bulls-own-simulations-in-brazil.1ps87tyvjdEf23vDCaDXOZ",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "Stella reveals how McLaren triumphed at Interlagos",
-   "url": "https://www.formula1.com/en/latest/article/technically-a-very-interesting-race-stella-reveals-how-norris-and-mclaren-triumphed-at-interlagos.SRa4ORrmm9CcPqhwssoum",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "F1 2026 calendar update: Imola off the table, no plan B if Iran war escalates",
+   "url": "https://www.autosport.com/f1/news/f1-2026-calendar-update-imola-off-the-table-no-plan-b-if-iran-war-escalates/10873643/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-11-10"
   },
   {
    "en": "FIA reveals ADUO results in final review of 2026 F1 season",
    "url": "https://www.autosport.com/f1/news/fia-reveals-aduo-results-in-final-review-of-2026-f1-season/10873566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
+   "date": "2026-11-10"
+  },
+  {
+   "en": "‘Kimi Antonelli isn’t Ayrton Senna yet, but he may be a Senninha’ – Toto Wolff",
+   "url": "https://www.motorsport.com/f1/news/toto-wolff-kimi-antonelli-isnt-ayrton-senna-yet-but-he-may-be-a-senninha-/10873544/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
    "date": "2026-11-10"
   },
   {
@@ -4843,18 +4855,6 @@
   {
    "en": "FIA reveals latest ADUO results in final review of 2026 F1 season",
    "url": "https://www.motorsport.com/f1/news/fia-reveals-latest-aduo-results-in-final-review-of-2026-f1-season/10873562/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-11-10"
-  },
-  {
-   "en": "Honda struggling to explain Lance Stroll’s 13th DNF of the season",
-   "url": "https://www.motorsport.com/f1/news/honda-struggling-to-explain-lance-strolls-13th-dnf-of-the-season/10873412/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-   "src": "Motorsport",
-   "date": "2026-11-10"
-  },
-  {
-   "en": "Laurent Mekies: Liam Lawson’s fate has nothing to do with me",
-   "url": "https://www.motorsport.com/f1/news/laurent-mekies-liam-lawsons-fate-has-nothing-to-do-with-me/10873368/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
    "src": "Motorsport",
    "date": "2026-11-10"
   }
@@ -4897,6 +4897,12 @@
    "date": "2026-11-09"
   },
   {
+   "ko": "‘한국인 최초 F1 도전’ 이규호, GB3 챔피언십 첫 시즌 10위로 마감",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wSWU5S25mSGtLZ3ZuLUtPMEZCdVlKUVpSWW1feEF5WEdQei1waE5YMUJBbjEzQlNYWWpVYUxmSFBtT1B0VW5xM2F4UW9pVHkxdE5iN1EwYjY3X0I3ZEFQaXRn?oc=5",
+   "src": "미주중앙일보",
+   "date": "2026-11-09"
+  },
+  {
    "ko": "메르세데스-AMG 페트로나스 F1 팀, 2026 컨스트럭터 챔피언십 우승 확정",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeG5OMEY5R0tUR25wZHp2Zm5MTDlBVHhHZ012RnBSQTVQNU1WbFVLNmY1SmowajNiaUw5V08zS2tmUnhvc0xMaGFvMGtsUS1pQXNLQ1ZIcWtSTGVsa25YVkNxOTZYaTQ3REJBaDl3M3M1ajdNdUdPaGtmXzVxX2Flal8yZ3NGaGpRSWVuNzNPQWc5aDVyR2M5VENiTld2Q2NfMUNhY280QTU3alV1U0R6WA?oc=5",
    "src": "Hypebeast.KR",
@@ -4925,12 +4931,6 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VUGVfVjdXdk12dVdCMEo5UTY1WFV0WTBTbUNUWGk2S0NKWEt3ZlFPZVZ4UTgwN28yVWZJSkJnN042WHZyS05HSlZGbDNlSmFUTmxvbXN3dHg2US1pTzFtUTRRamF5WW9BVWd6dENSa21Sdw?oc=5",
    "src": "톱스타뉴스",
    "date": "2026-11-09"
-  },
-  {
-   "ko": "[2026 F1 제20전 브라질 GP] L. 노리스 시즌 3승, 메르세데스 컨스트럭터 챔피언 확정",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uZUw0cV92S3ZQZGVLRkJjbVoyVEJEbVhXU2RGSTl5WGctSzFjOTlPNkVkT0t4LXYxOFVGVFBMTHhIRnBIMHpObE54N1Q2TGg2aHNmOUZrMFR2dUdPRjExNnpETk9CZ2JudXAzMHBaYw?oc=5",
-   "src": "오토레이싱",
-   "date": "2026-11-08"
   }
  ]
 }
