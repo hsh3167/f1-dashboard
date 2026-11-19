@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19 05:33 KST",
+ "updated": "2026-11-19 11:35 KST",
  "roundsDone": 20,
  "drivers": [
   {
@@ -4775,6 +4775,18 @@
  },
  "news": [
   {
+   "en": "LIVE COVERAGE: Build-up ahead of the Las Vegas GP",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-wednesday-build-up-in-las-vegas-2026.MqDte4ggZDt3kjYNJ0CvS",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "Cadillac confirm Bottas will remain with the team in 2027",
+   "url": "https://www.formula1.com/en/latest/article/cadillac-confirm-bottas-will-remain-with-the-team-in-2027.2FzTQfliXlMixOPFUMpPB4",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "Best value early bets for the Las Vegas Grand Prix",
    "url": "https://www.formula1.com/en/latest/article/best-value-early-bets-to-consider-for-the-las-vegas-grand-prix.G1YHN2K36iO2K2PxC7zjh",
    "src": "Formula1.com",
@@ -4817,16 +4829,10 @@
    "date": ""
   },
   {
-   "en": "Piastri set for grid penalty at Las Vegas Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/piastri-set-for-10-place-grid-penalty-at-las-vegas-grand-prix.5eT1wWFQzCfOS6W2tvTtLk",
-   "src": "Formula1.com",
-   "date": ""
-  },
-  {
-   "en": "How to stream the 2026 Las Vegas Grand Prix on F1 TV Premium",
-   "url": "https://www.formula1.com/en/latest/article/how-to-stream-the-formula-1-2026-las-vegas-grand-prix-on-f1-tv-premium.5YZztaEts0uPxfdx2UwaQE",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "LEGO reveals Speed Champions sets for all 2026 F1 drivers and teams",
+   "url": "https://www.motorsport.com/f1/news/lego-reveals-speed-champions-sets-for-all-2026-f1-drivers-and-teams/10875401/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-11-19"
   },
   {
    "en": "Cadillac retaining Bottas for F1 2027 is the logical move",
@@ -4851,19 +4857,25 @@
    "url": "https://www.autosport.com/f1/news/the-factors-behind-the-abortive-f1-2030-rules-announcement/10875290/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
    "date": "2026-11-18"
-  },
-  {
-   "en": "What McLaren has learned from a tough 2026 as it aims for a return to glory in 2027",
-   "url": "https://www.autosport.com/f1/news/what-mclaren-has-learned-from-a-tough-f1-2026/10875268/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-11-18"
   }
  ],
  "newsKo": [
   {
+   "ko": "[2026 F1 21R] 페라리, 푸마 협업 ‘라스베이거스 GP’ 기념 특별 레이싱 슈트 공개",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IRUpnVVpWZzZ0d1V6OHk1ZElkb2tadlhocWlDU05qTkQyTE13SU84RHBJTXI3TkdTOUx2d1JlaWpCTjNKSkJCcnBMVEZ1ZnU2NmJSUF9OTjVGckczN3A1VFBWdDZ4c2JrV0t4WTFn?oc=5",
+   "src": "고카넷",
+   "date": "2026-11-19"
+  },
+  {
    "ko": "F1 드라이버들, 이두근에 '우프(WHOOP)' 착용하고 레이스 펼친다",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uWUdQUzh1ZXJqWHNRWmhVRlB3MG1yeTJ1YVRxVFIyTkR1R3ZfTDhHbTd4MnRaUlduMFdKZ1BpdEZTM1h3WUZmbnRpZGNYWGctQjBHbldjbnV0SFF5YjdsV1d2bUpxTjh2U2hqYVZHdEJyMjNKb0VqYlo2Tm4?oc=5",
    "src": "Hypebeast.KR",
+   "date": "2026-11-18"
+  },
+  {
+   "ko": "[2026 F1 21R 팀 프리뷰] 페라리, ‘라스베이거스 GP’ 첫 정상 도전 나서… 신예 베가노비치 FP1 투입",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvRUVaVEJhSEFnWDF1WElGNkszNlh6UmtrNktuTHRzVUM2WHRPS0k2MjlHZzZlVVV4ZF95R0RIWUwzVGJ6Wmo5MGxlZDA1NmdqQk9wbXhGTHNOeVJtaS05Z284cmVUN01Ld0hIU1BB?oc=5",
+   "src": "고카넷",
    "date": "2026-11-18"
   },
   {
@@ -4873,21 +4885,27 @@
    "date": "2026-11-17"
   },
   {
+   "ko": "루이 비통, 2026 포뮬러 1 라스베이거스 그랑프리 맞춤형 트로피 트렁크와 함께 스트립 귀환",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbm1nM0NTcDBDaXZqbFZaZ3pwbmtnMU45cjMwTVUybzdpVHFFdzREUEVJMnQ4NkpRTWlTWVc4Qkh1MkREbXZ3THdhbW5NNHd6UjlRYmU3MXQ0cUYzZWRhdGJwZG5BeHpsbFpwX1ZxVXE1V0ZEUGpXU2luT3BBSDBtM2U3ZlUwQ3U5MkhJTzAxMEgyMW8?oc=5",
+   "src": "Hypebeast.KR",
+   "date": "2026-11-17"
+  },
+  {
    "ko": "[F1] 윌리엄스, 라스베이거스 GP 전용 ‘블루 크롬’ 스페셜 리버리 공개",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBMmlGRGdVM1E3VGM2dHlGNlZMNnBHWC1ucnVuWjcyN0xZREFLMXI3V2Q3aHl1Tnp1cVo4X3hPZ0I5ZUE2OG9MOUI2dk10dng5SXpvUjB2UjJDdUkxRXg5T3VZQjVnTF9MRmtyZjN3?oc=5",
    "src": "고카넷",
    "date": "2026-11-17"
   },
   {
-   "ko": "캐딜락 F1 팀, 글로벌 제약사 비아트리스와 다년간 파트너십 체결",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94MXBtWk44dzBtYzVjR1NIVU9MNjRfT1dWdWpETGhURlltRmk1QlZQWk82dzhhNUNwZEU5X2NkVFFIMm5IUVBDREM4Z2Y0cXFaVnJ3Ti1vUVlIY0tsV0s1RUo0LVJzeWQ1dDRfTFphNA?oc=5",
-   "src": "오토레이싱",
+   "ko": "공인 서킷서 느끼는 F1 머신의 속도감…모터스포츠의 세계로 ‘질주’",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xZ3pCdk5YSnZBTENyRko4dGRCakpxR3RGWUFvRmR1Qk5aemRwMkltcklRNUJqeFB6OVJubjV3S21LaVdtaVY2V1FabzFSdG1JY3ZjajVXS1hYU0x4amRRdkRkNVNWQdIBZkFVX3lxTE0xZ3pCdk5YSnZBTENyRko4dGRCakpxR3RGWUFvRmR1Qk5aemRwMkltcklRNUJqeFB6OVJubjV3S21LaVdtaVY2V1FabzFSdG1JY3ZjajVXS1hYU0x4amRRdkRkNVNWQQ?oc=5",
+   "src": "동아일보",
    "date": "2026-11-17"
   },
   {
-   "ko": "루이 비통, 2026 포뮬러 1 라스베이거스 그랑프리 맞춤형 트로피 트렁크와 함께 스트립 귀환",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbm1nM0NTcDBDaXZqbFZaZ3pwbmtnMU45cjMwTVUybzdpVHFFdzREUEVJMnQ4NkpRTWlTWVc4Qkh1MkREbXZ3THdhbW5NNHd6UjlRYmU3MXQ0cUYzZWRhdGJwZG5BeHpsbFpwX1ZxVXE1V0ZEUGpXU2luT3BBSDBtM2U3ZlUwQ3U5MkhJTzAxMEgyMW8?oc=5",
-   "src": "Hypebeast.KR",
+   "ko": "[2026 F1 21R 팀 프리뷰] 아우디, 시즌 마지막 3연전 첫 관문 ‘라스베이거스 GP’ 출격",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMbUUxSmJoMGswYUFxR1lHN3RScUtvY1UzRWUybzJwT0FNdHNCSDRVdVluYmFubVJLZ0UwcmZWOFVFbjJhMjVjMFVBZ2NTTlJsUnNuMnJraDdEckZMYkd1TGE0Q01oXzY5NjRlSlhB?oc=5",
+   "src": "고카넷",
    "date": "2026-11-17"
   },
   {
@@ -4912,24 +4930,6 @@
    "ko": "‘한국인 최초 F1 도전’ 이규호, 첫 내구레이스에서 연속 포디엄 달성",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LeHdyeXEza1MwWFN3V0E4Ri1pWVJEamNER2ZReERZZVQ1S1ZPeDloS2VFWVdRY1Z5VGoySFJQRlFUZmNKX1RLYS12V1FYUFZiMzZ3VE5nOTl3UmRxQlpIWnY4ZUVRS3BVbGRZTQ?oc=5",
    "src": "모터그래프",
-   "date": "2026-11-16"
-  },
-  {
-   "ko": "F1 도전장 내민 이규호, 내구레이스 데뷔 2경기서 포디엄 기록..‘주목’",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90ZmZPdjVYTzVHMEp2aE9GeWYzUGtaNHRtMi1KQkhwSmN5bTVWYjdrT1ZYR01KN090Q3FtRmpJZkcxSS1haWYwMU5UcHJib3JCc3dWMy0zSTVWVmJlOGwtWFkzblhzSkxDQjM5Uk80R3JHcEFxUWc?oc=5",
-   "src": "데일리카",
-   "date": "2026-11-16"
-  },
-  {
-   "ko": "'F1 도전' 이규호, 내구레이스 데뷔전서 2연속 시상대",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xUG5Xb1p5UzFSd1dObU5sUUllM0tFSkxzQjlCMS1tOERMLW5ENWd6aXNzN2J2UUVkWE5sYkl3bmpBTHVLX0sxZkRYMDQwRmdVT2dZVUZWTkpLakRNMjBMUdIBYEFVX3lxTE0xUG5Xb1p5UzFSd1dObU5sUUllM0tFSkxzQjlCMS1tOERMLW5ENWd6aXNzN2J2UUVkWE5sYkl3bmpBTHVLX0sxZkRYMDQwRmdVT2dZVUZWTkpLakRNMjBMUQ?oc=5",
-   "src": "연합뉴스",
-   "date": "2026-11-16"
-  },
-  {
-   "ko": "애스턴마틴 F1, 라스베이거스 GP서 코어위브 협업 특별 리버리 공개",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9heDBjNW9acUJaa3R2bHNDWTBzR1NUUmJFR2VlUlMtUUlwUk1yY0Z1c1JLdXN5dURTOE9GYVBsVk1yRXJxbjBzT1VLUG5HVW9CaDF0TXdKMkpycFFyV0xDV01BQ01FSGM1WWt0UzctQQ?oc=5",
-   "src": "오토레이싱",
    "date": "2026-11-16"
   }
  ]
