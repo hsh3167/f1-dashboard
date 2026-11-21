@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21 05:23 KST",
+ "updated": "2026-11-21 11:17 KST",
  "roundsDone": 20,
  "drivers": [
   {
@@ -4775,6 +4775,18 @@
  },
  "news": [
   {
+   "en": "Russell goes fastest during final practice in Las Vegas",
+   "url": "https://www.formula1.com/en/latest/article/fp3-russell-goes-fastest-from-antonelli-and-norris-during-final-practice-in-las-vegas.3qwe57vQf1Qjrm2tdp7Vfy",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
+   "en": "AS IT HAPPENED: Final practice for the Las Vegas GP",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-third-practice-in-las-vegas-2026.50OIQwa2hcjUWGKsiu3h5L",
+   "src": "Formula1.com",
+   "date": ""
+  },
+  {
    "en": "FIA confirms unanimous agreement on 2030 PU framework",
    "url": "https://www.formula1.com/en/latest/article/fia-confirms-unanimous-agreement-on-framework-for-2030-power-units.AZ7EFvWPyGPH0xG1JS8Ud",
    "src": "Formula1.com",
@@ -4787,7 +4799,7 @@
    "date": ""
   },
   {
-   "en": "Thursday rain in Las Vegas leave teams playing catch-up",
+   "en": "Thursday rain in Las Vegas leaves teams playing catch-up",
    "url": "https://www.formula1.com/en/latest/article/thursday-rains-in-las-vegas-leave-teams-playing-catch-up.4nppHnXLw7lc6WTCZ53Cae",
    "src": "Formula1.com",
    "date": ""
@@ -4823,16 +4835,16 @@
    "date": ""
   },
   {
-   "en": "Alpine ‘hopeful’ after Gasly earns P2 during second practice",
-   "url": "https://www.formula1.com/en/latest/article/alpine-feeling-hopeful-after-gasly-earns-p2-during-second-practice-in-las-vegas.3Iac1ObpdCLCHGU5rWCNXO",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "F1 Las Vegas GP: Russell fastest in final practice after Verstappen collision",
+   "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-russell-fastest-in-final-practice-after-verstappen-collision/10876189/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "src": "Autosport",
+   "date": "2026-11-21"
   },
   {
-   "en": "Hamilton reflects on Ferrari's practice running in Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/a-couple-of-good-findings-hamilton-reflects-on-ferraris-wet-practice-running-in-las-vegas.4lQStkjoi1h32oQJng6ZMm",
-   "src": "Formula1.com",
-   "date": ""
+   "en": "F1 Las Vegas GP: George Russell tops final practice after Max Verstappen collision",
+   "url": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-george-russell-tops-final-practice-after-max-verstappen-collision/10876181/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+   "src": "Motorsport",
+   "date": "2026-11-21"
   },
   {
    "en": "F1 set for V8 return from 2030",
@@ -4845,18 +4857,6 @@
    "url": "https://www.autosport.com/f1/news/pirelli-reintroduces-stint-limit-for-f1-qatar-gp/10875958/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
    "date": "2026-11-20"
-  },
-  {
-   "en": "\"Same as Brazil\" – Red Bull \"trying to understand\" the root cause of Verstappen's complaints",
-   "url": "https://www.autosport.com/f1/news/same-as-brazil-red-bull-trying-to-understand-the-root-cause-of-verstappens-complaints/10875945/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-11-20"
-  },
-  {
-   "en": "F1 Las Vegas GP: Russell fastest in damp FP2 from Gasly",
-   "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-russell-fastest-in-damp-fp2-from-gasly/10875841/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-11-20"
   }
  ],
  "newsKo": [
@@ -4867,26 +4867,32 @@
    "date": "2026-11-20"
   },
   {
+   "ko": "나이키와 포뮬러 원, 장기 글로벌 파트너십 체결",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN21XX1U3dDB0SFBuN2ZUa3d2RkJHN3E1NVlJYUpDTy13bUF6QXVNSHhOYTlDSlFNQll4MFJ5REIxVk1GWUFMaFBkbEpxeW9HLWl2cy16emNPcnh3OU9kcHNFRFdYZUI0TTlPdXYtSl81VTNvSzhhNXpPMWVza0NjemhNMFFOREh1VkkxYVRvaHZ5UzY5TW5aeVVsUDlWb2tmYTlHbUhobWRWZw?oc=5",
+   "src": "About Nike",
+   "date": "2026-11-20"
+  },
+  {
    "ko": "후프, 포뮬러 1과 4년 글로벌 파트너십…드라이버 생체 데이터 중계",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hdWhQdHNWSkwtbWRQUG9VY0Z1M0RFQV9HLWMwVUQ4U051R1lsZWFjODQ5S1k3aEx6ODVIWmE5QzZ1MDRKaTNBaXFKTUFiZFQ5emN0ZHpTSUx1MTFfYUIzbW5jeTY?oc=5",
    "src": "위런치",
    "date": "2026-11-20"
   },
   {
-   "ko": "3D 프린팅 피스톤이 적용된 페라리 포뮬러 1 엔진 가능성",
-   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQVTBYblpvQkhkVHp0WElsdkpDV0xMYk5DUWhHaHNaRzRQM3VzOHlQWXVQODFwQmNBRC1JSTNCR2FsbkZHS2h4SzVsUDFsRi1jYmhRZE9JU3NWV1g5NHVDTVcwb1RnZHhZSVFRWDRLQS1QbW5wMC15cVplS3FldFNQRFZZRjMyRzVxZlhNNTBkVmdhWldpU2JsTHBxSHV2empZc2huY0NyOXdqem1kQjlYZm1aUkE1bk9SdDhGbDNYMXNtSE9RNmRlZGdXUUVDbEdRRFN0ZlpzOXFaVnl5VVNCV1hYNEdKWTFMSWhfNGI5UWVBU0tUSVdJX1V4M0YzVHNkMThkWFJtX1RVbnV0VW8wR2FFTldpSkN2UHZMbWdHLV9taG5NR3BLeEkzdzhIX3N5M2FGY0cyaFBCTVpMT2x3Sllld0JiQQ?oc=5",
-   "src": "3Druck.com",
+   "ko": "후프·포뮬러 1 파트너십 체결… 운전석 뒤의 인간 퍼포먼스 공개",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4MUw4bmhsaE5WS2gxUVhsRTZaQ21qT2gzQTRFanZwRnNLeGp3SlVaU2NIQ1N1ZktzUWJMbVZGRy1aZ29iOFlaMnp6MFJidENOVkRRZ2ctT2wtcjVrM0lsYlFvd3M2Zm1qdVZYOXF3?oc=5",
+   "src": "https://www.koreasprint.com/",
    "date": "2026-11-20"
   },
   {
-   "ko": "[2026 F1 21R] 라스베이거스 GP FP1, 빗줄기와 노면 물기로 공식 기록 없이 종료",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PXzZxRlBBY2E2ekRpaUxJN2Q5MUkyb0pkcmRhSUFtS2libnFfWUJXeF9KZmpJV2Q1ejJkamtCVExWdlZrR0FZcGR4MTROcVJvUkJWTVF2UGVzc0VZUC1MZVk2Vlkyd2ktV3M3VGVn?oc=5",
+   "ko": "후프, F1 공식 헬스 및 피트니스 웨어러블 파트너 선정… FIA 레이스 중 착용 최초 승인",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tQVE5QjJnVEJ1MUQ1U1N5ZVNwcjZrWTd0NEoxakJkWXBRT1ZWN1NGS3M2VWlsd2JxZlBGdmN5U2luZjR6azhtMWNsVHVpUkJ2aEF5eFE5dHpLNFVKb1NmYmRjVS1qX05YNVVkdzZ3?oc=5",
    "src": "고카넷",
    "date": "2026-11-20"
   },
   {
    "ko": "\"해밀턴·페르스타펜이 레고로\"…F1 드라이버 22명·경주차 11종 출시",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9GVkNkclRYZFpEMkc5TTZOamdCejFvejJWS0tFMWNRSlpaTE1KSnFPZ3dCVURHWmdLN180LTMzVER6aGh1b3c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFVnhZUjcxLXFUbHh2cmRZTHExYWoxOEJEOXB1aTRxNjFCR3l4QW5DTXNwcDVhVWpIbGQzdXZ0V3BuTHBrLWttSGpEOA?oc=5",
    "src": "Daum",
    "date": "2026-11-19"
   },
@@ -4915,21 +4921,15 @@
    "date": "2026-11-19"
   },
   {
+   "ko": "“해밀턴·페르스타펜이 레고로”…F1 드라이버 22명·경주차 11종 출시",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtenVmVVQ5dkJ1SEViYzFRVUMtTXBzLTFYdTdoWXBFR3h4QXRGZVA0NWRycjNoZTJSRWVtTUdTODBuc0tycFpzUGc0RTBpVFFsR19BNVFnNTNwZjY5V3o5VFBjdzRhRDdzb3fSAW5BVV95cUxNYmZ3OUJCLUNCSmJ1MmtHeHBzaHZWUDV0cmlVLXBkekJTcU4wRGpuZ3FtV3czMWQzd3R2SFVtQ0lRc09ZNV9nZ0xUa1JaUXpaZlZrNEo4TnlyYjdnWDZaZmNPQzUtaGZLdlo3a2dPdw?oc=5",
+   "src": "지피코리아",
+   "date": "2026-11-19"
+  },
+  {
    "ko": "F1 드라이버들, 이두근에 '우프(WHOOP)' 착용하고 레이스 펼친다",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uWUdQUzh1ZXJqWHNRWmhVRlB3MG1yeTJ1YVRxVFIyTkR1R3ZfTDhHbTd4MnRaUlduMFdKZ1BpdEZTM1h3WUZmbnRpZGNYWGctQjBHbldjbnV0SFF5YjdsV1d2bUpxTjh2U2hqYVZHdEJyMjNKb0VqYlo2Tm4?oc=5",
    "src": "Hypebeast.KR",
-   "date": "2026-11-18"
-  },
-  {
-   "ko": "[2026 F1 21R 팀 프리뷰] 페라리, ‘라스베이거스 GP’ 첫 정상 도전 나서… 신예 베가노비치 FP1 투입",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvRUVaVEJhSEFnWDF1WElGNkszNlh6UmtrNktuTHRzVUM2WHRPS0k2MjlHZzZlVVV4ZF95R0RIWUwzVGJ6Wmo5MGxlZDA1NmdqQk9wbXhGTHNOeVJtaS05Z284cmVUN01Ld0hIU1BB?oc=5",
-   "src": "고카넷",
-   "date": "2026-11-18"
-  },
-  {
-   "ko": "[2026 F1 21R] 페라리 베가노비치, ‘라스베이거스 GP’ FP1 출전 앞두고 각오 밝혀",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qUVBUMkF2czk3WE4xVGF4eG55aHFJTnBtcEF4TU5kdkJjTng1Um50NmhzdHV4QjdSSmhGcURNTWN5TV8tZ1RuYzVpMzhPOE1zemp4VFFGRndXTmViUlNGTWRVUHM1LVJ4cVdiTjh3?oc=5",
-   "src": "고카넷",
    "date": "2026-11-18"
   }
  ]
