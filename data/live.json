@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22 04:18 KST",
+ "updated": "2026-11-22 10:20 KST",
  "roundsDone": 20,
  "drivers": [
   {
@@ -4861,6 +4861,24 @@
  ],
  "newsKo": [
   {
+   "ko": "[2026 F1 제21전 라스베이거스 GP 예선] 1위 K. 안토넬리 페널티, M. 페르스타펜 폴",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVZURMam45b1o1bE80NGU5NHpFd3N0allnZGFTMlVuWmF2ZkNwZ1VOZ2VKTlM2T1YzYkczc2lyelR2WjlLSnhyQU85QWZWejBsMG5sVVlIRnc0RTZ5R2xYNm52Sm55ZnY5ZkJua2pEdw?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-11-22"
+  },
+  {
+   "ko": "[2026 F1 제21전 라스베이거스 GP 예선 공식 기자회견] 안토넬리 “마지막 랩은 끝났다고 생각했다”",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpM3V0NXh0LUNsckI5SDBMSUltRXRReGM0VFgtQ3d4OWo1TndNdnRVUXF6UkpqRHhfbkdUTnpEdUdfN1BfQTRHWjd5TU11eEVsLXd0TzM3T29kMFVOMEVVcVgxYUVCU2MtRmFtaVoyZw?oc=5",
+   "src": "오토레이싱",
+   "date": "2026-11-22"
+  },
+  {
+   "ko": "[2026 F1 21R] 안토넬리, ‘라스베이거스 GP’ 예선 1위… 폴 포지션은 베르스타펜 차지",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xZVgwcGtGbkJ2YWZGdmdiUXhfUjdHMU92VUVqaXNBOXBHb3ZJN1RCVER0UENYR2JBLWdFY3FhWnlOamtYcG5WU21lMC0yN3hYbGFIQTlCeHZIU293QXBtbHNYblB3Mkh4M3JDWTNB?oc=5",
+   "src": "고카넷",
+   "date": "2026-11-21"
+  },
+  {
    "ko": "나이키, 2027년부터 포뮬러 1과 장기 파트너십 체결하며 트랙에 오른다",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQajFUN3cwTzVyVzctcFM0WHBCRlZIVW9sU0xHZGZZTG9CT1hVOFhmTmVxeFotNDVZTzk0anM4X1hOTzdJMVVkZjJpZWctby1jQndiX3UwMnF3REpYY3VPdU5PNldqQ0EwdklkU0tKUFJTODVfZ1pZRVc1eC1BRjY1eVF3?oc=5",
    "src": "Hypebeast.KR",
@@ -4885,15 +4903,15 @@
    "date": "2026-11-21"
   },
   {
-   "ko": "[2026 F1 제21전 라스베이거스 GP FP2] G. 러셀, 파이널 어택 성공으로 톱",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zaElxNUY1NlBiMXNyT3JEYkZ6YkhQY09kRzROTkUwOGEyQXNMbEZ1WHp2Qy1mUDJzT3IwaHdkdGtxbXU3N05kOWxLbWRfb19iRDE1dHNNb3dpb1Z0QTZiRnJZU1F3aDUtUWtrTnhLSQ?oc=5",
-   "src": "오토레이싱",
+   "ko": "'20세' 伊 키미 안토넬리, F1 역대 최연소 월드 챔피언 등극 > 시애틀 뉴스/핫이슈",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tbnJGTWVISWF0T29RcTV0WTVER25DdFBadmdRUms0bXdTZjVIeHlFN3lpOHlTcDk4VjE4RllWZHJNcWkwTF9ET0F1Wm03b1RNZEx4aG9IS1J1WjBZUnQtZWk0cEcyaUlaX21hVzR0Nms?oc=5",
+   "src": "SeattleN",
    "date": "2026-11-21"
   },
   {
-   "ko": "[2026 F1 21R] 러셀, 압도적 차이 보이며 ‘라스베이거스 GP’ 파이널 연습 세션 1위",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aRWFvNjlDZ0tqLWRpSExHLXN5eXlJcWsybldRenlzYkE0cWFQZFpmXzl0S0hxQnNfMEo0R0pNYnptTTdVQ2pIUjlrdnNFU21UWmQybWF1VmY3RWtQanQxVmQzRk1qMGhYQmtiZGZ3?oc=5",
-   "src": "고카넷",
+   "ko": "[2026 F1 제21전 라스베이거스 GP FP2] G. 러셀, 파이널 어택 성공으로 톱",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zaElxNUY1NlBiMXNyT3JEYkZ6YkhQY09kRzROTkUwOGEyQXNMbEZ1WHp2Qy1mUDJzT3IwaHdkdGtxbXU3N05kOWxLbWRfb19iRDE1dHNNb3dpb1Z0QTZiRnJZU1F3aDUtUWtrTnhLSQ?oc=5",
+   "src": "오토레이싱",
    "date": "2026-11-21"
   },
   {
@@ -4903,33 +4921,15 @@
    "date": "2026-11-20"
   },
   {
-   "ko": "후프, 포뮬러 1과 4년 글로벌 파트너십…드라이버 생체 데이터 중계",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hdWhQdHNWSkwtbWRQUG9VY0Z1M0RFQV9HLWMwVUQ4U051R1lsZWFjODQ5S1k3aEx6ODVIWmE5QzZ1MDRKaTNBaXFKTUFiZFQ5emN0ZHpTSUx1MTFfYUIzbW5jeTY?oc=5",
-   "src": "위런치",
-   "date": "2026-11-20"
-  },
-  {
    "ko": "나이키와 포뮬러 원, 장기 글로벌 파트너십 체결",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN21XX1U3dDB0SFBuN2ZUa3d2RkJHN3E1NVlJYUpDTy13bUF6QXVNSHhOYTlDSlFNQll4MFJ5REIxVk1GWUFMaFBkbEpxeW9HLWl2cy16emNPcnh3OU9kcHNFRFdYZUI0TTlPdXYtSl81VTNvSzhhNXpPMWVza0NjemhNMFFOREh1VkkxYVRvaHZ5UzY5TW5aeVVsUDlWb2tmYTlHbUhobWRWZw?oc=5",
    "src": "About Nike",
    "date": "2026-11-20"
   },
   {
-   "ko": "후프·포뮬러 1 파트너십 체결… 운전석 뒤의 인간 퍼포먼스 공개",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4MUw4bmhsaE5WS2gxUVhsRTZaQ21qT2gzQTRFanZwRnNLeGp3SlVaU2NIQ1N1ZktzUWJMbVZGRy1aZ29iOFlaMnp6MFJidENOVkRRZ2ctT2wtcjVrM0lsYlFvd3M2Zm1qdVZYOXF3?oc=5",
-   "src": "https://www.koreasprint.com/",
-   "date": "2026-11-20"
-  },
-  {
-   "ko": "3D 프린팅 피스톤이 적용된 페라리 포뮬러 1 엔진 가능성",
-   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQVTBYblpvQkhkVHp0WElsdkpDV0xMYk5DUWhHaHNaRzRQM3VzOHlQWXVQODFwQmNBRC1JSTNCR2FsbkZHS2h4SzVsUDFsRi1jYmhRZE9JU3NWV1g5NHVDTVcwb1RnZHhZSVFRWDRLQS1QbW5wMC15cVplS3FldFNQRFZZRjMyRzVxZlhNNTBkVmdhWldpU2JsTHBxSHV2empZc2huY0NyOXdqem1kQjlYZm1aUkE1bk9SdDhGbDNYMXNtSE9RNmRlZGdXUUVDbEdRRFN0ZlpzOXFaVnl5VVNCV1hYNEdKWTFMSWhfNGI5UWVBU0tUSVdJX1V4M0YzVHNkMThkWFJtX1RVbnV0VW8wR2FFTldpSkN2UHZMbWdHLV9taG5NR3BLeEkzdzhIX3N5M2FGY0cyaFBCTVpMT2x3Sllld0JiQQ?oc=5",
-   "src": "3Druck.com",
-   "date": "2026-11-20"
-  },
-  {
-   "ko": "[2026 F1 제21전 라스베이거스 GP FP1] 빗길에 주행 제한, 공식 랩타임 없이 종료",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ibzJKX0FzS0ZtYzZZQ2RjVTB1ekUwQ0VUOGdyaVN2Tk8zN1kyZ1F4ZzA0Z0FDQnE2LVZBWHpfWjF3RWdQSzI5aDNjbkVIWllqb1F6bFE2Y0lKd1M4LWtwZWpjS3lwRHhfcHU1UUxBNA?oc=5",
-   "src": "오토레이싱",
+   "ko": "후프, 포뮬러 1과 4년 글로벌 파트너십…드라이버 생체 데이터 중계",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hdWhQdHNWSkwtbWRQUG9VY0Z1M0RFQV9HLWMwVUQ4U051R1lsZWFjODQ5S1k3aEx6ODVIWmE5QzZ1MDRKaTNBaXFKTUFiZFQ5emN0ZHpTSUx1MTFfYUIzbW5jeTY?oc=5",
+   "src": "위런치",
    "date": "2026-11-20"
   }
  ]
