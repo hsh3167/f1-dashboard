@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22 10:20 KST",
- "roundsDone": 20,
+ "updated": "2026-11-22 20:27 KST",
+ "roundsDone": 21,
  "drivers": [
   {
    "id": "antonelli",
@@ -11,7 +11,7 @@
    "dob": "2006-08-25",
    "team": "mercedes",
    "pos": 1,
-   "pts": 390,
+   "pts": 402,
    "wins": 9,
    "podiums": 16,
    "best": 1,
@@ -29,31 +29,13 @@
    "dob": "1997-09-30",
    "team": "red_bull",
    "pos": 2,
-   "pts": 279,
-   "wins": 3,
-   "podiums": 12,
+   "pts": 304,
+   "wins": 4,
+   "podiums": 13,
    "best": 1,
    "ko": "막스 페르스타펜",
    "nat": "네덜란드",
    "flag": "nl",
-   "note": ""
-  },
-  {
-   "id": "russell",
-   "code": "RUS",
-   "num": 63,
-   "first": "George",
-   "last": "Russell",
-   "dob": "1998-02-15",
-   "team": "mercedes",
-   "pos": 3,
-   "pts": 262,
-   "wins": 3,
-   "podiums": 8,
-   "best": 1,
-   "ko": "조지 러셀",
-   "nat": "영국",
-   "flag": "gb",
    "note": ""
   },
   {
@@ -64,12 +46,48 @@
    "last": "Hamilton",
    "dob": "1985-01-07",
    "team": "ferrari",
-   "pos": 4,
-   "pts": 261,
+   "pos": 3,
+   "pts": 267,
    "wins": 1,
    "podiums": 7,
    "best": 1,
    "ko": "루이스 해밀턴",
+   "nat": "영국",
+   "flag": "gb",
+   "note": ""
+  },
+  {
+   "id": "russell",
+   "code": "RUS",
+   "num": 63,
+   "first": "George",
+   "last": "Russell",
+   "dob": "1998-02-15",
+   "team": "mercedes",
+   "pos": 4,
+   "pts": 264,
+   "wins": 3,
+   "podiums": 8,
+   "best": 1,
+   "ko": "조지 러셀",
+   "nat": "영국",
+   "flag": "gb",
+   "note": ""
+  },
+  {
+   "id": "norris",
+   "code": "NOR",
+   "num": 1,
+   "first": "Lando",
+   "last": "Norris",
+   "dob": "1999-11-13",
+   "team": "mclaren",
+   "pos": 5,
+   "pts": 264,
+   "wins": 3,
+   "podiums": 7,
+   "best": 1,
+   "ko": "랜도 노리스",
    "nat": "영국",
    "flag": "gb",
    "note": ""
@@ -82,32 +100,14 @@
    "last": "Leclerc",
    "dob": "1997-10-16",
    "team": "ferrari",
-   "pos": 5,
-   "pts": 249,
+   "pos": 6,
+   "pts": 250,
    "wins": 1,
    "podiums": 6,
    "best": 1,
    "ko": "샤를 르클레르",
    "nat": "모나코",
    "flag": "mc",
-   "note": ""
-  },
-  {
-   "id": "norris",
-   "code": "NOR",
-   "num": 1,
-   "first": "Lando",
-   "last": "Norris",
-   "dob": "1999-11-13",
-   "team": "mclaren",
-   "pos": 6,
-   "pts": 246,
-   "wins": 3,
-   "podiums": 6,
-   "best": 1,
-   "ko": "랜도 노리스",
-   "nat": "영국",
-   "flag": "gb",
    "note": ""
   },
   {
@@ -119,9 +119,9 @@
    "dob": "2001-04-06",
    "team": "mclaren",
    "pos": 7,
-   "pts": 152,
+   "pts": 167,
    "wins": 0,
-   "podiums": 2,
+   "podiums": 3,
    "best": 2,
    "ko": "오스카 피아스트리",
    "nat": "호주",
@@ -173,10 +173,10 @@
    "dob": "1996-02-07",
    "team": "alpine",
    "pos": 10,
-   "pts": 42,
+   "pts": 52,
    "wins": 0,
    "podiums": 0,
-   "best": 6,
+   "best": 5,
    "ko": "피에르 가슬리",
    "nat": "프랑스",
    "flag": "fr",
@@ -209,7 +209,7 @@
    "dob": "2003-05-27",
    "team": "alpine",
    "pos": 12,
-   "pts": 27,
+   "pts": 35,
    "wins": 0,
    "podiums": 0,
    "best": 6,
@@ -273,6 +273,24 @@
    "note": ""
   },
   {
+   "id": "sainz",
+   "code": "SAI",
+   "num": 55,
+   "first": "Carlos",
+   "last": "Sainz",
+   "dob": "1994-09-01",
+   "team": "williams",
+   "pos": 16,
+   "pts": 11,
+   "wins": 0,
+   "podiums": 0,
+   "best": 8,
+   "ko": "카를로스 사인츠",
+   "nat": "스페인",
+   "flag": "es",
+   "note": ""
+  },
+  {
    "id": "ocon",
    "code": "OCO",
    "num": 31,
@@ -280,7 +298,7 @@
    "last": "Ocon",
    "dob": "1996-09-17",
    "team": "haas",
-   "pos": 16,
+   "pos": 17,
    "pts": 7,
    "wins": 0,
    "podiums": 0,
@@ -298,30 +316,12 @@
    "last": "Alonso",
    "dob": "1981-07-29",
    "team": "aston_martin",
-   "pos": 17,
+   "pos": 18,
    "pts": 7,
    "wins": 0,
    "podiums": 0,
    "best": 8,
    "ko": "페르난도 알론소",
-   "nat": "스페인",
-   "flag": "es",
-   "note": ""
-  },
-  {
-   "id": "sainz",
-   "code": "SAI",
-   "num": 55,
-   "first": "Carlos",
-   "last": "Sainz",
-   "dob": "1994-09-01",
-   "team": "williams",
-   "pos": 18,
-   "pts": 7,
-   "wins": 0,
-   "podiums": 0,
-   "best": 9,
-   "ko": "카를로스 사인츠",
    "nat": "스페인",
    "flag": "es",
    "note": ""
@@ -446,7 +446,7 @@
    "pts": 0,
    "wins": 0,
    "podiums": 0,
-   "best": 20,
+   "best": 16,
    "ko": "Rafael Camara",
    "nat": "브라질",
    "flag": "br",
@@ -457,25 +457,25 @@
   {
    "id": "mercedes",
    "pos": 1,
-   "pts": 652,
+   "pts": 666,
    "wins": 12
   },
   {
    "id": "ferrari",
    "pos": 2,
-   "pts": 510,
+   "pts": 517,
    "wins": 2
   },
   {
    "id": "red_bull",
    "pos": 3,
-   "pts": 415,
-   "wins": 3
+   "pts": 440,
+   "wins": 4
   },
   {
    "id": "mclaren",
    "pos": 4,
-   "pts": 398,
+   "pts": 431,
    "wins": 3
   },
   {
@@ -487,7 +487,7 @@
   {
    "id": "alpine",
    "pos": 6,
-   "pts": 69,
+   "pts": 87,
    "wins": 0
   },
   {
@@ -505,7 +505,7 @@
   {
    "id": "williams",
    "pos": 9,
-   "pts": 12,
+   "pts": 16,
    "wins": 0
   },
   {
@@ -541,13 +541,14 @@
   "17": "verstappen",
   "18": "antonelli",
   "19": "verstappen",
-  "20": "norris"
+  "20": "norris",
+  "21": "verstappen"
  },
  "podium": {
-  "20": [
-   "norris",
+  "21": [
    "verstappen",
-   "hadjar"
+   "norris",
+   "piastri"
   ]
  },
  "results": {
@@ -3670,6 +3671,162 @@
     "pts": 0,
     "t": "Did not start"
    }
+  ],
+  "21": [
+   {
+    "p": 1,
+    "d": "verstappen",
+    "g": 1,
+    "pts": 25,
+    "t": "1:27:39.624"
+   },
+   {
+    "p": 2,
+    "d": "norris",
+    "g": 3,
+    "pts": 18,
+    "t": "+0.639"
+   },
+   {
+    "p": 3,
+    "d": "piastri",
+    "g": 17,
+    "pts": 15,
+    "t": "+1.529"
+   },
+   {
+    "p": 4,
+    "d": "antonelli",
+    "g": 6,
+    "pts": 12,
+    "t": "+2.574"
+   },
+   {
+    "p": 5,
+    "d": "gasly",
+    "g": 8,
+    "pts": 10,
+    "t": "+2.927"
+   },
+   {
+    "p": 6,
+    "d": "colapinto",
+    "g": 9,
+    "pts": 8,
+    "t": "+7.955"
+   },
+   {
+    "p": 7,
+    "d": "hamilton",
+    "g": 11,
+    "pts": 6,
+    "t": "+12.795"
+   },
+   {
+    "p": 8,
+    "d": "sainz",
+    "g": 20,
+    "pts": 4,
+    "t": "+12.938"
+   },
+   {
+    "p": 9,
+    "d": "russell",
+    "g": 2,
+    "pts": 2,
+    "t": "+13.192"
+   },
+   {
+    "p": 10,
+    "d": "leclerc",
+    "g": 10,
+    "pts": 1,
+    "t": "+17.554"
+   },
+   {
+    "p": 11,
+    "d": "hulkenberg",
+    "g": 12,
+    "pts": 0,
+    "t": "+22.720"
+   },
+   {
+    "p": 12,
+    "d": "bortoleto",
+    "g": 13,
+    "pts": 0,
+    "t": "+28.602"
+   },
+   {
+    "p": 13,
+    "d": "bearman",
+    "g": 22,
+    "pts": 0,
+    "t": "+28.843"
+   },
+   {
+    "p": 14,
+    "d": "lawson",
+    "g": 7,
+    "pts": 0,
+    "t": "+36.588"
+   },
+   {
+    "p": 15,
+    "d": "hadjar",
+    "g": 4,
+    "pts": 0,
+    "t": "+46.488"
+   },
+   {
+    "p": 16,
+    "d": "rafael_camara",
+    "g": 15,
+    "pts": 0,
+    "t": "+47.814"
+   },
+   {
+    "p": 17,
+    "d": "stroll",
+    "g": 21,
+    "pts": 0,
+    "t": "+1:08.353"
+   },
+   {
+    "p": 18,
+    "d": "bottas",
+    "g": 19,
+    "pts": 0,
+    "t": "+1:11.673"
+   },
+   {
+    "p": 19,
+    "d": "alonso",
+    "g": 18,
+    "pts": 0,
+    "t": "Retired"
+   },
+   {
+    "p": 20,
+    "d": "lindblad",
+    "g": 5,
+    "pts": 0,
+    "t": "Retired"
+   },
+   {
+    "p": 21,
+    "d": "perez",
+    "g": 16,
+    "pts": 0,
+    "t": "Retired"
+   },
+   {
+    "p": 22,
+    "d": "albon",
+    "g": 14,
+    "pts": 0,
+    "t": "Did not start"
+   }
   ]
  },
  "sprints": {
@@ -4775,91 +4932,109 @@
  },
  "news": [
   {
-   "en": "Wolff reflects on impact of tow in Las Vegas Qualifying",
-   "url": "https://www.formula1.com/en/latest/article/i-have-no-idea-how-these-lap-times-came-together-wolff-reflects-on-slipstream-impact-in-las-vegas-qualifying.5hGMtgEZODMntPSadcUJbO",
+   "en": "Latest Hamilton-Leclerc clash ‘unacceptable’ – Vasseur",
+   "url": "https://www.formula1.com/en/latest/article/its-a-lack-of-respect-vasseur-calls-latest-hamilton-leclerc-clash-in-las-vegas-unacceptable.5NGehhmEEtLqzDKxm7bi4z",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "What are the tyre strategy options for the Las Vegas GP?",
-   "url": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-tactical-options-for-the-las-vegas-gp.4k41CN1CbogRoqk1kkOb9C",
+   "en": "What the teams said – Race day in Las Vegas",
+   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-race-day-in-las-vegas-2026.2UjFcltnN1WABnZawPqeyP",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "What To Watch For in the Las Vegas Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-las-vegas-grand-prix.3k1glJW46dgLm2gZkIsSYo",
+   "en": "Hadjar 'clueless' on reason for front wing failure in Vegas",
+   "url": "https://www.formula1.com/en/latest/article/hadjar-clueless-on-reason-for-front-wing-failure-as-post-race-penalty-demotes-him-a-place-in-las-vegas-gp.2tF9g5VLiq5P6MtIpiaZ1J",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "Lindblad's Vegas Qualifying 'such a mess' despite P5 start",
-   "url": "https://www.formula1.com/en/latest/article/it-was-such-a-mess-lindblad-reflects-on-las-vegas-qualifying-ahead-of-p5-start.1TQF9i21VuFhEkETB6CqPc",
+   "en": "Perez hit with five-place penalty in Qatar for Camara clash",
+   "url": "https://www.formula1.com/en/latest/article/perez-hit-with-five-place-penalty-in-qatar-after-camara-clash-during-las-vegas-grand-prix.30GG7oJuJ1As0MrkavmStN",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "What the teams said – Qualifying in Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-qualifying-in-las-vegas-2026.3nVBux5Arj5K1MNogvg9j9",
+   "en": "Verstappen responds to Russell comments as rivalry reignites",
+   "url": "https://www.formula1.com/en/latest/article/so-far-below-my-level-verstappen-responds-to-russell-comments-in-las-vegas-as-rivalry-reignites.4li166pkqaJAmwAXx5CZnr",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "Alpine left disappointed despite Gasly’s ‘perfect’ Q2 lap",
-   "url": "https://www.formula1.com/en/latest/article/alpine-left-disappointed-after-gasly-had-shone-with-perfect-lap-in-q2.48hDMDkgL0meTLKg3usEg6",
+   "en": "'Exactly the kind of result we needed' in Vegas – Piastri",
+   "url": "https://www.formula1.com/en/latest/article/piastri-believes-las-vegas-podium-was-exactly-the-kind-of-result-we-needed.6Vjx9TJwtUhgP05nqxbVkL",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "Russell stunned by 'insane’ tow power in Las Vegas",
-   "url": "https://www.formula1.com/en/latest/article/i-still-cant-wrap-my-head-around-it-russell-stunned-by-insane-tow-power-in-las-vegas-as-he-assesses-qualifying.52i0msrzwiBfGBpbuoNIwx",
+   "en": "Hamilton reacts to ‘really harsh’ Las Vegas GP penalty",
+   "url": "https://www.formula1.com/en/latest/article/hamilton-frustrated-by-really-harsh-las-vegas-penalty-as-hes-quizzed-on-leclerc-clash.5ASq9S5FeEJNdNi6Igej0Z",
    "src": "Formula1.com",
    "date": ""
   },
   {
-   "en": "Antonelli and Russell set for Mercedes talks over Las Vegas GP qualifying mix-up",
-   "url": "https://www.autosport.com/f1/news/kimi-antonelli-and-george-russell-set-for-mercedes-talks-over-las-vegas-gp-qualifying-woes/10876456/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-11-21"
+   "en": "'I paid the price' – Russell laments Las Vegas GP error",
+   "url": "https://www.formula1.com/en/latest/article/i-paid-the-price-russell-laments-error-in-closing-stages-of-las-vegas-gp.546DMDVRArhwgf1nEXHR1v",
+   "src": "Formula1.com",
+   "date": ""
   },
   {
-   "en": "Verstappen reveals mysterious Red Bull F1 car issue that cannot be fixed in Las Vegas",
-   "url": "https://www.autosport.com/f1/news/verstappen-reveals-mysterious-red-bull-f1-car-issue-that-cannot-be-fixed-in-las-vegas/10876404/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-11-21"
+   "en": "Max Verstappen is your Las Vegas GP Driver of the Day",
+   "url": "https://www.formula1.com/en/latest/article/driver-of-the-day-race-winner-verstappen-gets-your-las-vegas-vote.5QesGibVmO4x9ftqrpghbk",
+   "src": "Formula1.com",
+   "date": ""
   },
   {
-   "en": "Verstappen responds to Russell after Las Vegas GP practice clash over 'gentleman's agreement'",
-   "url": "https://www.autosport.com/f1/news/verstappen-responds-to-russell-after-las-vegas-gp-practice-clash-over-gentlemans-agreement/10876337/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-   "src": "Autosport",
-   "date": "2026-11-21"
+   "en": "Antonelli explains ‘annoying’ last-lap issue in Las Vegas",
+   "url": "https://www.formula1.com/en/latest/article/antonelli-explains-annoying-last-lap-issue-in-las-vegas-as-he-admits-having-a-lot-to-learn-in-these-conditions.1i0fzBGmJSWZAK4wNaYMO9",
+   "src": "Formula1.com",
+   "date": ""
   },
   {
-   "en": "Floor damage, deployment down to Hamilton's Las Vegas GP Q2 exit",
-   "url": "https://www.autosport.com/f1/news/floor-damage-deployment-down-to-lewis-hamiltons-las-vegas-q2-exit/10876316/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "en": "Hadjar penalised after backing up Russell in Las Vegas GP, Perez given grid drop for Qatar GP",
+   "url": "https://www.autosport.com/f1/news/hadjar-penalised-after-backing-up-russell-in-las-vegas-gp-perez-given-grid-drop-for-qatar-gp/10876867/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
-   "date": "2026-11-21"
+   "date": "2026-11-22"
   },
   {
-   "en": "Russell slams Verstappen after Las Vegas GP practice clash: ‘He walks around like he’s bigger and better than everyone’",
-   "url": "https://www.autosport.com/f1/news/george-russell-slams-max-verstappen-after-las-vegas-clash-he-walks-around-like-hes-bigger-and-bette/10876309/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "en": "Vasseur furious with \"unprofessional\" Ferrari clash and demands fresh talks after Las Vegas GP",
+   "url": "https://www.autosport.com/f1/news/vasseur-furious-with-unprofessional-ferrari-clash-and-demands-fresh-talks-after-las-vegas-gp/10876847/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
-   "date": "2026-11-21"
+   "date": "2026-11-22"
   },
   {
-   "en": "F1 Las Vegas GP: Antonelli tops qualifying but Verstappen gets pole",
-   "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-antonelli-tops-qualifying-but-verstappen-gets-pole/10876233/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "en": "Verstappen hits back after Russell criticism: “He’s so far below my level”",
+   "url": "https://www.autosport.com/f1/news/max-verstappens-snarky-revenge-on-george-russell-karma-is-a-bitch/10876811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
-   "date": "2026-11-21"
+   "date": "2026-11-22"
   },
   {
-   "en": "F1 Las Vegas GP: Russell fastest in final practice after Verstappen collision",
-   "url": "https://www.autosport.com/f1/news/f1-las-vegas-gp-russell-fastest-in-final-practice-after-verstappen-collision/10876189/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+   "en": "“My mistake was to lift” – Why Antonelli lost power in Las Vegas GP victory battle",
+   "url": "https://www.autosport.com/f1/news/my-mistake-was-to-lift-why-antonelli-lost-power-in-las-vegas-gp-victory-battle/10876786/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
    "src": "Autosport",
-   "date": "2026-11-21"
+   "date": "2026-11-22"
   }
  ],
  "newsKo": [
+  {
+   "ko": "야간 서킷 예선부터 본선 식전 현장까지…F1 라스베이거스 GP",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9faHFIcXdUNnpBN0dPUVBIdTVlcFlHRnVTMy12SmtIMnJfajVUUVBmU0phaWlfUWdWZjVzVVN1ckV6MERZa2hBWjNMYzFaaEJMaERtWnlYcUdHUE0?oc=5",
+   "src": "연합뉴스",
+   "date": "2026-11-22"
+  },
+  {
+   "ko": "포뮬러원(F1) 팀에 왜 해마다 수천억원씩 몰리나",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GRTEtcU8tNjlYVUNxVlZxV2oxZTRFT2puQ3VHVUhOeFU1RElPdzQzb2lmc0Q3N1c0azBnY2RaYXA0Zi1fdkZhZ292Rnc4VE1VUzRjcHgtS0p0X2FJcFptX3k1dnBtWlU?oc=5",
+   "src": "자본시장뉴스",
+   "date": "2026-11-22"
+  },
+  {
+   "ko": "리사 F1 라스베이거스 레고 레이스 출전, 페라리 미니카 현장",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWVNJOW1KNHVVQ1I1VU04ZnJ5azN4eHFnSUFLTjVMaDIzVjllSTlpa0NhdHFkQ05NMElTQVhNTWI4SlYtSmpwVm1QYjQ2NXgtZGVMcGNFRThCdTdIemw5bVZYRWg3aFNuRjl4UTA5QVdyenZfcy10UGFyUGYyelBxNHBZQlpZQkU?oc=5",
+   "src": "PAP Magazine",
+   "date": "2026-11-22"
+  },
   {
    "ko": "[2026 F1 제21전 라스베이거스 GP 예선] 1위 K. 안토넬리 페널티, M. 페르스타펜 폴",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVZURMam45b1o1bE80NGU5NHpFd3N0allnZGFTMlVuWmF2ZkNwZ1VOZ2VKTlM2T1YzYkczc2lyelR2WjlLSnhyQU85QWZWejBsMG5sVVlIRnc0RTZ5R2xYNm52Sm55ZnY5ZkJua2pEdw?oc=5",
@@ -4913,24 +5088,6 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zaElxNUY1NlBiMXNyT3JEYkZ6YkhQY09kRzROTkUwOGEyQXNMbEZ1WHp2Qy1mUDJzT3IwaHdkdGtxbXU3N05kOWxLbWRfb19iRDE1dHNNb3dpb1Z0QTZiRnJZU1F3aDUtUWtrTnhLSQ?oc=5",
    "src": "오토레이싱",
    "date": "2026-11-21"
-  },
-  {
-   "ko": "애플(AAPL), 여성 레이싱 ‘F1 아카데미’ 품었다",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1VNkMyMnlpWUNYMmFvVGxFN1dxTWFDdER6ZHIyVS1wNXhvc29zM25IUndVNE1pV1J6Z3ZHOTJxdVpjaElvN2Z0VTRn?oc=5",
-   "src": "코인리더스",
-   "date": "2026-11-20"
-  },
-  {
-   "ko": "나이키와 포뮬러 원, 장기 글로벌 파트너십 체결",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN21XX1U3dDB0SFBuN2ZUa3d2RkJHN3E1NVlJYUpDTy13bUF6QXVNSHhOYTlDSlFNQll4MFJ5REIxVk1GWUFMaFBkbEpxeW9HLWl2cy16emNPcnh3OU9kcHNFRFdYZUI0TTlPdXYtSl81VTNvSzhhNXpPMWVza0NjemhNMFFOREh1VkkxYVRvaHZ5UzY5TW5aeVVsUDlWb2tmYTlHbUhobWRWZw?oc=5",
-   "src": "About Nike",
-   "date": "2026-11-20"
-  },
-  {
-   "ko": "후프, 포뮬러 1과 4년 글로벌 파트너십…드라이버 생체 데이터 중계",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hdWhQdHNWSkwtbWRQUG9VY0Z1M0RFQV9HLWMwVUQ4U051R1lsZWFjODQ5S1k3aEx6ODVIWmE5QzZ1MDRKaTNBaXFKTUFiZFQ5emN0ZHpTSUx1MTFfYUIzbW5jeTY?oc=5",
-   "src": "위런치",
-   "date": "2026-11-20"
   }
  ]
 }
